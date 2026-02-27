@@ -3,9 +3,14 @@
 fetch_news → summarize → generate_site
 """
 import sys
-import io
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+import os
+
+# Windows環境のみUTF-8に設定（Linux/GitHub Actionsでは不要）
+if os.name == 'nt':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+
 from datetime import datetime, timezone, timedelta
 
 from fetch_news import fetch_all_news, save_raw_articles
