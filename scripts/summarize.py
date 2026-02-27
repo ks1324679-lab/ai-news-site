@@ -1,0 +1,174 @@
+"""
+Gemini APIを使ってニュース記事を日本語で要約するスクリプト
+"""
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+
+import json
+import time
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
+
+from google import genai
+
+from config import GEMINI_API_KEY, GEMINI_MODEL, CATEGORIES, DATA_DIR
+
+
+def create_client():
+    """Gemini APIクライアントを作成"""
+    if not GEMINI_API_KEY:
+        print("⚠ GEMINI_API_KEY が設定されていません。")
+        print("  環境変数 GEMINI_API_KEY にAPIキーを設定してください。")
+        print("  取得先: https://aistudio.google.com/apikey")
+        return None
+
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    return client
+
+
+def summarize_articles(articles: list[dict]) -> list[dict]:
+    """記事リストを日本語で要約・カテゴリ分類する"""
+    client = create_client()
+
+    if not client:
+        print("⚠ APIクライアント未初期化のため、要約をスキップします。")
+        # APIキーがない場合は元の概要をそのまま使用
+        for article in articles:
+            article["summary_ja"] = article.get("summary_original", "（要約なし）")
+            article["category"] = "その他"
+        return articles
+
+    categories_str = "、".join(CATEGORIES)
+
+    print("\n" + "=" * 50)
+    print("🤖 Gemini APIで記事を要約中...")
+    print("=" * 50)
+
+    summarized = []
+
+    # バッチ処理: 複数記事をまとめて処理
+    batch_size = 5
+    for i in range(0, len(articles), batch_size):
+        batch = articles[i : i + batch_size]
+
+        # バッチ用プロンプト作成
+        articles_text = ""
+        for idx, article in enumerate(batch):
+            articles_text += f"""
+--- 記事 {idx + 1} ---
+タイトル: {article['title']}
+ソース: {article['source']}
+概要: {article.get('summary_original', '（概要なし）')}
+URL: {article['url']}
+"""
+
+        prompt = f"""以下のAI関連ニュース記事をそれぞれ日本語で要約してください。
+
+各記事について以下のJSON形式で出力してください。JSON配列のみを出力し、他のテキストは含めないでください。
+
+[
+  {{
+    "index": 記事番号（1始まり）,
+    "summary_ja": "2〜3文の日本語要約（100〜200文字程度）",
+    "category": "カテゴリ名"
+  }}
+]
+
+カテゴリは以下から1つ選択: {categories_str}
+
+{articles_text}"""
+
+        try:
+            response = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+            )
+
+            # レスポンスからJSON部分を抽出
+            response_text = response.text.strip()
+            # コードブロック記法を除去
+            if response_text.startswith("```"):
+                lines = response_text.split("\n")
+                response_text = "\n".join(lines[1:-1])
+
+            results = json.loads(response_text)
+
+            for result in results:
+                idx = result["index"] - 1
+                if 0 <= idx < len(batch):
+                    batch[idx]["summary_ja"] = result.get("summary_ja", "（要約取得失敗）")
+                    batch[idx]["category"] = result.get("category", "その他")
+
+            summarized.extend(batch)
+            print(f"  ✓ バッチ {i // batch_size + 1}: {len(batch)}件処理完了")
+
+        except json.JSONDecodeError as e:
+            print(f"  ⚠ JSON解析エラー（バッチ {i // batch_size + 1}）: {e}")
+            # フォールバック: 元の概要を使用
+            for article in batch:
+                article["summary_ja"] = article.get("summary_original", "（要約なし）")
+                article["category"] = "その他"
+            summarized.extend(batch)
+
+        except Exception as e:
+            print(f"  ✗ API呼び出しエラー（バッチ {i // batch_size + 1}）: {e}")
+            for article in batch:
+                article["summary_ja"] = article.get("summary_original", "（要約なし）")
+                article["category"] = "その他"
+            summarized.extend(batch)
+
+        # レートリミット対策
+        if i + batch_size < len(articles):
+            time.sleep(2)
+
+    print(f"\n✓ 全{len(summarized)}件の要約完了")
+    return summarized
+
+
+def save_summarized_articles(articles: list[dict], date_str: str) -> Path:
+    """要約済み記事をJSONファイルに保存"""
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    # 保存用にデータを整形（不要なフィールドを除去）
+    output = []
+    for article in articles:
+        output.append({
+            "id": article["id"],
+            "title": article["title"],
+            "url": article["url"],
+            "summary": article.get("summary_ja", article.get("summary_original", "")),
+            "category": article.get("category", "その他"),
+            "source": article["source"],
+            "language": article["language"],
+            "published": article["published"],
+        })
+
+    filepath = DATA_DIR / f"news_{date_str}.json"
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump({
+            "date": date_str,
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "count": len(output),
+            "articles": output,
+        }, f, ensure_ascii=False, indent=2)
+
+    print(f"💾 要約データ保存: {filepath}")
+    return filepath
+
+
+if __name__ == "__main__":
+    today = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
+    raw_file = DATA_DIR / f"raw_{today}.json"
+
+    if not raw_file.exists():
+        print(f"⚠ 生データファイルが見つかりません: {raw_file}")
+        print("  先に fetch_news.py を実行してください。")
+        exit(1)
+
+    with open(raw_file, "r", encoding="utf-8") as f:
+        articles = json.load(f)
+
+    summarized = summarize_articles(articles)
+    save_summarized_articles(summarized, today)

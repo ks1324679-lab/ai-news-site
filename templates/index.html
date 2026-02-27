@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI分野の最新ニュースを毎日自動収集・要約してお届けするニュースサイト">
+    <title>AI News Daily - AI最新ニュースまとめ</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- ヘッダー -->
+    <header class="header" id="header">
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-icon">🤖</span>
+                <h1>AI News Daily</h1>
+            </div>
+            <p class="header-subtitle">AI分野の最新ニュースを毎日自動収集・要約</p>
+            <div class="header-meta">
+                <span class="meta-badge" id="article-count">📰 {{ count }}件の記事</span>
+                <span class="meta-badge">🕐 更新: {{ generated_at }}</span>
+            </div>
+        </div>
+        <div class="header-glow"></div>
+    </header>
+
+    <!-- コントロールバー -->
+    <div class="controls" id="controls">
+        <div class="controls-inner">
+            <!-- 日付セレクタ -->
+            <div class="date-selector">
+                <label for="date-select">📅 日付:</label>
+                <select id="date-select">
+                    {% for date in dates %}
+                    <option value="{{ date }}" {% if date == latest_date %}selected{% endif %}>
+                        {{ date }}{% if date == latest_date %} (最新){% endif %}
+                    </option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <!-- カテゴリフィルタ -->
+            <div class="category-filters">
+                <button class="filter-btn active" data-category="all" id="filter-all">すべて</button>
+                {% for cat in categories %}
+                <button class="filter-btn" data-category="{{ cat }}" id="filter-{{ loop.index }}">{{ cat }}</button>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <!-- メインコンテンツ -->
+    <main class="main" id="main-content">
+        <div class="news-grid" id="news-grid">
+            {% if articles %}
+            {% for article in articles %}
+            <article class="news-card" data-category="{{ article.category }}" id="card-{{ article.id }}">
+                <div class="card-header">
+                    <span class="card-category cat-{{ loop.index0 % 6 }}">{{ article.category }}</span>
+                    <span class="card-source">{{ article.source }}</span>
+                </div>
+                <h2 class="card-title">
+                    <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
+                </h2>
+                <p class="card-summary">{{ article.summary }}</p>
+                <div class="card-footer">
+                    <time class="card-date" datetime="{{ article.published }}">{{ article.published[:10] }}</time>
+                    <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer" class="card-link">
+                        記事を読む →
+                    </a>
+                </div>
+            </article>
+            {% endfor %}
+            {% else %}
+            <div class="empty-state" id="empty-state">
+                <div class="empty-icon">📭</div>
+                <h2>ニュースデータがありません</h2>
+                <p>まだニュースが収集されていません。<br>システムのセットアップが完了すると、毎日自動的にニュースが更新されます。</p>
+            </div>
+            {% endif %}
+        </div>
+    </main>
+
+    <!-- フッター -->
+    <footer class="footer" id="footer">
+        <div class="footer-inner">
+            <p>AI News Daily - Powered by <a href="https://ai.google.dev/" target="_blank">Gemini API</a> & GitHub Pages</p>
+            <p class="footer-note">ニュースは各ソースのRSSフィードから自動収集し、AIが要約しています。</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
