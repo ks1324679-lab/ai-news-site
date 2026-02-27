@@ -97,17 +97,22 @@ URL: {article['url']}
                 contents=prompt,
             )
 
-            # レスポンスからJSON部分を抽出
-            response_text = response.text.strip()
-            # コードブロック記法を除去
-            if response_text.startswith("```"):
-                lines = response_text.split("\n")
-                response_text = "\n".join(lines[1:-1])
+            # レスポンス全体の出力（デバッグ用・通常はコメント化）
+            # print(f"DEBUG Response: {response.text}")
 
-            results = json.loads(response_text)
+            response_text = response.text.strip()
+            
+            # 正規表現でJSON配列を抽出
+            import re
+            match = re.search(r'\[.*\]', response_text, re.DOTALL)
+            if not match:
+                raise ValueError(f"レスポンスからJSON配列を抽出できませんでした。\nResponse: {response_text[:200]}...")
+
+            json_str = match.group(0)
+            results = json.loads(json_str)
 
             for result in results:
-                idx = result["index"] - 1
+                idx = result.get("index", 1) - 1
                 if 0 <= idx < len(batch):
                     batch[idx]["title_ja"] = result.get("title_ja", batch[idx]["title"])
                     batch[idx]["summary_ja"] = result.get("summary_ja", "（要約取得失敗）")
@@ -118,7 +123,8 @@ URL: {article['url']}
 
         except json.JSONDecodeError as e:
             print(f"  ⚠ JSON解析エラー（バッチ {i // batch_size + 1}）: {e}")
-            # フォールバック: 元の概要を使用
+            print(f"  対象文字列: {json_str[:200] if 'json_str' in locals() else 'None'}")
+            # フォールバック
             for article in batch:
                 article["summary_ja"] = article.get("summary_original", "（要約なし）")
                 article["title_ja"] = article["title"]
@@ -126,7 +132,7 @@ URL: {article['url']}
             summarized.extend(batch)
 
         except Exception as e:
-            print(f"  ✗ API呼び出しエラー（バッチ {i // batch_size + 1}）: {e}")
+            print(f"  ✗ API呼び出しエラー（バッチ {i // batch_size + 1}）: [{type(e).__name__}] {e}")
             for article in batch:
                 article["summary_ja"] = article.get("summary_original", "（要約なし）")
                 article["title_ja"] = article["title"]
