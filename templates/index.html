@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,9 +8,12 @@
     <title>AI News Daily - AI最新ニュースまとめ</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <!-- ヘッダー -->
     <header class="header" id="header">
@@ -24,7 +28,6 @@
                 <span class="meta-badge">🕐 更新: {{ generated_at }}</span>
             </div>
         </div>
-        <div class="header-glow"></div>
     </header>
 
     <!-- コントロールバー -->
@@ -35,7 +38,7 @@
                 <label for="date-select">📅 日付:</label>
                 <select id="date-select">
                     {% for date in dates %}
-                    <option value="{{ date }}" {% if date == latest_date %}selected{% endif %}>
+                    <option value="{{ date }}" {% if date==latest_date %}selected{% endif %}>
                         {{ date }}{% if date == latest_date %} (最新){% endif %}
                     </option>
                     {% endfor %}
@@ -58,19 +61,29 @@
             {% if articles %}
             {% for article in articles %}
             <article class="news-card" data-category="{{ article.category }}" id="card-{{ article.id }}">
-                <div class="card-header">
-                    <span class="card-category cat-{{ loop.index0 % 6 }}">{{ article.category }}</span>
-                    <span class="card-source">{{ article.source }}</span>
+                {% if article.thumbnail %}
+                <div class="card-thumbnail">
+                    <img src="{{ article.thumbnail }}" alt="" loading="lazy"
+                        onerror="this.parentElement.classList.add('no-image')">
                 </div>
-                <h2 class="card-title">
-                    <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
-                </h2>
-                <p class="card-summary">{{ article.summary }}</p>
-                <div class="card-footer">
-                    <time class="card-date" datetime="{{ article.published }}">{{ article.published[:10] }}</time>
-                    <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer" class="card-link">
-                        記事を読む →
-                    </a>
+                {% else %}
+                <div class="card-thumbnail no-image"></div>
+                {% endif %}
+                <div class="card-body">
+                    <div class="card-header">
+                        <span class="card-category cat-{{ loop.index0 % 7 }}">{{ article.category }}</span>
+                        <span class="card-source">{{ article.source }}</span>
+                    </div>
+                    <h2 class="card-title">
+                        <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
+                    </h2>
+                    <p class="card-summary">{{ article.summary }}</p>
+                    <div class="card-footer">
+                        <time class="card-date" datetime="{{ article.published }}">{{ article.published[:10] }}</time>
+                        <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer" class="card-link">
+                            記事を読む →
+                        </a>
+                    </div>
                 </div>
             </article>
             {% endfor %}
@@ -87,11 +100,13 @@
     <!-- フッター -->
     <footer class="footer" id="footer">
         <div class="footer-inner">
-            <p>AI News Daily - Powered by <a href="https://ai.google.dev/" target="_blank">Gemini API</a> & GitHub Pages</p>
-            <p class="footer-note">ニュースは各ソースのRSSフィードから自動収集し、AIが要約しています。</p>
+            <p>AI News Daily - Powered by <a href="https://ai.google.dev/" target="_blank">Gemini API</a> & GitHub Pages
+            </p>
+            <p class="footer-note">ニュースは各ソースのRSSフィードから自動収集し、AIが日本語に翻訳・要約しています。</p>
         </div>
     </footer>
 
     <script src="script.js"></script>
 </body>
+
 </html>

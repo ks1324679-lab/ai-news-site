@@ -28,7 +28,7 @@ def create_client():
     return client
 
 
-def summarize_articles(articles: list[dict]) -> list[dict]:
+def summarize_articles(articles: list) -> list:
     """記事リストを日本語で要約・カテゴリ分類する"""
     client = create_client()
 
@@ -37,6 +37,7 @@ def summarize_articles(articles: list[dict]) -> list[dict]:
         # APIキーがない場合は元の概要をそのまま使用
         for article in articles:
             article["summary_ja"] = article.get("summary_original", "（要約なし）")
+            article["title_ja"] = article["title"]
             article["category"] = "その他"
         return articles
 
@@ -60,17 +61,25 @@ def summarize_articles(articles: list[dict]) -> list[dict]:
 --- 記事 {idx + 1} ---
 タイトル: {article['title']}
 ソース: {article['source']}
+言語: {article['language']}
 概要: {article.get('summary_original', '（概要なし）')}
 URL: {article['url']}
 """
 
         prompt = f"""以下のAI関連ニュース記事をそれぞれ日本語で要約してください。
 
+## 重要なルール
+- **英語の記事は、タイトルと要約を必ず自然な日本語に翻訳してください。**
+- 日本語の記事はそのままでOKです。
+- 要約は2〜3文（100〜200文字程度）で、記事の核心を簡潔に伝えてください。
+- 「生成AI」カテゴリは、画像生成・動画生成・音声/音楽生成・文章生成に関する記事に使ってください。
+
 各記事について以下のJSON形式で出力してください。JSON配列のみを出力し、他のテキストは含めないでください。
 
 [
   {{
     "index": 記事番号（1始まり）,
+    "title_ja": "日本語のタイトル（英語記事は翻訳、日本語記事はそのまま）",
     "summary_ja": "2〜3文の日本語要約（100〜200文字程度）",
     "category": "カテゴリ名"
   }}
@@ -98,6 +107,7 @@ URL: {article['url']}
             for result in results:
                 idx = result["index"] - 1
                 if 0 <= idx < len(batch):
+                    batch[idx]["title_ja"] = result.get("title_ja", batch[idx]["title"])
                     batch[idx]["summary_ja"] = result.get("summary_ja", "（要約取得失敗）")
                     batch[idx]["category"] = result.get("category", "その他")
 
@@ -109,6 +119,7 @@ URL: {article['url']}
             # フォールバック: 元の概要を使用
             for article in batch:
                 article["summary_ja"] = article.get("summary_original", "（要約なし）")
+                article["title_ja"] = article["title"]
                 article["category"] = "その他"
             summarized.extend(batch)
 
@@ -116,6 +127,7 @@ URL: {article['url']}
             print(f"  ✗ API呼び出しエラー（バッチ {i // batch_size + 1}）: {e}")
             for article in batch:
                 article["summary_ja"] = article.get("summary_original", "（要約なし）")
+                article["title_ja"] = article["title"]
                 article["category"] = "その他"
             summarized.extend(batch)
 
@@ -127,22 +139,24 @@ URL: {article['url']}
     return summarized
 
 
-def save_summarized_articles(articles: list[dict], date_str: str) -> Path:
+def save_summarized_articles(articles: list, date_str: str) -> Path:
     """要約済み記事をJSONファイルに保存"""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    # 保存用にデータを整形（不要なフィールドを除去）
+    # 保存用にデータを整形
     output = []
     for article in articles:
         output.append({
             "id": article["id"],
-            "title": article["title"],
+            "title": article.get("title_ja", article["title"]),
+            "title_original": article["title"],
             "url": article["url"],
             "summary": article.get("summary_ja", article.get("summary_original", "")),
             "category": article.get("category", "その他"),
             "source": article["source"],
             "language": article["language"],
             "published": article["published"],
+            "thumbnail": article.get("thumbnail", ""),
         })
 
     filepath = DATA_DIR / f"news_{date_str}.json"

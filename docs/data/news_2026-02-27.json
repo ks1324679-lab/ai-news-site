@@ -1,257 +1,367 @@
 {
   "date": "2026-02-27",
-  "generated_at": "2026-02-27T12:11:47.918322+00:00",
-  "count": 25,
+  "generated_at": "2026-02-27T14:47:25.685447+00:00",
+  "count": 30,
   "articles": [
+    {
+      "id": "7a6b1e6d22c5",
+      "title": "「ポケットモンスター ウインド・ウェーブ」発表、ポケモン30周年を記念した「Pokémon Presents」で",
+      "title_original": "「ポケットモンスター ウインド・ウェーブ」発表、ポケモン30周年を記念した「Pokémon Presents」で",
+      "url": "https://gigazine.net/news/20260227-pokemon-presents-30th-anniversary/",
+      "summary": "1996年2月27日(火)、ポケットモンスターシリーズの1作目となるゲームソフト「ポケットモンスター 赤・緑」が発売されました。そんなポケモン始まりの日である2月27日に、ポケモン30周年を記念した「Pokémon Presents」が放送されました。放送の中ではポケモン関連コンテンツの最新情報と共に、「ポケットモンスター ウインド・ウェーブ」が発表されています。続きを読む...",
+      "category": "その他",
+      "source": "GIGAZINE",
+      "language": "ja",
+      "published": "2026-02-27T22:30:00+09:00",
+      "thumbnail": ""
+    },
+    {
+      "id": "cd9ebfe80132",
+      "title": "粘着テープを剥がすときの「ピーッ」という音は音速超えの衝撃波によって引き起こされていることが判明",
+      "title_original": "粘着テープを剥がすときの「ピーッ」という音は音速超えの衝撃波によって引き起こされていることが判明",
+      "url": "https://gigazine.net/news/20260227-peeling-tape-sound/",
+      "summary": "これまで何十年もわかっていなかった、粘着テープを剥がしたときに聞こえる「ピーッ」という金切り音のような音の出所が研究によって明らかになりました。続きを読む...",
+      "category": "その他",
+      "source": "GIGAZINE",
+      "language": "ja",
+      "published": "2026-02-27T22:00:00+09:00",
+      "thumbnail": ""
+    },
     {
       "id": "f62d5ef83a5f",
       "title": "Googleが「公開してOK」と案内していたAPIキーがGeminiの認証キーにもなっているせいで個人情報垂れ流し状態のウェブサイトが大量に存在",
+      "title_original": "Googleが「公開してOK」と案内していたAPIキーがGeminiの認証キーにもなっているせいで個人情報垂れ流し状態のウェブサイトが大量に存在",
       "url": "https://gigazine.net/news/20260227-google-api-key-gemini/",
       "summary": "GoogleはFirebaseやGoogleマップなどのAPIキーを「公開しても安全なAPIキー」として案内しています。しかし、同じキーを用いて管理者のGeminiにアクセス可能なことがTruffle Securityの調査によって判明しました。続きを読む...",
       "category": "その他",
       "source": "GIGAZINE",
       "language": "ja",
-      "published": "2026-02-27T21:00:00+09:00"
+      "published": "2026-02-27T21:00:00+09:00",
+      "thumbnail": ""
     },
     {
       "id": "4704d6b647d3",
       "title": "Claude Codeはカスタムソリューションを構築する傾向が強いがそれでもなおよく選ぶツールは何か？",
+      "title_original": "Claude Codeはカスタムソリューションを構築する傾向が強いがそれでもなおよく選ぶツールは何か？",
       "url": "https://gigazine.net/news/20260227-claude-code-chooses-tool/",
       "summary": "AI評価フレームワークを開発するAmplifyingが、Claude Codeが3つのモデルと4つのプロジェクトタイプにわたって行った2430件のツール選択を体系的に分析した調査報告書を発表しました。この調査でAIエージェントはサードパーティのツールを推奨するよりも、独自のカスタムソリューションを自ら構築する傾向が強いことが示されていますが、同時に特定のカテゴリーにおいては圧倒的なシェアを誇る推奨ツールが存在することも明らかにしています。続きを読む...",
       "category": "その他",
       "source": "GIGAZINE",
       "language": "ja",
-      "published": "2026-02-27T20:00:00+09:00"
+      "published": "2026-02-27T20:00:00+09:00",
+      "thumbnail": ""
     },
     {
       "id": "2aea8fc3a0a8",
       "title": "「18歳未満の画像をAIで性的加工」2025年に114件　被害者は中高生が9割　警察庁",
+      "title_original": "「18歳未満の画像をAIで性的加工」2025年に114件　被害者は中高生が9割　警察庁",
       "url": "https://www.itmedia.co.jp/news/articles/2602/27/news136.html",
       "summary": "警察庁が、2025年に発生した少年非行や子どもの性被害に関するレポートを公開した。生成AIやそうと思しきツールを悪用して18歳未満の性的画像を作成・加工した事案についても公表。警察が把握している事案は計114件で、被害者は9割が中高生、加害者は約6割が同級生や同じ学校の生徒だった。",
       "category": "その他",
       "source": "ITmedia AI+",
       "language": "ja",
-      "published": "2026-02-27T19:49:00+09:00"
+      "published": "2026-02-27T19:49:00+09:00",
+      "thumbnail": ""
     },
     {
       "id": "5ad187bf9539",
       "title": "2026年2月27日のヘッドラインニュース",
+      "title_original": "2026年2月27日のヘッドラインニュース",
       "url": "https://gigazine.net/news/20260227-headline/",
       "summary": "2025年8月から劇場公開されて大きな話題となった『大長編 タローマン 万博大爆発』が、NHK BSにて2026年3月7日(土)25時20分(8日1時20分)からテレビで初放送されることが決定しました。本作は2022年に初放送された特撮ドラマ『TAROMAN 岡本太郎式特撮活劇』をもとに作られたオリジナルの映画で、テレビ版の再編集などではないため、前提知識はゼロでも大丈夫です。続きを読む...",
       "category": "その他",
       "source": "GIGAZINE",
       "language": "ja",
-      "published": "2026-02-27T19:35:00+09:00"
-    },
-    {
-      "id": "04c072764a7e",
-      "title": "GitHubの活動をスクレイピングしユーザーにスパムメールを送信しているスタートアップ企業が次々と見つかり炎上",
-      "url": "https://gigazine.net/news/20260227-github-spam-mail/",
-      "summary": "ソーシャルサイトのHacker Newsで、「GitHub経由で取得された自分のメールアドレスにスパムメールが来る」という話題が共有されました。同様の事例は数年前から何度も見られているようです。続きを読む...",
-      "category": "その他",
-      "source": "GIGAZINE",
-      "language": "ja",
-      "published": "2026-02-27T19:00:00+09:00"
-    },
-    {
-      "id": "0cdc40fecd03",
-      "title": "アボカドとピリ辛サルサの相性が抜群なバーガーキング「スパイシーサルサ アボカドワッパー」試食レビュー",
-      "url": "https://gigazine.net/news/20260227-burgerking-salsa-avocado-whopper/",
-      "summary": "バーガーキングの人気メニューであるアボカドワッパーにピリ辛の特製サルサソースを加えた「スパイシーサルサ アボカドワッパー」シリーズが2026年2月27日に登場しました。特製サルサソースはトマトとニンニクと6種類のハーブ＆スパイスで構成されており、アボカドと相性抜群とのこと。パティ1枚の「スパイシーサルサ アボカドワッパー」、パティ2枚の「ダブルスパイシーサルサ アボカドワッパー」、パティ1枚にチーズ2枚を加えた「チーズスパイシーサルサ アボカドワッパー」の3種類が存在するので、全種類食べてみました。続きを読む...",
-      "category": "その他",
-      "source": "GIGAZINE",
-      "language": "ja",
-      "published": "2026-02-27T17:00:00+09:00"
+      "published": "2026-02-27T19:35:00+09:00",
+      "thumbnail": ""
     },
     {
       "id": "5e3bd89cb168",
       "title": "日本語入力の老舗「ATOK」の生成AI新機能を試す　無料IMEが充実するなか、実質値上げに見合うのか",
+      "title_original": "日本語入力の老舗「ATOK」の生成AI新機能を試す　無料IMEが充実するなか、実質値上げに見合うのか",
       "url": "https://www.itmedia.co.jp/news/articles/2602/27/news125.html",
       "summary": "老舗日本語入力ソフトATOKが2026年2月、新バージョンVer.36を投入した。目玉は生成AIを活用した文書補助ツール「ATOK MiRA」で、ビジネス文書のトーンを自動で書き換えてくれる。一方でプランは事実上の値上げとなった月額660円のプレミアム一本化。無料のAI対応IMEが台頭するなか、ATOKの新機能はその価格に見合う価値を示せるのか。",
       "category": "その他",
       "source": "ITmedia AI+",
       "language": "ja",
-      "published": "2026-02-27T16:30:00+09:00"
+      "published": "2026-02-27T16:30:00+09:00",
+      "thumbnail": ""
+    },
+    {
+      "id": "8ba1cea8cf77",
+      "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
+      "title_original": "OpenAI raises $110B in one of the largest private funding rounds in history",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "summary": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+      "category": "その他",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "published": "2026-02-27T14:13:01+00:00",
+      "thumbnail": ""
+    },
+    {
+      "id": "87eeaaf77784",
+      "title": "Upgrading agentic AI for finance workflows",
+      "title_original": "Upgrading agentic AI for finance workflows",
+      "url": "https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/",
+      "summary": "Improving trust in agentic AI for finance workflows remains a major priority for technology leaders today. Over the past two years, enterprises have rushed to put automated agents into real workflows, spanning customer support and back-office operations. These tools excel at retrieving information, yet they often struggle to provide consistent and explainable reasoning during multi-step [&#8230;]\nThe post Upgrading agentic AI for finance workflows appeared first on AI News.",
+      "category": "その他",
+      "source": "AI News",
+      "language": "en",
+      "published": "2026-02-27T13:15:38+00:00",
+      "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png"
+    },
+    {
+      "id": "5ddc2977b04a",
+      "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+      "title_original": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+      "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the&#8230;",
+      "category": "その他",
+      "source": "MIT Technology Review",
+      "language": "en",
+      "published": "2026-02-27T13:10:00+00:00",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/image_d4b7f3.png"
     },
     {
       "id": "5576e0d31a8b",
       "title": "「勝手にPythonコードを生成して画像を調査」　Geminiの画像理解の精度を10％上げる「Agentic Vision」",
+      "title_original": "「勝手にPythonコードを生成して画像を調査」　Geminiの画像理解の精度を10％上げる「Agentic Vision」",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news081.html",
       "summary": "Googleは、Gemini 3 Flashの新機能として「Agentic Vision」を発表した。画像理解に視覚的推論とコード実行を組み合わせる仕組みだという。",
       "category": "その他",
       "source": "ITmedia AI+",
       "language": "ja",
-      "published": "2026-02-27T13:00:00+09:00"
+      "published": "2026-02-27T13:00:00+09:00",
+      "thumbnail": ""
     },
     {
       "id": "ab0d18857036",
       "title": "JAXAの地球観測データAPIがMCP対応　生成AIツール上でデータの表示・分析が可能に",
+      "title_original": "JAXAの地球観測データAPIがMCP対応　生成AIツール上でデータの表示・分析が可能に",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news078.html",
       "summary": "JAXAは、地球観測データを利用するためのPythonパッケージ「JAXA Earth API for Python」のv.0.1.5を公開した。MCPをサポートし、生成AIツールで地球観測データを表示、分析できるという。",
       "category": "その他",
       "source": "ITmedia AI+",
       "language": "ja",
-      "published": "2026-02-27T13:00:00+09:00"
+      "published": "2026-02-27T13:00:00+09:00",
+      "thumbnail": ""
+    },
+    {
+      "id": "d35085f174cb",
+      "title": "Poor implementation of AI may be behind workforce reduction",
+      "title_original": "Poor implementation of AI may be behind workforce reduction",
+      "url": "https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/",
+      "summary": "Many organisations are eroding the foundations of business &#8211; productivity, competitiveness, and efficiency. This is happening due to poor implementation of human-AI collaboration, according to cloud data and AI consultancy, Datatonic. The company says in the next phase of enterprise AI, success will come from carefully-governed and designed AI that works alongside humans in “human-in-the-loop [&#8230;]\nThe post Poor implementation of AI may be behind workforce reduction appeared first on A...",
+      "category": "その他",
+      "source": "AI News",
+      "language": "en",
+      "published": "2026-02-27T12:05:00+00:00",
+      "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png"
     },
     {
       "id": "1952fcfdcc3c",
       "title": "AnthropicのCEO、米国防総省のAI規制撤廃要求を拒否　「自律型兵器への転用」を懸念",
+      "title_original": "AnthropicのCEO、米国防総省のAI規制撤廃要求を拒否　「自律型兵器への転用」を懸念",
       "url": "https://www.itmedia.co.jp/news/articles/2602/27/news098.html",
       "summary": "AnthropicのアモデイCEOは、米国防総省によるAIセーフガード撤廃要求を拒否する声明を出した。大規模監視や完全自律型兵器への悪用を懸念しており、軍からの契約解除や国防生産法発動の警告を受けても姿勢を崩していない。",
       "category": "その他",
       "source": "ITmedia AI+",
       "language": "ja",
-      "published": "2026-02-27T12:04:00+09:00"
+      "published": "2026-02-27T12:04:00+09:00",
+      "thumbnail": ""
+    },
+    {
+      "id": "520dbbb5d0af",
+      "title": "Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance",
+      "title_original": "Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance",
+      "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-and-deutsche-bank-test-agentic-ai-for-trade-surveillance/",
+      "summary": "Banks are testing a new type of artificial intelligence, like agentic AI, that does more than scan for keywords or follow preset rules. Instead of relying only on static alerts, some trading desks are beginning to use systems designed to reason through patterns in real time and flag conduct that may need human review. Bloomberg [&#8230;]\nThe post Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance appeared first on AI News.",
+      "category": "その他",
+      "source": "AI News",
+      "language": "en",
+      "published": "2026-02-27T10:00:00+00:00",
+      "thumbnail": ""
     },
     {
       "id": "1c746ce83ae1",
       "title": "AI is rewiring how the world’s best Go players think",
+      "title_original": "AI is rewiring how the world’s best Go players think",
       "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
       "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&#160; But inside the building, rooms once filled with the soft clatter of hands dipping into&#8230;",
       "category": "その他",
-      "source": "MIT Technology Review AI",
+      "source": "MIT Technology Review",
       "language": "en",
-      "published": "2026-02-27T10:00:00+00:00"
+      "published": "2026-02-27T10:00:00+00:00",
+      "thumbnail": ""
+    },
+    {
+      "id": "ba5a52dfd33b",
+      "title": "ASML’s high-NA EUV tools clear the runway for next-gen AI chips",
+      "title_original": "ASML’s high-NA EUV tools clear the runway for next-gen AI chips",
+      "url": "https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/",
+      "summary": "The machine that will make tomorrow&#8217;s AI chips possible has just been declared ready for mass production – and the clock for the industry&#8217;s next leap has officially started. ASML, the Dutch company that holds a global monopoly on commercial extreme ultraviolet lithography equipment, confirmed this week that its High-NA EUV tools have crossed the [&#8230;]\nThe post ASML&#8217;s high-NA EUV tools clear the runway for next-gen AI chips appeared first on AI News.",
+      "category": "その他",
+      "source": "AI News",
+      "language": "en",
+      "published": "2026-02-27T06:00:00+00:00",
+      "thumbnail": ""
+    },
+    {
+      "id": "49f34ee807e8",
+      "title": "Perplexity Just Released pplx-embed: New SOTA Qwen3 Bidirectional Embedding Models for Web-Scale Retrieval Tasks",
+      "title_original": "Perplexity Just Released pplx-embed: New SOTA Qwen3 Bidirectional Embedding Models for Web-Scale Retrieval Tasks",
+      "url": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/",
+      "summary": "Perplexity has released pplx-embed, a collection of multilingual embedding models optimized for large-scale retrieval tasks. These models are designed to handle the noise and complexity of web-scale data, providing a production-ready alternative to proprietary embedding APIs. Architectural Innovations: Bidirectional Attention and Diffusion Most Large Language Models (LLMs) utilize causal, decoder-only architectures. However, for embedding tasks, [&#8230;]\nThe post Perplexity Just Released pplx-e...",
+      "category": "その他",
+      "source": "MarkTechPost",
+      "language": "en",
+      "published": "2026-02-27T04:01:41+00:00",
+      "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-8.01.04-PM-1.png"
+    },
+    {
+      "id": "13bcc5884c1a",
+      "title": "Microsoft Research Introduces CORPGEN To Manage Multi Horizon Tasks For Autonomous AI Agents Using Hierarchical Planning and Memory",
+      "title_original": "Microsoft Research Introduces CORPGEN To Manage Multi Horizon Tasks For Autonomous AI Agents Using Hierarchical Planning and Memory",
+      "url": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/",
+      "summary": "Microsoft researchers have introduced CORPGEN, an architecture-agnostic framework designed to manage the complexities of realistic organizational work through autonomous digital employees. While existing benchmarks evaluate AI agents on isolated, single tasks, real-world corporate environments require managing dozens of concurrent, interleaved tasks with complex dependencies. The research team identifies this distinct problem class as Multi-Horizon Task [&#8230;]\nThe post Microsoft Research Intr...",
+      "category": "その他",
+      "source": "MarkTechPost",
+      "language": "en",
+      "published": "2026-02-27T00:32:08+00:00",
+      "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-4.24.07-PM.png"
     },
     {
       "id": "9f80ac0faa18",
       "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
+      "title_original": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
       "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
       "summary": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
       "category": "その他",
       "source": "TechCrunch AI",
       "language": "en",
-      "published": "2026-02-26T23:43:32+00:00"
+      "published": "2026-02-26T23:43:32+00:00",
+      "thumbnail": ""
     },
     {
       "id": "5a6ebe66a9be",
       "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "title_original": "Anthropic CEO stands firm as Pentagon deadline looms",
       "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
       "summary": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
       "category": "その他",
       "source": "TechCrunch AI",
       "language": "en",
-      "published": "2026-02-26T23:19:06+00:00"
+      "published": "2026-02-26T23:19:06+00:00",
+      "thumbnail": ""
     },
     {
       "id": "de2552c893e5",
       "title": "So, we’re getting Prada Meta AI glasses, right?",
+      "title_original": "So, we’re getting Prada Meta AI glasses, right?",
       "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
       "summary": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
       "category": "その他",
       "source": "TechCrunch AI",
       "language": "en",
-      "published": "2026-02-26T20:11:55+00:00"
+      "published": "2026-02-26T20:11:55+00:00",
+      "thumbnail": ""
     },
     {
       "id": "549019685245",
       "title": "Sophia Space raises $10M seed to demo novel space computers",
+      "title_original": "Sophia Space raises $10M seed to demo novel space computers",
       "url": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
       "summary": "The company's modular computer tiles offer a new vision for space data centers.",
       "category": "その他",
       "source": "TechCrunch AI",
       "language": "en",
-      "published": "2026-02-26T19:55:20+00:00"
-    },
-    {
-      "id": "8323d17c4f3a",
-      "title": "Mistral AI inks a deal with global consulting giant Accenture",
-      "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
-      "summary": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
-      "category": "その他",
-      "source": "TechCrunch AI",
-      "language": "en",
-      "published": "2026-02-26T19:17:27+00:00"
+      "published": "2026-02-26T19:55:20+00:00",
+      "thumbnail": ""
     },
     {
       "id": "df7bb542547b",
       "title": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+      "title_original": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
       "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
       "summary": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all [&#8230;]",
       "category": "その他",
       "source": "The Verge AI",
       "language": "en",
-      "published": "2026-02-26T18:22:44-05:00"
+      "published": "2026-02-26T18:22:44-05:00",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "25fa02664fe3",
+      "title": "Google AI Just Released Nano-Banana 2: The New AI Model Featuring Advanced Subject Consistency and Sub-Second 4K Image Synthesis Performance",
+      "title_original": "Google AI Just Released Nano-Banana 2: The New AI Model Featuring Advanced Subject Consistency and Sub-Second 4K Image Synthesis Performance",
+      "url": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/",
+      "summary": "In the escalating &#8216;race of &#8220;smaller, faster, cheaper&#8217; AI, Google just dropped a heavy-hitting payload. The tech giant officially unveiled Nano-Banana 2 (technically designated as Gemini 3.1 Flash Image). Google is making a definitive pivot toward the edge: high-fidelity, sub-second image synthesis that stays entirely on your device. The Technical Leap: Efficiency over Scale The [&#8230;]\nThe post Google AI Just Released Nano-Banana 2: The New AI Model Featuring Advanced Subject...",
+      "category": "その他",
+      "source": "MarkTechPost",
+      "language": "en",
+      "published": "2026-02-26T18:04:53+00:00",
+      "thumbnail": ""
     },
     {
       "id": "432f2d000fa4",
       "title": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
+      "title_original": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
       "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
       "summary": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling [&#8230;]",
       "category": "その他",
       "source": "The Verge AI",
       "language": "en",
-      "published": "2026-02-26T17:56:09-05:00"
+      "published": "2026-02-26T17:56:09-05:00",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "6fca6385db26",
       "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
+      "title_original": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
       "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
       "summary": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,000 people to less than 6,000, Dorsey says in a post on X. And the reason why? AI. \"We're not making [&#8230;]",
       "category": "その他",
       "source": "The Verge AI",
       "language": "en",
-      "published": "2026-02-26T17:11:13-05:00"
+      "published": "2026-02-26T17:11:13-05:00",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1233275044.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "464b143ac6c2",
       "title": "Finding value with AI and Industry 5.0 transformation",
+      "title_original": "Finding value with AI and Industry 5.0 transformation",
       "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
       "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment&#8230;",
       "category": "その他",
-      "source": "MIT Technology Review AI",
+      "source": "MIT Technology Review",
       "language": "en",
-      "published": "2026-02-26T15:00:59+00:00"
+      "published": "2026-02-26T15:00:59+00:00",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MIT_EY3_V8-revCoverPage.png?w=1555"
     },
     {
       "id": "1459ba7526c1",
       "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+      "title_original": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
       "url": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars covered in strange spots. On Earth,&#8230;",
       "category": "その他",
-      "source": "MIT Technology Review AI",
+      "source": "MIT Technology Review",
       "language": "en",
-      "published": "2026-02-26T13:10:00+00:00"
+      "published": "2026-02-26T13:10:00+00:00",
+      "thumbnail": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f354.png"
     },
     {
       "id": "a2ba9d3826f9",
       "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+      "title_original": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
       "url": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
       "summary": "Google is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for [&#8230;]",
       "category": "その他",
       "source": "The Verge AI",
       "language": "en",
-      "published": "2026-02-26T11:00:00-05:00"
-    },
-    {
-      "id": "fac786d1dbb2",
-      "title": "This company claims a battery breakthrough. Now they need to prove it.",
-      "url": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
-      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale production. The company said its batteries can&#8230;",
-      "category": "その他",
-      "source": "MIT Technology Review AI",
-      "language": "en",
-      "published": "2026-02-26T11:00:00+00:00"
-    },
-    {
-      "id": "0675de038342",
-      "title": "America was winning the race to find Martian life. Then China jumped in.",
-      "url": "https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/",
-      "summary": "To most people, rocks are just rocks. To geologists, they are much, much more: crystal-filled time capsules with the power to reveal the state of the planet at the very moment they were forged.&#160; For decades, NASA had been on a time capsule hunt like none other—one across Mars. Its rovers have journeyed around a&#8230;",
-      "category": "その他",
-      "source": "MIT Technology Review AI",
-      "language": "en",
-      "published": "2026-02-26T10:00:00+00:00"
-    },
-    {
-      "id": "bea5d6b5a3ef",
-      "title": "Anthropic gives its retired Claude AI a Substack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
-      "summary": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack. The newsletter, called Claude's Corner, will give Opus 3 space to publish its \"musings, insights, or creative works,\" Anthropic said in a blog post. The model will post weekly [&#8230;]",
-      "category": "その他",
-      "source": "The Verge AI",
-      "language": "en",
-      "published": "2026-02-26T09:21:05-05:00"
+      "published": "2026-02-26T11:00:00-05:00",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Google-nano-banana-2-image-comparison.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }

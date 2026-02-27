@@ -30,7 +30,6 @@ function initCategoryFilter() {
                     card.classList.remove('hidden');
                     card.style.animationDelay = `${visibleCount * 0.05}s`;
                     card.style.animation = 'none';
-                    // reflow
                     card.offsetHeight;
                     card.style.animation = '';
                     visibleCount++;
@@ -39,7 +38,6 @@ function initCategoryFilter() {
                 }
             });
 
-            // 件数更新
             updateArticleCount(visibleCount);
         });
     });
@@ -65,7 +63,6 @@ async function loadNewsData(dateStr) {
     const grid = document.getElementById('news-grid');
     if (!grid) return;
 
-    // ローディング表示
     grid.innerHTML = `
         <div class="loading active">
             <div class="loading-spinner"></div>
@@ -82,7 +79,6 @@ async function loadNewsData(dateStr) {
         const data = await response.json();
         renderNewsCards(data.articles, data.count);
 
-        // フィルタをリセット
         const filterButtons = document.querySelectorAll('.filter-btn');
         filterButtons.forEach(b => b.classList.remove('active'));
         const allBtn = document.getElementById('filter-all');
@@ -118,41 +114,48 @@ function renderNewsCards(articles, count) {
         return;
     }
 
-    // カテゴリ→カラーインデックスのマッピング
     const categoryColors = {};
     let colorIndex = 0;
 
     grid.innerHTML = articles.map((article, idx) => {
         if (!(article.category in categoryColors)) {
-            categoryColors[article.category] = colorIndex % 6;
+            categoryColors[article.category] = colorIndex % 7;
             colorIndex++;
         }
         const catColor = categoryColors[article.category];
         const publishedDate = article.published ? article.published.substring(0, 10) : '';
+        const thumbnail = article.thumbnail || '';
+
+        const thumbnailHtml = thumbnail
+            ? `<div class="card-thumbnail">
+                <img src="${escapeHtml(thumbnail)}" alt="" loading="lazy" onerror="this.parentElement.classList.add('no-image'); this.remove();">
+               </div>`
+            : `<div class="card-thumbnail no-image"></div>`;
 
         return `
             <article class="news-card" data-category="${escapeHtml(article.category)}" id="card-${escapeHtml(article.id)}" style="animation-delay: ${idx * 0.05}s">
-                <div class="card-header">
-                    <span class="card-category cat-${catColor}">${escapeHtml(article.category)}</span>
-                    <span class="card-source">${escapeHtml(article.source)}</span>
-                </div>
-                <h2 class="card-title">
-                    <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a>
-                </h2>
-                <p class="card-summary">${escapeHtml(article.summary)}</p>
-                <div class="card-footer">
-                    <time class="card-date" datetime="${escapeHtml(article.published)}">${publishedDate}</time>
-                    <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
-                        記事を読む →
-                    </a>
+                ${thumbnailHtml}
+                <div class="card-body">
+                    <div class="card-header">
+                        <span class="card-category cat-${catColor}">${escapeHtml(article.category)}</span>
+                        <span class="card-source">${escapeHtml(article.source)}</span>
+                    </div>
+                    <h2 class="card-title">
+                        <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a>
+                    </h2>
+                    <p class="card-summary">${escapeHtml(article.summary)}</p>
+                    <div class="card-footer">
+                        <time class="card-date" datetime="${escapeHtml(article.published)}">${publishedDate}</time>
+                        <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
+                            記事を読む →
+                        </a>
+                    </div>
                 </div>
             </article>
         `;
     }).join('');
 
     updateArticleCount(articles.length);
-
-    // カテゴリフィルタを再接続
     initCategoryFilter();
 }
 
