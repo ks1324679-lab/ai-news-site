@@ -97,12 +97,8 @@ URL: {article['url']}
                 contents=prompt,
             )
 
-            # レスポンス全体の出力（デバッグ用・通常はコメント化）
-            # print(f"DEBUG Response: {response.text}")
-
             response_text = response.text.strip()
             
-            # 正規表現でJSON配列を抽出
             import re
             match = re.search(r'\[.*\]', response_text, re.DOTALL)
             if not match:
@@ -119,11 +115,14 @@ URL: {article['url']}
                     batch[idx]["category"] = result.get("category", "その他")
 
             summarized.extend(batch)
-            print(f"  ✓ バッチ {i // batch_size + 1}: {len(batch)}件処理完了")
+            msg = f"  ✓ バッチ {i // batch_size + 1}: {len(batch)}件処理完了\n"
+            print(msg, end="")
+            with open(DATA_DIR / "run_log.txt", "a", encoding="utf-8") as lf: lf.write(msg)
 
         except json.JSONDecodeError as e:
-            print(f"  ⚠ JSON解析エラー（バッチ {i // batch_size + 1}）: {e}")
-            print(f"  対象文字列: {json_str[:200] if 'json_str' in locals() else 'None'}")
+            msg = f"  ⚠ JSON解析エラー（バッチ {i // batch_size + 1}）: {e}\n  対象文字列: {json_str[:200] if 'json_str' in locals() else 'None'}\n"
+            print(msg, end="")
+            with open(DATA_DIR / "run_log.txt", "a", encoding="utf-8") as lf: lf.write(msg)
             # フォールバック
             for article in batch:
                 article["summary_ja"] = article.get("summary_original", "（要約なし）")
@@ -132,7 +131,9 @@ URL: {article['url']}
             summarized.extend(batch)
 
         except Exception as e:
-            print(f"  ✗ API呼び出しエラー（バッチ {i // batch_size + 1}）: [{type(e).__name__}] {e}")
+            msg = f"  ✗ API呼び出しエラー（バッチ {i // batch_size + 1}）: [{type(e).__name__}] {e}\n"
+            print(msg, end="")
+            with open(DATA_DIR / "run_log.txt", "a", encoding="utf-8") as lf: lf.write(msg)
             for article in batch:
                 article["summary_ja"] = article.get("summary_original", "（要約なし）")
                 article["title_ja"] = article["title"]
