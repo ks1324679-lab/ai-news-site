@@ -1,5 +1,15 @@
 [
   {
+    "id": "c504a034fe9f",
+    "title": "OpenAIが予測市場で機密情報を使用した従業員を解雇",
+    "url": "https://gigazine.net/news/20260228-openai-fires-employee-confidential-info-prediction-markets/",
+    "summary_original": "大手AI企業のOpenAIがPolymarketを含む予測市場で同社の機密情報を利用しとして、従業員を解雇したことがWIREDの取材により明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-02-28T13:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
     "id": "b1fec0f3afa1",
     "title": "大阪日本橋のメイドカフェで店長となって店を盛り上げながら個性的なメイドたちと過ごすADV「電気街の喫茶店」プレイレビュー",
     "url": "https://gigazine.net/news/20260228-maid-huwahuwa/",
@@ -60,6 +70,16 @@
     "language": "ja"
   },
   {
+    "id": "26bb3b0bca8d",
+    "title": "Google DeepMind Introduces Unified Latents (UL): A Machine Learning Framework that Jointly Regularizes Latents Using a Diffusion Prior and Decoder",
+    "url": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
+    "summary_original": "Generative AI’s current trajectory relies heavily on Latent Diffusion Models (LDMs) to manage the computational cost of high-resolution synthesis. By compressing data into a lower-dimensional latent space, models can scale effectively. However, a fundamental trade-off persists: lower information density makes latents easier to learn but sacrifices reconstruction quality, while higher density enables near-perfect reconstruction but [&#8230;]\nThe post Google DeepMind Introduces Unified Latents (UL...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-7.57.11-PM.png",
+    "published": "2026-02-28T03:58:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
     "id": "601b0c1f70d4",
     "title": "A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning",
     "url": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
@@ -86,16 +106,6 @@
     "summary_original": "1996年2月27日(火)、ポケットモンスターシリーズの1作目となるゲームソフト「ポケットモンスター 赤・緑」が発売されました。そんなポケモン始まりの日である2月27日に、ポケモン30周年を記念した「Pokémon Presents」が放送されました。放送の中ではポケモン関連コンテンツの最新情報と共に、「ポケットモンスター ウインド・ウェーブ」が発表されています。続きを読む...",
     "thumbnail": "",
     "published": "2026-02-27T22:30:00+09:00",
-    "source": "GIGAZINE",
-    "language": "ja"
-  },
-  {
-    "id": "cd9ebfe80132",
-    "title": "粘着テープを剥がすときの「ピーッ」という音は音速超えの衝撃波によって引き起こされていることが判明",
-    "url": "https://gigazine.net/news/20260227-peeling-tape-sound/",
-    "summary_original": "これまで何十年もわかっていなかった、粘着テープを剥がしたときに聞こえる「ピーッ」という金切り音のような音の出所が研究によって明らかになりました。続きを読む...",
-    "thumbnail": "",
-    "published": "2026-02-27T22:00:00+09:00",
     "source": "GIGAZINE",
     "language": "ja"
   },
@@ -287,16 +297,6 @@
     "thumbnail": "",
     "published": "2026-02-27T10:00:00+00:00",
     "source": "MIT Technology Review",
-    "language": "en"
-  },
-  {
-    "id": "ba5a52dfd33b",
-    "title": "ASML’s high-NA EUV tools clear the runway for next-gen AI chips",
-    "url": "https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/",
-    "summary_original": "The machine that will make tomorrow&#8217;s AI chips possible has just been declared ready for mass production – and the clock for the industry&#8217;s next leap has officially started. ASML, the Dutch company that holds a global monopoly on commercial extreme ultraviolet lithography equipment, confirmed this week that its High-NA EUV tools have crossed the [&#8230;]\nThe post ASML&#8217;s high-NA EUV tools clear the runway for next-gen AI chips appeared first on AI News.",
-    "thumbnail": "",
-    "published": "2026-02-27T06:00:00+00:00",
-    "source": "AI News",
     "language": "en"
   }
 ]
