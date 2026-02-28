@@ -1,8 +1,20 @@
 {
   "date": "2026-02-28",
-  "generated_at": "2026-02-28T02:58:53.820913+00:00",
+  "generated_at": "2026-02-28T03:19:55.537165+00:00",
   "count": 30,
   "articles": [
+    {
+      "id": "b1fec0f3afa1",
+      "title": "大阪日本橋のメイドカフェで店長となって店を盛り上げながら個性的なメイドたちと過ごすADV「電気街の喫茶店」プレイレビュー",
+      "title_original": "大阪日本橋のメイドカフェで店長となって店を盛り上げながら個性的なメイドたちと過ごすADV「電気街の喫茶店」プレイレビュー",
+      "url": "https://gigazine.net/news/20260228-maid-huwahuwa/",
+      "summary": "Nintendo Switch/Steamのゲーム「電気街の喫茶店」は、超のつくブラック企業で心身共にボロボロになった主人公が、電気街の片隅にあるメイド喫茶の雇われ店長として住み込みで働くことになるADVです。4人のメイドさんと過ごしながらつぶれかけのメイド喫茶の復興を目指すほか、大阪日本橋の電気街にある実際の店舗や人気のインディーゲーム作品とコラボしたサブ要素をたっぷり楽しむことができます。続きを読む...",
+      "category": "その他",
+      "source": "GIGAZINE",
+      "language": "ja",
+      "published": "2026-02-28T12:00:00+09:00",
+      "thumbnail": ""
+    },
     {
       "id": "168a4b63c3bb",
       "title": "大人も子どもと同じように「遊び心」がストレスを和らげ幸福感を高めるという指摘",
@@ -146,18 +158,6 @@
       "language": "en",
       "published": "2026-02-27T21:19:16-05:00",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "f62d5ef83a5f",
-      "title": "Googleが「公開してOK」と案内していたAPIキーがGeminiの認証キーにもなっているせいで個人情報垂れ流し状態のウェブサイトが大量に存在",
-      "title_original": "Googleが「公開してOK」と案内していたAPIキーがGeminiの認証キーにもなっているせいで個人情報垂れ流し状態のウェブサイトが大量に存在",
-      "url": "https://gigazine.net/news/20260227-google-api-key-gemini/",
-      "summary": "GoogleはFirebaseやGoogleマップなどのAPIキーを「公開しても安全なAPIキー」として案内しています。しかし、同じキーを用いて管理者のGeminiにアクセス可能なことがTruffle Securityの調査によって判明しました。続きを読む...",
-      "category": "その他",
-      "source": "GIGAZINE",
-      "language": "ja",
-      "published": "2026-02-27T21:00:00+09:00",
-      "thumbnail": ""
     },
     {
       "id": "2aea8fc3a0a8",
