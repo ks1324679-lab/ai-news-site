@@ -1,5 +1,75 @@
 [
   {
+    "id": "168a4b63c3bb",
+    "title": "大人も子どもと同じように「遊び心」がストレスを和らげ幸福感を高めるという指摘",
+    "url": "https://gigazine.net/news/20260228-play-reduces-stress-and-lifts-wellbeing/",
+    "summary_original": "大人になるにつれてふざけたり空想にふけったりする時間は減り、真面目さや忙しさが前面に出がちです。しかし、遊び心は子どもだけのものではなく、大人にとってもストレスや幸福感に関わる重要な要素だとする指摘が出ています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-02-28T10:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ef20231fe716",
+    "title": "攻撃者のAI利用はもはや“当たり前”　日本はランサムウェア検出率で世界3位に",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2602/28/news014.html",
+    "summary_original": "アクロニスの脅威動向レポートによると、サイバー攻撃者のAI活用が深刻化しているという。AIの活用によって攻撃の効率が高まり、サイバー攻撃数も増加している。日本はランサムウェア検出率で世界3位になっているという。どう対策をすればいいのか。",
+    "thumbnail": "",
+    "published": "2026-02-28T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f51b7d064478",
+    "title": "一部の鳥は「色」にこだわりがあり他のコロニーに入れられても頑固さを貫くという研究結果",
+    "url": "https://gigazine.net/news/20260228-zebra-finches-color-preferences/",
+    "summary_original": "オーストラリアでコロニーを形成し繁殖するキンカチョウを観察したところ、一部の個体には巣作りに使う素材に色の好みがあり、中にはほとんど執着しているような個体も見られたことが分かりました。このような個体の一部は、異なる色の好みで統一されているコロニーに入れられても自分の好みを貫いたとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-02-28T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c5db56651ddd",
+    "title": "トランプ大統領、Anthropicを「極左の意識高い系企業」と非難し　政府機関での製品使用を即時停止",
+    "url": "https://www.itmedia.co.jp/news/articles/2602/28/news030.html",
+    "summary_original": "トランプ米大統領は、AI安全策の撤廃を拒否したAnthropicを「極左企業」と非難し、政府機関での同社製品の使用停止を指示した。これに対しGoogle、OpenAI、Amazon、Microsoftの従業員有志はAnthropic支持を表明。OpenAIのアルトマンCEOは自律型兵器への利用を否定しつつも軍との協議を加速させている。",
+    "thumbnail": "",
+    "published": "2026-02-28T07:26:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c71437bca76b",
+    "title": "Claude Codeに重大な脆弱性　設定ファイル経由でRCEやAPIキー窃取の恐れ",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2602/28/news013.html",
+    "summary_original": "Check PointはClaude Codeに重大な脆弱性があり、不正なリポジトリー設定を開くだけで遠隔コード実行やAPIキー窃取が可能だったと公表した。修正は完了しているが、AI開発基盤の供給網に新たなリスクが浮上している。",
+    "thumbnail": "",
+    "published": "2026-02-28T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "601b0c1f70d4",
+    "title": "A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning",
+    "url": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
+    "summary_original": "In this tutorial, we build a hierarchical planner agent using an open-source instruct model. We design a structured multi-agent architecture comprising a planner agent, an executor agent, and an aggregator agent, where each component plays a specialized role in solving complex tasks. We use the planner agent to decompose high-level goals into actionable steps, the [&#8230;]\nThe post A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and St...",
+    "thumbnail": "",
+    "published": "2026-02-28T02:18:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b00523d79696",
+    "title": "How to Build Interactive Geospatial Dashboards Using Folium with Heatmaps, Choropleths, Time Animation, Marker Clustering, and Advanced Interactive Plugins",
+    "url": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/",
+    "summary_original": "In this Folium tutorial, we build a complete set of interactive maps that run in Colab or any local Python setup. We explore multiple basemap styles, design rich markers with HTML popups, and visualize spatial density using heatmaps. We also create region-level choropleth maps from GeoJSON, scale to thousands of points using marker clustering, and [&#8230;]\nThe post How to Build Interactive Geospatial Dashboards Using Folium with Heatmaps, Choropleths, Time Animation, Marker Clustering, and Adva...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30d.png",
+    "published": "2026-02-27T23:56:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
     "id": "7a6b1e6d22c5",
     "title": "「ポケットモンスター ウインド・ウェーブ」発表、新御三家も登場して2027年全世界同時発売",
     "url": "https://gigazine.net/news/20260227-pokemon-presents-30th-anniversary/",
@@ -20,13 +90,33 @@
     "language": "ja"
   },
   {
-    "id": "4f5a28168c60",
-    "title": "President Trump orders federal agencies to stop using Anthropic after Pentagon dispute",
-    "url": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
+    "id": "7ed1ec7a635e",
+    "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+    "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
     "summary_original": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
     "thumbnail": "",
     "published": "2026-02-27T21:53:14+00:00",
     "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0822a6872b41",
+    "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+    "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+    "summary_original": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category.  The shortlisted story—“We did the math on AI’s energy footprint. Here’s the story you haven’t heard”—is part of the publication&#8217;s Power Hungry package on AI’s energy burden.  AI is often described&#8230;",
+    "thumbnail": "",
+    "published": "2026-02-27T21:41:31+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "649039c0b08f",
+    "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+    "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+    "summary_original": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-02-27T21:19:16-05:00",
+    "source": "The Verge AI",
     "language": "en"
   },
   {
@@ -36,16 +126,6 @@
     "summary_original": "GoogleはFirebaseやGoogleマップなどのAPIキーを「公開しても安全なAPIキー」として案内しています。しかし、同じキーを用いて管理者のGeminiにアクセス可能なことがTruffle Securityの調査によって判明しました。続きを読む...",
     "thumbnail": "",
     "published": "2026-02-27T21:00:00+09:00",
-    "source": "GIGAZINE",
-    "language": "ja"
-  },
-  {
-    "id": "4704d6b647d3",
-    "title": "Claude Codeはカスタムソリューションを構築する傾向が強いがそれでもなおよく選ぶツールは何か？",
-    "url": "https://gigazine.net/news/20260227-claude-code-chooses-tool/",
-    "summary_original": "AI評価フレームワークを開発するAmplifyingが、Claude Codeが3つのモデルと4つのプロジェクトタイプにわたって行った2430件のツール選択を体系的に分析した調査報告書を発表しました。この調査でAIエージェントはサードパーティのツールを推奨するよりも、独自のカスタムソリューションを自ら構築する傾向が強いことが示されていますが、同時に特定のカテゴリーにおいては圧倒的なシェアを誇る推奨ツールが存在することも明らかにしています。続きを読む...",
-    "thumbnail": "",
-    "published": "2026-02-27T20:00:00+09:00",
     "source": "GIGAZINE",
     "language": "ja"
   },
@@ -68,16 +148,6 @@
     "published": "2026-02-27T19:42:00+00:00",
     "source": "TechCrunch AI",
     "language": "en"
-  },
-  {
-    "id": "5ad187bf9539",
-    "title": "2026年2月27日のヘッドラインニュース",
-    "url": "https://gigazine.net/news/20260227-headline/",
-    "summary_original": "2025年8月から劇場公開されて大きな話題となった『大長編 タローマン 万博大爆発』が、NHK BSにて2026年3月7日(土)25時20分(8日1時20分)からテレビで初放送されることが決定しました。本作は2022年に初放送された特撮ドラマ『TAROMAN 岡本太郎式特撮活劇』をもとに作られたオリジナルの映画で、テレビ版の再編集などではないため、前提知識はゼロでも大丈夫です。続きを読む...",
-    "thumbnail": "",
-    "published": "2026-02-27T19:35:00+09:00",
-    "source": "GIGAZINE",
-    "language": "ja"
   },
   {
     "id": "0303dd0da0f0",
@@ -160,26 +230,6 @@
     "language": "en"
   },
   {
-    "id": "5576e0d31a8b",
-    "title": "「勝手にPythonコードを生成して画像を調査」　Geminiの画像理解の精度を10％上げる「Agentic Vision」",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news081.html",
-    "summary_original": "Googleは、Gemini 3 Flashの新機能として「Agentic Vision」を発表した。画像理解に視覚的推論とコード実行を組み合わせる仕組みだという。",
-    "thumbnail": "",
-    "published": "2026-02-27T13:00:00+09:00",
-    "source": "ITmedia AI+",
-    "language": "ja"
-  },
-  {
-    "id": "ab0d18857036",
-    "title": "JAXAの地球観測データAPIがMCP対応　生成AIツール上でデータの表示・分析が可能に",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news078.html",
-    "summary_original": "JAXAは、地球観測データを利用するためのPythonパッケージ「JAXA Earth API for Python」のv.0.1.5を公開した。MCPをサポートし、生成AIツールで地球観測データを表示、分析できるという。",
-    "thumbnail": "",
-    "published": "2026-02-27T13:00:00+09:00",
-    "source": "ITmedia AI+",
-    "language": "ja"
-  },
-  {
     "id": "6030a326ee09",
     "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
     "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
@@ -198,16 +248,6 @@
     "published": "2026-02-27T12:05:00+00:00",
     "source": "AI News",
     "language": "en"
-  },
-  {
-    "id": "1952fcfdcc3c",
-    "title": "AnthropicのCEO、米国防総省のAI規制撤廃要求を拒否　「自律型兵器への転用」を懸念",
-    "url": "https://www.itmedia.co.jp/news/articles/2602/27/news098.html",
-    "summary_original": "AnthropicのアモデイCEOは、米国防総省によるAIセーフガード撤廃要求を拒否する声明を出した。大規模監視や完全自律型兵器への悪用を懸念しており、軍からの契約解除や国防生産法発動の警告を受けても姿勢を崩していない。",
-    "thumbnail": "",
-    "published": "2026-02-27T12:04:00+09:00",
-    "source": "ITmedia AI+",
-    "language": "ja"
   },
   {
     "id": "92c2e5df450b",
@@ -250,16 +290,6 @@
     "language": "en"
   },
   {
-    "id": "ffd05bf7ce04",
-    "title": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
-    "summary_original": "OpenAI has closed another round of funding, totalling $110 billion being newly committed to the maker of ChatGPT, which it says has more than 900 million weekly active users and over 50 million consumer subscribers. Amazon is investing $50 billion and striking a deal that includes plans for custom models and more. Nvidia and SoftBank [&#8230;]",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "published": "2026-02-27T09:55:16-05:00",
-    "source": "The Verge AI",
-    "language": "en"
-  },
-  {
     "id": "ba5a52dfd33b",
     "title": "ASML’s high-NA EUV tools clear the runway for next-gen AI chips",
     "url": "https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/",
@@ -267,36 +297,6 @@
     "thumbnail": "",
     "published": "2026-02-27T06:00:00+00:00",
     "source": "AI News",
-    "language": "en"
-  },
-  {
-    "id": "49f34ee807e8",
-    "title": "Perplexity Just Released pplx-embed: New SOTA Qwen3 Bidirectional Embedding Models for Web-Scale Retrieval Tasks",
-    "url": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/",
-    "summary_original": "Perplexity has released pplx-embed, a collection of multilingual embedding models optimized for large-scale retrieval tasks. These models are designed to handle the noise and complexity of web-scale data, providing a production-ready alternative to proprietary embedding APIs. Architectural Innovations: Bidirectional Attention and Diffusion Most Large Language Models (LLMs) utilize causal, decoder-only architectures. However, for embedding tasks, [&#8230;]\nThe post Perplexity Just Released pplx-e...",
-    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-8.01.04-PM-1.png",
-    "published": "2026-02-27T04:01:41+00:00",
-    "source": "MarkTechPost",
-    "language": "en"
-  },
-  {
-    "id": "13bcc5884c1a",
-    "title": "Microsoft Research Introduces CORPGEN To Manage Multi Horizon Tasks For Autonomous AI Agents Using Hierarchical Planning and Memory",
-    "url": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/",
-    "summary_original": "Microsoft researchers have introduced CORPGEN, an architecture-agnostic framework designed to manage the complexities of realistic organizational work through autonomous digital employees. While existing benchmarks evaluate AI agents on isolated, single tasks, real-world corporate environments require managing dozens of concurrent, interleaved tasks with complex dependencies. The research team identifies this distinct problem class as Multi-Horizon Task [&#8230;]\nThe post Microsoft Research Intr...",
-    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-4.24.07-PM.png",
-    "published": "2026-02-27T00:32:08+00:00",
-    "source": "MarkTechPost",
-    "language": "en"
-  },
-  {
-    "id": "25fa02664fe3",
-    "title": "Google AI Just Released Nano-Banana 2: The New AI Model Featuring Advanced Subject Consistency and Sub-Second 4K Image Synthesis Performance",
-    "url": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/",
-    "summary_original": "In the escalating &#8216;race of &#8220;smaller, faster, cheaper&#8217; AI, Google just dropped a heavy-hitting payload. The tech giant officially unveiled Nano-Banana 2 (technically designated as Gemini 3.1 Flash Image). Google is making a definitive pivot toward the edge: high-fidelity, sub-second image synthesis that stays entirely on your device. The Technical Leap: Efficiency over Scale The [&#8230;]\nThe post Google AI Just Released Nano-Banana 2: The New AI Model Featuring Advanced Subject...",
-    "thumbnail": "",
-    "published": "2026-02-26T18:04:53+00:00",
-    "source": "MarkTechPost",
     "language": "en"
   }
 ]
