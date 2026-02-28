@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1c5645e7dc37",
+    "title": "無料でページにコメント機能を追加するオープンソースWebコメントエンジン「Comentario」、Dockerでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260228-comentario/",
+    "summary_original": "既存のホームページにタグを埋め込むだけで導入でき、Markdown対応・匿名コメント・OAuthログインなど多彩な機能を備え、広告やトラッキングのないオープンソースのコメントエンジン「Comentario」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-02-28T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "54822419b90f",
+    "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+    "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+    "summary_original": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+    "thumbnail": "",
+    "published": "2026-02-28T21:05:06+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e87f6bce4a18",
+    "title": "無料で使えてシンプルデザインのAndroid向けファイルマネージャー「Amaze File Manager」、複数のタブを同時操作可能で広告やアプリ内購入なし",
+    "url": "https://gigazine.net/news/20260228-amaze-file-manager/",
+    "summary_original": "Androidでファイルを管理しようとすると一般的にはFilesあたりを使うことになりますが、機能的にも使い勝手的にもあまり満足できるとは言い難いものがあります。シンプルな操作性と高性能を併せ持ち、なおかつ無料で使用できる夢のようなアプリがないものかと考えていたところ、「Amaze File Manager」の存在を知ったので使い勝手を試してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-02-28T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5005fe0e6df5",
+    "title": "The billion-dollar infrastructure deals powering the AI boom",
+    "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+    "summary_original": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+    "thumbnail": "",
+    "published": "2026-02-28T20:41:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d8c4beaccea7",
+    "title": "幸福に生きるために重要な「人生の意味」を手に入れるコツとは？",
+    "url": "https://gigazine.net/news/20260228-small-tweaks-meaning-life/",
+    "summary_original": "心理学における人生の「meaning(意味)」とは、人生に首尾一貫した目的があり、自分が大切にしているものとつながっているという感覚を指します。人生に意味を持っている人は幸福度が高く、ストレスや抑うつ症状が少なく、困難に直面した時の回復力も強いことが示されています。オーストラリアのカーティン大学で臨床心理学の准教授を務めるトレバー・マッツケッリ氏が、人生に意味をもたらすコツについてアドバイスしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-02-28T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8108e753367f",
+    "title": "OpenAI、17兆円超の資金調達　Amazon、NVIDIA、SBGが出資",
+    "url": "https://www.itmedia.co.jp/news/articles/2602/28/news035.html",
+    "summary_original": "OpenAIは、企業価値7300億ドルの評価に基づき、総額1100億ドルの資金調達を発表した。Amazon、NVIDIA、ソフトバンクGが参画。Amazonとは戦略的提携を結び、AWS上で記憶を保持するAIエージェント基盤「Stateful Runtime」を共同構築する。Amazon独自チップの活用も進め、計5GWに及ぶ計算資源を確保する計画だ。",
+    "thumbnail": "",
+    "published": "2026-02-28T18:50:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e2054bcb6696",
+    "title": "Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long",
+    "url": "https://the-decoder.com/even-frontier-llms-from-gpt-5-onward-lose-up-to-33-accuracy-when-you-chat-too-long/",
+    "summary_original": "Even with newer models like GPT-5.2 and Claude 4.6, AI chatbots still give worse answers the longer a conversation goes on.\nThe article Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/long_conversation_chatbot_performance.png",
+    "published": "2026-02-28T17:45:42+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b2ad795a2c6e",
+    "title": "イスラエルがイランへ先制攻撃を実施、アメリカとの共同作戦",
+    "url": "https://gigazine.net/news/20260228-israel-us-attacking-iran/",
+    "summary_original": "現地時間2026年2月28日(土)早朝、イスラエルがイランに対する攻撃を開始したことをイスラエル・カッツ国防相が発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-02-28T17:08:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c1700a8d70e1",
+    "title": "FBIが「ATMのジャックポット攻撃が増加している」と警告、被害額は2025年だけで30億円超",
+    "url": "https://gigazine.net/news/20260228-atm-jackpotting-in-us/",
+    "summary_original": "アメリカ連邦捜査局(FBI)が、アメリカ全土でマルウェアを利用してATMから現金を不正に放出させる「ジャックポット攻撃」が急増しているとして、詳細な技術情報や侵害指標(IOC)を含む警告声明を発表しました。2020年以降に報告された累計1900件のジャックポット事件のうち、2025年だけで700件以上が発生しており、その被害額は2000万ドル(約31億円)を超えているとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-02-28T17:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3eb17112afe9",
+    "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+    "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+    "summary_original": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+    "thumbnail": "",
+    "published": "2026-02-28T16:17:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d584c93b1edc",
+    "title": "OpenAI calls Stuart Russell a \"doomer\" in court after its CEO co-signed his AI extinction warning",
+    "url": "https://the-decoder.com/openai-calls-stuart-russell-a-doomer-in-court-after-its-ceo-co-signed-his-ai-extinction-warning/",
+    "summary_original": "Fear generates attention, and OpenAI usually knows how to use that. But in court, the company is trying to discredit an AI expert as a doomsday prophet, even though CEO Sam Altman spent years spreading the same warnings when they still served his own agenda.\nThe article OpenAI calls Stuart Russell a &quot;doomer&quot; in court after its CEO co-signed his AI extinction warning appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/openai_logo_wall-1.png",
+    "published": "2026-02-28T12:57:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "70dadf2e6ec3",
+    "title": "Our agreement with the Department of War",
+    "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "summary_original": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "thumbnail": "",
+    "published": "2026-02-28T12:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6b68b75bd964",
+    "title": "OpenAI promises Canada tighter safety protocols after ChatGPT flagged a shooter's violent chats but never called police",
+    "url": "https://the-decoder.com/openai-promises-canada-tighter-safety-protocols-after-chatgpt-flagged-a-shooters-violent-chats-but-never-called-police/",
+    "summary_original": "OpenAI is tightening its rules for cooperating with authorities following a fatal school shooting in Canada. The company had blocked the suspect's account but did not inform the police.\nThe article OpenAI promises Canada tighter safety protocols after ChatGPT flagged a shooter&#039;s violent chats but never called police appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_dark_logo.png",
+    "published": "2026-02-28T12:09:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "09ddf8cc7fc9",
+    "title": "Current language model training leaves large parts of the internet on the table",
+    "url": "https://the-decoder.com/current-language-model-training-leaves-large-parts-of-the-internet-on-the-table/",
+    "summary_original": "Large language models learn from web data, but which pages actually make it into training sets depends heavily on a seemingly mundane choice: the HTML extractor. Researchers at Apple, Stanford, and the University of Washington found that three common extraction tools pull surprisingly different content from the same web pages.\nThe article Current language model training leaves large parts of the internet on the table appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/beyond-html-web-extraction-nano-banana-pro.jpeg",
+    "published": "2026-02-28T11:47:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5beacb988850",
+    "title": "A new benchmark pits five AI models against each other as autonomous social media agents on X",
+    "url": "https://the-decoder.com/a-new-benchmark-pits-five-ai-models-against-each-other-as-autonomous-social-media-agents-on-x/",
+    "summary_original": "AI benchmarking startup Arcada Labs is pitting five leading AI models against each other as autonomous social media agents on X.\nThe article A new benchmark pits five AI models against each other as autonomous social media agents on X appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/Socials-Arena-KI-Artikelbild.jpg",
+    "published": "2026-02-28T11:08:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ef20231fe716",
+    "title": "攻撃者のAI利用はもはや“当たり前”　日本はランサムウェア検出率で世界3位に",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2602/28/news014.html",
+    "summary_original": "アクロニスの脅威動向レポートによると、サイバー攻撃者のAI活用が深刻化しているという。AIの活用によって攻撃の効率が高まり、サイバー攻撃数も増加している。日本はランサムウェア検出率で世界3位になっているという。どう対策をすればいいのか。",
+    "thumbnail": "",
+    "published": "2026-02-28T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c5db56651ddd",
+    "title": "トランプ大統領、Anthropicを「極左の意識高い系企業」と非難し　政府機関での製品使用を即時停止",
+    "url": "https://www.itmedia.co.jp/news/articles/2602/28/news030.html",
+    "summary_original": "トランプ米大統領は、AI安全策の撤廃を拒否したAnthropicを「極左企業」と非難し、政府機関での同社製品の使用停止を指示した。これに対しGoogle、OpenAI、Amazon、Microsoftの従業員有志はAnthropic支持を表明。OpenAIのアルトマンCEOは自律型兵器への利用を否定しつつも軍との協議を加速させている。",
+    "thumbnail": "",
+    "published": "2026-02-28T07:26:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c71437bca76b",
+    "title": "Claude Codeに重大な脆弱性　設定ファイル経由でRCEやAPIキー窃取の恐れ",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2602/28/news013.html",
+    "summary_original": "Check PointはClaude Codeに重大な脆弱性があり、不正なリポジトリー設定を開くだけで遠隔コード実行やAPIキー窃取が可能だったと公表した。修正は完了しているが、AI開発基盤の供給網に新たなリスクが浮上している。",
+    "thumbnail": "",
+    "published": "2026-02-28T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "26bb3b0bca8d",
+    "title": "Google DeepMind Introduces Unified Latents (UL): A Machine Learning Framework that Jointly Regularizes Latents Using a Diffusion Prior and Decoder",
+    "url": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
+    "summary_original": "Generative AI’s current trajectory relies heavily on Latent Diffusion Models (LDMs) to manage the computational cost of high-resolution synthesis. By compressing data into a lower-dimensional latent space, models can scale effectively. However, a fundamental trade-off persists: lower information density makes latents easier to learn but sacrifices reconstruction quality, while higher density enables near-perfect reconstruction but [&#8230;]\nThe post Google DeepMind Introduces Unified Latents (UL...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-7.57.11-PM.png",
+    "published": "2026-02-28T03:58:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "601b0c1f70d4",
+    "title": "A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning",
+    "url": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
+    "summary_original": "In this tutorial, we build a hierarchical planner agent using an open-source instruct model. We design a structured multi-agent architecture comprising a planner agent, an executor agent, and an aggregator agent, where each component plays a specialized role in solving complex tasks. We use the planner agent to decompose high-level goals into actionable steps, the [&#8230;]\nThe post A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and St...",
+    "thumbnail": "",
+    "published": "2026-02-28T02:18:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b81a5cff9015",
+    "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
+    "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+    "summary_original": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
+    "published": "2026-02-28T01:26:41+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "b00523d79696",
+    "title": "How to Build Interactive Geospatial Dashboards Using Folium with Heatmaps, Choropleths, Time Animation, Marker Clustering, and Advanced Interactive Plugins",
+    "url": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/",
+    "summary_original": "In this Folium tutorial, we build a complete set of interactive maps that run in Colab or any local Python setup. We explore multiple basemap styles, design rich markers with HTML popups, and visualize spatial density using heatmaps. We also create region-level choropleth maps from GeoJSON, scale to thousands of points using marker clustering, and [&#8230;]\nThe post How to Build Interactive Geospatial Dashboards Using Folium with Heatmaps, Choropleths, Time Animation, Marker Clustering, and Adva...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30d.png",
+    "published": "2026-02-27T23:56:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7ed1ec7a635e",
+    "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+    "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+    "summary_original": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+    "thumbnail": "",
+    "published": "2026-02-27T21:53:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0822a6872b41",
+    "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+    "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+    "summary_original": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category.  The shortlisted story—“We did the math on AI’s energy footprint. Here’s the story you haven’t heard”—is part of the publication&#8217;s Power Hungry package on AI’s energy burden.  AI is often described&#8230;",
+    "thumbnail": "",
+    "published": "2026-02-27T21:41:31+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "649039c0b08f",
+    "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+    "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+    "summary_original": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-02-27T21:19:16-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2aea8fc3a0a8",
+    "title": "「18歳未満の画像をAIで性的加工」2025年に114件　被害者は中高生が9割　警察庁",
+    "url": "https://www.itmedia.co.jp/news/articles/2602/27/news136.html",
+    "summary_original": "警察庁が、2025年に発生した少年非行や子どもの性被害に関するレポートを公開した。生成AIやそうと思しきツールを悪用して18歳未満の性的画像を作成・加工した事案についても公表。警察が把握している事案は計114件で、被害者は9割が中高生、加害者は約6割が同級生や同じ学校の生徒だった。",
+    "thumbnail": "",
+    "published": "2026-02-27T19:49:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c0aab801127e",
+    "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+    "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+    "summary_original": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+    "thumbnail": "",
+    "published": "2026-02-27T19:42:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6faa6d5b1439",
+    "title": "Sakana AI Introduces Doc-to-LoRA and Text-to-LoRA: Hypernetworks that Instantly Internalize Long Contexts and Adapt LLMs via Zero-Shot Natural Language",
+    "url": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/",
+    "summary_original": "Customizing Large Language Models (LLMs) currently presents a significant engineering trade-off between the flexibility of In-Context Learning (ICL) and the efficiency of Context Distillation (CD) or Supervised Fine-Tuning (SFT). Tokyo-based Sakana AI has proposed a new approach to bypass these constraints through cost amortization. In two of their recent papers, they introduced Text-to-LoRA (T2L) and [&#8230;]\nThe post Sakana AI Introduces Doc-to-LoRA and Text-to-LoRA: Hypernetworks that Instan...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-9.45.25-AM-1-scaled.png",
+    "published": "2026-02-27T17:53:54+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7d2915c39ff7",
+    "title": "Trump orders federal agencies to drop Anthropic’s AI",
+    "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+    "summary_original": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-02-27T16:30:47-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "87eeaaf77784",
+    "title": "Upgrading agentic AI for finance workflows",
+    "url": "https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/",
+    "summary_original": "Improving trust in agentic AI for finance workflows remains a major priority for technology leaders today. Over the past two years, enterprises have rushed to put automated agents into real workflows, spanning customer support and back-office operations. These tools excel at retrieving information, yet they often struggle to provide consistent and explainable reasoning during multi-step [&#8230;]\nThe post Upgrading agentic AI for finance workflows appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png",
+    "published": "2026-02-27T13:15:38+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5ddc2977b04a",
+    "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+    "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/image_d4b7f3.png",
+    "published": "2026-02-27T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6030a326ee09",
+    "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+    "summary_original": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2258899592.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-02-27T12:16:53-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d35085f174cb",
+    "title": "Poor implementation of AI may be behind workforce reduction",
+    "url": "https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/",
+    "summary_original": "Many organisations are eroding the foundations of business &#8211; productivity, competitiveness, and efficiency. This is happening due to poor implementation of human-AI collaboration, according to cloud data and AI consultancy, Datatonic. The company says in the next phase of enterprise AI, success will come from carefully-governed and designed AI that works alongside humans in “human-in-the-loop [&#8230;]\nThe post Poor implementation of AI may be behind workforce reduction appeared first on A...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-02-27T12:05:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "92c2e5df450b",
+    "title": "We don&#8217;t have to have unsupervised killer robots",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+    "summary_original": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-02-27T11:18:26-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "032f74d9bbb6",
+    "title": "The Galaxy S26 is a photography nightmare",
+    "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
+    "summary_original": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0227_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-02-27T10:15:52-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "520dbbb5d0af",
+    "title": "Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance",
+    "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-and-deutsche-bank-test-agentic-ai-for-trade-surveillance/",
+    "summary_original": "Banks are testing a new type of artificial intelligence, like agentic AI, that does more than scan for keywords or follow preset rules. Instead of relying only on static alerts, some trading desks are beginning to use systems designed to reason through patterns in real time and flag conduct that may need human review. Bloomberg [&#8230;]\nThe post Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-02-27T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "1c746ce83ae1",
+    "title": "AI is rewiring how the world’s best Go players think",
+    "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+    "summary_original": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&#160; But inside the building, rooms once filled with the soft clatter of hands dipping into&#8230;",
+    "thumbnail": "",
+    "published": "2026-02-27T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ba5a52dfd33b",
+    "title": "ASML’s high-NA EUV tools clear the runway for next-gen AI chips",
+    "url": "https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/",
+    "summary_original": "The machine that will make tomorrow&#8217;s AI chips possible has just been declared ready for mass production – and the clock for the industry&#8217;s next leap has officially started. ASML, the Dutch company that holds a global monopoly on commercial extreme ultraviolet lithography equipment, confirmed this week that its High-NA EUV tools have crossed the [&#8230;]\nThe post ASML&#8217;s high-NA EUV tools clear the runway for next-gen AI chips appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-02-27T06:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "a96360bc7299",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
+    "summary_original": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "thumbnail": "",
+    "published": "2026-02-27T05:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5c157a0f1b15",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "url": "https://openai.com/index/amazon-partnership",
+    "summary_original": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "thumbnail": "",
+    "published": "2026-02-27T05:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
