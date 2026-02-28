@@ -40,3 +40,21 @@
   ✗ API呼び出しエラー（バッチ 6）: [ClientError] 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
   【デバッグ情報】利用可能なモデル一覧:
     一覧取得エラー: 'Model' object has no attribute 'supported_generation_methods'
+  ✗ API呼び出しエラー（バッチ 1）: [ClientError] 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash-8b is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+  【デバッグ情報】利用可能なモデル一覧:
+    一覧取得エラー: 'Model' object has no attribute 'supported_generation_methods'
+  ✗ API呼び出しエラー（バッチ 2）: [ClientError] 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash-8b is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+  【デバッグ情報】利用可能なモデル一覧:
+    一覧取得エラー: 'Model' object has no attribute 'supported_generation_methods'
+  ✗ API呼び出しエラー（バッチ 3）: [ClientError] 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash-8b is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+  【デバッグ情報】利用可能なモデル一覧:
+    一覧取得エラー: 'Model' object has no attribute 'supported_generation_methods'
+  ✗ API呼び出しエラー（バッチ 4）: [ClientError] 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash-8b is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+  【デバッグ情報】利用可能なモデル一覧:
+    一覧取得エラー: 'Model' object has no attribute 'supported_generation_methods'
+  ✗ API呼び出しエラー（バッチ 5）: [ClientError] 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash-8b is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+  【デバッグ情報】利用可能なモデル一覧:
+    一覧取得エラー: 'Model' object has no attribute 'supported_generation_methods'
+  ✗ API呼び出しエラー（バッチ 6）: [ClientError] 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash-8b is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+  【デバッグ情報】利用可能なモデル一覧:
+    一覧取得エラー: 'Model' object has no attribute 'supported_generation_methods'
