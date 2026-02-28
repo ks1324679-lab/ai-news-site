@@ -432,6 +432,21 @@ body {
     color: var(--accent-red);
 }
 
+.cat-7 {
+    background: rgba(13, 148, 136, 0.1);
+    color: #0d9488;
+}
+
+.cat-8 {
+    background: rgba(99, 102, 241, 0.1);
+    color: #6366f1;
+}
+
+.cat-9 {
+    background: rgba(245, 158, 11, 0.1);
+    color: #f59e0b;
+}
+
 .card-source {
     font-size: var(--font-size-xs);
     color: var(--text-muted);
