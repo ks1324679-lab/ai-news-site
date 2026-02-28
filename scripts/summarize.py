@@ -132,6 +132,17 @@ URL: {article['url']}
 
         except Exception as e:
             msg = f"  ✗ API呼び出しエラー（バッチ {i // batch_size + 1}）: [{type(e).__name__}] {e}\n"
+            
+            # 404エラーの場合は、利用可能なモデル一覧をログに出力してデバッグしやすくする
+            if "404" in str(e) or "NOT_FOUND" in str(e):
+                msg += "  【デバッグ情報】利用可能なモデル一覧:\n"
+                try:
+                    for m in client.models.list():
+                        if "generateContent" in m.supported_generation_methods:
+                            msg += f"    - {m.name}\n"
+                except Exception as ex:
+                    msg += f"    一覧取得エラー: {ex}\n"
+            
             print(msg, end="")
             with open(DATA_DIR / "run_log.txt", "a", encoding="utf-8") as lf: lf.write(msg)
             for article in batch:
