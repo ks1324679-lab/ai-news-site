@@ -142,7 +142,7 @@ URL: {article['url']}
 
         # レートリミット対策
         if i + batch_size < len(articles):
-            time.sleep(2)
+            time.sleep(5)
 
     print(f"\n✓ 全{len(summarized)}件の要約完了")
     return summarized

@@ -5,7 +5,7 @@ import os
 
 # Gemini API設定
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-1.5-flash"
 
 # RSSフィード一覧（AI分野）
 RSS_FEEDS = [
