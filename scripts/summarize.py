@@ -26,10 +26,9 @@ def create_client():
         print("  取得先: https://aistudio.google.com/apikey")
         return None
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    # v1betaへのアクセスでモデルが見つからないエラーを回避するため、明示的にv1を指定
+    client = genai.Client(api_key=GEMINI_API_KEY, http_options={'api_version': 'v1'})
     return client
-
-
 def summarize_articles(articles: list) -> list:
     """記事リストを日本語で要約・カテゴリ分類する"""
     client = create_client()
