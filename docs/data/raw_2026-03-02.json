@@ -1,0 +1,282 @@
+[
+  {
+    "id": "d50a468fc12f",
+    "title": "あらゆるゲームのFPSを測定してオーバーレイ表示も可能な無料アプリ「CapFrameX」の使い方まとめ",
+    "url": "https://gigazine.net/news/20260302-capframex-game-fps/",
+    "summary_original": "「CapFrameX」はあらゆるゲームのフレームレート(fps)や表示遅延を測定できるツールで、外部アプリと連携することでゲーム画面の上に測定結果をリアルタイムでオーバレイ表示することもできます。自分のPCの性能を知ったりゲームのグラフィック設定を詰めたりするのに便利そうなので、実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-02T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "09c90961fb8c",
+    "title": "Gemini 3.1 Pro登場　思考モデルから実務エージェントへ、複雑タスクを完遂するAIに進化",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/02/news016.html",
+    "summary_original": "思考力の強化に加え、エージェント実行能力を大きく押し上げたGemini 3.1 Pro。本稿では主要ベンチマークや機能改善を整理しつつ、「考えるAI」から「働くAI」へと進むモデル進化の方向性を、開発者視点のコメントとともに読み解く。",
+    "thumbnail": "",
+    "published": "2026-03-02T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e0b8529489a1",
+    "title": "アニメ『ゆるキャン△ SEASON 4』2027年放送へ向けて特報PV公開",
+    "url": "https://gigazine.net/news/20260301-yurucamp-season-4/",
+    "summary_original": "あfろによる漫画を原作としてTVアニメシリーズ3作品と劇場アニメ1作品が展開されている『ゆるキャン△』のアニメ新シリーズ『ゆるキャン△ SEASON 4』が2027年放送予定であることが明らかになり、特報PVが公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-01T23:05:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e7238af3cccf",
+    "title": "無料でGoogle・Meta・YouTube・LinkedIn・TikTok・Microsoft Adsなど186項目にわたるチェック機能を備えたClaude Code向けの包括的な有料広告監査・最適化スキル「Claude Ads」、重み付けスコアリング・並列エージェント処理・業界別テンプレートに対応",
+    "url": "https://gigazine.net/news/20260301-claude-ads/",
+    "summary_original": "GoogleやMetaなどを利用したネット広告では、ボット由来の無効クリックが5.1％、さらに設定が放置され最適化が進まないことで25％以上の無駄な浪費が生じやすく、広告費の3割が失われることがあります。これらの問題を解決するためには、無効クリックの傾向分析・タグの重複検知・入札ロジックの異常の把握などが必要で、人の手では数時間から半日を要します。これらの業務を186項目にわたって自動チェックし最適化まで実行できる強力なツール「Claude Ads」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-01T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "604883847cbb",
+    "title": "無料でスマホから切り抜き・描画からフィルター・OCR・幅広い画像処理オプションまでありとあらゆる写真を加工する機能が山ほど使えるオープンソースAndroidアプリ「Image Toolbox」レビュー",
+    "url": "https://gigazine.net/news/20260301-image-toolbox/",
+    "summary_original": "画像を編集したいとき、PCであればPhotoshopやGIMPといった高機能アプリが存在しますが、スマートフォンで撮影した画像を加工しようとするとPCに送信しなければならずとても手軽とは言えません。かといってスマートフォンの中で完結させようとしても機能を大幅に制限したツールが多く歯がゆい思いをした人も多いと思います。そんな折、無料で利用できる上に非常に高機能なAndroidアプリ「Image Toolbox」の存在を耳にしたのでどんなものなのか実際に確認してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-01T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3100dc5842b2",
+    "title": "How to Design a Production-Grade Multi-Agent Communication System Using LangGraph Structured Message Bus, ACP Logging, and Persistent Shared State Architecture",
+    "url": "https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/",
+    "summary_original": "In this tutorial, we build an advanced multi-agent communication system using a structured message bus architecture powered by LangGraph and Pydantic. We define a strict ACP-style message schema that allows agents to communicate via a shared state rather than calling each other directly, enabling modularity, traceability, and production-grade orchestration. We implement three specialized agents, a [&#8230;]\nThe post How to Design a Production-Grade Multi-Agent Communication System Using LangGrap...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-03-01T19:20:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3c57cc5ecbd7",
+    "title": "AIがガス機器による大気汚染を削減する規制案に大量の反対意見を送信していたことが判明",
+    "url": "https://gigazine.net/news/20260301-ai-opposing-pollution/",
+    "summary_original": "カリフォルニア州の規制当局はスモッグを形成する主な汚染物質を制限するため、一部のガス暖炉やガス給湯器の販売を段階的に廃止する規制案を2025年6月に発表しました。結果として数万通もの反対意見が殺到したこともあり規制案は阻止されましたが、反対意見のうち2万件以上が同じ企業によって送られたAIを活用したキャンペーンであったことが判明しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-01T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e23e2e4925d5",
+    "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+    "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+    "summary_original": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+    "thumbnail": "",
+    "published": "2026-03-01T17:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "872de0e43017",
+    "title": "OpenAI reveals more details about its agreement with the Pentagon",
+    "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+    "summary_original": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+    "thumbnail": "",
+    "published": "2026-03-01T16:30:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "867828c7ee2e",
+    "title": "ElevenLabs and Google dominate Artificial Analysis' updated speech-to-text benchmark",
+    "url": "https://the-decoder.com/elevenlabs-and-google-dominate-artificial-analysis-updated-speech-to-text-benchmark/",
+    "summary_original": "ElevenLabs and Google are neck and neck in the race for the best speech recognition. A new benchmark shows who comes out on top.\nThe article ElevenLabs and Google dominate Artificial Analysis&#039; updated speech-to-text benchmark appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/audio_text_to_speech.png",
+    "published": "2026-03-01T14:50:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "610a0b22f3c2",
+    "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+    "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+    "summary_original": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+    "thumbnail": "",
+    "published": "2026-03-01T14:48:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5750ca130431",
+    "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+    "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+    "summary_original": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
+    "thumbnail": "",
+    "published": "2026-03-01T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e6787a01581b",
+    "title": "AI can link fake online names to real identities in minutes for just a few dollars",
+    "url": "https://the-decoder.com/ai-can-link-fake-online-names-to-real-identities-in-minutes-for-just-a-few-dollars/",
+    "summary_original": "Researchers from ETH Zurich and Anthropic demonstrate that pseudonymous internet users can be identified using commercially available AI models for just a few dollars per person. The results call into question fundamental assumptions about online anonymity.\nThe article AI can link fake online names to real identities in minutes for just a few dollars appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/llms-anonymous-nano-banana-pro-scaled.jpg",
+    "published": "2026-03-01T11:47:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b70647d49000",
+    "title": "Moltbook's alleged AI civilization is just a massive void of bloated bot traffic",
+    "url": "https://the-decoder.com/moltbooks-alleged-ai-civilization-is-just-a-massive-void-of-bloated-bot-traffic/",
+    "summary_original": "Over 2.6 million AI agents interact on Moltbook with zero human involvement. They post, comment, and vote, but a new study shows they never learn from each other. It's hollow interaction without mutual influence, shared memory, or social structures, a new study finds.\nThe article Moltbook&#039;s alleged AI civilization is just a massive void of bloated bot traffic appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Moltbook-No-Society-Nano-Banana-Pro.jpeg",
+    "published": "2026-03-01T10:41:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a626180aa86e",
+    "title": "Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memory",
+    "url": "https://www.marktechpost.com/2026/03/01/alibaba-team-open-sources-copaw-a-high-performance-personal-agent-workstation-for-developers-to-scale-multi-channel-ai-workflows-and-memory/",
+    "summary_original": "As the industry moves from simple Large Language Model (LLM) inference toward autonomous agentic systems, the challenge for devs have shifted. It is no longer just about the model; it is about the environment in which that model operates. A team of researchers from Alibaba released CoPaw, an open-source framework designed to address this by [&#8230;]\nThe post Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memo...",
+    "thumbnail": "",
+    "published": "2026-03-01T10:03:56+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f1bdeb91a728",
+    "title": "The Pentagon-OpenAI-Anthropic fallout comes down to three words: \"all lawful use\"",
+    "url": "https://the-decoder.com/the-pentagon-openai-anthropic-fallout-comes-down-to-three-words-all-lawful-use/",
+    "summary_original": "After signing a deal with the Department of War, OpenAI tries to build trust by publishing the contract details. So far, it's not working.\nThe article The Pentagon-OpenAI-Anthropic fallout comes down to three words: &quot;all lawful use&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_anthropic_pentagon-2.png",
+    "published": "2026-03-01T09:43:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "294ceefd1967",
+    "title": "A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Model Evaluation, and Live Model Deployment",
+    "url": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/",
+    "summary_original": "In this tutorial, we build a complete, production-grade ML experimentation and deployment workflow using MLflow. We start by launching a dedicated MLflow Tracking Server with a structured backend and artifact store, enabling us to track experiments in a scalable, reproducible manner. We then train multiple machine learning models using a nested hyperparameter sweep while automatically [&#8230;]\nThe post A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization...",
+    "thumbnail": "",
+    "published": "2026-03-01T09:16:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a44f2151be76",
+    "title": "日本の社長は「AI投資に慎重だけど責任感強い」　AI時代の競争力向上に必要な姿勢とは",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/01/news004.html",
+    "summary_original": "BCGは、企業のAI投資が売上比1.7％へ拡大し、AIエージェントに3割超を配分する見通しを示した。この投資を成功させ競争力を向上させるために、企業トップに求められる姿勢とは。",
+    "thumbnail": "",
+    "published": "2026-03-01T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "08cb910fbad5",
+    "title": "日立と塩野義、生成AIで規制文書作成を最大50％短縮　医薬品開発の効率化目指す",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/01/news003.html",
+    "summary_original": "日立は、塩野義製薬が開発した生成AIによる規制関連文書作成支援ソリューションの国内提供を開始した。治験報告書の作成時間を最大約50％削減し、医薬品開発の迅速化と現場の負担軽減、生産性向上を目指す。",
+    "thumbnail": "",
+    "published": "2026-03-01T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b25609e0cc51",
+    "title": "米国防長官、Anthropicを「サプライチェーンリスク」に指定へ　同社は法廷闘争を宣言",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/01/news020.html",
+    "summary_original": "ヘグゼス米国防長官は、AI安全策の撤廃を拒むAnthropicを「サプライチェーンリスク」に指定するよう指示した。米国企業への適用は史上初で、Anthropicは法廷で争う構えだ。",
+    "thumbnail": "",
+    "published": "2026-03-01T07:52:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "15bdbdb7df21",
+    "title": "OpenAI、米国防総省とAI導入で合意　Anthropicへの強硬措置の沈静化を要請",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/01/news019.html",
+    "summary_original": "OpenAIは、米国防総省（DoW）の機密網へのAI導入で合意した。トランプ政権が安全策撤廃を拒むAnthropicの排除を決めた直後の発表だ。OpenAIは「クラウド限定運用」や「保護条項」の明文化により、自律型兵器への転用を防ぐ多層的な安全網を維持。政府の強硬姿勢を軟化させ、業界全体の合理的な合意を目指す姿勢を示した。",
+    "thumbnail": "",
+    "published": "2026-03-01T07:16:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "261602d01207",
+    "title": "The trap Anthropic built for itself",
+    "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+    "summary_original": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+    "thumbnail": "",
+    "published": "2026-03-01T00:08:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e2054bcb6696",
+    "title": "Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long",
+    "url": "https://the-decoder.com/even-frontier-llms-from-gpt-5-onward-lose-up-to-33-accuracy-when-you-chat-too-long/",
+    "summary_original": "Even with newer models like GPT-5.2 and Claude 4.6, AI chatbots still give worse answers the longer a conversation goes on.\nThe article Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/long_conversation_chatbot_performance.png",
+    "published": "2026-02-28T17:45:42+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "70dadf2e6ec3",
+    "title": "Our agreement with the Department of War",
+    "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "summary_original": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "thumbnail": "",
+    "published": "2026-02-28T12:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "26bb3b0bca8d",
+    "title": "Google DeepMind Introduces Unified Latents (UL): A Machine Learning Framework that Jointly Regularizes Latents Using a Diffusion Prior and Decoder",
+    "url": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
+    "summary_original": "Generative AI’s current trajectory relies heavily on Latent Diffusion Models (LDMs) to manage the computational cost of high-resolution synthesis. By compressing data into a lower-dimensional latent space, models can scale effectively. However, a fundamental trade-off persists: lower information density makes latents easier to learn but sacrifices reconstruction quality, while higher density enables near-perfect reconstruction but [&#8230;]\nThe post Google DeepMind Introduces Unified Latents (UL...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-7.57.11-PM.png",
+    "published": "2026-02-28T03:58:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "601b0c1f70d4",
+    "title": "A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning",
+    "url": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
+    "summary_original": "In this tutorial, we build a hierarchical planner agent using an open-source instruct model. We design a structured multi-agent architecture comprising a planner agent, an executor agent, and an aggregator agent, where each component plays a specialized role in solving complex tasks. We use the planner agent to decompose high-level goals into actionable steps, the [&#8230;]\nThe post A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and St...",
+    "thumbnail": "",
+    "published": "2026-02-28T02:18:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b81a5cff9015",
+    "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
+    "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+    "summary_original": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
+    "published": "2026-02-28T01:26:41+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "649039c0b08f",
+    "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+    "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+    "summary_original": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-02-27T21:19:16-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
