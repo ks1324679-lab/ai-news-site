@@ -1,0 +1,352 @@
+[
+  {
+    "id": "77bfee058a70",
+    "title": "「クラウド税」の導入をイタリア政府が提案、月のデータ使用量1GB当たり最大0.055円を課税しユーザー1人当たりの上限額は440円",
+    "url": "https://gigazine.net/news/20260303-italy-introducing-cloud-tax/",
+    "summary_original": "イタリア政府がクラウドストレージサービスを利用する際にかかる「クラウド税」を導入することを計画していることが明らかになりました。これが実現すれば、月に最大2.4ユーロ(約440円)が課税されることとなります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-03T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e2d0e1d7a202",
+    "title": "Autodesk、World Labsに2億米ドルを戦略投資　フィジカルAI研究を強化",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/03/news032.html",
+    "summary_original": "Autodeskは、AI研究企業World Labsに2億米ドル（約300億円）の戦略的投資を実施した。3D環境を理解／生成できる「ワールドモデル」の研究を進める同社と連携し、空間や構造、材料、物理法則および時間を理解する「フィジカルAI」の発展を推進する。",
+    "thumbnail": "",
+    "published": "2026-03-03T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "71948ce73de0",
+    "title": "Python install manager 26.0で変わった「グローバルショートカット」を理解する：pipやblackが動くまでの流れ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/03/news022.html",
+    "summary_original": "Python install managerはバージョン26.0でパッケージが提供するコマンドやスクリプトへのショートカットも生成するようになりました。その使い勝手や仕組みについて、今回は調べてみました。",
+    "thumbnail": "",
+    "published": "2026-03-03T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "60be976cbd4d",
+    "title": "インドで開発者向けデータベースサービス「Supabase」へのアクセスが制限される、インド政府が関与か",
+    "url": "https://gigazine.net/news/20260302-supabase-india-down/",
+    "summary_original": "オープンソースで提供されるPostgres開発プラットフォーム「Supabase」が、インドでブロックされていることが分かりました。事情に詳しい関係者は政府命令でブロックされたものと指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-02T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8adac40f426c",
+    "title": "2026年3月2日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260302-headline/",
+    "summary_original": "KADOKAWAとアニプレックスが共同出資して映画配給会社「アニメック」を設立したことを発表しました。「アニメック」の名称は「Anime」と「Cinema」を掛け合わせたもので、全国規模の劇場上映からTVアニメの特別上映まで、最適な公開戦略のもとで作品の価値や魅力を最大限に引き出して、より魅力的なアニメ映画体験を多くのファンへと届けるとのこと。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-02T20:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8a57131b3129",
+    "title": "Wi-Fiのクライアント分離機能を回避する攻撃手法「AirSnitch」、Wi-Fiネットワークにおいて中間者攻撃が可能となる危険性が明らかに",
+    "url": "https://gigazine.net/news/20260302-airsnitch-wifi-network-attack/",
+    "summary_original": "アメリカのカリフォルニア大学リバーサイド校やルーヴェン・カトリック大学の研究者グループが、Wi-Fiネットワークにおけるクライアント間の直接通信を遮断する「クライアント分離」を回避する攻撃手法「AirSnitch」を報告しました。研究チームが11種類の主要なルーターやネットワークを調査したところ、全てのテスト対象において少なくとも1つの攻撃手法が有効であることが判明したとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-02T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "07a7fcfdda77",
+    "title": "Meet NullClaw: The 678 KB Zig AI Agent Framework Running on 1 MB RAM and Booting in Two Milliseconds",
+    "url": "https://www.marktechpost.com/2026/03/02/meet-nullclaw-the-678-kb-zig-ai-agent-framework-running-on-1-mb-ram-and-booting-in-two-milliseconds/",
+    "summary_original": "In the current AI landscape, agentic frameworks typically rely on high-level managed languages like Python or Go. While these ecosystems offer extensive libraries, they introduce significant overhead through runtimes, virtual machines, and garbage collectors. NullClaw is a project that diverges from this trend, implementing a full-stack AI agent framework entirely in Raw Zig. By eliminating [&#8230;]\nThe post Meet NullClaw: The 678 KB Zig AI Agent Framework Running on 1 MB RAM and Booting in Two...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f99e.png",
+    "published": "2026-03-02T19:12:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d40aae4b2391",
+    "title": "国税庁が差し押さえた仮想通貨の大半を盗み取られる、報道発表にニーモニックコードを誤掲載",
+    "url": "https://gigazine.net/news/20260302-tax-service-reveals-seed-phrase-in-press-release/",
+    "summary_original": "韓国の国税庁が高額・常習滞納者から差し押さえた仮想通貨の大半を何者かに盗み取られていたことがわかりました。原因は、報道発表資料に掲載した写真に、ウォレットのマスターキーにあたるニーモニックコードが写っていたことでした。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-02T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "548bd7cf8809",
+    "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+    "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+    "summary_original": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+    "thumbnail": "",
+    "published": "2026-03-02T18:42:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "78df7203c293",
+    "title": "ドコモ、「新AIサービス」のモニター募集開始　参加者にはdポイント1000円分",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/02/news112.html",
+    "summary_original": "NTTドコモは、新たなAIサービス「SyncMe」（シンクミー）を発表した。同日にパイロット版のモニター募集を始めており、夏ごろに本格展開する予定だ。",
+    "thumbnail": "",
+    "published": "2026-03-02T18:21:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "22b739c58fe5",
+    "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+    "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+    "summary_original": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-02T17:29:42+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0902e8a7f87b",
+    "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+    "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+    "summary_original": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+    "thumbnail": "",
+    "published": "2026-03-02T17:18:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ebb39af8ebe4",
+    "title": "ASML plans to expand beyond chip lithography into advanced packaging",
+    "url": "https://the-decoder.com/asml-plans-to-expand-beyond-chip-lithography-into-advanced-packaging/",
+    "summary_original": "ASML, the world's sole manufacturer of EUV lithography machines used to produce advanced chips, is looking to expand beyond its core business.\nThe article ASML plans to expand beyond chip lithography into advanced packaging appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/08/asml_highna_cleanroom_veldhoven_067.jpg",
+    "published": "2026-03-02T16:38:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dbadb466deff",
+    "title": "Zoomの進化から探る「AIを融合させた次世代コミュニケーションの在り方」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/02/news086.html",
+    "summary_original": "これからのコミュニケーションにおいて、人とAIはどのような関係になるのか。AIファーストを掲げる「Zoom」の進化を通して考察する。",
+    "thumbnail": "",
+    "published": "2026-03-02T16:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "dbe95eb0401b",
+    "title": "Thousands of procurement documents show how China's army wants to weaponize AI",
+    "url": "https://the-decoder.com/thousands-of-procurement-documents-show-how-chinas-army-wants-to-weaponize-ai/",
+    "summary_original": "Researchers at Georgetown University have analyzed thousands of procurement requests from China's People's Liberation Army. The documents reveal how broadly Beijing is already experimenting with military AI, from drone swarms and deepfake tools to autonomous decision-making systems.\nThe article Thousands of procurement documents show how China&#039;s army wants to weaponize AI appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/PLA-AI-Push.png",
+    "published": "2026-03-02T15:31:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "52aded5172a7",
+    "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+    "url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+    "summary_original": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697396/STK071_APPLE_M.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-02T15:22:33-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a39b5836524b",
+    "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+    "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+    "summary_original": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+    "thumbnail": "",
+    "published": "2026-03-02T15:14:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d38a1b7fd6c3",
+    "title": "Inside the Anthropic-Pentagon breakdown: mass surveillance, autonomous weapons, and a rival deal waiting in the wings",
+    "url": "https://the-decoder.com/inside-the-anthropic-pentagon-breakdown-mass-surveillance-autonomous-weapons-and-a-rival-deal-waiting-in-the-wings/",
+    "summary_original": "New reports from the New York Times and the Atlantic paint a detailed picture of the final hours of negotiations between Anthropic and the Pentagon. At the center: bulk data collection on American citizens, a rejected cloud workaround, and a parallel OpenAI deal that was already in the works.\nThe article Inside the Anthropic-Pentagon breakdown: mass surveillance, autonomous weapons, and a rival deal waiting in the wings appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png",
+    "published": "2026-03-02T14:52:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "442dfe04bcf7",
+    "title": "Anthropic's new prompt forces ChatGPT to reveal everything it knows about you",
+    "url": "https://the-decoder.com/anthropics-new-prompt-forces-chatgpt-to-reveal-everything-it-knows-about-you/",
+    "summary_original": "Anthropic is capitalizing on OpenAI's bad press with a new import function for Claude. A single prompt exports your saved context from ChatGPT or other chatbots, letting you transfer it straight to Claude's memory.\nThe article Anthropic&#039;s new prompt forces ChatGPT to reveal everything it knows about you appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/claude_memory-chatgpt.jpeg",
+    "published": "2026-03-02T14:44:25+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "aa408740acfa",
+    "title": "Anthropic’s Claude reports widespread outage",
+    "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+    "summary_original": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+    "thumbnail": "",
+    "published": "2026-03-02T13:31:49+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9128cb12359d",
+    "title": "The Download: protesting AI, and what’s floating in space",
+    "url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
+    "summary_original": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/image.png",
+    "published": "2026-03-02T13:20:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "15c89743ce92",
+    "title": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
+    "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+    "summary_original": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-02T12:58:05-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9e6d2f439e3a",
+    "title": "I checked out one of the biggest anti-AI protests ever",
+    "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+    "summary_original": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-02T12:55:20+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "442f749fa7ad",
+    "title": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
+    "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+    "summary_original": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-02T11:56:49-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3398f6d46e6b",
+    "title": "MWC 2026: SK Telecom lays out plan to rebuild its core around AI",
+    "url": "https://www.artificialintelligence-news.com/news/mwc-2026-sk-telecom-lays-out-plan-to-rebuild-its-core-around-ai/",
+    "summary_original": "At MWC 2026 in Barcelona, SK Telecom outlined how it is rebuilding itself around AI, from its network core to its customer service desks. The shift goes beyond adding new AI tools. It involves rewriting internal systems, expanding data centre capacity to the gigawatt scale, and upgrading its own large language model to more than [&#8230;]\nThe post MWC 2026: SK Telecom lays out plan to rebuild its core around AI appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-03-02T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "57b5b3bff488",
+    "title": "AI adoption in financial services has hit a point of no return",
+    "url": "https://www.artificialintelligence-news.com/news/ai-adoption-in-financial-services/",
+    "summary_original": "AI adoption in financial services has effectively become universal–and the institutions still treating it as an experiment are now the outliers. According to Finastra&#8217;s Financial Services State of the Nation 2026 report, which surveyed 1,509 senior executives across 11 markets, only 2% of financial institutions globally report no use of AI whatsoever.  The debate is [&#8230;]\nThe post AI adoption in financial services has hit a point of no return appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-03-02T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "02a5705f00be",
+    "title": "How OpenAI caved to the Pentagon on AI surveillance",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+    "summary_original": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-02T09:22:18-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b30b6dc9af06",
+    "title": "米軍のイラン攻撃に「Claude」が使われたことが判明　トランプ大統領による「使用停止命令」後",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/02/news064.html",
+    "summary_original": "トランプ大統領が国防総省にAnthropic製品の使用停止を命じた直後、米軍がイラン攻撃で同社のAI「Claude」を使用したことが判明した。安全策撤廃を巡る対立で同社が「サプライチェーンリスク」に指定され排除が決定的となる中、現場では依然としてAIが実戦投入される状況が浮き彫りとなった。",
+    "thumbnail": "",
+    "published": "2026-03-02T08:16:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "95a0945df8ef",
+    "title": "FireRedTeam Releases FireRed-OCR-2B Utilizing GRPO to Solve Structural Hallucinations in Tables and LaTeX for Software Developers",
+    "url": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/",
+    "summary_original": "Document digitization has long been a multi-stage problem: first detect the layout, then extract the text, and finally try to reconstruct the structure. For Large Vision-Language Models (LVLMs), this often leads to &#8216;structural hallucinations&#8217;—disordered rows, invented formulas, or unclosed syntax. The FireRedTeam has released FireRed-OCR-2B, a flagship model designed to treat document parsing as a [&#8230;]\nThe post FireRedTeam Releases FireRed-OCR-2B Utilizing GRPO to Solve Structur...",
+    "thumbnail": "",
+    "published": "2026-03-02T06:38:48+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4f9850f19631",
+    "title": "How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature Importance, Interaction Effects, and Model Decision Breakdown",
+    "url": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/",
+    "summary_original": "In this tutorial, we build an advanced explainable AI analysis pipeline using SHAP-IQ to understand both feature importance and interaction effects directly inside our Python environment. We load a real-world dataset, train a high-performance Random Forest model, and then apply the SHAP-IQ interaction index to compute precise, theoretically grounded explanations of model predictions. We extract [&#8230;]\nThe post How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Featur...",
+    "thumbnail": "",
+    "published": "2026-03-02T06:13:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c27ccfc0af21",
+    "title": "Google AI Introduces STATIC: A Sparse Matrix Framework Delivering 948x Faster Constrained Decoding for LLM Based Generative Retrieval",
+    "url": "https://www.marktechpost.com/2026/03/01/google-ai-introduces-static-a-sparse-matrix-framework-delivering-948x-faster-constrained-decoding-for-llm-based-generative-retrieval/",
+    "summary_original": "In industrial recommendation systems, the shift toward Generative Retrieval (GR) is replacing traditional embedding-based nearest neighbor search with Large Language Models (LLMs). These models represent items as Semantic IDs (SIDs)—discrete token sequences—and treat retrieval as an autoregressive decoding task. However, industrial applications often require strict adherence to business logic, such as enforcing content freshness or [&#8230;]\nThe post Google AI Introduces STATIC: A Sparse Matrix ...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-01-at-1.41.07-PM.png",
+    "published": "2026-03-01T21:47:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3100dc5842b2",
+    "title": "How to Design a Production-Grade Multi-Agent Communication System Using LangGraph Structured Message Bus, ACP Logging, and Persistent Shared State Architecture",
+    "url": "https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/",
+    "summary_original": "In this tutorial, we build an advanced multi-agent communication system using a structured message bus architecture powered by LangGraph and Pydantic. We define a strict ACP-style message schema that allows agents to communicate via a shared state rather than calling each other directly, enabling modularity, traceability, and production-grade orchestration. We implement three specialized agents, a [&#8230;]\nThe post How to Design a Production-Grade Multi-Agent Communication System Using LangGrap...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-03-01T19:20:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "52c90be81778",
+    "title": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
+    "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
+    "summary_original": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship. Lenovo describes its AI Workmate Concept as an \"always-on [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lenovo1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-01T18:01:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e23e2e4925d5",
+    "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+    "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+    "summary_original": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+    "thumbnail": "",
+    "published": "2026-03-01T17:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "867828c7ee2e",
+    "title": "ElevenLabs and Google dominate Artificial Analysis' updated speech-to-text benchmark",
+    "url": "https://the-decoder.com/elevenlabs-and-google-dominate-artificial-analysis-updated-speech-to-text-benchmark/",
+    "summary_original": "ElevenLabs and Google are neck and neck in the race for the best speech recognition. A new benchmark shows who comes out on top.\nThe article ElevenLabs and Google dominate Artificial Analysis&#039; updated speech-to-text benchmark appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/audio_text_to_speech.png",
+    "published": "2026-03-01T14:50:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  }
+]
