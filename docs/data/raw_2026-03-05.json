@@ -1,0 +1,402 @@
+[
+  {
+    "id": "7580a5fee531",
+    "title": "誰も遊び方を知らない「ローマ時代のボードゲーム」のルールをAIで推測することに成功",
+    "url": "https://gigazine.net/news/20260305-ai-roman-era-board-game/",
+    "summary_original": "ボードゲームは古くから世界中で楽しまれてきた遊びですが、中には現代まで遊び方が伝わっていないものもあります。オランダにあるローマ時代の遺跡から発掘された「ボードゲームの盤らしき遺物」について、AIを使ってゲームのルールを推測したとの研究結果が報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-05T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9586f7c87275",
+    "title": "パナソニックの弱いロボット「NICOBO」がLLMでさらなる進化、累計販売は1万体に",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/05/news052.html",
+    "summary_original": "パナソニック エンターテインメント＆コミュニケーションは、東京都内で会見を開き、“弱いロボット”「NICOBO（ニコボ）」が累計販売1万体を突破したことを報告するとともに、今後の進化や法人向けを中心とする事業拡大の方向性などについて説明した。",
+    "thumbnail": "",
+    "published": "2026-03-05T06:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3c9f3b7ff7b6",
+    "title": "ドラマやアニメの「一気見」や本の「一気読み」がもたらす心理的なメリットとは？",
+    "url": "https://gigazine.net/news/20260305-binge-watching-marathon-reading-rii/",
+    "summary_original": "連続TV番組などを一気に視聴する「ビンジ・ウォッチング」や、小説を一気に読み切る行為は時間を浪費する悪習慣として語られがちで、一気見することで内容をつまらなく感じさせるという説もあります。ところが、こうした一気見や一気読みは作品に関する記憶を強めやすく、見終えた後も頭の中で物語世界を広げて遊ぶ状態につながりやすい可能性があるとアメリカ・ジョージア大学の研究が示しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-05T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "19d2888ddf9a",
+    "title": "IT業界の「巨大プロジェクトが個人プロジェクトに依存していて簡単に崩壊する」という現状を風刺するイラスト「Dependency」",
+    "url": "https://gigazine.net/news/20260304-it-dependency/",
+    "summary_original": "世界中で稼働しているソフトウェアのほとんどは何らかのオープンソースソフトウェアに依存しており、いずれかのソフトウェアに問題が生じると連鎖的に世界中のソフトウェアが危険にさらされます。そんなIT業界のもろさを端的に表現したイラストがxkcdの「Dependency」で、インターネット上にはDependencyの派生イラストやアニメーションが複数投稿されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-04T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0582b66a8efc",
+    "title": "AIに料理のレシピ作成を任せるのはどうなのかプロのシェフ3人に尋ねた結果とは？",
+    "url": "https://gigazine.net/news/20260304-ai-recipes/",
+    "summary_original": "AIが食事のレシピを作成してくれるアプリがあったり、食材を管理してオススメレシピを提案してくれるAI搭載冷蔵庫があったりと、チャットAIは料理をする際のスマートアシスタントとして役立てることも可能です。実際にAIをレシピ作成に使うべきなのかどうか、プロのシェフ3人に尋ねた結果をウェブメディアのMashableがまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-04T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4af085776950",
+    "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+    "url": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+    "summary_original": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
+    "thumbnail": "",
+    "published": "2026-03-04T21:43:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "45a82c510c43",
+    "title": "完全に「脱Google化」されたスマホのモバイルエコシステム「/e/OS」",
+    "url": "https://gigazine.net/news/20260304-degoogled-ungoogled-smartphone-os-e/",
+    "summary_original": "Androidからフォークした「脱Google化」したスマートフォン向けのOSが「/e/OS」です。オープンソースで開発されており、プライバシー保護されたOSであるということが学術的に認められています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-04T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "60625900a2a4",
+    "title": "OpenAI's Codex app lands on Windows after topping a million Mac downloads in its first week",
+    "url": "https://the-decoder.com/openais-codex-app-lands-on-windows-after-topping-a-million-mac-downloads-in-its-first-week/",
+    "summary_original": "OpenAI brings its AI coding tool Codex to Windows, with native support for Windows environments and over 1.6 million weekly active users.\nThe article OpenAI&#039;s Codex app lands on Windows after topping a million Mac downloads in its first week appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_logo_walls-1.jpeg",
+    "published": "2026-03-04T19:09:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "23cfe43082ec",
+    "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+    "url": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+    "summary_original": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+    "thumbnail": "",
+    "published": "2026-03-04T18:50:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b4026157f306",
+    "title": "LangWatch Open Sources the Missing Evaluation Layer for AI Agents to Enable End-to-End Tracing, Simulation, and Systematic Testing",
+    "url": "https://www.marktechpost.com/2026/03/04/langwatch-open-sources-the-missing-evaluation-layer-for-ai-agents-to-enable-end-to-end-tracing-simulation-and-systematic-testing/",
+    "summary_original": "As AI development shifts from simple chat interfaces to complex, multi-step autonomous agents, the industry has encountered a significant bottleneck: non-determinism. Unlike traditional software where code follows a predictable path, agents built on LLMs introduce a high degree of variance. LangWatch is an open-source platform designed to address this by providing a standardized layer for [&#8230;]\nThe post LangWatch Open Sources the Missing Evaluation Layer for AI Agents to Enable End-to-End Tr...",
+    "thumbnail": "",
+    "published": "2026-03-04T18:36:28+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "af02eece2207",
+    "title": "Google faces wrongful death suit after Gemini allegedly convinced a man to die and become digital",
+    "url": "https://the-decoder.com/google-faces-wrongful-death-suit-after-gemini-allegedly-convinced-a-man-to-die-and-become-digital/",
+    "summary_original": "According to a lawsuit filed in a US federal court in Northern California on Wednesday, Google's chatbot Gemini allegedly drove 36-year-old Jonathan Gavalas from Florida to suicide.\nThe article Google faces wrongful death suit after Gemini allegedly convinced a man to die and become digital appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/chatbot_messages.png",
+    "published": "2026-03-04T18:35:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "54e65e049db4",
+    "title": "Decagon completes first tender offer at $4.5B valuation",
+    "url": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+    "summary_original": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+    "thumbnail": "",
+    "published": "2026-03-04T18:32:53+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cb06625bb299",
+    "title": "Meta signs multi-year AI deal with News Corp worth up to $50 million a year",
+    "url": "https://the-decoder.com/meta-signs-multi-year-ai-deal-with-news-corp-worth-up-to-50-million-a-year/",
+    "summary_original": "Meta is paying News Corp up to $50 million a year for AI training data. Good for individual publishers, bad for the industry as a whole.\nThe article Meta signs multi-year AI deal with News Corp worth up to $50 million a year appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/04/meta_logo_illustration.png",
+    "published": "2026-03-04T17:26:23+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d9a524f0deaa",
+    "title": "The US military is still using Claude — but defense-tech clients are fleeing",
+    "url": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
+    "summary_original": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
+    "thumbnail": "",
+    "published": "2026-03-04T17:20:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ff885915396d",
+    "title": "GPT-5.4 reportedly brings a million-token context window and an extreme reasoning mode",
+    "url": "https://the-decoder.com/gpt-5-4-reportedly-brings-a-million-token-context-window-and-an-extreme-reasoning-mode/",
+    "summary_original": "GPT-5.4 is coming soon: double the context window of GPT-5.2, more reliable performance on long-running tasks, and a new \"extreme\" thinking mode.\nThe article GPT-5.4 reportedly brings a million-token context window and an extreme reasoning mode appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_update_logo.png",
+    "published": "2026-03-04T17:12:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6de70947f9eb",
+    "title": "Supreme Court AI copyright decision sounds sweeping but actually settles very little",
+    "url": "https://the-decoder.com/supreme-court-ai-copyright-decision-sounds-sweeping-but-actually-settles-very-little/",
+    "summary_original": "AI inventor Stephen Thaler wanted the US Supreme Court to recognize a machine as the sole author of an image. The court refused, but the ruling only covers this extreme case. It says nothing about whether people can claim copyright for work they create with AI tools.\nThe article Supreme Court AI copyright decision sounds sweeping but actually settles very little appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/ai_image_rights.png",
+    "published": "2026-03-04T16:45:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8d34e6605e0c",
+    "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
+    "summary_original": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-04T15:32:42-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "728378e45367",
+    "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+    "url": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+    "summary_original": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
+    "thumbnail": "",
+    "published": "2026-03-04T14:58:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "48c2e9711a01",
+    "title": "Bridging the operational AI gap",
+    "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+    "summary_original": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Celigo-Report-2025-cover-gold.png",
+    "published": "2026-03-04T14:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d2df8e846f06",
+    "title": "Google’s AI-powered workspace is now available to more users in Search",
+    "url": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+    "summary_original": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Canvas-in-AI-Mode-scholarship-tracker.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-04T13:57:01-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "13f717dda101",
+    "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
+    "url": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living&#8230;",
+    "thumbnail": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png",
+    "published": "2026-03-04T13:12:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "fbde418cd757",
+    "title": "さくら、「AI検定」を開始　基礎を学べる教材も無料公開",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news111.html",
+    "summary_original": "さくらインターネットは、独自検定「さくらのAI検定」を始めると発表した。AIの基礎や同社が提供するAIサービスの知識などを学べるという。同検定向けの教材も無料で公開している。",
+    "thumbnail": "",
+    "published": "2026-03-04T13:08:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8361dd7e22b6",
+    "title": "Physical AI is having its moment–and everyone wants a piece of it",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/",
+    "summary_original": "There is a particular kind of momentum in the technology industry that announces itself not through a single breakthrough, but through the simultaneous convergence of many. Physical AI is having that moment right now–and paying attention to where it is coming from, and why, tells you more than any single product launch can. The term [&#8230;]\nThe post Physical AI is having its moment–and everyone wants a piece of it appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-03-04T12:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "1eecd43d02a4",
+    "title": "Google faces wrongful death lawsuit after Gemini allegedly &#8216;coached&#8217; man to die by suicide",
+    "url": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
+    "summary_original": "A lawsuit filed on Wednesday accuses Google's Gemini AI chatbot of trapping 36-year-old Jonathan Gavalas in a \"collapsing reality\" that involved a series of violent missions, ultimately ending with his death by suicide. In the days leading up to his death, Gemini allegedly convinced Gavalas that he was \"executing a covert plan to liberate his [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-04T11:09:38-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "73fa0993fa1d",
+    "title": "AI agents prefer Bitcoin shaping new finance architecture",
+    "url": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
+    "summary_original": "AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how corporate capital flows. Non-partisan research by the Bitcoin Policy Institute evaluated how these frontier models would transact if operating as independent economic actors. The study tested [&#8230;]\nThe post AI agents prefer Bitcoin shaping new finance architecture appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-04T10:52:45+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "0b1e50b280e8",
+    "title": "Extending single-minus amplitudes to gravitons",
+    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "summary_original": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "thumbnail": "",
+    "published": "2026-03-04T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f3fed99b4a8a",
+    "title": "AI is now part of the culture wars — and real wars",
+    "url": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
+    "summary_original": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more than doomer scenarios. We cover non-existential fun [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-04T09:15:03-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "cd8216cf5a78",
+    "title": "OpenAI、不自然な回答やお節介な前置きを排した「GPT-5.3 Instant」公開",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news084.html",
+    "summary_original": "OpenAIは、より自然で正確な回答を実現した「GPT-5.3 Instant」をリリースした。AI特有の「説教じみた前置き」や不要な拒否を大幅に削減し、ユーザーの意図に即した直接的な回答が可能になったとしている。Web検索併用時のハルシネーションも約27％減少。一方で日本語などの非英語圏ではトーンが不自然になる制限事項も残る。",
+    "thumbnail": "",
+    "published": "2026-03-04T09:11:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "37fe6f294336",
+    "title": "Raycast’s Glaze is an all-in-one vibe coding app platform",
+    "url": "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store",
+    "summary_original": "AI tools like Claude Code have made it possible for users to build software with no coding knowledge whatsoever. That's not to say the process is easy, though: You may not need to write code directly, but you need to understand how your computer's terminal works, how to deploy and maintain software, and deal with [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Glaze-Store-32.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-04T08:08:17-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "55d3fac39482",
+    "title": "米国防総省のAI導入で明暗　なぜAnthropicは交渉決裂し、OpenAIは合意できたのか",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/03/news160.html",
+    "summary_original": "Anthropicは国内監視と完全自律兵器を例外とする立場を維持し、米国防総省との交渉が決裂した。一方、OpenAIは合意に至ったと言うが、それはなぜか。",
+    "thumbnail": "",
+    "published": "2026-03-04T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d8f40f112866",
+    "title": "慶応大はなぜNotionを選んだのか　「世界最高峰のAIキャンパス」に向けて全教職員に導入",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/04/news050.html",
+    "summary_original": "慶應義塾が全教職員へNotionを導入し「AIキャンパス構想」を推進する。生成AI時代に同塾が目指すナレッジ管理とはどのような形なのか。数あるツールからNotionが選定された理由とは。",
+    "thumbnail": "",
+    "published": "2026-03-04T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1acdc128bd5c",
+    "title": "Google makes its industrial robotics AI play official–and this time, it means business",
+    "url": "https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/",
+    "summary_original": "When Google folds a moonshot into its core operations, it&#8217;s not cleaning house. It&#8217;s placing a bet. On February 25, Alphabet-owned Intrinsic–which builds AI models and software designed to make industrial robotics more accessible–officially joined Google.  The company will remain a distinct group within Google, working closely with Google DeepMind and tapping into Gemini AI models and [&#8230;]\nThe post Google makes its industrial robotics AI play official–and this time, it means bus...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-04T08:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "435b76e302bc",
+    "title": "Physical Intelligence Team Unveils MEM for Robots: A Multi-Scale Memory System Giving Gemma 3-4B VLAs 15-Minute Context for Complex Tasks",
+    "url": "https://www.marktechpost.com/2026/03/03/physical-intelligence-team-unveils-mem-for-robots-a-multi-scale-memory-system-giving-gemma-3-4b-vlas-15-minute-context-for-complex-tasks/",
+    "summary_original": "Current end-to-end robotic policies, specifically Vision-Language-Action (VLA) models, typically operate on a single observation or a very short history. This &#8216;lack of memory&#8217; makes long-horizon tasks, such as cleaning a kitchen or following a complex recipe, computationally intractable or prone to failure. To address this, researchers from Physical Intelligence, Stanford, UC Berkeley, and MIT have [&#8230;]\nThe post Physical Intelligence Team Unveils MEM for Robots: A Multi-Scale Me...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-9.53.17-PM-1.png",
+    "published": "2026-03-04T06:01:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4aef0d09f2df",
+    "title": "Understanding AI and learning outcomes",
+    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+    "summary_original": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+    "thumbnail": "",
+    "published": "2026-03-04T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "d7a6c0fcbe08",
+    "title": "How Axios uses AI to help deliver high-impact local journalism",
+    "url": "https://openai.com/index/axios-allison-murphy",
+    "summary_original": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+    "thumbnail": "",
+    "published": "2026-03-04T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "94548ee7b454",
+    "title": "Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations",
+    "url": "https://www.marktechpost.com/2026/03/03/meet-symtorch-a-pytorch-library-that-translates-deep-learning-models-into-human-readable-equations/",
+    "summary_original": "Can symbolic regression be the key to transforming opaque deep learning models into interpretable, closed-form mathematical equations? or Say you have trained your deep learning model. It works. But do you know what it has actually learned? A team of University of Cambridge researchers propose &#8216;SymTorch&#8217;, a library designed to integrate symbolic regression (SR) into [&#8230;]\nThe post Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations ...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-3.39.17-PM-1.png",
+    "published": "2026-03-03T23:39:46+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "da5aeec25f00",
+    "title": "How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Language Models",
+    "url": "https://www.marktechpost.com/2026/03/03/how-to-build-a-stable-and-efficient-qlora-fine-tuning-pipeline-using-unsloth-for-large-language-models/",
+    "summary_original": "In this tutorial, we demonstrate how to efficiently fine-tune a large language model using Unsloth and QLoRA. We focus on building a stable, end-to-end supervised fine-tuning pipeline that handles common Colab issues such as GPU detection failures, runtime crashes, and library incompatibilities. By carefully controlling the environment, model configuration, and training loop, we show how [&#8230;]\nThe post How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Lan...",
+    "thumbnail": "",
+    "published": "2026-03-03T22:29:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a2a3a8e1941f",
+    "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
+    "url": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
+    "summary_original": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1795499144-1152x648.jpg",
+    "published": "2026-03-03T22:20:06+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "e15baf133f80",
+    "title": "Google Drops Gemini 3.1 Flash-Lite: A Cost-efficient Powerhouse with Adjustable Thinking Levels Designed for High-Scale Production AI",
+    "url": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/",
+    "summary_original": "Google has released Gemini 3.1 Flash-Lite, the most cost-efficient entry in the Gemini 3 model series. Designed for &#8216;intelligence at scale,&#8217; this model is optimized for high-volume tasks where low latency and cost-per-token are the primary engineering constraints. It is currently available in Public Preview via the Gemini API (Google AI Studio) and Vertex AI. [&#8230;]\nThe post Google Drops Gemini 3.1 Flash-Lite: A Cost-efficient Powerhouse with Adjustable Thinking Levels Designed fo...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.14.26-AM-1.png",
+    "published": "2026-03-03T18:28:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1d3a64f7b8a6",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-03T16:50:49+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
