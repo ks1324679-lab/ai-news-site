@@ -1,0 +1,402 @@
+[
+  {
+    "id": "e5be9f6eaebb",
+    "title": "イスラエルのレーザー兵器「IRON BEAM」によるミサイル迎撃の様子が撮影される、弾数無制限で数km先まで迎撃可能か",
+    "url": "https://gigazine.net/news/20260306-israel-laser-weapon/",
+    "summary_original": "「イスラエルに向かって発射されたミサイルが発射直後に空中で破壊される」という動画がインターネット上に投稿されました。このミサイル迎撃はレーザー兵器「IRON BEAM」による初の迎撃事例だと指摘されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-06T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ae56c0b2e121",
+    "title": "OpenAI、「GPT-5.4」リリース　PC操作のネイティブ対応、思考の途中変更も可能に",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news073.html",
+    "summary_original": "OpenAIは、最新AIモデル「GPT-5.4」をリリースした。推論やコーディング、PC画面を認識して操作する「computer use」機能を統合したフロンティアモデルという位置づけだ。思考プロセスへの介入が可能なThinkingモデルや、高度な推論を行うProモデルを提供。高い性能を示す一方、安全性の監視に関する課題も報告されている。",
+    "thumbnail": "",
+    "published": "2026-03-06T06:34:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a178e7b87d1d",
+    "title": "一度の顔登録で複数サービス利用可能　NECの顔認証基盤、トライアルなどで実証導入へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/06/news050.html",
+    "summary_original": "NECは「リテールテックJAPAN 2026」において、一度の顔登録で複数サービスを横断利用できるプラットフォーム「NEC顔リンクサービス」を出展した。個別登録の煩わしさを解消し、シームレスな顔パス経済圏の社会実装を目指す。",
+    "thumbnail": "",
+    "published": "2026-03-06T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f0c13b02de3e",
+    "title": "肥満や糖尿病を治療する経口薬「オルフォグリプロン」は経口セマグルチドよりも血糖と体重を大きく改善できるという臨床試験結果",
+    "url": "https://gigazine.net/news/20260306-orforglipron-achieve3/",
+    "summary_original": "GLP-1受容体作動薬は「食欲を抑える」「インスリンの分泌を促す」といった目的で2型糖尿病や肥満の治療に使われており、「オゼンピック」や「ウゴービ」など注射薬のセマグルチドの知名度が高い一方で、飲み薬にも選択肢が増えつつあります。アメリカ・テキサス大学のフリオ・ローゼンストック氏や京都大学の矢部大介氏らの研究チームは、経口GLP-1薬のオルフォグリプロンを錠剤の経口セマグルチドと直接比較した臨床試験の結果を報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-06T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "90d95d08dbb5",
+    "title": "ChatGPTやGeminiからClaudeへカンタンに移行できる？　新しい「メモリインポート機能」を試してみた",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/06/news022.html",
+    "summary_original": "多くのチャットボットサービスにはユーザー情報を要約したメモリと呼ばれるものがあります。そして、Claudeでは他のサービスのメモリをカンタンにインポートできるようになったので、ちょっと試してみましたよ。",
+    "thumbnail": "",
+    "published": "2026-03-06T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e8da29c3d6db",
+    "title": "「可動域の増加には静的ストレッチ」「けがのリスク軽減には不向き」などストレッチに関する実践的なアドバイス",
+    "url": "https://gigazine.net/news/20260305-practical-recommendations-stretching-exercise/",
+    "summary_original": "ストレッチは体育の授業や趣味のスポーツの前後など、さまざまな場面で取り入れられていますが、ストレッチに関する主張の中には間違っているものもあります。そこで実務経験と学術的知識を兼ね備えた20人の専門家パネルが、ストレッチに関する実践的なアドバイスをまとめました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-05T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "317b1606be3e",
+    "title": "AWS launches a new AI agent platform specifically for health care",
+    "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+    "summary_original": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation and patient verification.",
+    "thumbnail": "",
+    "published": "2026-03-05T21:54:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3ea0e6c589bc",
+    "title": "US reportedly considering sweeping new chip export controls",
+    "url": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+    "summary_original": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
+    "thumbnail": "",
+    "published": "2026-03-05T21:24:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "237e5d0ff1a4",
+    "title": "LLM「Qwen3.5」の開発コアメンバーが突然の辞任　「オープンウェイト戦略は継続」、開発元のAlibabaがコメント",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news133.html",
+    "summary_original": "オープンなLLM「Qwen3.5」シリーズの小型モデル発表直後に開発コアメンバーが辞任を発表したことで、ユーザーや開発コミュニティーから開発体制に対する不安の声が上がっている。同社はITmedia AI＋の取材に対し「オープンウェイトモデル戦略は継続する」と回答した。",
+    "thumbnail": "",
+    "published": "2026-03-05T21:02:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7364414e51c6",
+    "title": "無料でテクスチャ素材を生成できる「TextureCreate」",
+    "url": "https://gigazine.net/news/20260305-texture-create/",
+    "summary_original": "アプリやゲームに使えるUIデザインなどを発信する「ゲームUI演出」が公開した「TextureCreate」は、無料でブラウザから使用できるテクスチャジェネレータです。素材を選択して調整するだけで簡単にテクスチャ素材を作成できるとのことなので、実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-05T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "da6d261b798b",
+    "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+    "url": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+    "summary_original": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+    "thumbnail": "",
+    "published": "2026-03-05T20:24:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1a1b34410484",
+    "title": "Steamで日本人向けのゲームに絞ったデータベース「J-SteamDB by Kenbo」",
+    "url": "https://gigazine.net/news/20260305-j-steamdb-by-kenbo/",
+    "summary_original": "数あるSteamゲームの中から「日本語対応済み」のものだけを探せるウェブサイト「J-SteamDB by Kenbo」が誕生しました。「レビュー数」「好評率」「価格」「体験版の有無」などフィルタリングが充実しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-05T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "41393efb99df",
+    "title": "“70年前の今日のラジオ”をAIで再現？　当時のニュースやヒット曲を流せるデバイス　介護施設に導入へ",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news129.html",
+    "summary_original": "博報堂傘下で広告事業を手掛けるTBWA HAKUHODOは、AIが過去のニュースやヒット曲をラジオ番組風に紹介するデバイス「RADIO TIME MACHINE」（ラジオタイムマシーン）を開発したと発表した。介護施設への導入も検証する。",
+    "thumbnail": "",
+    "published": "2026-03-05T19:28:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bb9e82b3f039",
+    "title": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-4-thinking-and-pro-combining-coding-reasoning-and-computer-use-in-one-model/",
+    "summary_original": "GPT-5.4 is OpenAI's most capable model yet, combining coding, computer operation, and reasoning in a single package for the first time.\nThe article OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-1.png",
+    "published": "2026-03-05T19:15:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0466614fcd93",
+    "title": "Trump gets data center companies to pledge to pay for power generation",
+    "url": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
+    "summary_original": "With no enforcement and questionable economics, it may not make a difference.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2258665361-1024x648.jpg",
+    "published": "2026-03-05T18:41:28+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "4c1fd731bd73",
+    "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+    "url": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+    "summary_original": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+    "thumbnail": "",
+    "published": "2026-03-05T18:11:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "45ee9c392867",
+    "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+    "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+    "summary_original": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+    "thumbnail": "",
+    "published": "2026-03-05T18:00:15+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "21dd5a130cf4",
+    "title": "OpenAI Releases Symphony: An Open Source Agentic Framework for Orchestrating Autonomous AI Agents through Structured, Scalable Implementation Runs",
+    "url": "https://www.marktechpost.com/2026/03/05/openai-releases-symphony-an-open-source-agentic-framework-for-orchestrating-autonomous-ai-agents-through-structured-scalable-implementation-runs/",
+    "summary_original": "OpenAI has released Symphony, an open-source framework designed to manage autonomous AI coding agents through structured &#8216;implementation runs.&#8217; The project provides a system for automating software development tasks by connecting issue trackers to LLM-based agents. System Architecture: Elixir and the BEAM Symphony is built using Elixir and the Erlang/BEAM runtime. The choice of stack focuses [&#8230;]\nThe post OpenAI Releases Symphony: An Open Source Agentic Framework for Orchestrati...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-16.png",
+    "published": "2026-03-05T17:37:15+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9d5d9c4467bc",
+    "title": "ChatGPT users research products but won't buy there, forcing OpenAI to rethink its commerce strategy",
+    "url": "https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/",
+    "summary_original": "OpenAI wanted to turn ChatGPT into a shopping destination, but only about a dozen retailers signed up and users weren't buying. Now the company is handing off purchases to app partners like Instacart and Target.\nThe article ChatGPT users research products but won&#039;t buy there, forcing OpenAI to rethink its commerce strategy appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_logos_wall_money.png",
+    "published": "2026-03-05T17:32:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c583655047c3",
+    "title": "How to Design an Advanced Tree-of-Thoughts Multi-Branch Reasoning Agent with Beam Search, Heuristic Scoring, and Depth-Limited Pruning",
+    "url": "https://www.marktechpost.com/2026/03/05/how-to-design-an-advanced-tree-of-thoughts-multi-branch-reasoning-agent-with-beam-search-heuristic-scoring-and-depth-limited-pruning/",
+    "summary_original": "In this tutorial, we build an advanced Tree-of-Thoughts (ToT) multi-branch reasoning agent from scratch. Instead of relying on linear chain-of-thought reasoning, we design a system that generates multiple reasoning branches, scores each branch using a heuristic evaluation function, prunes weak candidates, and continues expanding only the strongest paths. We combine an instruction-tuned transformer model with [&#8230;]\nThe post How to Design an Advanced Tree-of-Thoughts Multi-Branch Reasoning Age...",
+    "thumbnail": "",
+    "published": "2026-03-05T17:00:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c71d03270b48",
+    "title": "Google Search quietly becomes an AI assistant as Canvas feature launches for US users",
+    "url": "https://the-decoder.com/google-search-quietly-becomes-an-ai-assistant-as-canvas-feature-launches-for-us-users/",
+    "summary_original": "Google is turning AI search into a workspace. Canvas lets users build interactive dashboards, documents, and code prototypes directly in AI mode.\nThe article Google Search quietly becomes an AI assistant as Canvas feature launches for US users appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/gemini_google_search.png",
+    "published": "2026-03-05T16:32:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2f41113dfca8",
+    "title": "Tech giants make non-binding White House pledge to cover AI data center energy costs",
+    "url": "https://the-decoder.com/tech-giants-make-non-binding-white-house-pledge-to-cover-ai-data-center-energy-costs/",
+    "summary_original": "Google, Microsoft, Meta, Amazon, Oracle, xAI, and OpenAI signed a voluntary pledge at the White House to cover the electricity costs of their data centers themselves.\nThe article Tech giants make non-binding White House pledge to cover AI data center energy costs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/01/Stargate-US-digital-map-title.png",
+    "published": "2026-03-05T14:53:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "76866b2c002b",
+    "title": "Yann LeCun wants to replace the AGI concept with \"Superhuman Adaptable Intelligence\"",
+    "url": "https://the-decoder.com/yann-lecun-wants-to-replace-the-agi-concept-with-superhuman-adaptable-intelligence/",
+    "summary_original": "A new paper by researchers at Columbia University and NYU, including Yann LeCun, argues that AGI is a flawed concept. Human intelligence is not general, they say, but specialized. Instead, they propose the term \"Superhuman Adaptable Intelligence\".\nThe article Yann LeCun wants to replace the AGI concept with &quot;Superhuman Adaptable Intelligence&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Superhuman-Adaptable-Intelligence.png",
+    "published": "2026-03-05T14:31:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "be7772b977cf",
+    "title": "The Download: an AI agent’s hit piece, and preventing lightning",
+    "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/05/open-closed2.jpeg",
+    "published": "2026-03-05T14:28:46+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "78cc7ee48859",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-05T14:16:49+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "678a5e2fb0ef",
+    "title": "Netflix is buying Ben Affleck’s AI startup",
+    "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+    "summary_original": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-05T13:27:16-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "365cadf028a4",
+    "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+    "summary_original": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications. The new [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-05T13:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "eb1cdf057634",
+    "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
+    "url": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+    "summary_original": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and G&#246;teborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-05T11:37:52-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "df570d5fd1d5",
+    "title": "How much wildfire prevention is too much?",
+    "url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+    "summary_original": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-05T11:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a12b30c470dc",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "summary_original": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "thumbnail": "",
+    "published": "2026-03-05T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7535c2f2ce51",
+    "title": "GPT-5.4 Thinking System Card",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-05T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "11c2367d7276",
+    "title": "Introducing GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "summary_original": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "thumbnail": "",
+    "published": "2026-03-05T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "690b508c41f3",
+    "title": "JPMorgan expands AI investment as tech spending nears $20B",
+    "url": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/",
+    "summary_original": "Artificial intelligence is moving from pilot projects to core business systems inside large companies. One example comes from JPMorgan Chase, where rising AI investment is helping push the bank’s technology budget toward about US$19.8 billion in 2026. The spending plan reflects a broader shift among large enterprises. AI is no longer treated as a small [&#8230;]\nThe post JPMorgan expands AI investment as tech spending nears $20B appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-03-05T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "319a07e601cb",
+    "title": "Online harassment is entering its AI era",
+    "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+    "summary_original": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-05T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f7631f042710",
+    "title": "Apple Music adds optional labels for AI songs and visuals",
+    "url": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch",
+    "summary_original": "Apple is asking artists and record labels on its music streaming platform to voluntarily label songs that were made using AI. The new \"Transparency Tags\" metadata system for Apple Music was announced in a newsletter to industry partners yesterday, according to Music Business Worldwide, and covers four categories, including track, composition, artwork, and music videos. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925980/acastro_STK046_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-05T09:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "51c5e121f963",
+    "title": "Ensuring AI use in education leads to opportunity",
+    "url": "https://openai.com/index/ai-education-opportunity",
+    "summary_original": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+    "thumbnail": "",
+    "published": "2026-03-05T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "069ef3c71b34",
+    "title": "AI tools can unmask anonymous accounts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
+    "summary_original": "Do you have a Reddit alt, secret X, finsta, or Glassdoor account you trash your boss with? AI might have just made it a lot easier to unmask you. That's the conclusion of a recently published study, which hints at some uncomfortable consequences for staying private online - even if it's not quite time to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-05T08:30:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b252595c2027",
+    "title": "Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work",
+    "url": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/",
+    "summary_original": "The financial services industry has a pilot problem. Institutions pour resources into AI proofs-of-concept, generate impressive dashboards, and then quietly watch momentum stall before anything reaches production. Singapore-headquartered Dyna.Ai was built precisely to break that pattern–and investors are now backing that thesis with serious capital. The AI-as-a-Service company has closed an eight-figure Series A round [&#8230;]\nThe post Beyond the pilot: Dyna.Ai raises eight-figure Series A to p...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-05T08:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "ecbe13d0bf8d",
+    "title": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency",
+    "url": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/",
+    "summary_original": "How can a trillion-parameter Large Language Model achieve state-of-the-art enterprise performance while simultaneously cutting its total parameter count by 33.3% and boosting pre-training efficiency by 49%? Yuan Lab AI releases Yuan3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model featuring 1T total parameters and 68.8B activated parameters. The model architecture is designed to optimize performance [&#8230;]\nThe post YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimoda...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-04-at-9.51.51-PM-1.png",
+    "published": "2026-03-05T05:55:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e7c3d13ae6e2",
+    "title": "The five AI value models driving business reinvention",
+    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "summary_original": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "thumbnail": "",
+    "published": "2026-03-05T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
