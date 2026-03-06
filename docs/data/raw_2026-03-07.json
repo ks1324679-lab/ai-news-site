@@ -1,0 +1,402 @@
+[
+  {
+    "id": "2de40271f744",
+    "title": "高市早苗首相が公式サイトから削除したコラムを全文検索できる「高市早苗コラム アーカイブ検索」",
+    "url": "https://gigazine.net/news/20260306-sanae-takaichi-column-archive-search/",
+    "summary_original": "2026年2月に入って削除された、高市早苗首相の公式サイト(sanae.gr.jp)に掲載されていた「コラム」を全文検索できるサービスが登場しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-06T22:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1f230c9c0841",
+    "title": "AIで簡単にウェブページ上でさまざまなタスクを実行できるようになる「PageAgent」を使ってみた",
+    "url": "https://gigazine.net/news/20260306-pageagent-ai-web-control-interfaces/",
+    "summary_original": "「PageAgent」は、AIを使って自然言語による指示でさまざまなタスクをウェブページ上で実行できるツールです。ブックマークレットとして登録すればさまざまなページ上で使用できるほか、Chrome拡張機能を使えば複数タブにまたがった操作も可能とのことで、実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-06T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5920c4288cc6",
+    "title": "OpenAI Introduces Codex Security in Research Preview for Context-Aware Vulnerability Detection, Validation, and Patch Generation Across Codebases",
+    "url": "https://www.marktechpost.com/2026/03/06/openai-introduces-codex-security-in-research-preview-for-context-aware-vulnerability-detection-validation-and-patch-generation-across-codebases/",
+    "summary_original": "OpenAI has introduced Codex Security, an application security agent that analyzes a codebase, validates likely vulnerabilities, and proposes fixes that developers can review before patching. The product is now rolling out in research preview to ChatGPT Enterprise, Business, and Edu customers through Codex web. Why OpenAI Built Codex Security? The product is designed for a [&#8230;]\nThe post OpenAI Introduces Codex Security in Research Preview for Context-Aware Vulnerability Detection, Validation...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-21.png",
+    "published": "2026-03-06T20:49:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "98b8e045128e",
+    "title": "Google AI Releases Android Bench: An Evaluation Framework and Leaderboard for LLMs in Android Development",
+    "url": "https://www.marktechpost.com/2026/03/06/google-ai-releases-android-bench-an-evaluation-framework-and-leaderboard-for-llms-in-android-development/",
+    "summary_original": "Google has officially released Android Bench, a new leaderboard and evaluation framework designed to measure how Large Language Models (LLMs) perform specifically on Android development tasks. The dataset, methodology, and test harness have been made open-source and are publicly available on GitHub. Benchmark Methodology and Task Design General coding benchmarks often fail to capture the [&#8230;]\nThe post Google AI Releases Android Bench: An Evaluation Framework and Leaderboard for LLMs in Andr...",
+    "thumbnail": "",
+    "published": "2026-03-06T19:53:05+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "535ed5c36851",
+    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "summary_original": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+    "thumbnail": "",
+    "published": "2026-03-06T19:50:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f5def744dc07",
+    "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+    "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+    "summary_original": "The long, strange trip of a large assembly of advanced iOS exploits.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iphone-14-1152x648.jpg",
+    "published": "2026-03-06T19:41:33+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "36b89f761bdd",
+    "title": "Is the Pentagon allowed to surveil Americans with AI?",
+    "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    "summary_original": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-06T19:21:22+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "943736329659",
+    "title": "OpenAI launches Codex Security, an AI agent designed to detect vulnerabilities in software projects",
+    "url": "https://the-decoder.com/openai-launches-codex-security-an-ai-agent-designed-to-detect-vulnerabilities-in-software-projects/",
+    "summary_original": "OpenAI's new Codex Security agent automatically hunts for vulnerabilities in code and has already found gaps in OpenSSH and Chromium.\nThe article OpenAI launches Codex Security, an AI agent designed to detect vulnerabilities in software projects appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_cybersecurity-Agent.png",
+    "published": "2026-03-06T19:15:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3fc5d2ef822e",
+    "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+    "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "summary_original": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+    "thumbnail": "",
+    "published": "2026-03-06T19:00:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b0e45d617eec",
+    "title": "プライバシー重視をうたうメールサービス「Proton Mail」が個人情報をスイス政府に提供、FBIの手にまで渡ったことが判明",
+    "url": "https://gigazine.net/news/20260306-proton-mail-helped-fbi/",
+    "summary_original": "Proton Mailはプライバシー重視をうたうメールサービスであり、エンドツーエンドの暗号化やスイスの厳格なプライバシー法に準拠していることをアピールしています。ところが、Proton Mailがスイス当局にユーザーの支払いデータを提供し、それがアメリカ連邦捜査局(FBI)の手に渡っていたことが、海外メディアである404 Mediaの調査で明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-06T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d2442ef80ceb",
+    "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
+    "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-06T18:56:10+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "83a9b533f3a5",
+    "title": "2026年3月6日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260306-headline/",
+    "summary_original": "『ソードアート・オンライン』シリーズでデスゲームの舞台となった浮遊城「アインクラッド」を再現した家庭用ゲーム『Echoes of Aincrad』の情報が解禁されました。オリジナルのキャラクターを作成してダンジョンに挑むことができるほか、「デスゲームモード」により作中さながらの緊張感を味わうこともできます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-06T18:52:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e8a2adb115e3",
+    "title": "バーレーンのAmazonデータセンターがドローン攻撃の標的になったのは「敵の軍事・諜報活動を支援している」とイランの革命防衛隊が判断したから",
+    "url": "https://gigazine.net/news/20260306-bahrain-aws-facilities-attacked/",
+    "summary_original": "イスラエルとアメリカによるイランに対する攻撃を受けて、イランは多方面に対する反撃を行っています。このうち、バーレーンにあったAmazonのデータセンターへの攻撃について、イランのイスラム革命防衛隊は「敵の軍事・諜報活動を支援する役割を果たしていることを特定した上での対応」と説明しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-06T18:50:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9bbe60328591",
+    "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+    "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+    "summary_original": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-03-06T18:09:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d55b815a1ace",
+    "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+    "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+    "summary_original": "The Pentagon has officially&#160;designated&#160;Anthropic&#160;a supply-chain risk&#160;after the two failed to agree on how much control the military should have over its AI models,&#160;including&#160;its&#160;use in&#160;autonomous weapons and mass domestic surveillance. As&#160;Anthropic’s&#160;$200 million contract fell apart, the DoD turned to OpenAI instead,&#160;which&#160;accepted and&#160;then watched&#160;ChatGPT uninstalls surge 295%. As the stakes keep rising, the question&#160;rem...",
+    "thumbnail": "",
+    "published": "2026-03-06T18:01:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "853a47105d37",
+    "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+    "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "summary_original": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+    "thumbnail": "",
+    "published": "2026-03-06T17:56:07+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4c6fe5e5a40c",
+    "title": "Anthropic officially deemed supply chain risk, CEO Amodei announces legal challenge",
+    "url": "https://the-decoder.com/anthropic-officially-deemed-supply-chain-risk-ceo-amodei-announces-legal-challenge/",
+    "summary_original": "The Pentagon formally notified Anthropic on March 4 that the company and its products have been designated as a supply chain risk to US national security.\nThe article Anthropic officially deemed supply chain risk, CEO Amodei announces legal challenge appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png",
+    "published": "2026-03-06T16:40:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5a85066b6e8c",
+    "title": "みずほFGの自社LLM、「GPT-5.2と同精度」でオンプレ運用可能　「Qwen3-32B」ベース",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news115.html",
+    "summary_original": "機密性の高いデータもGPT-5.2同等のAI処理を安全に適用できるとしている。",
+    "thumbnail": "",
+    "published": "2026-03-06T16:25:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d549f6292cdd",
+    "title": "Softbank seeks record $40 billion loan to fund OpenAI stake",
+    "url": "https://the-decoder.com/softbank-seeks-record-40-billion-loan-to-fund-openai-stake/",
+    "summary_original": "A $40 billion loan for a single bet on OpenAI. Softbank is taking what the AI industry has been doing for a while to its logical extreme: financing the boom on credit.\nThe article Softbank seeks record $40 billion loan to fund OpenAI stake appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/ai_bubble.png",
+    "published": "2026-03-06T16:10:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "aac0d810e6bc",
+    "title": "Grammarly is using our identities without permission",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+    "summary_original": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-06T15:58:24-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b134b253bff3",
+    "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
+    "url": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
+    "summary_original": "We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-06-at-1.32.13%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-06T14:05:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7cbfd2106c0a",
+    "title": "OpenAI's new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning",
+    "url": "https://the-decoder.com/openais-new-gpt-5-4-model-powers-chatgpt-for-excel-with-finance-optimized-reasoning/",
+    "summary_original": "OpenAI is launching \"ChatGPT for Excel,\" a beta add-in that lets users create, edit, and analyze spreadsheets through natural language.\nThe article OpenAI&#039;s new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/06/chatgpt_enterprise_illustration-1.png",
+    "published": "2026-03-06T13:45:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8a3e4d168b00",
+    "title": "日本生命の米国法人、OpenAIを提訴　ChatGPTが「法律業務」",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news098.html",
+    "summary_original": "日本生命保険の米国法人は、対話型のAI「ChatGPT」が弁護士資格を持たずに法律業務を取り扱い、保険金の元受給者が和解合意を破って訴訟を乱発するのを手助けしたとして、ChatGPTを運営する米OpenAIを米国イリノイ州シカゴの連邦地裁に提訴した。",
+    "thumbnail": "",
+    "published": "2026-03-06T13:40:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ca1b100f52e3",
+    "title": "“政府認定AI”選定へ　デジタル庁、国産7モデルを検証　全府省庁18万人に展開",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news097.html",
+    "summary_original": "デジタル庁は3月6日、政府調達を前提に、生成AIプラットフォーム「源内」で試用する国産LLM（大規模言語モデル）を発表した。NTTグループの「tsuzumi 2」、ソフトバンクの「Sarashina2 mini」など7モデルを選定。5月から2027年3月にかけて、これらの利用を前提に、源内を全府省庁の職員約18万人に展開。実用性を検証していく。",
+    "thumbnail": "",
+    "published": "2026-03-06T13:26:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "399780a3ea55",
+    "title": "Scaling intelligent automation without breaking live workflows",
+    "url": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
+    "summary_original": "Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases. Speaking alongside representatives from NatWest Group, Air Liquide, and AXA XL, Promise Akwaowo, Process Automation Analyst at Royal Mail, grounded the [&#8230;]\nThe post Scaling intelligent automation without breaking live workflows appe...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image.jpeg",
+    "published": "2026-03-06T13:15:41+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "0f572daeb8bf",
+    "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+    "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review&#8217;s newsroom has been ahead of the curve, tracking the developments in AI that matter and&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/03/mittechreview_scamcompounds_final_opener2.jpg?w=3000",
+    "published": "2026-03-06T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "923166622e56",
+    "title": "Oracle to cut thousands of jobs as AI spending drains cash",
+    "url": "https://the-decoder.com/oracle-to-cut-thousands-of-jobs-as-ai-spending-drains-cash/",
+    "summary_original": "Oracle is planning to cut thousands of jobs to manage the massive costs of its AI data center expansion, Bloomberg reports.\nThe article Oracle to cut thousands of jobs as AI spending drains cash appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/06/openai_oracle-scaled.jpg",
+    "published": "2026-03-06T12:45:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c87b828f10b9",
+    "title": "GMOとPFNが資本提携、合弁会社を設立　「国産AI環境」提供へ",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news085.html",
+    "summary_original": "Preferred Networksは、GMOインターネットグループと同社傘下のGMOサイバーセキュリティ byイエラエと資本業務提携し、合弁会社「GMO Preferred Security」を設立したと発表した。",
+    "thumbnail": "",
+    "published": "2026-03-06T12:19:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8517f35a892d",
+    "title": "「国産四足歩行ロボ」でクマを追い払う　東大発スタートアップのねらい　イメージは「エヴァ」？",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news034.html",
+    "summary_original": "国産の四足歩行ロボットでクマ被害を未然に防ぐプロジェクト「KUMAKARA MAMORU」。同プロジェクトを手掛けるHighlandersの代表に、詳細や今後の展望などを聞いた。",
+    "thumbnail": "",
+    "published": "2026-03-06T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b06f54ac4981",
+    "title": "Codex Security: now in research preview",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "summary_original": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "thumbnail": "",
+    "published": "2026-03-06T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6267c2357116",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "url": "https://openai.com/index/descript",
+    "summary_original": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "thumbnail": "",
+    "published": "2026-03-06T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "fa38b90f05f9",
+    "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
+    "url": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
+    "summary_original": "Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems that were never designed to communicate with each other. Every time a new deal crosses a firm’s desk, analysts start from scratch, even when the answers [&#8230;]\nThe post The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-06T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "a816e227c891",
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "url": "https://openai.com/index/balyasny-asset-management",
+    "summary_original": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "thumbnail": "",
+    "published": "2026-03-06T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "a20e3b405e72",
+    "title": "Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP)",
+    "url": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/",
+    "summary_original": "Liquid AI has released LFM2-24B-A2B, a model optimized for local, low-latency tool dispatch, alongside LocalCowork, an open-source desktop agent application available in their Liquid4All GitHub Cookbook. The release provides a deployable architecture for running enterprise workflows entirely on-device, eliminating API calls and data egress for privacy-sensitive environments. Architecture and Serving Configuration To achieve low-latency execution [&#8230;]\nThe post Liquid AI Releases LocalCowork ...",
+    "thumbnail": "https://www.youtube.com/embed/WnxxW2jTDgE",
+    "published": "2026-03-06T05:45:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1251842dc0f3",
+    "title": "A Coding Guide to Build a Scalable End-to-End Machine Learning Data Pipeline Using Daft for High-Performance Structured and Image Data Processing",
+    "url": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/",
+    "summary_original": "In this tutorial, we explore how we use Daft as a high-performance, Python-native data engine to build an end-to-end analytical pipeline. We start by loading a real-world MNIST dataset, then progressively transform it using UDFs, feature engineering, aggregations, joins, and lazy execution. Also, we demonstrate how to seamlessly combine structured data processing, numerical computation, and [&#8230;]\nThe post A Coding Guide to Build a Scalable End-to-End Machine Learning Data Pipeline Using Daft...",
+    "thumbnail": "",
+    "published": "2026-03-05T23:07:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "506e77b1efed",
+    "title": "Google AI Releases a CLI Tool (gws) for Workspace APIs: Providing a Unified Interface for Humans and AI Agents",
+    "url": "https://www.marktechpost.com/2026/03/05/google-ai-releases-a-cli-tool-gws-for-workspace-apis-providing-a-unified-interface-for-humans-and-ai-agents/",
+    "summary_original": "Integrating Google Workspace APIs—such as Drive, Gmail, Calendar, and Sheets—into applications and data pipelines typically requires writing boilerplate code to handle REST endpoints, pagination, and OAuth 2.0 flows. Google AI team just released a CLI Tool (gws) for Google Workspace. The open-source googleworkspace/cli (invoked via the gws command) provides a unified, dynamic command-line interface to [&#8230;]\nThe post Google AI Releases a CLI Tool (gws) for Workspace APIs: Providing a Unified ...",
+    "thumbnail": "",
+    "published": "2026-03-05T22:50:19+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "86ecd82af583",
+    "title": "Amazon appears to be down, with over 20,000 reported problems",
+    "url": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
+    "summary_original": "Problems viewing products and checking out.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-535059003-1024x648.jpg",
+    "published": "2026-03-05T21:06:05+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "0466614fcd93",
+    "title": "Trump gets data center companies to pledge to pay for power generation",
+    "url": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
+    "summary_original": "With no enforcement and questionable economics, it may not make a difference.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2258665361-1024x648.jpg",
+    "published": "2026-03-05T18:41:28+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f12077cc6f46",
+    "title": "The Pentagon formally labels Anthropic a supply-chain risk",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+    "summary_original": "After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk,\" escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first reported by The Wall Street Journal on Thursday, citing one source familiar, will [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-05T18:02:22-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "be7772b977cf",
+    "title": "The Download: an AI agent’s hit piece, and preventing lightning",
+    "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/05/open-closed2.jpeg",
+    "published": "2026-03-05T14:28:46+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
