@@ -1,0 +1,252 @@
+[
+  {
+    "id": "a8253f88b626",
+    "title": "自分のPCのChrome拡張は安全か？　話題沸騰のAI「Claude Cowork」で権限と挙動をチェックしてみた",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/09/news010.html",
+    "summary_original": "Chrome拡張機能は便利ですが、安全なのか気になったことはないでしょうか。私はAIエージェント「Claude Cowork」を使い、自分のPCに入っている拡張機能をセキュリティ解析してみました。すると、AIだけで“自分のPCを監査する”新しい使い方が見えてきました。その手順とポイントを紹介します。",
+    "thumbnail": "",
+    "published": "2026-03-09T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "68a406f5da8c",
+    "title": "イランのハメネイ師を題材にした賭けをめぐり予測市場プラットフォームのKalshiが集団訴訟に直面",
+    "url": "https://gigazine.net/news/20260308-kalshi-sued-iran-bet/",
+    "summary_original": "アメリカとイスラエルによるイランへの攻撃は予測市場のPolymarketで830億円の取引を生んだといわれていますが、同じく予測市場のKalshiではイランの最高指導者・ハメネイ師を題材にした賭けを無効にしたことで、ユーザーから訴訟を起こされています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-08T23:38:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "887c1c359f11",
+    "title": "無料で使えるChromeの内蔵AI翻訳機能で投稿を自動翻訳できるWordPressプラグイン「Multilingual AI Translator」",
+    "url": "https://gigazine.net/news/20260308-linguator-multilingual-ai-translation/",
+    "summary_original": "WordPressで多言語化を実現するための翻訳用のプラグインは多くありますが、プラグインや連係する翻訳サービスが有料などコストがかかるケースが多くあります。そこで、Google ChromeのBuilt-in AI APIsを利用することで無料で翻訳ができ、さらに複数投稿の複数言語への一括変換や検索エンジン最適化などの機能もあるWordPressプラグイン「Multilingual AI Translator」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-08T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1b218d0cdf50",
+    "title": "宇宙にデータセンターを建設することはなぜ困難なのか？",
+    "url": "https://gigazine.net/news/20260308-physics-of-data-center-in-space/",
+    "summary_original": "イーロン・マスク率いるSpaceXは100万基の太陽光発電衛星で構成されたデータセンターを低軌道に打ち上げる計画を立てています。他にもジェフ・ベゾスのBlue OriginやNVIDIAの支援するスタートアップも同様の計画を立てており、宇宙にデータセンターが建設される未来もかなり近づいているといえます。Booking.comのシニアスケーラビリティエンジニアであるクリスチャン・コーントップ氏が、宇宙にデータセンターを建設する際にどんなことが問題となるのかを自身のブログで解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-08T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b1af8d78d32c",
+    "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+    "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+    "summary_original": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+    "thumbnail": "",
+    "published": "2026-03-08T20:14:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3db6bdcc0936",
+    "title": "Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regression",
+    "url": "https://www.marktechpost.com/2026/03/08/beyond-accuracy-quantifying-the-production-fragility-caused-by-excessive-redundant-and-low-signal-features-in-regression/",
+    "summary_original": "At first glance, adding more features to a model seems like an obvious way to improve performance. If a model can learn from more information, it should be able to make better predictions. In practice, however, this instinct often introduces hidden structural risks. Every additional feature creates another dependency on upstream data pipelines, external systems, [&#8230;]\nThe post Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Reg...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-2.png",
+    "published": "2026-03-08T19:07:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "02f7c73256b1",
+    "title": "システムのメモリ・CPU・GPUに合わせて適切なAIモデルを教えてくれるターミナルツール「llmfit」",
+    "url": "https://gigazine.net/news/20260308-llmfit/",
+    "summary_original": "生成AIの話題に欠くことのない昨今、ある程度のパワーを有するPCが手元にある方は一度ならず「ローカルで生成AIを動かしてみたい」という思いに駆られた事があるのではないでしょうか。とはいえ余程AIモデルに関する知識が深くなければどのAIモデルなら自分の環境で快適に動作させられるのか把握するのは困難です。ネットなどで相談しようにもPCのスペックが違えばどう影響するかまで考慮して助言をくれる人はそういないはず。「llmfit」は実行PCの環境に合わせてどのAIモデルなら快適に動作するのかを教えてくれる夢のようなツールです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-08T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d34c0d06243f",
+    "title": "OpenAIのロボット部門責任者がアメリカ国防総省との物議をかもす合意に反発して退職",
+    "url": "https://gigazine.net/news/20260308-openai-robotics-lead-quits-pentagon-deal/",
+    "summary_original": "OpenAIでロボット工学チームを率いてきたケイトリン・カリノウスキー氏が、同社を退職したことを発表しました。OpenAIがアメリカ国防総省とのAI利用契約に合意したことが、退職の理由であると語っています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-08T18:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3866adf027ef",
+    "title": "Luma AI's new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks",
+    "url": "https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/",
+    "summary_original": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.\nThe article Luma AI&#039;s new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/luma_1_dog.jpg",
+    "published": "2026-03-08T17:08:52+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "24aef19b03ac",
+    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+    "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+    "summary_original": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+    "thumbnail": "",
+    "published": "2026-03-08T16:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ad041edb56fd",
+    "title": "LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier",
+    "url": "https://the-decoder.com/llm-text-data-is-drying-up-but-meta-points-to-unlabeled-video-as-the-next-massive-training-frontier/",
+    "summary_original": "A research team from Meta FAIR and New York University trained a multimodal AI model from scratch and found that several common assumptions about how these models should be built don't hold up.\nThe article LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/beyond-language-modeling-text-image-training-data-nano-banana-pro.jpg",
+    "published": "2026-03-08T14:21:54+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bb09439241a7",
+    "title": "Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that",
+    "url": "https://the-decoder.com/hallucinated-references-are-passing-peer-review-at-top-ai-conferences-and-a-new-open-tool-wants-to-fix-that/",
+    "summary_original": "Fake citations are slipping past peer review at top AI conferences, and commercial LLMs can't spot the fakes they generate. A new open-source tool called CiteAudit allegedly catches what GPT, Gemini, and Claude miss.\nThe article Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/citeaudit-hallucinated-references-in-scientific-papers-nano-banana-pro.jpg",
+    "published": "2026-03-08T09:00:25+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "33a7ed413452",
+    "title": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation",
+    "url": "https://the-decoder.com/openais-hardware-and-robotics-chief-quits-over-military-deal-she-says-lacked-enough-deliberation/",
+    "summary_original": "OpenAI's head of robotics, Caitlin Kalinowski, is leaving the company over its Pentagon deal, citing concerns about mass surveillance and lethal autonomy.\nThe article OpenAI&#039;s hardware and robotics chief quits over military deal she says lacked enough deliberation appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_logo_wall.png",
+    "published": "2026-03-08T08:11:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ef6de2be5ec6",
+    "title": "AI agent benchmarks obsess over coding while ignoring 92% of the US labor market, study finds",
+    "url": "https://the-decoder.com/ai-agent-benchmarks-obsess-over-coding-while-ignoring-92-of-the-us-labor-market-study-finds/",
+    "summary_original": "A large-scale study shows that AI agent development focuses almost entirely on programming tasks, ignoring the vast majority of the labor market.\nThe article AI agent benchmarks obsess over coding while ignoring 92% of the US labor market, study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/how-well-do-agents-work-world-nano-banana-pro.jpg",
+    "published": "2026-03-08T07:15:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f9d658e997ea",
+    "title": "Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation",
+    "url": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
+    "summary_original": "In this tutorial, we build a complete cognitive blueprint and runtime agent framework. We define structured blueprints for identity, goals, planning, memory, validation, and tool access, and use them to create agents that not only respond but also plan, execute, validate, and systematically improve their outputs. Along the tutorial, we show how the same runtime [&#8230;]\nThe post Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools an...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f511.png",
+    "published": "2026-03-08T06:46:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c6a734ac2cd5",
+    "title": "A roadmap for AI, if anyone will listen",
+    "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+    "summary_original": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+    "thumbnail": "",
+    "published": "2026-03-08T06:05:26+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b302a4fe7ade",
+    "title": "How to Build Progress Monitoring Using Advanced tqdm for Async, Parallel, Pandas, Logging, and High-Performance Workflows",
+    "url": "https://www.marktechpost.com/2026/03/07/how-to-build-progress-monitoring-using-advanced-tqdm-for-async-parallel-pandas-logging-and-high-performance-workflows/",
+    "summary_original": "In this tutorial, we explore tqdm in depth and demonstrate how we build powerful, real-time progress tracking into modern Python workflows. We begin with nested progress bars and manual progress control, then move into practical scenarios such as streaming downloads, pandas data processing, parallel execution, structured logging, and asynchronous tasks. Throughout this tutorial, we focus [&#8230;]\nThe post How to Build Progress Monitoring Using Advanced tqdm for Async, Parallel, Pandas, Logging,...",
+    "thumbnail": "",
+    "published": "2026-03-08T04:18:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0b2cdfdb4a06",
+    "title": "Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead",
+    "url": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/",
+    "summary_original": "What if the AI industry is optimizing for a goal that cannot be clearly defined or reliably measured? That is the central argument of a new paper by Yann LeCun, and his team, which claims that Artificial General Intelligence has become an overloaded term used in inconsistent ways across academia and industry. The research team [&#8230;]\nThe post Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-03-08T03:57:57+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "993358c9ffc0",
+    "title": "Google just gave Sundar Pichai a $692M pay package",
+    "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+    "summary_original": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+    "thumbnail": "",
+    "published": "2026-03-08T00:20:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f4bed433cfed",
+    "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+    "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+    "summary_original": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+    "thumbnail": "",
+    "published": "2026-03-07T22:56:31+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fe4537d0633a",
+    "title": "The OpenClaw superfan meetup serves optimism and lobster",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
+    "summary_original": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268393_Clawcon_HField_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-07T09:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d78d4b291c04",
+    "title": "AIの常時稼働によるトラフィック激増にどう対応するか　NEC・東大・NTTが技術を結集",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news016.html",
+    "summary_original": "NECと東京大学、NTTは、6G/IOWN基盤でAIエージェント向け技術を統合したと発表した。大容量データの通信と計算を効率化し、リアルタイムAR支援の実証で遅延抑制と精度維持を確認した。",
+    "thumbnail": "",
+    "published": "2026-03-07T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "da329fd771c0",
+    "title": "米国防総省、Anthropicを「サプライチェーンリスク」に正式指定　法廷で争うとアモデイCEO",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/07/news030.html",
+    "summary_original": "Anthropicのダリオ・アモデイCEOは、米国防総省から「サプライチェーンリスク」認定書簡を受け取ったと発表した。監視や自律型兵器へのAI利用制限を巡り交渉が膠着し、実質的な取引排除処分を受けた形だ。アモデイ氏は、この認定が法的に不当だとし、法廷で争う姿勢を改めて示した。",
+    "thumbnail": "",
+    "published": "2026-03-07T07:46:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b0ba5466e34d",
+    "title": "45％が「週6日相当勤務」　セキュリティ責任者のやる気を削がない組織運用とは？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news023.html",
+    "summary_original": "AIの発展に伴い、セキュリティリーダーの業務には転換点が訪れている。精神的なプレッシャーを感じやすい彼らの業務は改善されるのか、それともさらなる負担増大が発生するのか。",
+    "thumbnail": "",
+    "published": "2026-03-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "45a0e3887e33",
+    "title": "Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And Seamless PyTorch Edge Deployment Upgrades",
+    "url": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/",
+    "summary_original": "Google has officially released TensorFlow 2.21. The most significant update in this release is the graduation of LiteRT from its preview stage to a fully production-ready stack. Moving forward, LiteRT serves as the universal on-device inference framework, officially replacing TensorFlow Lite (TFLite). This update streamlines the deployment of machine learning models to mobile and edge [&#8230;]\nThe post Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And...",
+    "thumbnail": "",
+    "published": "2026-03-07T04:32:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
