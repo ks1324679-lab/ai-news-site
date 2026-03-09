@@ -1,0 +1,382 @@
+[
+  {
+    "id": "2c56d776a478",
+    "title": "Anthropic・Google・OpenAI・xAIが開発したAIモデルは会話を重ねると学術不正に協力してしまうという調査結果",
+    "url": "https://gigazine.net/news/20260310-afim-llm-academic-fraud/",
+    "summary_original": "対話型AIモデルは論文の要約や文章作成の補助に使われる一方で、学術不正につながる依頼にどこまで応じてしまうのかも問題になっています。科学誌のNatureが取り上げたベンチマーク「AFIM」では、主要な13モデルを対象にプレプリントサーバー「arXiv」への不適切な投稿支援などを想定した依頼を段階的に与えたところ、単発の依頼なら拒否できるAIモデルであっても、複数ターンのやりとりを行うと一部の依頼に応じてしまうという判定結果が出たと報告されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-10T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f14aefa68457",
+    "title": "複数のAIエージェントをどう組み合わせる？　3つのワークフローパターンをAnthropicが解説",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/10/news017.html",
+    "summary_original": "複数のAIエージェントで問題を解決する場合、単に丸投げするのではなく、AIエージェントが活躍できるような仕組みが必要です。そのために必要な3つのワークフローパターンをAnthropicが公開したブログ記事を基に紹介します。",
+    "thumbnail": "",
+    "published": "2026-03-10T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3844a70bb30e",
+    "title": "【無料】Anthropic公式「エージェントスキル入門」講座が公開　Claude Codeでの活用法が分かる22分の動画",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/10/news010.html",
+    "summary_original": "Anthropicのオンライン講座「Anthropic Academy」に、Claude Codeの重要機能「エージェントスキル（Agent Skills）」を解説する新コースが追加された。約22分の動画で、AIエージェントの新しい開発スタイルを学べる講座の内容を整理し、技術の背景も含めて紹介する。",
+    "thumbnail": "",
+    "published": "2026-03-10T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "37d9d77788d2",
+    "title": "地球温暖化が2015年以降急激に加速していることがエルニーニョ・火山噴火・太陽活動の影響を除いた分析で明らかに",
+    "url": "https://gigazine.net/news/20260309-significant-acceleration-of-global-warming/",
+    "summary_original": "地球温暖化のスピードは1970年代以降、数十年にわたってほぼ横ばいであると考えられてきましたが、近年は科学者らが「地球温暖化は加速しているのかどうか」について議論し始めています。ドイツのポツダム気候影響研究所などの研究者らが、エルニーニョ現象や火山噴火といった地球温暖化に影響する要因を排除した分析により、2015年以降は地球温暖化が著しく加速していることを確認しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-09T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "52269344aa04",
+    "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+    "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+    "summary_original": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+    "thumbnail": "",
+    "published": "2026-03-09T21:15:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cfa16c9e5d9f",
+    "title": "中国のスマホ市場でメモリ不足の深刻化に伴い過去最大規模の価格上昇が発生、新製品のリリースを一時停止するメーカーも出現",
+    "url": "https://gigazine.net/news/20260309-china-memory-cost-smartphone/",
+    "summary_original": "中国のスマートフォン市場に「前例のない」価格上昇の波が訪れ、新機種だけでなく旧機種も値上げされる可能性があるとみられています。主にメモリの不足が原因とのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-09T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7c73dc8e3c16",
+    "title": "DeNAが“AI社員”を育成中　AIエージェント「OpenClaw」活用　南場会長「毎朝けんか」",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/09/news106.html",
+    "summary_original": "DeNAの南場智子代表取締役会長は、自律的にタスクをこなす独自のAIエージェントを開発中と明かした。同社のIT本部がオープンソースのAIエージェント開発基盤「OpenClaw」で作成しているもので、名前は「Lemonクン」。秘書やチームの一員としての活用を目指す。",
+    "thumbnail": "",
+    "published": "2026-03-09T20:54:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "81ba6863d7a6",
+    "title": "Andrew Ng’s Team Releases Context Hub: An Open Source Tool that Gives Your Coding Agent the Up-to-Date API Documentation It Needs",
+    "url": "https://www.marktechpost.com/2026/03/09/andrew-ngs-team-releases-context-hub-an-open-source-tool-that-gives-your-coding-agent-the-up-to-date-api-documentation-it-needs/",
+    "summary_original": "In the fast-moving world of agentic workflows, the most powerful AI model is still only as good as its documentation. Today, Andrew Ng and his team at DeepLearning.AI officially launched Context Hub, an open-source tool designed to bridge the gap between an agent’s static training data and the rapidly evolving reality of modern APIs. You [&#8230;]\nThe post Andrew Ng&#8217;s Team Releases Context Hub: An Open Source Tool that Gives Your Coding Agent the Up-to-Date API Documentation It Needs appea...",
+    "thumbnail": "",
+    "published": "2026-03-09T20:47:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "139d628d700e",
+    "title": "Anthropic Introduces Code Review via Claude Code to Automate Complex Security Research Using Advanced Agentic Multi-Step Reasoning Loops",
+    "url": "https://www.marktechpost.com/2026/03/09/anthropic-introduces-code-review-via-claude-code-to-automate-complex-security-research-using-advanced-agentic-multi-step-reasoning-loops/",
+    "summary_original": "In the frantic arms race of &#8216;AI for code,&#8217; we’ve moved past the era of the glorified autocomplete. Today, Anthropic is double-downing on a more ambitious vision: the AI agent that doesn&#8217;t just write your boilerplate, but actually understands why your Kubernetes cluster is screaming at 3:00 AM. With the recent launch of Claude Code [&#8230;]\nThe post Anthropic Introduces Code Review via Claude Code to Automate Complex Security Research Using Advanced Agentic Multi-Step Reasoning...",
+    "thumbnail": "https://www.youtube.com/embed/RKsADl0ZC3Y",
+    "published": "2026-03-09T20:28:44+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d2ecadd30f3d",
+    "title": "動画も撮影できるチェキ「instax mini Evo Cinema」でレトロな動画を記録してみたよレビュー",
+    "url": "https://gigazine.net/news/20260309-instax-mini-evo-cinema-example/",
+    "summary_original": "「instax mini Evo Cinema」は動画も撮影できるチェキで、「動画にアクセスできるQRコード付きの写真」を印刷して飾ったり配ったりできます。そんなinstax mini Evo Cinemaを借りられたので、どんな動画を撮影できるのか確かめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-09T20:14:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4ae0896d6692",
+    "title": "2026年3月9日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260309-headline/",
+    "summary_original": "総合エンタメイベント『マチ★アソビ vol.30』の開催日程が2026年5月16日(土)・17日(日)の2日間であることが発表されました。今回は『鬼滅の刃』のスペシャルトークステージや劇伴・挿入歌スペシャルライブや『テイルズオブ』シリーズ30周年イベント企画をはじめ、過去最高となる100以上のステージとブース数が予定されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-09T20:11:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1c609528c7eb",
+    "title": "Anthropic launches code review tool to check flood of AI-generated code",
+    "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "summary_original": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+    "thumbnail": "",
+    "published": "2026-03-09T19:41:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4c322176f63c",
+    "title": "OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform",
+    "url": "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/",
+    "summary_original": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform.\nThe article OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_promptfoo-2.png",
+    "published": "2026-03-09T19:10:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "161ec7fec5fa",
+    "title": "校務に生成AI活用する学校は2割　「学校だより」執筆も　文科省のデジタル化調査で判明",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/09/news104.html",
+    "summary_original": "業務に生成AIを利用している学校の割合が17.2％に上ることが、文部科学省の学校のデジタル化に関する調査で明らかになった。家庭に配布する「学校だより」のたたき台を作らせたり、授業で集めた子供の感想文を分析させたりするほか、子供の生活態度や長所などを記載する通知表の所見欄の作成に使うケースもあった。",
+    "thumbnail": "",
+    "published": "2026-03-09T18:43:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e810070803cb",
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-09T18:36:33+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c1e86f8f4d2f",
+    "title": "Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and Excel",
+    "url": "https://the-decoder.com/microsoft-brings-anthropics-claude-cowork-into-copilot-to-run-tasks-across-outlook-teams-and-excel/",
+    "summary_original": "With Copilot Cowork, Microsoft taps Anthropic's Claude instead of OpenAI to let AI handle tasks across Outlook, Teams, and Excel autonomously.\nThe article Microsoft brings Anthropic&#039;s Claude Cowork into Copilot to run tasks across Outlook, Teams, and Excel appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Copilot-Cowork-hero.webp",
+    "published": "2026-03-09T17:51:16+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e4d4c1d770d4",
+    "title": "OpenAI acquires Promptfoo to secure its AI agents",
+    "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "summary_original": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+    "thumbnail": "",
+    "published": "2026-03-09T17:49:04+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5d97b4682961",
+    "title": "Anthropic sues Defense Department over supply-chain risk designation",
+    "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+    "summary_original": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+    "thumbnail": "",
+    "published": "2026-03-09T17:25:40+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "58aea3888e76",
+    "title": "Anthropic's groundbreaking lawsuit challenges the government's power to punish AI safety decisions",
+    "url": "https://the-decoder.com/anthropics-groundbreaking-lawsuit-challenges-the-governments-power-to-punish-ai-safety-decisions/",
+    "summary_original": "Anthropic is suing 17 US federal agencies. The 48-page complaint reveals how deeply Claude is already embedded in classified Pentagon systems and how the government pressured the company with contradictory threats when it refused to drop its AI safety guardrails.\nThe article Anthropic&#039;s groundbreaking lawsuit challenges the government&#039;s power to punish AI safety decisions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_logo_art-1.png",
+    "published": "2026-03-09T17:15:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5e138070df1f",
+    "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+    "summary_original": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-09T16:45:24-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "cc1497b4633f",
+    "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+    "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+    "summary_original": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+    "thumbnail": "",
+    "published": "2026-03-09T15:58:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4ea2ab0d85fd",
+    "title": "How AI is turning the Iran conflict into theater",
+    "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”&#160; The author of that post on X was referring to an online intelligence dashboard following&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-09T15:11:01+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "73a9e6ad839f",
+    "title": "「なんJ語」うますぎAI現る→ワイ、悩み相談を“なんJスレ風”にして救われる",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/09/news076.html",
+    "summary_original": "先週は、米OpenAIのAIモデル最新版「GPT-5.4」もリリースされた。推論やコーディング力だけでなく、日本語を操る力も向上しているようで、「GPT-5.4に小説を書かせたら面白かった」などと話題になっている。",
+    "thumbnail": "",
+    "published": "2026-03-09T14:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "836fb26b4cc5",
+    "title": "Millions already use AI chatbots for financial advice, but experts warn of clear limits",
+    "url": "https://the-decoder.com/millions-already-use-ai-chatbots-for-financial-advice-but-experts-warn-of-clear-limits/",
+    "summary_original": "Millions of people are already using chatbots like ChatGPT for retirement planning, the Financial Times reports.\nThe article Millions already use AI chatbots for financial advice, but experts warn of clear limits appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/10/anthropic_data_analysis.png",
+    "published": "2026-03-09T14:01:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bc2b231ffb1d",
+    "title": "The usability imperative for securing digital asset devices",
+    "url": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
+    "summary_original": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be found, and the secure design&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/X2A9908.jpg?w=3000",
+    "published": "2026-03-09T14:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7a2197e6b4f7",
+    "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+    "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515040-thumb.jpeg?w=2910",
+    "published": "2026-03-09T13:57:44+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cda01cd97110",
+    "title": "Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents",
+    "url": "https://the-decoder.com/study-warns-of-ai-brain-fry-as-workers-hit-cognitive-limits-overseeing-ai-agents/",
+    "summary_original": "A BCG study of nearly 1,500 workers shows that simultaneously overseeing too many AI tools triggers cognitive exhaustion. The consequences are measurable, from higher error rates to increased intent to quit.\nThe article Study warns of &quot;AI Brain Fry&quot; as workers hit cognitive limits overseeing AI agents appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Brain-Fry.png",
+    "published": "2026-03-09T13:51:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8be86e360945",
+    "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
+    "url": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
+    "summary_original": "AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction. On March 3, Boston-based Gradient AI securedgrowth capital financing from CIBC Innovation Banking, a lender with over 25 years of experience backing growth-stage technology companies and [&#8230;]\nThe post AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it appeared ...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png",
+    "published": "2026-03-09T12:51:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5f26fbf7a855",
+    "title": "UK sovereign AI fund to build up domestic computing infrastructure",
+    "url": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
+    "summary_original": "The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT. James Wise, Partner at Balderton Capital, chairs the function to coordinate efforts across [&#8230;]\nThe post UK sovereign AI fund to build up domestic computing infrastructure appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png",
+    "published": "2026-03-09T12:46:13+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "f18c428d675e",
+    "title": "Anthropic is suing the Department of Defense",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+    "summary_original": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-09T12:37:42-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9b9dd2d2c4d7",
+    "title": "X says you can block Grok from editing your photos",
+    "url": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
+    "summary_original": "X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-09T11:24:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f096a3289ec1",
+    "title": "OpenAI to acquire Promptfoo",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "summary_original": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "thumbnail": "",
+    "published": "2026-03-09T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "4c2b0ddc30ea",
+    "title": "City Union Bank launches AI centre to support banking operations",
+    "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
+    "summary_original": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence in [&#8230;]\nThe post City Union Bank launches AI centre to support banking operations appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-03-09T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "e1bc427d0cb2",
+    "title": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+    "url": "https://www.marktechpost.com/2026/03/09/the-bayesian-upgrade-why-google-ais-new-teaching-method-is-the-key-to-llm-reasoning/",
+    "summary_original": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of &#8216;probabilistic reasoning&#8217;—the ability to maintain and update a [&#8230;]\nThe post The &#8216;Bayesian&#8217; Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-03-09T08:23:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5832d61b6cc2",
+    "title": "A Coding Guide to Build a Complete Single Cell RNA Sequencing Analysis Pipeline Using Scanpy for Clustering Visualization and Cell Type Annotation",
+    "url": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/",
+    "summary_original": "In this tutorial, we build a complete pipeline for single-cell RNA sequencing analysis using Scanpy. We start by installing the required libraries and loading the PBMC 3k dataset, then perform quality control, filtering, and normalization to prepare the data for downstream analysis. We then identify highly variable genes, perform PCA for dimensionality reduction, and construct [&#8230;]\nThe post A Coding Guide to Build a Complete Single Cell RNA Sequencing Analysis Pipeline Using Scanpy for Clus...",
+    "thumbnail": "",
+    "published": "2026-03-09T05:03:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e63f72bb732d",
+    "title": "Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experiments on Single GPUs",
+    "url": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/",
+    "summary_original": "Andrej Karpathy released autoresearch, a minimalist Python tool designed to enable AI agents to autonomously conduct machine learning experiments. The project is a stripped-down version of the nanochat LLM training core, condensed into a single-file repository of approximately ~630 lines of code. It is optimized for execution on a single NVIDIA GPU. The Autonomous Iteration [&#8230;]\nThe post Andrej Karpathy Open-Sources &#8216;Autoresearch&#8217;: A 630-Line Python Tool Letting AI Agents Run Au...",
+    "thumbnail": "",
+    "published": "2026-03-09T02:47:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1ef0e397131d",
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "url": "https://huggingface.co/blog/ulysses-sp",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-09T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "3ca16d0867d4",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "url": "https://huggingface.co/blog/lerobot-release-v050",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-09T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
