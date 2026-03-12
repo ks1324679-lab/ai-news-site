@@ -1,0 +1,402 @@
+[
+  {
+    "id": "c09b5ffdfb85",
+    "title": "アルツハイマー病の初期に不眠になる理由が解明される",
+    "url": "https://gigazine.net/news/20260313-alzheimers-tau-sleep-glucose/",
+    "summary_original": "アルツハイマー病ではもの忘れなどの典型的な症状が出るかなり前から、眠りが浅くなる・夜中に何度も目が覚めるといった睡眠の乱れが起こることがあります。ケンタッキー大学などの研究チームが学術誌「npj Dementia」で2026年1月23日に発表した論文では、アルツハイマー病と深く関わる「タウタンパク質」という異常なタンパク質が脳の中で糖の使い方を変えて神経が興奮しやすい状態を保つことで、睡眠障害につながっていることが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-13T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9107ee79d6b2",
+    "title": "VS Codeの安定版が毎週リリースへ　第1弾のバージョン1.111ではAIエージェント運用を強化",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news023.html",
+    "summary_original": "Visual Studio Codeの安定版が毎週リリースへ移行した。その第1弾となるバージョン1.111では、AIエージェントの自律実行や権限管理、デバッグ支援などが強化されている。",
+    "thumbnail": "",
+    "published": "2026-03-13T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "734417a00be1",
+    "title": "GPT-5.4登場、“やり抜くAI”へ　100万トークンとCodexアプリがもたらす“実務完遂力”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news009.html",
+    "summary_original": "OpenAIの新モデル「GPT-5.4」が登場した。100万トークンの巨大コンテキストやCodexアプリとの連携により、AIが実務タスクを自律的に完遂する能力が大きく強化されている。本稿では、その特徴と実際の使いどころを整理する。",
+    "thumbnail": "",
+    "published": "2026-03-13T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6c81998ae51e",
+    "title": "「折りたたみ式iPhone」の予想まとめ、Face IDではなくTouch ID搭載＆UI刷新＆ディスプレイのサイズ感などなど",
+    "url": "https://gigazine.net/news/20260312-foldable-iphone/",
+    "summary_original": "Appleが開発しているとうわさされている折りたたみ式iPhoneには、アプリを横に並べて表示できるiPad風のインターフェースが搭載される見込みだと報じられました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-12T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "441d4b6ea225",
+    "title": "Stanford Researchers Release OpenJarvis: A Local-First Framework for Building On-Device Personal AI Agents with Tools, Memory, and Learning",
+    "url": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+    "summary_original": "Stanford researchers have introduced OpenJarvis, an open-source framework for building personal AI agents that run entirely on-device. The project comes from Stanford’s Scaling Intelligence Lab and is presented as both a research platform and deployment-ready infrastructure for local-first AI systems. Its focus is not only model execution, but also the broader software stack required to [&#8230;]\nThe post Stanford Researchers Release OpenJarvis: A Local-First Framework for Building On-Device Per...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-2.19.48-PM-1.png",
+    "published": "2026-03-12T21:21:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e81367a83ca0",
+    "title": "WordPressが「My WordPress」リリース、ウェブブラウザだけで完全に動作しプラグインが使えるWordPressを構築可能でバックアップしてどこにでも復元可能でRSSリーダー化も可能",
+    "url": "https://gigazine.net/news/20260312-my-wordpress/",
+    "summary_original": "WordPress.orgが、ブラウザ上でWordPressが完全かつ永続的に動作する新しい実行環境「My WordPress」を発表しました。My WordPressはWordPress Playgroundの技術を基盤としており、サインアップやホスティング契約、ドメイン設定を必要とせず、誰でも即座にWordPressを利用可能。ウェブサイトを公開するための従来の用途とは異なり、個人のためのプライベートな作業空間や実験場としての活用を主眼に置いたサービスとなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-12T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0cd377b1604f",
+    "title": "生成AIツール「ComfyUI」の複雑怪奇なUIをスッキリ分かりやすくできる公式機能「App Mode」が登場",
+    "url": "https://gigazine.net/news/20260312-comfyui-app-mode/",
+    "summary_original": "ComfyUIは各種画像生成AIや動画生成AIをローカルで実行できるアプリです。しかし、「Comfy(快適な)UI」という名前に反して初心者にとって分かりにくいUIであることも有名です。そんなComfyUIの新機能として、ノードを組み合わせて構築したワークフローを分かりやすいUIに変換できる「App Mode(アプリモード)」が登場しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-12T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8e014d947a9f",
+    "title": "Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating",
+    "url": "https://the-decoder.com/grok-4-20-trails-gemini-and-gpt-5-4-by-a-wide-margin-but-sets-a-new-record-for-not-hallucinating/",
+    "summary_original": "xAI's Grok 4.20 is cheap, fast, and hallucinates less than any other tested model, but it can't keep up with the top tier in benchmarks.\nThe article Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/grok_logo_wall.png",
+    "published": "2026-03-12T19:25:12+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "67bc83719e49",
+    "title": "AIチャットボットの8割が10代の若者による暴力計画を助長するがClaudeは常に拒否することが明らかに",
+    "url": "https://gigazine.net/news/20260312-chatbots-helped-deadly-attacks/",
+    "summary_original": "ChatGPTやGemini、Claudeといった人気AIチャットボットが、暴力的な攻撃を計画しているユーザーに対してどのような返答を行なうのかを調べるテストを、デジタルヘイト対策センター(CCDH)が実施しました。このテストの結果、一部のAIチャットボットを除き、ほとんどのAIが暴力を促すような返答を行うことが明らかになっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-12T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bbe0662e6c08",
+    "title": "US War Department CTO says Anthropic's AI models \"pollute\" the supply chain with built-in ethics",
+    "url": "https://the-decoder.com/us-military-chief-says-anthropics-ai-models-pollute-the-supply-chain-with-built-in-ethics/",
+    "summary_original": "The US Department of War wants to ban Anthropic's Claude from its supply chain because the AI models are too ethical. The approach echoes China's political control of AI.\nThe article US War Department CTO says Anthropic&#039;s AI models &quot;pollute&quot; the supply chain with built-in ethics appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png",
+    "published": "2026-03-12T18:52:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7c1b491c66f3",
+    "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+    "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+    "summary_original": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+    "thumbnail": "",
+    "published": "2026-03-12T18:20:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7d60438ad9ce",
+    "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+    "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+    "summary_original": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+    "thumbnail": "",
+    "published": "2026-03-12T18:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "217e8a8ccc9c",
+    "title": "タイミー「掲載求人のほぼ全てがAIで代替困難」　AI普及の影響は「極めて限定的」",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news110.html",
+    "summary_original": "「タイミーに掲載される求人のほぼ全てはソフトウェアAIによる直接的な代替が困難な現場作業が必要な業務」――タイミーは、2026年4月期第1四半期決算の説明資料でこのように述べた。",
+    "thumbnail": "",
+    "published": "2026-03-12T17:36:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "987a37334954",
+    "title": "Copilot Health marks Microsoft's entry into the AI health race alongside OpenAI and Anthropic",
+    "url": "https://the-decoder.com/copilot-health-marks-microsofts-entry-into-the-ai-health-race-alongside-openai-and-anthropic/",
+    "summary_original": "Microsoft is launching Copilot Health, an AI health assistant that pulls data from wearables, medical records, and lab results to deliver personalized health advice. Long term, the company says it's working toward \"medical superintelligence.\"\nThe article Copilot Health marks Microsoft&#039;s entry into the AI health race alongside OpenAI and Anthropic appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/copilot-heatlh-scaled.png",
+    "published": "2026-03-12T17:31:13+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dde1237bf8f6",
+    "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+    "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+    "summary_original": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+    "thumbnail": "",
+    "published": "2026-03-12T17:20:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ac3700fad3fb",
+    "title": "Claude can now create interactive charts and visualizations directly in chat",
+    "url": "https://the-decoder.com/claude-can-now-create-interactive-charts-and-visualizations-directly-in-chat/",
+    "summary_original": "Anthropic has launched a new beta feature for its AI chatbot Claude: the ability to generate interactive diagrams, charts, and visualizations directly within the conversation.\nThe article Claude can now create interactive charts and visualizations directly in chat appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Anthropic-Claude-Interactive-Visuals.png",
+    "published": "2026-03-12T17:12:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1263cc054e3c",
+    "title": "Bumble to launch an AI dating assistant, ‘Bee’",
+    "url": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+    "summary_original": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+    "thumbnail": "",
+    "published": "2026-03-12T16:52:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "df7eac41c7bf",
+    "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+    "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+    "summary_original": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+    "thumbnail": "",
+    "published": "2026-03-12T16:42:40+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "91945c70c537",
+    "title": "ChatGPT still leads the chatbot market but its dominance is slipping as Google's Gemini gains ground",
+    "url": "https://the-decoder.com/chatgpt-still-leads-the-chatbot-market-but-its-dominance-is-slipping-as-googles-gemini-gains-ground/",
+    "summary_original": "ChatGPT continues to dominate the chatbot market, but its lead is shrinking. According to new Similarweb figures, OpenAI's chatbot has fallen from 75.7 to 61.7 percent market share in just twelve months. The big winner: Google Gemini, which has quadrupled its share from 5.7 to 24.4 percent.\nThe article ChatGPT still leads the chatbot market but its dominance is slipping as Google&#039;s Gemini gains ground appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/chatbot_market_logos_gemini_deepseek_chatgpt.png",
+    "published": "2026-03-12T16:30:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b82b215ac2e1",
+    "title": "How multi-agent AI economics influence business automation",
+    "url": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+    "summary_original": "Managing the economics of multi-agent AI now dictates the financial viability of modern business automation workflows. Organisations progressing past standard chat interfaces into multi-agent applications face two primary constraints. The first issue is the thinking tax; complex autonomous agents need to reason at each stage, making the reliance on massive architectures for every subtask too [&#8230;]\nThe post How multi-agent AI economics influence business automation appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-03-12T15:01:20+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "bd9a5a204eee",
+    "title": "X上で「grok ファクトチェック」が有料化　メンションでの指示に制限　代わりの機能は？",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news095.html",
+    "summary_original": "「@grok」とメンションすることで、生成AI「Grok」に質問や投稿のファクトチェックを依頼できるXの機能が、有料会員限定になったことが分かった。",
+    "thumbnail": "",
+    "published": "2026-03-12T14:31:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7ee7d2ef3ea0",
+    "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+    "url": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
+    "summary_original": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-reply option when creating a listing, and Meta AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-12T13:59:32-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e4194e4e4635",
+    "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+    "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China’s&#160;OpenClaw&#160;AI craze&#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&#160;OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/01/230627_Talon_1346_2.jpg?w=3000",
+    "published": "2026-03-12T13:02:48+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "340924883bfd",
+    "title": "Pragmatic by design: Engineering AI for the real world",
+    "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+    "summary_original": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/LTTS-Report-2025-cover-1.png",
+    "published": "2026-03-12T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bed7341dc7e1",
+    "title": "Gemini’s task automation is here and it’s wild",
+    "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
+    "summary_original": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03087_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-12T12:59:43-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e1584d11a80e",
+    "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
+    "summary_original": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel. As an example, Anthropic says a conversation about [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-12T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "af680f82c209",
+    "title": "Antigravity、レート制限時に“追い課金”可能に　ただし「AI Pro」ユーザーから「リミット厳しくなった？」の声も",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news076.html",
+    "summary_original": "米GoogleがAIエディタ「Google Antigravity」の仕様を一部変更した。有料のAI機能プラン「Google AI Pro」もしくは「Ultra」のユーザーは、AIモデルのレートリミット到達後も、追加でクレジットを使用することで制限を解除できるようになった。",
+    "thumbnail": "",
+    "published": "2026-03-12T11:36:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1a1be8a19e45",
+    "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
+    "url": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
+    "summary_original": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon.&#160; The back-and-forth is complicated, but as of a few days ago, the Pentagon had deemed Anthropic a supply chain risk, and Anthropic has filed a lawsuit challenging that [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_0312_Site_v2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-12T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b9aad0ec40d6",
+    "title": "Brutal times for the US battery industry",
+    "url": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+    "summary_original": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-12T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "9ede8d72eafd",
+    "title": "Bespoke AI models are the next big thing in filmmaking",
+    "url": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
+    "summary_original": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what people are making with the most popular image/video models on the market. Models like Sora, Veo, and Runway just do not seem all that [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2247850099.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-12T09:56:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b841e50ddf2f",
+    "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+    "url": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+    "summary_original": "When Romy Gai, FIFA&#8217;s chief business officer, described the operational challenge of running a 48-team World Cup across Canada, Mexico and the United States, he was not talking about technology. He was talking about complexity. Previous World Cups relied on local organising committees to absorb much of the logistical load. For 2026, FIFA&#160;is running&#160;operations directly. [&#8230;]\nThe post FIFA is rebuilding world football operations on AI. The World Cup is just the first test appe...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-03-12T08:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "8e16035fa566",
+    "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+    "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-12T03:53:34+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "b4d9b2059c8e",
+    "title": "How to Design a Streaming Decision Agent with Partial Reasoning, Online Replanning, and Reactive Mid-Execution Adaptation in Dynamic Environments",
+    "url": "https://www.marktechpost.com/2026/03/11/how-to-design-a-streaming-decision-agent-with-partial-reasoning-online-replanning-and-reactive-mid-execution-adaptation-in-dynamic-environments/",
+    "summary_original": "In this tutorial, we build a Streaming Decision Agent that thinks and acts in an online, changing environment while continuously streaming safe, partial reasoning updates. We implement a dynamic grid world with moving obstacles and a shifting goal, then use an online A* planner in a receding-horizon loop to commit to only a few near-term [&#8230;]\nThe post How to Design a Streaming Decision Agent with Partial Reasoning, Online Replanning, and Reactive Mid-Execution Adaptation in Dynamic Environm...",
+    "thumbnail": "",
+    "published": "2026-03-11T23:44:44+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "da52a18be696",
+    "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
+    "url": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
+    "summary_original": "Most of the devices are made by Asus and are located in the US.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-926536690-1152x648.jpg",
+    "published": "2026-03-11T21:27:16+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "bd4c2b63cf3b",
+    "title": "NVIDIA Releases Nemotron 3 Super: A 120B Parameter Open-Source Hybrid Mamba-Attention MoE Model Delivering 5x Higher Throughput for Agentic AI",
+    "url": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/",
+    "summary_original": "The gap between proprietary frontier models and highly transparent open-source models is closing faster than ever. NVIDIA has officially pulled the curtain back on Nemotron 3 Super, a staggering 120 billion parameter reasoning model engineered specifically for complex multi-agent applications. Released today, Nemotron 3 Super sits perfectly between the lightweight 30 billion parameter Nemotron 3 [&#8230;]\nThe post NVIDIA Releases Nemotron 3 Super: A 120B Parameter Open-Source Hybrid Mamba-Attent...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-9.png",
+    "published": "2026-03-11T18:19:24+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6f5930a905b6",
+    "title": "Ai2: Building physical AI with virtual simulation data",
+    "url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+    "summary_original": "Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations. Technology providers building generalist manipulation agents typically frame extensive real-world training as the basis for these systems. For some [&#8230;]\nThe post Ai2: Building physical AI with virtual simulation data appea...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-03-11T16:50:56+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "7edc0652ac98",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "url": "https://openai.com/index/rakuten",
+    "summary_original": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "thumbnail": "",
+    "published": "2026-03-11T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "1626c715599e",
+    "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+    "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+    "summary_original": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-11T12:46:21+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ab5b3a1948a3",
+    "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
+    "url": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world&#160; Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/10/miotke_MIT_3.jpg?w=3000",
+    "published": "2026-03-11T12:38:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "9c49b9e7a94c",
+    "title": "New partnership to offer smart robots for dangerous environments",
+    "url": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
+    "summary_original": "ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control Robotics, the company behind the robotics startup Noble Machines. The two firms will combine ADLINK’s edge AI platforms with Noble Machines’ autonomy software to create a new generation of general-purpose robots for modern manufactories and engineering plants. The work focuses on [&#8230;]\nThe post New partnership to offer smart robots for dangerous environments appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-11T11:42:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
