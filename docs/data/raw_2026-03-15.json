@@ -1,0 +1,352 @@
+[
+  {
+    "id": "5a02b9dbae42",
+    "title": "『劇場版 転スラ 蒼海の涙編』大ヒット記念舞台挨拶レポ、ゾドン役・堂本光一の考えた「ゾドンのホワイトデーのお返し」とは？",
+    "url": "https://gigazine.net/news/20260314-ten-sura-movie2-osaka-greeting-report/",
+    "summary_original": "人気シリーズの劇場版第2弾として2026年3月6日(金)に公開されると3日間で22万5000人を動員し、興行収入3億円超えの大ヒットスタート。公開2周目週末までに43万人を動員している『劇場版 転生したらスライムだった件 蒼海の涙編』の大ヒット記念舞台挨拶付き上映が大阪ステーションシティシネマで行われ、主人公リムル・テンペスト役の岡咲美保さん、ゴブタ役・泊明日菜さんが登壇しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-14T22:50:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "698dff862036",
+    "title": "US Army announces contract with Anduril worth up to $20B",
+    "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+    "summary_original": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+    "thumbnail": "",
+    "published": "2026-03-14T20:47:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5803a985df10",
+    "title": "Anna’s Archiveを支援するためスマホやPCの余っているディスク容量・ネットワーク接続を活用できる「Levin」",
+    "url": "https://gigazine.net/news/20260314-levin/",
+    "summary_original": "海賊版サイトの「Anna’s Archive」のコンテンツを、分散型ストレージネットワークを構築しスマホやPCの余剰リソースを利用して共有するツール「Levin」をOSS開発者のヨアブ・モシェ氏が公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-14T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f07dc6c0be07",
+    "title": "「脳に電極を埋め込んで手のマヒを回復させる技術」を中国企業が開発、国内販売も承認",
+    "url": "https://gigazine.net/news/20260314-china-brain-computer-interface/",
+    "summary_original": "上海に拠点を置く博睿康科技(Neuracle Technology)が脳コンピューターインターフェース(BCI)を開発し、中国での販売承認を得たことが明らかになりました。開発された脳コンピューターインターフェースには「マヒした手の動きを回復させる」という効果があるそうです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-14T19:20:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6e082fc69006",
+    "title": "たった200行の純粋なPythonコードだけで構成されGPTの学習と推論を実行できる「MicroGPT」をインタラクティブに解説",
+    "url": "https://gigazine.net/news/20260314-microgpt-explained-interactively/",
+    "summary_original": "MicroGPTは作者のAndrej Karpathy氏によるとLLMをどこまで簡素化できるのかを10年にわたり追求した集大成とのことで、依存関係のない純粋なPythonで書かれた200行の単一ファイルのみであるにもかかわらずGPTに学習と推論を行わせることができます。動作原理についてはAndrej氏のブログで説明されていますが、より初心者向けにスクリプトを用いたインタラクティブな解説を行っているサイトが誕生していたのでどれくらいわかりやすいのか実際に体験してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-14T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e66d04d6ddca",
+    "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+    "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+    "summary_original": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+    "thumbnail": "",
+    "published": "2026-03-14T16:28:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2eecde3927f2",
+    "title": "無料・広告なしのメールアドレスがゲットできる「Tuta」を使ってみた、エンドツーエンド暗号化でプライバシーも重視",
+    "url": "https://gigazine.net/news/20260314-tuta-mail/",
+    "summary_original": "「Tuta」は2011年からドイツで運営されているオープンソースのエンドツーエンド暗号化電子メールサービスで、誰でも簡単にプライバシーを重視した独自のメールアドレスを作成することができます。無料版はメールボックスの容量が1GBなど制限はあるものの、追加の課金や広告の表示などは一切なく使用し続けることが可能です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-14T16:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "032fb31ec3f4",
+    "title": "AI spam websites flood the web with false information, and the number is growing fast",
+    "url": "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/",
+    "summary_original": "Newsguard and AI detector Pangram Labs have launched a real-time system to spot so-called \"AI content farms.\" More than 3,000 of these sites have already been flagged, with hundreds more popping up every month, and the number keeps growing.\nThe article AI spam websites flood the web with false information, and the number is growing fast appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/ai_generated_news_spam.png",
+    "published": "2026-03-14T14:20:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9687495f3a58",
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+    "summary_original": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+    "thumbnail": "",
+    "published": "2026-03-14T13:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cb9297bbc4b1",
+    "title": "China pushes OpenClaw \"one-person companies\" with millions in AI agent subsidies",
+    "url": "https://the-decoder.com/china-pushes-openclaw-one-person-companies-with-millions-in-ai-agent-subsidies/",
+    "summary_original": "At least seven Chinese local governments have launched million-dollar funding programs for OpenClaw projects within days. The goal: \"one-person companies\" where a single founder runs a business with AI agents as employees.\nThe article China pushes OpenClaw &quot;one-person companies&quot; with millions in AI agent subsidies appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/china_open-Claw.png",
+    "published": "2026-03-14T12:19:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "410750337c00",
+    "title": "Hume AI open-sources TADA, a speech model five times faster than rivals with zero hallucinated words",
+    "url": "https://the-decoder.com/hume-ai-open-sources-tada-a-speech-model-five-times-faster-than-rivals-with-zero-hallucinated-words/",
+    "summary_original": "Hume AI has open-sourced TADA under the MIT license, a fast speech generation model that processes text and audio in sync and produced zero hallucinations in testing.\nThe article Hume AI open-sources TADA, a speech model five times faster than rivals with zero hallucinated words appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/tada_hume_open_source.webp",
+    "published": "2026-03-14T11:12:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "73fd0b5807c5",
+    "title": "Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection",
+    "url": "https://the-decoder.com/ai2-releases-new-robotics-models-trained-entirely-in-simulation-to-skip-real-world-data-collection/",
+    "summary_original": "Robots trained entirely in virtual worlds working in the real world without any real training data. Ai2 says it can be done.\nThe article Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/molmobot.png",
+    "published": "2026-03-14T10:25:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "54b04213daff",
+    "title": "Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs",
+    "url": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/",
+    "summary_original": "Meta is reportedly planning massive layoffs to finance its expensive AI investments.\nThe article Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/meta_logo_bright_glitch.png",
+    "published": "2026-03-14T09:55:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "18a8b56c51e1",
+    "title": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
+    "url": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
+    "summary_original": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-source toolkit that packages Claude Code into 8 opinionated workflow skills backed by a persistent browser runtime. The tookit describes itself as &#8216;Eight opinionated workflow skills [&#8230;]\nThe post Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, an...",
+    "thumbnail": "",
+    "published": "2026-03-14T08:44:43+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "977598fa3324",
+    "title": "AIボットの猛攻でソーシャルニュースサイトDiggが再起動2カ月後に「ハードリセット」",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
+    "summary_original": "ソーシャルニュースサイトのDiggは、サイトを一時停止すると発表した。1月のオープンベータ公開から約2カ月での決断となる。原因はAIボットによる大量のスパム投稿で、人間によるコミュニティの信頼維持が困難になったためとしている。",
+    "thumbnail": "",
+    "published": "2026-03-14T08:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3259ba7cce41",
+    "title": "AIによるbot通信の8割がクローラー　Metaが過半数を占める実態",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news013.html",
+    "summary_original": "FastlyはAIによるbot通信の実態を分析したレポートを発表した。通信の約8割をクローラーが占め、Metaが過半を生成していると判明した。高頻度アクセスによるサーバ負荷や、bot識別の難しさが課題となっている。",
+    "thumbnail": "",
+    "published": "2026-03-14T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "28718b6a25ab",
+    "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+    "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+    "summary_original": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+    "thumbnail": "",
+    "published": "2026-03-14T00:12:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9eaea845349d",
+    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "summary_original": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+    "thumbnail": "",
+    "published": "2026-03-14T00:01:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "57e842052da8",
+    "title": "Google DeepMind Introduces Aletheia: The AI Agent Moving from Math Competitions to Fully Autonomous Professional Research Discoveries",
+    "url": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/",
+    "summary_original": "Google DeepMind team has introduced Aletheia, a specialized AI agent designed to bridge the gap between competition-level math and professional research. While models achieved gold-medal standards at the 2025 International Mathematical Olympiad (IMO), research requires navigating vast literature and constructing long-horizon proofs. Aletheia solves this by iteratively generating, verifying, and revising solutions in natural language. [&#8230;]\nThe post Google DeepMind Introduces Aletheia: The AI...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-11.03.13-PM-1.png",
+    "published": "2026-03-13T23:05:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "62997a45b863",
+    "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+    "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+    "summary_original": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/hidden-eye-1152x648.jpg",
+    "published": "2026-03-13T20:18:08+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "693c010c9ce3",
+    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-13T20:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "101b2a46964f",
+    "title": "ホンダ、慶大・阪大とAI開発の協働研究所　人材育成を加速",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news108.html",
+    "summary_original": "本田技研工業は、慶應義塾大学および大阪大学とAI開発で産学連携するプロジェクト「BRIDGE」（ブリッジ）を始めると発表した。",
+    "thumbnail": "",
+    "published": "2026-03-13T18:53:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "741b417ad445",
+    "title": "三菱電機、人型ロボットで工場を無人化へ　中国スタートアップと協業",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news104.html",
+    "summary_original": "三菱電機は、人型ロボットを開発するスタートアップの中国Lumos Robotics Technologyに出資し、協業すると発表した。",
+    "thumbnail": "",
+    "published": "2026-03-13T17:06:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d37d1e0f3833",
+    "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+    "url": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
+    "summary_original": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-13T16:51:48-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6f83cb47416b",
+    "title": "“AI養老孟司”が客員教授に就任　本人とともに　東京工科大",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news093.html",
+    "summary_original": "東京工科大学は、養老孟司氏と同氏を模したAIアバター「AI養老先生」がともに客員教授に就任したと発表した。",
+    "thumbnail": "",
+    "published": "2026-03-13T15:26:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b8da9b79afc1",
+    "title": "Why physical AI is becoming manufacturing’s next advantage",
+    "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+    "summary_original": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MIT-Article-Image-1200x675_C.jpg?w=1200",
+    "published": "2026-03-13T15:16:55+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "60376fb9797e",
+    "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+    "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&#160;Defense&#160;Department&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/12/54023355794_5f46a66c89_mobile.jpeg?w=2000",
+    "published": "2026-03-13T12:16:56+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d05f0b70b0c8",
+    "title": "E.SUN Bank and IBM build AI governance framework for banking",
+    "url": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
+    "summary_original": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance. Many firms already use AI for fraud checks and credit scoring, and some also use it to handle customer service queries. The new challenge is [&#8230;]\nThe post E.SUN Bank and IBM build AI governance framework for banking appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-03-13T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "09c7c022305c",
+    "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
+    "url": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
+    "summary_original": "Europe&#8217;s factory floors have a new kind of colleague. BMW Group has deployed humanoid robots in manufacturing in Germany for the first time, launching a pilot project at its Leipzig plant with AEON–a wheeled humanoid built by Hexagon Robotics.&#160; It is the&#160;first automotive deployment&#160;of AEON anywhere in the world, and it marks something of a [&#8230;]\nThe post BMW puts humanoid robots to work in Germany–and Europe&#8217;s factories are watching appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/humanoide-roboter-leipzig-v3-1280x720-1-1024x576.jpeg",
+    "published": "2026-03-13T09:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "d57bef4881df",
+    "title": "Future AI chips could be built on glass",
+    "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+    "summary_original": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Intel-glass-substrate-2.jpg?w=2708",
+    "published": "2026-03-13T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "771d24f4d90c",
+    "title": "Model Context Protocol (MCP) vs. AI Agent Skills: A Deep Dive into Structured Tools and Behavioral Guidance for LLMs",
+    "url": "https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/",
+    "summary_original": "In recent times, many developments in the agent ecosystem have focused on enabling AI agents to interact with external tools and access domain-specific knowledge more effectively. Two common approaches that have emerged are skills and MCPs. While they may appear similar at first, they differ in how they are set up, how they execute tasks, [&#8230;]\nThe post Model Context Protocol (MCP) vs. AI Agent Skills: A Deep Dive into Structured Tools and Behavioral Guidance for LLMs appeared first on MarkT...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-14.png",
+    "published": "2026-03-13T08:32:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2efafe252483",
+    "title": "Google AI Introduces ‘Groundsource’: A New Methodology that Uses Gemini Model to Transform Unstructured Global News into Actionable, Historical Data",
+    "url": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/",
+    "summary_original": "Google AI Research team recently released Groundsource, a new methodology that uses Gemini model to extract structured historical data from unstructured public news reports. The project addresses the lack of historical data for rapid-onset natural disasters. Its first output is an open-source dataset containing 2.6 million historical urban flash flood events across more than 150 [&#8230;]\nThe post Google AI Introduces &#8216;Groundsource&#8217;: A New Methodology that Uses Gemini Model to Transf...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-13-at-12.59.53-AM-1.png",
+    "published": "2026-03-13T08:07:25+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9b96dc58ae71",
+    "title": "How to Build an Autonomous Machine Learning Research Loop in Google Colab Using Andrej Karpathy’s AutoResearch Framework for Hyperparameter Discovery and Experiment Tracking",
+    "url": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/",
+    "summary_original": "In this tutorial, we implement a Colab-ready version of the AutoResearch framework originally proposed by Andrej Karpathy. We build an automated experimentation pipeline that clones the AutoResearch repository, prepares a lightweight training environment, and runs a baseline experiment to establish initial performance metrics. We then create an automated research loop that programmatically edits the hyperparameters [&#8230;]\nThe post How to Build an Autonomous Machine Learning Research Loop in G...",
+    "thumbnail": "",
+    "published": "2026-03-12T22:46:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "aeb248b6f947",
+    "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+    "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "summary_original": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-12T22:23:34+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8d6d028621db",
+    "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
+    "url": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+    "summary_original": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-1152x648.jpg",
+    "published": "2026-03-12T22:18:11+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  }
+]
