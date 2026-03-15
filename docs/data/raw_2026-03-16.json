@@ -1,0 +1,252 @@
+[
+  {
+    "id": "fc1806cd8c4d",
+    "title": "MCPは死んでない？　MCPの2026年ロードマップ公開　「AIツール接続」から「AI自律連携インフラ」へ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news011.html",
+    "summary_original": "AIと外部ツールをつなぐ規格「MCP（Model Context Protocol）」の2026年ロードマップは、MCPの役割が「単なるツール接続の仕組み」から「AI同士が連携する基盤」へと広がりつつあることを示している。そのポイントを整理し、「MCP vs. CLI」論争についても触れる。",
+    "thumbnail": "",
+    "published": "2026-03-16T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "babf10706997",
+    "title": "Open WebUIと自作MCPツールで「ローカル操作を“安全に”自動化する」方法",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news007.html",
+    "summary_original": "気軽に試せるラップトップ環境で、チャットbotを提供するオールインワンの生成AI環境構築から始め、Kubernetesを活用した本格的なGPUクラスタの構築やモデルのファインチューニングまで解説する本連載。今回は、MCPサーバを自作し、日々の作業を効率化、自動化するアプローチを解説します。",
+    "thumbnail": "",
+    "published": "2026-03-16T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "12c40da9a22c",
+    "title": "Instagramのエンドツーエンド暗号化メッセージをMetaが廃止へ",
+    "url": "https://gigazine.net/news/20260315-instagram-e2ee-dm-end/",
+    "summary_original": "Metaが、Instagramのエンドツーエンド暗号化(E2EE)メッセージのサポートを2026年5月8日をもって終了することを明らかにしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-15T23:59:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "40faaef0b8c4",
+    "title": "サブスク不要で無料の超シンプルなグループチャット「Campfire」、セルフホスト可能",
+    "url": "https://gigazine.net/news/20260315-campfire/",
+    "summary_original": "SlackやTeamsなどのチャットツールは便利ですが、無料プランには機能制限があり、人数が増えるほどコストが膨らむため、長期的な運用において問題となることがあります。そのような問題を解決すべく、無料のオープンソースでセルフホストを用意すれば簡単にグループチャットが構築できる「Campfire」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-15T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fffca631387a",
+    "title": "無料でローカル動作するAI顧客管理ツール「DenchClaw」は自然言語でデータベースを扱えて見込み客への連絡も自動化可能",
+    "url": "https://gigazine.net/news/20260315-denchclaw-local-ai-crm/",
+    "summary_original": "「顧客データはクラウドに預けたくないが、AIで整理や営業作業は自動化したい」というニーズを狙ったローカル動作型のAI CRM(顧客管理ツール)「DenchClaw」が登場しました。DenchClawはOpenClawをベースに作られた無料のAI CRMで、自然言語によるデータベース操作やLinkedIn・メールを使った見込み客への連絡の自動化に対応しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-15T22:15:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3ecd5b62dc2e",
+    "title": "無料でSEOトラッキングができる「SerpBear」、オープンソースでセルフホスト可",
+    "url": "https://gigazine.net/news/20260315-serpbear/",
+    "summary_original": "ウェブサイトを運営するにあたり、サイトの課題を明確にし改善を検討する上でSEOトラッキングは不可欠なプロセスと言えます。SEOトラッキングはニーズの高さから様々なサービスやツールが提供されていますが、無料で「SERP(Search Engine Result Page)」、つまり検索結果ページ対策を使用できる上にオープンソースでありセルフホストも可能なツールが「SerpBear」です。2024年2月にバージョン1.0.0が公開されて以降着実に更新を重ね、記事作成時点でちょうどバージョン3.0.0がリリースされています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-15T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5acfb02d17d0",
+    "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+    "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+    "summary_original": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+    "thumbnail": "",
+    "published": "2026-03-15T21:01:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b92969fd0214",
+    "title": "現代の職場は労働者を軽視しすぎているとの指摘、労働者を使いつぶさない「持続可能な職場」の作り方とは？",
+    "url": "https://gigazine.net/news/20260315-sustainable-circular-work-without-burning-out/",
+    "summary_original": "会社や仕事についてアウトプット・目標達成・価値創造といった観点で捉える経営者は多い一方、会社を動かすシステムを構成している「人間」について考慮されることはあまり多くありません。そこで、イギリスのレスター大学で労働・組織心理学教授を務めるマリア・カラニカ＝マレー氏らが、現代の労働環境の問題点や持続可能な職場の作り方について解説しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-15T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6544534309a2",
+    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "summary_original": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+    "thumbnail": "",
+    "published": "2026-03-15T18:49:32+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1f197d55125d",
+    "title": "Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems like OpenClaw",
+    "url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
+    "summary_original": "OpenViking is an open-source Context Database for AI Agents from Volcengine. The project is built around a simple architectural concept: agent systems should not treat context as a flat collection of text chunks. Instead, OpenViking organizes context through a file system paradigm, with the goal of making memory, resources, and skills manageable through a unified [&#8230;]\nThe post Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Syst...",
+    "thumbnail": "",
+    "published": "2026-03-15T18:49:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1de41b64c255",
+    "title": "AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog's cancer",
+    "url": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/",
+    "summary_original": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer. The story went viral after high-profile AI executives like OpenAI's Greg Brockman and Deepmind's Demis Hassabis shared it as proof of what AI can already do.\nThe article AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog&#039;s cancer appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/ai_vaccine.png",
+    "published": "2026-03-15T16:29:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "483245561d33",
+    "title": "Wiz investor unpacks Google’s $32B acquisition",
+    "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+    "summary_original": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+    "thumbnail": "",
+    "published": "2026-03-15T15:30:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5cc162292de3",
+    "title": "RL agents go from face-planting to parkour when researchers keep adding network layers",
+    "url": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
+    "summary_original": "While most reinforcement learning algorithms use two to five network layers, a research team achieved 2x to 50x performance gains by scaling network depth up to 1,024 layers in a self-supervised agent and saw entirely new behaviors emerge in the process.\nThe article RL agents go from face-planting to parkour when researchers keep adding network layers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/RL-CRL-Training-Deep-Neural-Nets-jump.png",
+    "published": "2026-03-15T11:17:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "870a5df32585",
+    "title": "OpenClaw-RL trains AI agents \"simply by talking,\" converting every reply into a training signal",
+    "url": "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/",
+    "summary_original": "AI agents usually throw away valuable feedback from everyday interactions. Princeton's new OpenClaw-RL framework changes that by turning live signals from chats, terminal commands, and GUI actions into continuous training data. The researchers say just a few dozen interactions are enough for noticeable improvements.\nThe article OpenClaw-RL trains AI agents &quot;simply by talking,&quot; converting every reply into a training signal appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openclaw-rl-agentic-feedback-flow-nano-banana-pro.jpg",
+    "published": "2026-03-15T10:04:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6eefba1215fc",
+    "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+    "summary_original": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268402_AI_companies_want_to_harvest_improv_actors_skills_to_train_large_AI_models_on_human_emotion_and_tone_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-15T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d686bf438fc1",
+    "title": "Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0",
+    "url": "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/",
+    "summary_original": "Bytedance planned to launch its AI video model Seedance 2.0 globally in mid-March. That's not happening, because Hollywood's biggest studios have collectively put the brakes on the rollout. The backlash is also a sign of just how convincing AI-generated video has become.\nThe article Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/seedance_20_demo_teaser.png",
+    "published": "2026-03-15T09:34:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ba859e91d14d",
+    "title": "LangChain Releases Deep Agents: A Structured Runtime for Planning, Memory, and Context Isolation in Multi-Step AI Agents",
+    "url": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
+    "summary_original": "Most LLM agents work well for short tool-calling loops but start to break down when the task becomes multi-step, stateful, and artifact-heavy. LangChain’s Deep Agents is designed for that gap. The project is described by LangChain as an &#8216;agent harness&#8216;: a standalone library built on top of LangChain’s agent building blocks and powered by the [&#8230;]\nThe post LangChain Releases Deep Agents: A Structured Runtime for Planning, Memory, and Context Isolation in Multi-Step AI Agents appe...",
+    "thumbnail": "",
+    "published": "2026-03-15T09:07:48+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6ba2883996cd",
+    "title": "Codewall's AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot's guardrails",
+    "url": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
+    "summary_original": "AI agents can hack systems, defend them, and be hacked themselves. Codewall's one-hour takeover of an AI recruiting platform shows just how tangled this new security landscape has become.\nThe article Codewall&#039;s AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot&#039;s guardrails appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/CodeWall-Jack-Jill-AI-Hack.jpg",
+    "published": "2026-03-15T09:02:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ef21f29ee9a0",
+    "title": "Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE)",
+    "url": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/",
+    "summary_original": "Why Document OCR Still Remains a Hard Engineering Problem? What does it take to make OCR useful for real documents instead of clean demo images? And can a compact multimodal model handle parsing, tables, formulas, and structured extraction without turning inference into a resource bonfire? That is the problem targeted by GLM-OCR, introduced by researchers [&#8230;]\nThe post Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE) appeared...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-12.57.34-AM-1.png",
+    "published": "2026-03-15T08:08:01+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3897526c5e5c",
+    "title": "How to Build Type-Safe, Schema-Constrained, and Function-Driven LLM Pipelines Using Outlines and Pydantic",
+    "url": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/",
+    "summary_original": "In this tutorial, we build a workflow using Outlines to generate structured and type-safe outputs from language models. We work with typed constraints like Literal, int, and bool, and design prompt templates using outlines.Template, and enforce strict schema validation with Pydantic models. We also implement robust JSON recovery and a function-calling style that generates validated [&#8230;]\nThe post How to Build Type-Safe, Schema-Constrained, and Function-Driven LLM Pipelines Using Outlines and...",
+    "thumbnail": "",
+    "published": "2026-03-15T01:33:18+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "698dff862036",
+    "title": "US Army announces contract with Anduril worth up to $20B",
+    "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+    "summary_original": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+    "thumbnail": "",
+    "published": "2026-03-14T20:47:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e66d04d6ddca",
+    "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+    "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+    "summary_original": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+    "thumbnail": "",
+    "published": "2026-03-14T16:28:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "18a8b56c51e1",
+    "title": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
+    "url": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
+    "summary_original": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-source toolkit that packages Claude Code into 8 opinionated workflow skills backed by a persistent browser runtime. The tookit describes itself as &#8216;Eight opinionated workflow skills [&#8230;]\nThe post Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, an...",
+    "thumbnail": "",
+    "published": "2026-03-14T08:44:43+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "977598fa3324",
+    "title": "AIボットの猛攻でソーシャルニュースサイトDiggが再起動2カ月後に「ハードリセット」",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
+    "summary_original": "ソーシャルニュースサイトのDiggは、サイトを一時停止すると発表した。1月のオープンベータ公開から約2カ月での決断となる。原因はAIボットによる大量のスパム投稿で、人間によるコミュニティの信頼維持が困難になったためとしている。",
+    "thumbnail": "",
+    "published": "2026-03-14T08:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3259ba7cce41",
+    "title": "AIによるbot通信の8割がクローラー　Metaが過半数を占める実態",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news013.html",
+    "summary_original": "FastlyはAIによるbot通信の実態を分析したレポートを発表した。通信の約8割をクローラーが占め、Metaが過半を生成していると判明した。高頻度アクセスによるサーバ負荷や、bot識別の難しさが課題となっている。",
+    "thumbnail": "",
+    "published": "2026-03-14T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  }
+]
