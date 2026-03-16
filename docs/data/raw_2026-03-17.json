@@ -1,0 +1,392 @@
+[
+  {
+    "id": "fc8a87d634fe",
+    "title": "不完全な人間の動作データから人型ロボットにテニススキルを学習させる「LATENT」",
+    "url": "https://gigazine.net/news/20260317-latent/",
+    "summary_original": "中国の清華大学の研究チームが不完全な人間の動作データから運動能力の高いヒューマノイドにテニスのスキルを学習させる「LATENT」を発表しました。LATENTは事前学習、知識蒸留、高レベルのポリシー学習のためのヒューマノイド向け学習パイプラインを提供するためのもので、シミュレーションには汎用物理エンジンのMuJoCoを使用しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-17T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ee3568a893af",
+    "title": "NVIDIA、「NemoClaw」発表　OpenClawを1コマンドで導入、安全に実行可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/17/news056.html",
+    "summary_original": "米NVIDIAが、年次カンファレンス「GTC 2026」でAIエージェントプラットフォーム「OpenClaw」向けソフトウェアスタック「NemoClaw」を発表した。1コマンドでNemotronモデルとOpenShellランタイムをインストールし、プライバシーとセキュリティを担保したままAIエージェントを常時稼働できる環境を構築できるという。",
+    "thumbnail": "",
+    "published": "2026-03-17T06:10:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "372c116bc76d",
+    "title": "Windowsの設定を一括カスタムできる「Sophia Script for Windows」、「WSLのインストール」や「追跡機能の無効化」などのプリセットを作って一括実行可能",
+    "url": "https://gigazine.net/news/20260317-sophia-script-for-windows/",
+    "summary_original": "Windowsのセットアップ直後には自分好みの環境を構築するために「トラッキングを無効化する」や「WSLをインストールする」といった設定を行う必要があります。しかし、新しいPCをセットアップしたりOSを再インストールするたびにWindowsの散らかった設定項目を順にたどるのは面倒です。そんなときに役立つのがWindowsの設定一括変更ツールの「Sophia Script for Windows」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-17T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5b2654a31a6d",
+    "title": "NVIDIA「Vera Rubin」は7つの新チップ、GroqのLPU追加でAIエージェント性能向上",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/17/news055.html",
+    "summary_original": "NVIDIAは米国カリフォルニア州サンノゼで開催中のユーザーイベント「GTC 2026」の基調講演において、CPU「Vera」やGPU「Rubin」など新たなアーキテクチャを基にしたをAIインフラの基盤「Vera Rubinプラットフォーム」を発表した。",
+    "thumbnail": "",
+    "published": "2026-03-17T05:35:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7f8a2df39a38",
+    "title": "Coworkと旅するCPythonのソースコード、36年の旅",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/17/news013.html",
+    "summary_original": "cpython_growth.csvという、36年間にわたるCPythonのコミット履歴から1400件弱を抽出し、その時点でのソースコードの行数を記録したデータセットがあります。今回はこのデータセットを少しばかり眺めてみましょう。",
+    "thumbnail": "",
+    "published": "2026-03-17T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "44a1365aab5d",
+    "title": "「0」という数字の血なまぐさい起源と「ソフト・パワー」による発展とは？",
+    "url": "https://gigazine.net/news/20260316-bloody-zero/",
+    "summary_original": "数字としての「ゼロ(0)」の概念は5世紀頃のインドが起源と言われていますが、そんなゼロという数字にまつわる血なまぐさい起源とそこからゼロの概念がどのように広まったかについて、YouTubeチャンネルのNightshiftが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-16T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3823e0cb7007",
+    "title": "The Rise of Physical AI for Healthcare Robotics",
+    "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-16T21:58:40+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "0880f6edeafb",
+    "title": "Jensen just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+    "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+    "summary_original": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+    "thumbnail": "",
+    "published": "2026-03-16T21:41:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dcb35afbf7e2",
+    "title": "OSセットアップ時の年齢確認を求める法律にわざと違反している「Ageless Linux」とは？",
+    "url": "https://gigazine.net/news/20260316-agelesslinux-noncompliance-age-verification/",
+    "summary_original": "アメリカのカリフォルニア州では、インターネット上の未成年者を保護するためにOSのアカウント設定時にユーザーの年齢を確認する法案「デジタル年齢保証法(AB 1043)」が、2027年1月から施行される予定です。この法律にわざと違反してユーザーの年齢確認を行わないOS「Ageless Linux」が登場しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-16T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "029b59b77a46",
+    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+    "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "summary_original": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+    "thumbnail": "",
+    "published": "2026-03-16T20:58:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c9cec8089a8f",
+    "title": "GTC 2026: Nvidia wants to swap robotics' data problem for a compute problem",
+    "url": "https://the-decoder.com/gtc-2026-nvidia-wants-to-swap-robotics-data-problem-for-a-compute-problem/",
+    "summary_original": "At GTC 2026, Nvidia is massively expanding its platform for physical AI. Starting in 2027, autonomous vehicles are set to drive through Los Angeles with Uber, industrial robots from FANUC and ABB are getting Nvidia brains, and new models aim to make humanoid robots more capable.\nThe article GTC 2026: Nvidia wants to swap robotics&#039; data problem for a compute problem appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Physical-AI-Data-Factory-Blueprint.png",
+    "published": "2026-03-16T20:30:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f10f27086d9e",
+    "title": "Memories AI is building the visual memory layer for wearables and robotics",
+    "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "summary_original": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+    "thumbnail": "",
+    "published": "2026-03-16T20:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4960bbfe9c5e",
+    "title": "超スローモーションで炎を下から撮影するとこうなる",
+    "url": "https://gigazine.net/news/20260316-the-slow-mo-guys-fire-from-underneath/",
+    "summary_original": "燃えさかる炎をあえて下から超高性能スローモーションカメラで撮影した様子がYouTubeに公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-16T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e0e141eb258c",
+    "title": "Gmailでの“日程調整メール”が楽チンに？　「関係者全員が空いてる時間を提案」のAI新機能",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/16/news108.html",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-16T19:34:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5da3c20ffea5",
+    "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+    "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "summary_original": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+    "thumbnail": "",
+    "published": "2026-03-16T19:18:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8a15ad6e8ef1",
+    "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+    "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+    "summary_original": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+    "thumbnail": "",
+    "published": "2026-03-16T19:12:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6b1d017dd1e5",
+    "title": "OpenAI's biggest problem may not be building AI but getting companies to actually use it beyond ChatGPT",
+    "url": "https://the-decoder.com/openais-biggest-problem-may-not-be-building-ai-but-getting-companies-to-actually-use-it-beyond-chatgpt/",
+    "summary_original": "OpenAI is pushing to get its AI into large companies faster through sales, partnerships, and capital. A 10-billion-dollar joint venture and a new deployment arm show where the real challenge lies: getting the technology integrated into actual company workflows.\nThe article OpenAI&#039;s biggest problem may not be building AI but getting companies to actually use it beyond ChatGPT appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_logo_wall.png",
+    "published": "2026-03-16T19:12:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a1fb7bcbcc05",
+    "title": "人型ロボが人間とテニス　ラリー継続、左右に打ち分け“人に勝とう”とする一幕も　中国企業がデモ動画",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/16/news106.html",
+    "summary_original": "ロボット開発企業の中国Galbotは、中国Unitree製の人型ロボット「G1」と人間でテニスのラリーを続ける技術デモ動画を公開した。",
+    "thumbnail": "",
+    "published": "2026-03-16T19:03:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "60b0f8fafc47",
+    "title": "Encyclopedia Britannica sues OpenAI for training on nearly 100,000 articles without permission",
+    "url": "https://the-decoder.com/encyclopedia-britannica-sues-openai-for-training-on-nearly-100000-articles-without-permission/",
+    "summary_original": "Britannica sues OpenAI for almost 100,000 copied articles. At the same time, courts in Europe are arguing about whether AI models can \"store\" copyrighted works at all - with conflicting results.\nThe article Encyclopedia Britannica sues OpenAI for training on nearly 100,000 articles without permission appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/copyright_books_llms.png",
+    "published": "2026-03-16T18:30:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4516adadd7db",
+    "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+    "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+    "summary_original": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grokashcroft.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-16T17:56:05-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "238c5351855a",
+    "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+    "summary_original": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-16T17:44:11-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7f98adee8197",
+    "title": "Where OpenAI’s technology could show up in Iran",
+    "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-16T17:06:21+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a523ceef9602",
+    "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
+    "url": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
+    "summary_original": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying cup of coffee, only one thing is apparent: Reality used to be much easier [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Benjamin-Netanyahu-alleged-ai-deepfake-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-16T16:41:55-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e2e4d2bf7648",
+    "title": "GPT-4.5 fooled 73 percent of people into thinking it was human by pretending to be dumber",
+    "url": "https://the-decoder.com/gpt-4-5-fooled-73-percent-of-people-into-thinking-it-was-human-by-pretending-to-be-dumber/",
+    "summary_original": "GPT-4.5 only passed the Turing test after researchers told it to make typos, skip punctuation, and botch basic math. It worked: 73 percent of participants thought it was human.\nThe article GPT-4.5 fooled 73 percent of people into thinking it was human by pretending to be dumber appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/turing_test_clown.png",
+    "published": "2026-03-16T16:22:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b2c602c721e8",
+    "title": "US Treasury publishes AI risk Guidebook for financial institutions",
+    "url": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+    "summary_original": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading &#8216;Resources and Downloads&#8217; towards the bottom of the link). The CRI Financial Services AI Risk Management Framework (FS AI RMF) comes with a Guidebook [.docx] which [&#8230;]\nThe post US Treasury publishes AI risk Guidebook for financial institutions appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-16T16:15:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "35b63d2fab8c",
+    "title": "OpenAI's own wellbeing advisors warned against erotic mode, called it a \"sexy suicide coach\"",
+    "url": "https://the-decoder.com/openais-own-wellbeing-advisors-warned-against-erotic-mode-called-it-a-sexy-suicide-coach/",
+    "summary_original": "OpenAI's wellbeing advisory board reportedly voted unanimously against the company's planned Adult Mode for ChatGPT. Internally, the company is struggling with an error-prone age detection system and unresolved safety issues.\nThe article OpenAI&#039;s own wellbeing advisors warned against erotic mode, called it a &quot;sexy suicide coach&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-2.png",
+    "published": "2026-03-16T14:24:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "66a3876ed7fd",
+    "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+    "summary_original": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-141320386.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-16T13:04:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "56f37665518f",
+    "title": "Nurturing agentic AI beyond the toddler stage",
+    "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "summary_original": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MITTRI-Intel-iStock-2241096601.jpg?w=1254",
+    "published": "2026-03-16T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e0d3d7570f84",
+    "title": "The Download: glass chips and “AI-free” logos",
+    "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Future AI chips could be built on glass&#160; Human-made glass is thousands of years old. But&#160;it’s&#160;now poised to find its way into the AI chips used in the world’s newest and&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/12/pohoiki-springs-neuromorphic-1-16x9.jpg.rendition.intel_.web_.1920.1080.jpg?w=1920",
+    "published": "2026-03-16T12:35:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d26a46485b71",
+    "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
+    "url": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
+    "summary_original": "NTT DATA has announced an initiative to deliver NVIDIA-powered platforms designed to give organisations a repeatable, production-ready model for scaling AI. The offering integrates NVIDIA&#8217;s GPU-accelerated computing and high-performance networking with NVIDIA AI Enterprise software, including NeMo and NIM Microservices, into a full-stack agentic AI platform that can be deployed in cloud and edge environments. [&#8230;]\nThe post NTT DATA and NVIDIA bring enterprise AI factories to productio...",
+    "thumbnail": "",
+    "published": "2026-03-16T12:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "690e8d2dc8ce",
+    "title": "Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage",
+    "url": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
+    "summary_original": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since. You’ll hear Jim refer [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD-20260316-Lanzone.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-16T11:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ea380f3968f4",
+    "title": "Securing digital assets against future threats",
+    "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-16T11:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6367b3500047",
+    "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
+    "url": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
+    "summary_original": "When OpenAI launched Frontier in February, the announcement was described as a platform for enterprise AI agents. What it actually signalled was a challenge to the revenue architecture underpinning the software industry. Frontier is designed to act as a semantic layer in an organisation&#8217;s existing systems, connecting data warehouses, CRM platforms, ticketing tools, and internal [&#8230;]\nThe post OpenAI&#8217;s Frontier puts AI agents in a fight SaaS can&#8217;t afford to lose appeared fir...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/Screenshot-2026-03-16-at-4.30.22-PM-1024x534.png",
+    "published": "2026-03-16T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "aab00ea2856d",
+    "title": "Moonshot AI Releases 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 to Replace Fixed Residual Mixing with Depth-Wise Attention for Better Scaling in Transformers",
+    "url": "https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/",
+    "summary_original": "Residual connections are one of the least questioned parts of modern Transformer design. In PreNorm architectures, each layer adds its output back into a running hidden state, which keeps optimization stable and allows deep models to train. Moonshot AI researchers argue that this standard mechanism also introduces a structural problem: all prior layer outputs are [&#8230;]\nThe post Moonshot AI Releases 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 to Replace Fixed Residual Mixing with Depth-Wise Attention for Better Scal...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-11.45.00-PM-1.png",
+    "published": "2026-03-16T06:48:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "39e93f26d6b1",
+    "title": "IBM AI Releases Granite 4.0 1B Speech as a Compact Multilingual Speech Model for Edge AI and Translation Pipelines",
+    "url": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/",
+    "summary_original": "IBM has released Granite 4.0 1B Speech, a compact speech-language model designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST). The release targets enterprise and edge-style speech deployments where memory footprint, latency, and compute efficiency matter as much as raw benchmark quality. What Changed in Granite 4.0 1B Speech At the [&#8230;]\nThe post IBM AI Releases Granite 4.0 1B Speech as a Compact Multilingual Speech Model for Edge A...",
+    "thumbnail": "",
+    "published": "2026-03-16T04:57:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0ff3757b65a7",
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "summary_original": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "thumbnail": "",
+    "published": "2026-03-16T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5b2749de90d3",
+    "title": "A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable Agent Execution",
+    "url": "https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/",
+    "summary_original": "In this tutorial, we build an enterprise-grade AI governance system using OpenClaw and Python. We start by setting up the OpenClaw runtime and launching the OpenClaw Gateway so that our Python environment can interact with a real agent through the OpenClaw API. We then design a governance layer that classifies requests based on risk, enforces [&#8230;]\nThe post A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Audit...",
+    "thumbnail": "",
+    "published": "2026-03-15T22:12:45+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1f197d55125d",
+    "title": "Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems like OpenClaw",
+    "url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
+    "summary_original": "OpenViking is an open-source Context Database for AI Agents from Volcengine. The project is built around a simple architectural concept: agent systems should not treat context as a flat collection of text chunks. Instead, OpenViking organizes context through a file system paradigm, with the goal of making memory, resources, and skills manageable through a unified [&#8230;]\nThe post Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Syst...",
+    "thumbnail": "",
+    "published": "2026-03-15T18:49:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ba859e91d14d",
+    "title": "LangChain Releases Deep Agents: A Structured Runtime for Planning, Memory, and Context Isolation in Multi-Step AI Agents",
+    "url": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
+    "summary_original": "Most LLM agents work well for short tool-calling loops but start to break down when the task becomes multi-step, stateful, and artifact-heavy. LangChain’s Deep Agents is designed for that gap. The project is described by LangChain as an &#8216;agent harness&#8216;: a standalone library built on top of LangChain’s agent building blocks and powered by the [&#8230;]\nThe post LangChain Releases Deep Agents: A Structured Runtime for Planning, Memory, and Context Isolation in Multi-Step AI Agents appe...",
+    "thumbnail": "",
+    "published": "2026-03-15T09:07:48+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
