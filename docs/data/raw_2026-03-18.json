@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1c71271c03fa",
+    "title": "Starlink Miniを自宅インターネットの予備回線として使う",
+    "url": "https://gigazine.net/news/20260318-starlink-mini-failover/",
+    "summary_original": "愛好家のジャック・ピアース氏が、衛星通信ネットワークとして提供されているStarlinkサービスから新たに登場した小型モデル「Starlink Mini」を導入し、メイン回線が落ちたときの予備として使用しているとして体験談を公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-18T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6446c63f768d",
+    "title": "2026年も猛暑の可能性が濃厚、スーパーエルニーニョ級への発達予測も",
+    "url": "https://gigazine.net/news/20260318-2026-hot-summer-super-el-nino/",
+    "summary_original": "2026年の夏も厳しい暑さになる可能性が高まっています。太平洋赤道域の海面水温が平年より高い状態が続くエルニーニョ現象について、アメリカ海洋大気庁は2026年6月～8月に発生する可能性を62％と予測しました。気象庁も夏にはエルニーニョ現象が発生する可能性の方が高いとしており、科学系メディアであるLive Scienceは、スーパーエルニーニョ級への発達で世界の気温がさらに押し上げられる可能性があると報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-18T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a2cb1d0c0287",
+    "title": "コーディングAI「Claude Code」のスキルから完全に動作するGodot Engine 4駆動のゲームを作成できる「Godogen」",
+    "url": "https://gigazine.net/news/20260317-godogen/",
+    "summary_original": "ゲームの説明文を与えると、AIがGodot Engine 4向けのゲームプロジェクトをほぼ一通り自動で組み立てる「Godogen」が公開されています。Godogenは設計の立案、アート生成、コード記述、実行中ゲームのスクリーンショット取得、見た目や挙動の不具合修正までを一連のパイプラインとして処理し、最終的に実際に動くGodot 4のプロジェクトを出力可能。生成物は2Dと3Dの両方に対応し、一般的なPCでも動かせるとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-17T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4ca4185fcd4e",
+    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+    "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+    "summary_original": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+    "thumbnail": "",
+    "published": "2026-03-17T21:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a968ecbfd31d",
+    "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+    "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+    "summary_original": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+    "thumbnail": "",
+    "published": "2026-03-17T20:50:04+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "eb7087fb57ca",
+    "title": "会うたびにストレスがたまる「厄介な友人や親戚」の存在が生物学的老化を早めるかもしれない",
+    "url": "https://gigazine.net/news/20260317-difficult-friends-relatives-age-faster/",
+    "summary_original": "友人や家族といった人間関係は充実した人生を送る上で重要ですが、中には接するたびにストレスがたまるような厄介な相手もいます。そんな「厄介な人間関係」について調べた研究で、厄介な友人や親戚の存在が生物学的老化を早める可能性があると報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-17T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "35758f027f03",
+    "title": "「国産人型ロボ」が歩く動画を公開→なぜか注目が集まったのは……　開発陣は困惑",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news116.html",
+    "summary_original": "「開発陣は困惑してます…」――ロボットを開発するスタートアップHighlandersの増岡宏哉CEOは、同社の人型ロボットの試作機が歩く動画への反響を受け、自身のXアカウントでこのように投稿した。何があったのか。",
+    "thumbnail": "",
+    "published": "2026-03-17T19:51:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3967a953cd56",
+    "title": "OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricier",
+    "url": "https://the-decoder.com/openai-ships-gpt-5-4-mini-and-nano-faster-and-more-capable-but-up-to-4x-pricier/",
+    "summary_original": "OpenAI has released two new compact models—GPT-5.4 mini and nano—built for coding assistants, subagents, and computer control. GPT-5.4 mini nearly matches the full model's performance, but both new models come with a steep price hike over their predecessors.\nThe article OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricier appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_logo_walls-1.jpeg",
+    "published": "2026-03-17T19:17:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dded28c20fc9",
+    "title": "Googleが子ども向けAIアニメスタジオ「Animaj」に1億6000万円を投資、一方で子どもを食い物にするAI生成の低品質コンテンツへの投資だという指摘も",
+    "url": "https://gigazine.net/news/20260317-google-backs-ai-studio-youtube-children-animaj/",
+    "summary_original": "YouTubeの親会社であるGoogleが、子ども向けのアニメーションをAIで制作する映像スタジオの「Animaj」に、100万ドル(約1億6000万円)を投資することが明らかになりました。これはYouTube上で問題になっている「AI生成の低品質コンテンツ」を増やすことにつながる投資だとして、一部の専門家から批判の声が上がっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-17T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "df1ed216cd8b",
+    "title": "富山市、公式キャラ制作に画像生成AI活用　若者向けPRに起用",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news114.html",
+    "summary_original": "富山県富山市が、制作過程に米Adobeの画像生成AIサービス「Adobe Firefly」を活用したオリジナルキャラクター「やまやま」「くすくす」を発表した。若者に市の魅力や親しみやすさを伝えるキャラとして、プロモーションに活用する。",
+    "thumbnail": "",
+    "published": "2026-03-17T18:34:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5fb2824526b8",
+    "title": "Microsoft restructures AI division to chase superintelligence after Nadella once called AI models a commodity",
+    "url": "https://the-decoder.com/microsoft-restructures-ai-division-to-chase-superintelligence-after-nadella-once-called-ai-models-a-commodity/",
+    "summary_original": "Microsoft is restructuring its AI division to double down on its own AI models, all the way up to superintelligence. That's a notable shift from what the company used to say.\nThe article Microsoft restructures AI division to chase superintelligence after Nadella once called AI models a commodity appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/microsoft_neural_network.png",
+    "published": "2026-03-17T18:26:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ba0ebfd3e0b6",
+    "title": "The Pentagon is developing alternatives to Anthropic, report says",
+    "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+    "summary_original": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+    "thumbnail": "",
+    "published": "2026-03-17T18:20:15+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c03c301ee2d8",
+    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+    "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+    "summary_original": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+    "thumbnail": "",
+    "published": "2026-03-17T17:17:15+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2d9be5665b91",
+    "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+    "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+    "summary_original": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-03-17T17:07:12+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "d7f943a06ab1",
+    "title": "State of Open Source on Hugging Face: Spring 2026",
+    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-17T16:37:55+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "b72d18ccbe21",
+    "title": "Google’s Personal Intelligence feature is expanding to all US users",
+    "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+    "summary_original": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+    "thumbnail": "",
+    "published": "2026-03-17T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "575e9ab5dd18",
+    "title": "GTC 2026: With Groq 3 LPX, Nvidia adds dedicated inference hardware to its platform for the first time",
+    "url": "https://the-decoder.com/gtc-2026-with-groq-3-lpx-nvidia-adds-dedicated-inference-hardware-to-its-platform-for-the-first-time/",
+    "summary_original": "At GTC 2026, Nvidia expanded the Vera Rubin platform it introduced at CES with custom CPU racks, dedicated inference chips, a new storage architecture, an inference operating system, open model alliances, and agent security software.\nThe article GTC 2026: With Groq 3 LPX, Nvidia adds dedicated inference hardware to its platform for the first time appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/vera-cpu-rack.png",
+    "published": "2026-03-17T14:22:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a149c0f84fc0",
+    "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+    "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+    "summary_original": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-17T14:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "97f47580d3dd",
+    "title": "楽天、日本語LLM「Rakuten AI 3.0」公開　商用利用も可能",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news085.html",
+    "summary_original": "楽天グループは、日本語に特化したLLM「Rakuten AI 3.0」を公開した。Hugging Face上で、商用利用もできるライセンス「Apache 2.0」で提供する。",
+    "thumbnail": "",
+    "published": "2026-03-17T13:14:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f66f1191b11f",
+    "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+    "summary_original": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-gemini-ai-personal-intelligence-tire-suggestion-demo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-17T12:33:41-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9969aa6a127b",
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-17T12:33:39+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "ff1bf75271fa",
+    "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+    "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/09/ECUA-240705-Serhii-Beskrestnov-45766.jpg?w=3000",
+    "published": "2026-03-17T12:26:48+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "377e5b31d323",
+    "title": "Trustpilot partners with AI companies as traditional search declines",
+    "url": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
+    "summary_original": "Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction. In an interview with Bloomberg News [paywall], chief executive Adrian Blair said that AI agents acting on behalf of consumers require lots of information about the businesses they&#8217;re willing to interact with. He said the most effective systems will [&#8230;]\nThe post Trustpilot partners with AI companies as traditional search declines appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-17T12:26:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "2690bf67c49d",
+    "title": "自治体の“とある相談AI”使ってみた→返事は「水で薄めた助言」や「電話窓口への案内」　AI導入の意義を考える",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news017.html",
+    "summary_original": "先日、とあるAIスタートアップが自治体向けに導入している「相談AI」を試してみた。提供元は2025年5月設立の新興企業だが、現時点ですでに全国の複数の自治体において導入や実証実験を行っている。一体どのようなサービスなのか。",
+    "thumbnail": "",
+    "published": "2026-03-17T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2258f42b3ecc",
+    "title": "OpenAI reportedly ditches its \"side quests\" strategy to focus on coding tools and business customers",
+    "url": "https://the-decoder.com/openai-reportedly-ditches-its-side-quests-strategy-to-focus-on-coding-tools-and-business-customers/",
+    "summary_original": "OpenAI now believes its strategy of shipping as many products as possible at once left the company exposed. A major strategic shift is supposed to get things back on track.\nThe article OpenAI reportedly ditches its &quot;side quests&quot; strategy to focus on coding tools and business customers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-3.png",
+    "published": "2026-03-17T11:40:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "482a1a224f71",
+    "title": "NVIDIAが“宇宙コンピュータ”発表　人工衛星に搭載、「軌道上データセンター」に活用へ",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news063.html",
+    "summary_original": "米NVIDIAは、宇宙での運用を想定するコンピューティング基盤「NVIDIA Space-1 Vera Rubin Module」を発表した。人工衛星に搭載でき、高度なAI処理ができるとうたう。",
+    "thumbnail": "",
+    "published": "2026-03-17T11:28:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b6dda62d148d",
+    "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
+    "url": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
+    "summary_original": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-17T11:17:27-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "342dfa038937",
+    "title": "The future of code is exciting and terrifying",
+    "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
+    "summary_original": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app. But even for the seasoned pros, the act of software development is changing fast - many people are writing less code themselves and instead spending their time managing agents and projects. So what does [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0317_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-17T11:16:47-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c3086d499cdc",
+    "title": "Introducing GPT-5.4 mini and nano",
+    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "summary_original": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+    "thumbnail": "",
+    "published": "2026-03-17T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "9a305a89ac0b",
+    "title": "Goldman Sachs sees AI investment shift to data centres",
+    "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
+    "summary_original": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems. Recent analysis from Goldman Sachs suggests the market is moving toward what the firm describes as a &#8220;flight to quality.&#8221; In practice, investors are paying closer [&#8230;]\nThe post Goldman Sachs sees AI investment shift to data centres appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-03-17T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "698a7d58e8fb",
+    "title": "Mistral's new Small 4 model punches above its weight with 128 expert modules",
+    "url": "https://the-decoder.com/mistrals-new-small-4-model-punches-above-its-weight-with-128-expert-modules/",
+    "summary_original": "Mistral AI has released Mistral Small 4, combining fast text responses, logical reasoning, and image processing in one model.\nThe article Mistral&#039;s new Small 4 model punches above its weight with 128 expert modules appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/09/msitral_logo.png",
+    "published": "2026-03-17T09:56:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c7de35e735f7",
+    "title": "Google AI Releases WAXAL: A Multilingual African Speech Dataset for Training Automatic Speech Recognition and Text-to-Speech Models",
+    "url": "https://www.marktechpost.com/2026/03/17/google-ai-releases-waxal-a-multilingual-african-speech-dataset-for-training-automatic-speech-recognition-and-text-to-speech-models/",
+    "summary_original": "Speech technology still has a data distribution problem. Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) systems have improved rapidly for high-resource languages, but many African languages remain poorly represented in open corpora. A team of researchers from Google and other collaborators introduce WAXAL, an open multilingual speech dataset for African languages covering 24 languages, with [&#8230;]\nThe post Google AI Releases WAXAL: A Multilingual African Speech Dataset for Traini...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-17-at-1.37.10-AM-1.png",
+    "published": "2026-03-17T08:37:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0a774df5d3a9",
+    "title": "How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels",
+    "url": "https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/",
+    "summary_original": "In this tutorial, we explore how to use NVIDIA Warp to build high-performance GPU and CPU simulations directly from Python. We begin by setting up a Colab-compatible environment and initializing Warp so that our kernels can run on either CUDA GPUs or CPUs, depending on availability. We then implement several custom Warp kernels that demonstrate [&#8230;]\nThe post How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels appeared firs...",
+    "thumbnail": "",
+    "published": "2026-03-17T04:42:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0ca36c17d5db",
+    "title": "Equipping workers with insights about compensation",
+    "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "summary_original": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+    "thumbnail": "",
+    "published": "2026-03-17T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "1f9b9e7fc5d1",
+    "title": "Mistral AI Releases Mistral Small 4: A 119B-Parameter MoE Model that Unifies Instruct, Reasoning, and Multimodal Workloads",
+    "url": "https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/",
+    "summary_original": "Mistral AI has released Mistral Small 4, a new model in the Mistral Small family designed to consolidate several previously separate capabilities into a single deployment target. Mistral team describes Small 4 as its first model to combine the roles associated with Mistral Small for instruction following, Magistral for reasoning, Pixtral for multimodal understanding, and [&#8230;]\nThe post Mistral AI Releases Mistral Small 4: A 119B-Parameter MoE Model that Unifies Instruct, Reasoning, and Multi...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-16-at-3.39.09-PM-1.png",
+    "published": "2026-03-16T22:48:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3823e0cb7007",
+    "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+    "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-16T21:58:40+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "4516adadd7db",
+    "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+    "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+    "summary_original": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grokashcroft.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-16T17:56:05-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7f98adee8197",
+    "title": "Where OpenAI’s technology could show up in Iran",
+    "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-16T17:06:21+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b2c602c721e8",
+    "title": "US Treasury publishes AI risk Guidebook for financial institutions",
+    "url": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+    "summary_original": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading &#8216;Resources and Downloads&#8217; towards the bottom of the link). The CRI Financial Services AI Risk Management Framework (FS AI RMF) comes with a Guidebook [.docx] which [&#8230;]\nThe post US Treasury publishes AI risk Guidebook for financial institutions appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-16T16:15:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "56f37665518f",
+    "title": "Nurturing agentic AI beyond the toddler stage",
+    "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "summary_original": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MITTRI-Intel-iStock-2241096601.jpg?w=1254",
+    "published": "2026-03-16T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
