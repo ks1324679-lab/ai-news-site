@@ -1,0 +1,402 @@
+[
+  {
+    "id": "fdc0527e9d5f",
+    "title": "銃乱射事件を起こそうとする人物をAIでいち早く特定するスタートアップが登場",
+    "url": "https://gigazine.net/news/20260319-ai-identify-mass-shooters/",
+    "summary_original": "銃社会のアメリカでは頻繁に銃乱射事件が起きており、2026年3月にはテキサス州オースティンの繁華街で銃撃事件が発生して3人が死亡して10人以上が負傷したほか、バージニア州ノーフォークの大学では教室内で発砲事件があり1人が死亡して2人が負傷しました。そんな中、テキサス州に拠点を置くAngel ProtectionというAIスタートアップが、AIを使用して銃乱射事件を起こそうとする人間をいち早く特定する技術を発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-19T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e3a08e046e18",
+    "title": "手のひらサイズAIスパコン「DGX Spark」が4台連結可能に、OpenClawもサクサク動く",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/19/news046.html",
+    "summary_original": "NVIDIAは「GTC 2026」の開催に併せて、超小型デスクトップAIスーパーコンピュータ「DGX Spark」の次期ソフトウェアアップデートについて発表した。これまで2台連結によるスケールアウトが可能だったが、今後は4台連結まで可能になるという。",
+    "thumbnail": "",
+    "published": "2026-03-19T06:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "252f65878d90",
+    "title": "グリーンバックでのVFX合成がイマイチになる問題を解決できる「CorridorKey」爆誕",
+    "url": "https://gigazine.net/news/20260319-corridorkey/",
+    "summary_original": "YouTubeのチャンネル登録者数700万人超のCorridor Crewが、VFXにまつわる30年来の問題を解決する「CorridorKey」を公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-19T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "095b6f2422dd",
+    "title": "無料でローカルAIモデルのメモリ使用量を最大80％削減し処理速度を2倍に向上させる「Unsloth Studio」、Windows・macOS・Linux対応でチャットだけならCPUのみでもOKでスマホでも動作可能",
+    "url": "https://gigazine.net/news/20260318-unsloth-studio/",
+    "summary_original": "ローカル環境でオープンソースのAIモデルを訓練、実行、および出力するための統合されたウェブUI「Unsloth Studio」は複雑なプログラミングコードを記述することなく直感的に操作でき、ベータ版として公開されています。ユーザーは100％オフラインの環境でAIモデルを自身のコンピュータ上で動かすことができ、データのプライバシーと制御を維持することが可能です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-18T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8df17b55d7e6",
+    "title": "Tsinghua and Ant Group Researchers Unveil a Five-Layer Lifecycle-Oriented Security Framework to Mitigate Autonomous LLM Agent Vulnerabilities in OpenClaw",
+    "url": "https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/",
+    "summary_original": "Autonomous LLM agents like OpenClaw are shifting the paradigm from passive assistants to proactive entities capable of executing complex, long-horizon tasks through high-privilege system access. However, a security analysis research report from Tsinghua University and Ant Group reveals that OpenClaw’s ‘kernel-plugin’ architecture—anchored by a pi-coding-agent serving as the Minimal Trusted Computing Base (TCB)—is vulnerable to [&#8230;]\nThe post Tsinghua and Ant Group Researchers Unveil a Five-L...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-22.png",
+    "published": "2026-03-18T21:04:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8af459e4138d",
+    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "summary_original": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+    "thumbnail": "",
+    "published": "2026-03-18T20:30:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8760588925f2",
+    "title": "Google Labs turns Stitch into a full AI design platform that converts plain text into user interfaces",
+    "url": "https://the-decoder.com/google-labs-turns-stitch-into-a-full-ai-design-platform-that-converts-plain-text-into-user-interfaces/",
+    "summary_original": "Google's Stitch turns text and voice input into clickable prototypes: no design or coding skills required.\nThe article Google Labs turns Stitch into a full AI design platform that converts plain text into user interfaces appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/stitch_google_keyword.webp",
+    "published": "2026-03-18T20:07:56+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6d9ea0f2f905",
+    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+    "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+    "summary_original": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+    "thumbnail": "",
+    "published": "2026-03-18T20:01:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b5ff84c0cc3b",
+    "title": "「ハッキング不可能」と言われていたXbox Oneが「Bliss」と呼ばれる手法によってついに突破される",
+    "url": "https://gigazine.net/news/20260318-xbox-one-hacked/",
+    "summary_original": "2013年の発売以来長年ハッキング不可能だと考えられてきた「Xbox One」に対するハッキング手法が、脆弱(ぜいじゃく)性研究カンファレンスの「RE//verse 2026」で公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-18T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e7807681beea",
+    "title": "Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation",
+    "url": "https://the-decoder.com/google-deepmind-upgrades-gemini-api-with-multi-tool-chaining-and-context-circulation/",
+    "summary_original": "Google Deepmind is expanding the Gemini API: developers can now combine multiple tools in a single request and tap into Google Maps as a data source.\nThe article Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/google_logo_neural_network_background.png",
+    "published": "2026-03-18T19:50:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4c7a7d5bf4b2",
+    "title": "海賊版サイトを通報してポイントをためることができる「オンラインハンター」をチェコの海賊版対策企業が開始",
+    "url": "https://gigazine.net/news/20260318-online-hunter/",
+    "summary_original": "著作権侵害は大規模な海賊版サイトの場合は摘発しやすいですが、SNSやクローズドなコミュニティで海賊版コンテンツが共有されている場合には発見が困難です。この問題に対処するため、チェコの著作権侵害対策企業のWarezioがゲーム感覚で著作権侵害の事例を報告してポイントを稼ぐことができる「Online Hunter」の取り組みを開始しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-18T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "410133cdcce5",
+    "title": "デスクトップPCのAIエージェントをスマホで遠隔操作　「Claude Cowork」に新機能",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news130.html",
+    "summary_original": "米Anthropicは、PC上でタスクを自律的にこなすAIエージェント「Claude Cowork」を、スマートフォンから遠隔操作する機能「Dispatch」の試験提供を始めた。",
+    "thumbnail": "",
+    "published": "2026-03-18T18:46:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "481c8baa7b7f",
+    "title": "Baidu Qianfan Team Releases Qianfan-OCR: A 4B-Parameter Unified Document Intelligence Model",
+    "url": "https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/",
+    "summary_original": "The Baidu Qianfan Team introduced Qianfan-OCR, a 4B-parameter end-to-end model designed to unify document parsing, layout analysis, and document understanding within a single vision-language architecture. Unlike traditional multi-stage OCR pipelines that chain separate modules for layout detection and text recognition, Qianfan-OCR performs direct image-to-Markdown conversion and supports prompt-driven tasks like table extraction and document question [&#8230;]\nThe post Baidu Qianfan Team Release...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-18-at-11.40.01-AM-1.png",
+    "published": "2026-03-18T18:41:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7e40bb91e723",
+    "title": "OpenAI turns model compression into a talent hunt with its 16 MB \"Parameter Golf\" challenge",
+    "url": "https://the-decoder.com/openai-turns-model-compression-into-a-talent-hunt-with-its-16-mb-parameter-golf-challenge/",
+    "summary_original": "OpenAI challenges researchers to build the best language model in just 16 MB - and uses the competition to scout talent. \nThe article OpenAI turns model compression into a talent hunt with its 16 MB &quot;Parameter Golf&quot; challenge appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/OpenAI-Parameter-Golf-Teaser.jpg",
+    "published": "2026-03-18T18:09:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "be9e116d903b",
+    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+    "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+    "summary_original": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+    "thumbnail": "",
+    "published": "2026-03-18T17:54:31+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e056bd00d7b8",
+    "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+    "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+    "summary_original": "One Microsoft product was approved despite years of concerns about its security.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "published": "2026-03-18T17:36:40+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "3579ca5e3015",
+    "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+    "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+    "summary_original": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+    "thumbnail": "",
+    "published": "2026-03-18T17:15:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cc759cd73172",
+    "title": "Apple reportedly blocks vibe-coding apps from publishing updates",
+    "url": "https://the-decoder.com/apple-reportedly-blocks-vibe-coding-apps-from-publishing-updates/",
+    "summary_original": "Apple is preventing popular vibe-coding apps like Replit and Vibecode from releasing new versions. The company points to existing guidelines, but the move targets potential competition to its own ecosystem.\nThe article Apple reportedly blocks vibe-coding apps from publishing updates appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/08/apple_block_logo_neural_network.png",
+    "published": "2026-03-18T16:46:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4e25d5261dfc",
+    "title": "The Gemini-powered features in Google Workspace that are worth using",
+    "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+    "summary_original": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+    "thumbnail": "",
+    "published": "2026-03-18T16:43:18+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c0cb1c43e47b",
+    "title": "Pentagon plans to let AI companies train models on classified data",
+    "url": "https://the-decoder.com/pentagon-plans-to-let-ai-companies-train-models-on-classified-data/",
+    "summary_original": "The US Department of War is working to set up secure environments where AI companies can train their models on classified data. Until now, models were only allowed to read classified data, not learn from it.\nThe article Pentagon plans to let AI companies train models on classified data appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_anthropic_google_pentagon-scaled.jpg",
+    "published": "2026-03-18T16:32:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a231839983ca",
+    "title": "Linux Foundation、AI時代のOSSセキュリティ強化に1250万ドルの助成金をGoogleなど6社から獲得",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/18/news117.html",
+    "summary_original": "Linux Foundationは、Anthropic、AWS、GitHub、Google、Google DeepMind、Microsoft、OpenAIから総額1250万ドル（約20億円）の助成金を受領した。資金は「Alpha-Omega」等を通じて、AIによる脆弱性報告の急増に直面するオープンソース保守担当者の支援に充てる。",
+    "thumbnail": "",
+    "published": "2026-03-18T16:26:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "961d8e946038",
+    "title": "Mastercard keeps tabs on fraud with new foundation model",
+    "url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+    "summary_original": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that&#8217;s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments. The company has trained a foundation model on billions of card transactions, with the intention of expanding to hundreds of [&#8230;]\nThe post Mastercard keeps tabs on fraud with new foundation model appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-18T15:31:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "6be54dcda859",
+    "title": "David Sacks’ big Iran warning gets big time ignored",
+    "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+    "summary_original": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2203279318.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-18T14:44:21-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2886464a3f4c",
+    "title": "For effective AI, insurance needs to get its data house in order",
+    "url": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+    "summary_original": "A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies&#8217; internal processes that not only affect overall efficiency but cause an impediment to the effective implementation of AI in insurance concerns. Insurance Operations &#38; Financial Transformation 2026 [email wall] draws from a [&#8230;]\nThe post For effective AI, insurance needs to get its data house in order appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-18T14:37:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5e30f0617cf4",
+    "title": "ChatGPT did not cure a dog’s cancer",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+    "summary_original": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated. The [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS524_AI_HEALTH_A.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-18T14:14:39-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "686eeeef5ed4",
+    "title": "「ブラウザ自動化」の限界を解消？　Googleが新標準「WebMCP」早期プレビュー公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/18/news058.html",
+    "summary_original": "Googleは、AIエージェントがWebサイトと構造化された方法でやりとりするための新しいWeb標準「WebMCP」の早期プレビュー版を公開した。Web開発者がAIエージェント向けにツールを公開することで、AIエージェントがより高速かつ正確に処理を実行できるようになるという。",
+    "thumbnail": "",
+    "published": "2026-03-18T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fab1738d461d",
+    "title": "無料の国交省、中小企業庁、総務省データ用「リモートMCPサーバー」公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/18/news055.html",
+    "summary_original": "AI HYVEとN-3は、行政APIをAIエージェントから利用可能にする「リモートMCPサーバー」を無料公開した。ChatGPT、Gemini、Claudeなどから最新の行政データへのアクセスを可能にするという。",
+    "thumbnail": "",
+    "published": "2026-03-18T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6c2538795e18",
+    "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+    "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&#160;defense&#160;official says&#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/04/250404_kathleenhicks_hero_395fda.jpg?w=3000",
+    "published": "2026-03-18T12:38:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "5b546065e656",
+    "title": "What do new nuclear reactors mean for waste?",
+    "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+    "summary_original": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-18T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c3d9addcb4cb",
+    "title": "NVIDIA AI Open-Sources ‘OpenShell’: A Secure Runtime Environment for Autonomous AI Agents",
+    "url": "https://www.marktechpost.com/2026/03/18/nvidia-ai-open-sources-openshell-a-secure-runtime-environment-for-autonomous-ai-agents/",
+    "summary_original": "The deployment of autonomous AI agents—systems capable of using tools and executing code—presents a unique security challenge. While standard LLM applications are restricted to text-based interactions, autonomous agents require access to shell environments, file systems, and network endpoints to perform tasks. This increased capability introduces significant risks, as a model’s &#8216;black box&#8217; nature can lead [&#8230;]\nThe post NVIDIA AI Open-Sources &#8216;OpenShell&#8217;: A Secure Run...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-18-at-1.42.53-AM-1.png",
+    "published": "2026-03-18T08:42:37+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3b36c5eb3afa",
+    "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+    "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+    "summary_original": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/screencapture-nvidia-en-us-geforce-news-dlss5-breakthrough-in-visual-fidelity-for-games-nvidia-dlss-5-resident-evil-requiem-geforce-rtx-comparison-screenshot-001-2026-03-17-20_21_56.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-18T08:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f66ededeff09",
+    "title": "ServiceNow Research Introduces EnterpriseOps-Gym: A High-Fidelity Benchmark Designed to Evaluate Agentic Planning in Realistic Enterprise Settings",
+    "url": "https://www.marktechpost.com/2026/03/18/servicenow-research-introduces-enterpriseops-gym-a-high-fidelity-benchmark-designed-to-evaluate-agentic-planning-in-realistic-enterprise-settings/",
+    "summary_original": "Large language models (LLMs) are transitioning from conversational to autonomous agents capable of executing complex professional workflows. However, their deployment in enterprise environments remains limited by the lack of benchmarks that capture the specific challenges of professional settings: long-horizon planning, persistent state changes, and strict access protocols. To address this, researchers from ServiceNow Research, Mila [&#8230;]\nThe post ServiceNow Research Introduces EnterpriseOps...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-18-at-12.00.24-AM-1.png",
+    "published": "2026-03-18T07:08:46+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "71c5e57ae381",
+    "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-17T23:17:07+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "4e0941bd3ec0",
+    "title": "Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Performance LLM Fine-Tuning With 70% Less VRAM Usage",
+    "url": "https://www.marktechpost.com/2026/03/17/unsloth-ai-releases-studio-a-local-no-code-interface-for-high-performance-llm-fine-tuning-with-70-less-vram-usage/",
+    "summary_original": "The transition from a raw dataset to a fine-tuned Large Language Model (LLM) traditionally involves significant infrastructure overhead, including CUDA environment management and high VRAM requirements. Unsloth AI, known for its high-performance training library, has released Unsloth Studio to address these friction points. The Studio is an open-source, no-code local interface designed to streamline the [&#8230;]\nThe post Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Per...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-1-6.png",
+    "published": "2026-03-17T22:32:48+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d45fb380f485",
+    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+    "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "summary_original": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-17T22:30:46+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2d9be5665b91",
+    "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+    "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+    "summary_original": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-03-17T17:07:12+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "d7f943a06ab1",
+    "title": "State of Open Source on Hugging Face: Spring 2026",
+    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-17T16:37:55+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "a149c0f84fc0",
+    "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+    "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+    "summary_original": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-17T14:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f66f1191b11f",
+    "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+    "summary_original": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-gemini-ai-personal-intelligence-tire-suggestion-demo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-17T12:33:41-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9969aa6a127b",
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-17T12:33:39+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
