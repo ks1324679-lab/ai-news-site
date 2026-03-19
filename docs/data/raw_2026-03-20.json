@@ -1,0 +1,402 @@
+[
+  {
+    "id": "284471765d50",
+    "title": "GoogleのUIデザインツール「Stitch」がアップデートされてAIと話しながら高品質UIをサクッと作成可能に、Figmaの株価は下落",
+    "url": "https://gigazine.net/news/20260320-google-ai-stitch-ui-design/",
+    "summary_original": "GoogleがUIデザインツールの「Stitch」に大幅なアップデートを施しました。アップデート版のStitchではAIに自然言語で指示を出すだけで高品質なUIを作ることが可能。日本でもすでに利用可能だったので実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-20T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2e53d1a8c8bf",
+    "title": "東野圭吾原作映画の監督インタビュー・Pixel 10 Pro Fold・「どんでん返し」のコツなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年2月版はコレ！",
+    "url": "https://gigazine.net/news/20260320-gigazine-kindle-ranking-2026-02/",
+    "summary_original": "GIGAZINEの記事を電子化した書籍を対象に「2026年2月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-20T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cf0d4b628647",
+    "title": "俳優ヴァル・キルマーが遺族らの協力を得て生成AIで新作映画に出演へ",
+    "url": "https://gigazine.net/news/20260319-ai-val-kilmer-in-a-new-film/",
+    "summary_original": "『トップガン』のアイスマン役や『バットマン フォーエヴァー』のバットマン役などで知られ2025年に咽頭がんのため亡くなった俳優のヴァル・キルマーが、遺産管理団体や遺族らの協力を得た上で、映画『As Deep as the Grave』に生成AIの姿で出演することがわかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-19T23:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ea2113857ad8",
+    "title": "Microsoftのクラウドを連邦政府のサイバー専門家らは「クソの山」と非難していたが圧力を受けて承認していた",
+    "url": "https://gigazine.net/news/20260319-microsoft-cloud-fedramp-concerns-cybersecurity/",
+    "summary_original": "Microsoftは機密性の高い情報を扱うユーザー向けのクラウドサービス群である「Government Community Cloud High(GCCH)」を、さまざまな政府機関や政府の請負業者に提供しています。しかし、アメリカ政府のクラウドサービス認証制度である米国連邦情報セキュリティ管理プログラム(FedRAMP)は繰り返しGCCHの問題を指摘していたにもかかわらず、政府内外の圧力を受けてGCCHを承認せざるを得なかったと、非営利報道機関のProPublicaが報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-19T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e6bb15e262a2",
+    "title": "AIバグ発見システム「Sashiko」がGoogle社員によって開発される、日本の「刺し子」に由来する名前でLinuxカーネルの未発見バグを次々に検出",
+    "url": "https://gigazine.net/news/20260319-sashiko-linux-bug-ai/",
+    "summary_original": "Google社員のRoman Gushchin氏がAIを用いたバグ発見システム「Sashiko」を開発して公開しました。Sashikoは主にLinuxカーネルのパッチに含まれるバグを発見するために設計されていますが、Linuxカーネル以外のプロジェクトでも使用することができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-19T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d9eca1d252a3",
+    "title": "Elevenlabs now lets you sell AI music you don't own",
+    "url": "https://the-decoder.com/elevenlabs-now-lets-you-sell-ai-music-you-dont-own/",
+    "summary_original": "Elevenlabs has launched a marketplace for AI-generated music that pays creators when their tracks get downloaded or licensed. But who actually owns the music? A look at the terms of use tells the story: no one, really.\nThe article Elevenlabs now lets you sell AI music you don&#039;t own appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/elevenlabs_musick_marketplace.webp",
+    "published": "2026-03-19T19:51:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "94e7bfd66246",
+    "title": "Microsoft's superintelligence team ships MAI-Image-2, a text-to-image generator",
+    "url": "https://the-decoder.com/microsofts-superintelligence-team-ships-mai-image-2-a-text-to-image-generator/",
+    "summary_original": "Microsoft's superintelligence team has unveiled its first product: MAI-Image-2, an image generator rolling out across Microsoft's products and eventually available via API.\nThe article Microsoft&#039;s superintelligence team ships MAI-Image-2, a text-to-image generator appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/mai_2_image_rendering-2.png",
+    "published": "2026-03-19T19:16:55+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c73c9301d804",
+    "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+    "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+    "summary_original": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+    "thumbnail": "",
+    "published": "2026-03-19T19:09:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3876e763d329",
+    "title": "Google AI Studio now lets you vibe code real-time multiplayer games",
+    "url": "https://the-decoder.com/google-ai-studio-now-lets-you-vibe-code-real-time-multiplayer-games/",
+    "summary_original": "Google AI Studio can now build full apps from voice commands, complete with databases, payments, and user logins.\nThe article Google AI Studio now lets you vibe code real-time multiplayer games appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/google_ai_vibe_coding.webp",
+    "published": "2026-03-19T18:43:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c5ada43af064",
+    "title": "Cursor takes on OpenAI and Anthropic with Composer 2, a code-only model built to match rivals at a fraction of the cost",
+    "url": "https://the-decoder.com/cursor-takes-on-openai-and-anthropic-with-composer-2-a-code-only-model-built-to-match-rivals-at-a-fraction-of-the-cost/",
+    "summary_original": "Cursor releases Composer 2, the second generation of its own AI model for software development. The model is designed to keep pace with the leading coding models from Anthropic and OpenAI at significantly lower costs.\nThe article Cursor takes on OpenAI and Anthropic with Composer 2, a code-only model built to match rivals at a fraction of the cost appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/cursor_logo_wall.png",
+    "published": "2026-03-19T17:52:16+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e74a4041f951",
+    "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+    "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+    "summary_original": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+    "thumbnail": "",
+    "published": "2026-03-19T17:24:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1c0ed46c2fe4",
+    "title": "OpenAI overhauls ChatGPT's model selection",
+    "url": "https://the-decoder.com/openai-overhauls-chatgpts-model-selection/",
+    "summary_original": "OpenAI has redesigned how model selection works in ChatGPT.\nThe article OpenAI overhauls ChatGPT&#039;s model selection appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_update_logo.png",
+    "published": "2026-03-19T16:25:55+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7a7c99a96bd1",
+    "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+    "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+    "summary_original": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+    "thumbnail": "",
+    "published": "2026-03-19T16:14:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e6e631befba9",
+    "title": "TechCrunch Startup Battlefield 200 nominations are still open",
+    "url": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+    "summary_original": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+    "thumbnail": "",
+    "published": "2026-03-19T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7814dfdba44d",
+    "title": "楽天の最新AI、ベースは“中国DeepSeek製”？　担当者に聞いた",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/19/news099.html",
+    "summary_original": "「DeepSeekのAIモデルをベースに開発したのでは」――楽天グループの日本語LLM「Rakuten AI 3.0」を巡り、X上でこのような指摘が相次いでいる。楽天の担当者に話を聞いた。",
+    "thumbnail": "",
+    "published": "2026-03-19T14:28:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a88c93a7b727",
+    "title": "A rogue AI led to a serious security incident at Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+    "summary_original": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. A [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-19T14:20:05-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "79cdbebf79f3",
+    "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+    "url": "https://huggingface.co/blog/nvidia/speed-bench",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-19T14:04:54+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "da23aaf9b6b7",
+    "title": "Anthropic、約8万人のClaudeユーザー定性調査結果を発表　AIに対する期待と懸念",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/19/news091.html",
+    "summary_original": "Anthropicは、Claudeユーザー約8万人を対象とした大規模な多言語定性調査の結果を報告した。ユーザーはAIに「卓越した専門性」を求めており、8割以上が実用性を実感している。一方で信頼性欠如や自律性喪失への懸念も根強く、特に日本を含む東アジアではAI利用による認知能力低下を危惧する傾向が他地域より顕著だ。",
+    "thumbnail": "",
+    "published": "2026-03-19T12:54:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "dd66279b36c6",
+    "title": "Amazon brings Alexa+ to the UK",
+    "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+    "summary_original": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+    "thumbnail": "",
+    "published": "2026-03-19T12:27:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8e8fb6b97f97",
+    "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+    "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/01/Wafer-Testing.jpg?w=3000",
+    "published": "2026-03-19T12:17:02+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "dd1c7aaf452d",
+    "title": "Google、“バイブデザイン”ツール「Stitch」をβ公開　手書きスケッチを数秒でコード化",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/19/news084.html",
+    "summary_original": "Googleは、AIを活用したUIデザイン生成ツール「Stitch」（β）をLabsで公開した。直感的なニュアンスでデザインを構築する「バイブデザイン」を掲げ、買収したGalileo AIの技術とGemini 3を統合。自然言語やスケッチからプロトタイプを自動生成し、Figmaへの書き出しやReactコードの出力にも対応する。",
+    "thumbnail": "",
+    "published": "2026-03-19T10:56:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b0121e9e58df",
+    "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
+    "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+    "summary_original": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-19T10:51:43+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c0eeb1f9eef6",
+    "title": "How we monitor internal coding agents for misalignment",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "summary_original": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "thumbnail": "",
+    "published": "2026-03-19T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0e9a97152ff0",
+    "title": "Visa prepares payment systems for AI agent-initiated transactions",
+    "url": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
+    "summary_original": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments. New work in the banking sector suggests that, in some cases, software agents may soon take on that role. [&#8230;]\nThe post Visa prepares payment systems for AI agent-initiated transactions appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
+    "published": "2026-03-19T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "0c9c687e8672",
+    "title": "Why the world doesn’t recycle more nuclear waste",
+    "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+    "summary_original": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since the material needs to&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-19T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "5272ee2de8cd",
+    "title": "Adobe’s AI image generator can now be trained on your own art",
+    "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+    "summary_original": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography. The tool aims [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Firefly-Custom-Models-Hero-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-19T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ad10bafefd30",
+    "title": "Fitbit&#8217;s AI health coach will soon be able to read your medical records",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+    "summary_original": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-19T08:27:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6dae4720062e",
+    "title": "A Coding Guide to Implement Advanced Differential Equation Solvers, Stochastic Simulations, and Neural Ordinary Differential Equations Using Diffrax and JAX",
+    "url": "https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/",
+    "summary_original": "In this tutorial, we explore how to solve differential equations and build neural differential equation models using the Diffrax library. We begin by setting up a clean computational environment and installing the required scientific computing libraries such as JAX, Diffrax, Equinox, and Optax. We then demonstrate how to solve ordinary differential equations using adaptive solvers [&#8230;]\nThe post A Coding Guide to Implement Advanced Differential Equation Solvers, Stochastic Simulations, and N...",
+    "thumbnail": "",
+    "published": "2026-03-19T08:11:01+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "717647df87bb",
+    "title": "「最もセクシー」と呼ばれた職業、データサイエンティストの今　ブームは去っても「必須の役割」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news053.html",
+    "summary_original": "かつて「21世紀で最もセクシーな職業」と呼ばれたデータサイエンティスト。生成AIブームの中、その役割はどう変わったのか。ガートナージャパンのアナリストである一志達也氏に、データサイエンティストの現在地と、AI人材獲得に悩む日本企業の課題を聞いた。",
+    "thumbnail": "",
+    "published": "2026-03-19T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "438ef1b2dbfe",
+    "title": "2028年にインシデント対応の5割はAI関連に　ガートナーが予測",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news051.html",
+    "summary_original": "ガートナーは2026年以降のセキュリティの展望として、AI普及によってリスク管理が激変すると発表した。2028年にはインシデント対応の半分がAI関連となり、規制対応の遅れやデータ負債、ID管理が複雑化するという。",
+    "thumbnail": "",
+    "published": "2026-03-19T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "57ed3d81426b",
+    "title": "NVIDIA wants enterprise AI agents safer to deploy",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+    "summary_original": "The NVIDIA Agent Toolkit is Jensen Huang&#8217;s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability? Announced at GTC 2026 in San Jose on March 16, the NVIDIA Agent Toolkit is an open-source software stack designed to help enterprises and [&#8230;]\nThe post NVIDIA wants enterprise AI agents safer to deploy appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
+    "published": "2026-03-19T08:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "6483393e121d",
+    "title": "Meet Mamba-3: A New State Space Model Frontier with 2x Smaller States and Enhanced MIMO Decoding Hardware Efficiency",
+    "url": "https://www.marktechpost.com/2026/03/18/meet-mamba-3-a-new-state-space-model-frontier-with-2x-smaller-states-and-enhanced-mimo-decoding-hardware-efficiency/",
+    "summary_original": "The scaling of inference-time compute has become a primary driver for Large Language Model (LLM) performance, shifting architectural focus toward inference efficiency alongside model quality. While Transformer-based architectures remain the standard, their quadratic computational complexity and linear memory requirements create significant deployment bottlenecks. A team of researchers from Carnegie Mellon University (CMU), Princeton University, Together [&#8230;]\nThe post Meet Mamba-3: A New Sta...",
+    "thumbnail": "",
+    "published": "2026-03-19T06:01:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7f899a2973c2",
+    "title": "OpenAI to acquire Astral",
+    "url": "https://openai.com/index/openai-to-acquire-astral",
+    "summary_original": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "thumbnail": "",
+    "published": "2026-03-19T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8df17b55d7e6",
+    "title": "Tsinghua and Ant Group Researchers Unveil a Five-Layer Lifecycle-Oriented Security Framework to Mitigate Autonomous LLM Agent Vulnerabilities in OpenClaw",
+    "url": "https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/",
+    "summary_original": "Autonomous LLM agents like OpenClaw are shifting the paradigm from passive assistants to proactive entities capable of executing complex, long-horizon tasks through high-privilege system access. However, a security analysis research report from Tsinghua University and Ant Group reveals that OpenClaw’s ‘kernel-plugin’ architecture—anchored by a pi-coding-agent serving as the Minimal Trusted Computing Base (TCB)—is vulnerable to [&#8230;]\nThe post Tsinghua and Ant Group Researchers Unveil a Five-L...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-22.png",
+    "published": "2026-03-18T21:04:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "481c8baa7b7f",
+    "title": "Baidu Qianfan Team Releases Qianfan-OCR: A 4B-Parameter Unified Document Intelligence Model",
+    "url": "https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/",
+    "summary_original": "The Baidu Qianfan Team introduced Qianfan-OCR, a 4B-parameter end-to-end model designed to unify document parsing, layout analysis, and document understanding within a single vision-language architecture. Unlike traditional multi-stage OCR pipelines that chain separate modules for layout detection and text recognition, Qianfan-OCR performs direct image-to-Markdown conversion and supports prompt-driven tasks like table extraction and document question [&#8230;]\nThe post Baidu Qianfan Team Release...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-18-at-11.40.01-AM-1.png",
+    "published": "2026-03-18T18:41:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e056bd00d7b8",
+    "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+    "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+    "summary_original": "One Microsoft product was approved despite years of concerns about its security.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "published": "2026-03-18T17:36:40+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "961d8e946038",
+    "title": "Mastercard keeps tabs on fraud with new foundation model",
+    "url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+    "summary_original": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that&#8217;s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments. The company has trained a foundation model on billions of card transactions, with the intention of expanding to hundreds of [&#8230;]\nThe post Mastercard keeps tabs on fraud with new foundation model appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-18T15:31:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "6be54dcda859",
+    "title": "David Sacks’ big Iran warning gets big time ignored",
+    "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+    "summary_original": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2203279318.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-18T14:44:21-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2886464a3f4c",
+    "title": "For effective AI, insurance needs to get its data house in order",
+    "url": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+    "summary_original": "A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies&#8217; internal processes that not only affect overall efficiency but cause an impediment to the effective implementation of AI in insurance concerns. Insurance Operations &#38; Financial Transformation 2026 [email wall] draws from a [&#8230;]\nThe post For effective AI, insurance needs to get its data house in order appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-18T14:37:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5e30f0617cf4",
+    "title": "ChatGPT did not cure a dog’s cancer",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+    "summary_original": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated. The [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS524_AI_HEALTH_A.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-18T14:14:39-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
