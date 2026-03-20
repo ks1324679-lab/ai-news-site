@@ -1,0 +1,402 @@
+[
+  {
+    "id": "aa66c89e9ab4",
+    "title": "コーディングAIエージェントの支援を受けてソフトウェアを開発する手法「エージェントエンジニアリング」とは？",
+    "url": "https://gigazine.net/news/20260320-agentic-engineering/",
+    "summary_original": "AIにコードを書かせること自体はすでに珍しくありませんが、最近は書いたコードを自分で実行し、その結果を見ながら修正まで進めるAIツールも登場しています。こうしたAIの支援を受けながらソフトウェア開発を進める考え方が「エージェントエンジニアリング」です。ウェブ開発者のサイモン・ウィリソン氏は、Claude Code・OpenAI Codex・Gemini CLIのようなコーディングAIエージェントを活用することで、人間は「何を作るかを決める」「必要な道具を整える」「出てきた結果を検証する」役割をより強く担うようになると主張しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-20T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6b200b677c3b",
+    "title": "MetaがHorizon WorldsのVRサポート終了を撤回",
+    "url": "https://gigazine.net/news/20260320-meta-reverses-horizon-worlds-vr-support-end/",
+    "summary_original": "MetaがHorizon WorldsのVRサポート終了を撤回したことが、同社の最高技術責任者(CTO)であるアンドリュー・ボズワース氏の口から語られました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-20T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "19bc3dbf1041",
+    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "summary_original": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+    "thumbnail": "",
+    "published": "2026-03-20T20:53:09+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ddc4f9e0a68a",
+    "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+    "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+    "summary_original": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+    "published": "2026-03-20T20:50:46+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "3877adadec3a",
+    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "summary_original": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-03-20T20:02:35+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "599a5430f465",
+    "title": "無料でIMAPメールボックスをまるごと別のIMAPに転送できる「imapsync」、Windows・Linux・Mac対応でGmailでも可能",
+    "url": "https://gigazine.net/news/20260320-imapsync/",
+    "summary_original": "メールシステムの移行やバックアップは、環境ごとに仕様が異なり複雑になりがちです。Windows・Linux・Macで動作するIMAP転送ツールで、メールシステムの移行やバックアップを簡単に行える「imapsync」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-20T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0b4a347d7d4f",
+    "title": "Nvidia has an OpenClaw strategy. Do you?",
+    "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "summary_original": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-03-20T19:48:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c0503e72d70b",
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-20T19:38:16+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c4a5053aeb13",
+    "title": "OpenAI acquires Astral to bring Python's most popular dev tools into its Codex AI coding platform",
+    "url": "https://the-decoder.com/openai-acquires-astral-to-bring-pythons-most-popular-dev-tools-into-its-codex-ai-coding-platform/",
+    "summary_original": "OpenAI is acquiring Astral, the company behind some of the most widely used Python tools in the world. The deal signals how aggressively AI labs like OpenAI and Anthropic are competing for dominance in AI-powered coding.\nThe article OpenAI acquires Astral to bring Python&#039;s most popular dev tools into its Codex AI coding platform appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/astral_openai.png",
+    "published": "2026-03-20T19:32:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "481327afd6c8",
+    "title": "White House AI plan hands Big Tech the federal preemption it lobbied for",
+    "url": "https://the-decoder.com/white-house-ai-plan-hands-big-tech-the-federal-preemption-it-lobbied-for/",
+    "summary_original": "The White House wants to make AI regulation a federal matter, stripping states of their ability to set their own rules; exactly what Big Tech has been lobbying for.\nThe article White House AI plan hands Big Tech the federal preemption it lobbied for appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
+    "published": "2026-03-20T19:05:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9f19fbf0bd35",
+    "title": "『機動武闘伝Gガンダム』30周年記念ファイティングムービー公開、『ガンダムX』30周年記念ロゴも",
+    "url": "https://gigazine.net/news/20260320-g-gundam-30th-fighting-movie/",
+    "summary_original": "『機動武闘伝Gガンダム』放送30周年の節目を迎えたことを記念して、3DCGのプリビズを主体とした実験的デジタルアニメーションとして30周年記念ファイティングムービーが公開されました。また、『機動武闘伝Gガンダム』『新機動戦記ガンダムW』と展開されてきた「ガンダムGWX30周年プロジェクト」の最後の作品となる『機動新世紀ガンダムX』の30周年記念ロゴも公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-20T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b8ae25c655f7",
+    "title": "A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestration with OpenAI Function Calling",
+    "url": "https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/",
+    "summary_original": "In this comprehensive tutorial, we present the core architecture of ClawTeam, an open-source Agent Swarm Intelligence framework developed by HKUDS. We implement the fundamental concepts that make ClawTeam powerful: a leader agent that decomposes complex goals into sub-tasks, specialized worker agents that execute those tasks autonomously, a shared task board with automatic dependency resolution, and [&#8230;]\nThe post A Coding Implementation Showcasing ClawTeam&#8217;s Multi-Agent Swarm Orchestr...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-03-20T18:09:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3d2fbea22592",
+    "title": "エレコムの半固体モバイルバッテリー「DE-C86-10000」レビュー、半固体リチウムイオン電池を採用して高い携帯性と安全性を実現",
+    "url": "https://gigazine.net/news/20260320-elecom-de-c86-10000pn/",
+    "summary_original": "モバイルバッテリーの多くは「液体電解質を用いたリチウムイオン電池」を採用しており、発熱や発火といった安全性の課題が問題となることもあります。エレコムののモバイルバッテリー「DE-C86-10000」は電解質をゲル状にした「半固体リチウムイオン電池」を採用しており、安全性・携帯性・長寿命・温度範囲のバランスに優れた次世代バッテリーとなっています。そんなDE-C86-10000をエレコムから借りることができたので、実際に使用してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-20T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8ef7a5217bc9",
+    "title": "WordPress.com now lets AI agents write and publish posts, and more",
+    "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "summary_original": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+    "thumbnail": "",
+    "published": "2026-03-20T16:43:09+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dc0c5908e35c",
+    "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+    "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+    "summary_original": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+    "thumbnail": "",
+    "published": "2026-03-20T16:14:04+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1751df9e1bf8",
+    "title": "Anthropic turns Claude Code into an always-on AI agent with new channels feature",
+    "url": "https://the-decoder.com/anthropic-turns-claude-code-into-an-always-on-ai-agent-with-new-channels-feature/",
+    "summary_original": "Anthropic's new channels feature for Claude Code lets external events like CI results or chat messages flow directly into an active session, so Claude can keep working without anyone at the terminal.\nThe article Anthropic turns Claude Code into an always-on AI agent with new channels feature appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/claude_code_channels.png",
+    "published": "2026-03-20T15:33:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "412038879032",
+    "title": "Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images",
+    "url": "https://the-decoder.com/adobe-firefly-now-bundles-30-ai-models-and-lets-users-train-custom-styles-on-their-own-images/",
+    "summary_original": "Adobe is expanding its AI creative platform, Firefly, to include user-defined models that can be trained on your own images. The company is also bundling over 30 AI models from different providers in a single environment.\nThe article Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/adobe_firefly_Models.png",
+    "published": "2026-03-20T15:15:15+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ecfa1c92dbff",
+    "title": "Trump takes another shot at dismantling state AI regulation",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+    "summary_original": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-20T14:17:02-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6cf291e9fa53",
+    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-20T14:14:46+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "426ce39d90d3",
+    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+    "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher&#160; OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/MIT_Gamification_Badges-thumb.png?w=2920",
+    "published": "2026-03-20T13:15:45+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "647829ef6900",
+    "title": "Google pulls back on browser AI as the industry bets on coding tools",
+    "url": "https://the-decoder.com/google-pulls-back-on-browser-ai-as-the-industry-bets-on-coding-tools/",
+    "summary_original": "Browser agents are losing the battle against coding agents - and Google is drawing the consequences.\nThe article Google pulls back on browser AI as the industry bets on coding tools appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/google_gemini_logo_wall-2.jpg",
+    "published": "2026-03-20T12:55:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c2dfb4a499a7",
+    "title": "OpenAI is throwing everything into building a fully automated researcher",
+    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "summary_original": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-20T11:57:16+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b6c3e020c858",
+    "title": "Google Search is now using AI to replace headlines",
+    "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+    "summary_original": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get. Now, Google is beginning to replace news headlines in its search results with ones that are AI-generated. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-20T10:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "298db817767a",
+    "title": "Amazon is making an Alexa phone",
+    "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+    "summary_original": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\" \"Transformer\" is currently in development in Amazon's [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-20T09:42:51-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9f329afef1a9",
+    "title": "Why people really hate AI",
+    "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
+    "summary_original": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking about how this new technology will change everything. But when you ask people about AI, the consistent response is: no thanks. Study [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0320_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-20T09:27:53-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "503f2cae98ff",
+    "title": "Mind-altering substances are (still) falling short in clinical trials",
+    "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+    "summary_original": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-20T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7c68114a69a4",
+    "title": "楽天、AIモデル「Rakuten AI 3.0」を無償提供　「オープンソースコミュニティ上の最良なモデル」を基に日本語能力を強化",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/20/news011.html",
+    "summary_original": "楽天は、国内有数の日本語特化型AIモデル「Rakuten AI 3.0」の提供を開始した。本モデルは約7000億パラメーターのMoEアーキテクチャを採用し、日本語性能で高い評価を得ている。無償公開を通じて国内のAI開発加速と技術支援を目指す。",
+    "thumbnail": "",
+    "published": "2026-03-20T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6fce60356892",
+    "title": "OpenAI、Astralを買収　Python開発支援ツール「Ruff」「uv」を「Codex」へ統合",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/20/news024.html",
+    "summary_original": "OpenAIは、Python開発者向け高速ツールを提供するAstralを買収することで合意した。高性能なコードチェックツール「Ruff」やパッケージ管理ツール「uv」を持つ同社の技術を、プログラミング支援AI「Codex」に統合する。開発ワークフロー全体を自動化するAIシステムの進化を目指し、オープンソースの既存ツールへのサポートも継続する。",
+    "thumbnail": "",
+    "published": "2026-03-20T07:54:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6f9290b35fc5",
+    "title": "LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in AI Agent Workflows",
+    "url": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
+    "summary_original": "In the current landscape of Retrieval-Augmented Generation (RAG), the primary bottleneck for developers is no longer the large language model (LLM) itself, but the data ingestion pipeline. For software developers, converting complex PDFs into a format that an LLM can reason over remains a high-latency, often expensive task. LlamaIndex has recently introduced LiteParse, an open-source, [&#8230;]\nThe post LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in...",
+    "thumbnail": "",
+    "published": "2026-03-20T06:43:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a487461b241e",
+    "title": "Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent",
+    "url": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
+    "summary_original": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integration moves beyond simple code generation by providing agents with programmatic access to create, modify, and execute Python code within cloud-hosted Jupyter notebooks. This represents a [&#8230;]\nThe post Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with ...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-59.png",
+    "published": "2026-03-19T22:45:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a5ba5f633901",
+    "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+    "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+    "summary_original": "Broadcom says the group is misrepresenting market \"realities.\"",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2238913761-1024x648.jpg",
+    "published": "2026-03-19T21:29:53+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "26a8a23db836",
+    "title": "OpenAI is planning a desktop ‘superapp’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+    "summary_original": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-19T20:09:38-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7814dfdba44d",
+    "title": "楽天の最新AI、ベースは“中国DeepSeek製”？　担当者に聞いた",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/19/news099.html",
+    "summary_original": "「DeepSeekのAIモデルをベースに開発したのでは」――楽天グループの日本語LLM「Rakuten AI 3.0」を巡り、X上でこのような指摘が相次いでいる。楽天の担当者に話を聞いた。",
+    "thumbnail": "",
+    "published": "2026-03-19T14:28:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "da23aaf9b6b7",
+    "title": "Anthropic、約8万人のClaudeユーザー定性調査結果を発表　AIに対する期待と懸念",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/19/news091.html",
+    "summary_original": "Anthropicは、Claudeユーザー約8万人を対象とした大規模な多言語定性調査の結果を報告した。ユーザーはAIに「卓越した専門性」を求めており、8割以上が実用性を実感している。一方で信頼性欠如や自律性喪失への懸念も根強く、特に日本を含む東アジアではAI利用による認知能力低下を危惧する傾向が他地域より顕著だ。",
+    "thumbnail": "",
+    "published": "2026-03-19T12:54:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8e8fb6b97f97",
+    "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+    "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/01/Wafer-Testing.jpg?w=3000",
+    "published": "2026-03-19T12:17:02+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "dd1c7aaf452d",
+    "title": "Google、“バイブデザイン”ツール「Stitch」をβ公開　手書きスケッチを数秒でコード化",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/19/news084.html",
+    "summary_original": "Googleは、AIを活用したUIデザイン生成ツール「Stitch」（β）をLabsで公開した。直感的なニュアンスでデザインを構築する「バイブデザイン」を掲げ、買収したGalileo AIの技術とGemini 3を統合。自然言語やスケッチからプロトタイプを自動生成し、Figmaへの書き出しやReactコードの出力にも対応する。",
+    "thumbnail": "",
+    "published": "2026-03-19T10:56:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b0121e9e58df",
+    "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
+    "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+    "summary_original": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-19T10:51:43+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c0eeb1f9eef6",
+    "title": "How we monitor internal coding agents for misalignment",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "summary_original": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "thumbnail": "",
+    "published": "2026-03-19T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0e9a97152ff0",
+    "title": "Visa prepares payment systems for AI agent-initiated transactions",
+    "url": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
+    "summary_original": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments. New work in the banking sector suggests that, in some cases, software agents may soon take on that role. [&#8230;]\nThe post Visa prepares payment systems for AI agent-initiated transactions appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
+    "published": "2026-03-19T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "6dae4720062e",
+    "title": "A Coding Guide to Implement Advanced Differential Equation Solvers, Stochastic Simulations, and Neural Ordinary Differential Equations Using Diffrax and JAX",
+    "url": "https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/",
+    "summary_original": "In this tutorial, we explore how to solve differential equations and build neural differential equation models using the Diffrax library. We begin by setting up a clean computational environment and installing the required scientific computing libraries such as JAX, Diffrax, Equinox, and Optax. We then demonstrate how to solve ordinary differential equations using adaptive solvers [&#8230;]\nThe post A Coding Guide to Implement Advanced Differential Equation Solvers, Stochastic Simulations, and N...",
+    "thumbnail": "",
+    "published": "2026-03-19T08:11:01+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
