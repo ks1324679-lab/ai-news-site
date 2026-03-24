@@ -1,0 +1,402 @@
+[
+  {
+    "id": "9f771cf7d148",
+    "title": "児童保護をインターネットアクセス制御に変えてはならない",
+    "url": "https://gigazine.net/news/20260325-child-protection-internet-access-control/",
+    "summary_original": "Devuanの創設者であるヤロミル氏が、「児童保護をインターネットアクセス制御に変えてはならない」と指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-25T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ed58c0bdadc3",
+    "title": "OpenAI、「Sora」終了へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/25/news065.html",
+    "summary_original": "OpenAIは、動画生成AI「Sora」のアプリとAPIの提供終了をXで発表した。Disneyとのライセンス契約も解消される見通しだ。終了の詳細は後日発表予定だが、同社が「スーパーアプリ」などの新たな大規模プロジェクトへリソースを集中させるための戦略的判断と見られている。",
+    "thumbnail": "",
+    "published": "2026-03-25T06:42:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "98472703d432",
+    "title": "日立のフィジカルAI統合モデル「IWIM」の実力は？　試作ロボット2種を公開",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/25/news043.html",
+    "summary_original": "日立製作所は「フィジカルAI体験スタジオ」の先行公開に併せて、現場で自ら学びながら動作を最適化し複雑作業を自動化するフィジカルAI技術を発表するとともに、同技術を実装した試作ロボット2種を公開した。",
+    "thumbnail": "",
+    "published": "2026-03-25T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fc9ee43d45ae",
+    "title": "スマホの通知で集中は何秒間乱れるのか？",
+    "url": "https://gigazine.net/news/20260325-smartphone-notification-seven-seconds/",
+    "summary_original": "スマートフォンの通知によって集中力がそがれるというのはよく聞く話ですが、実際にどの程度の影響があり、何がその差を生むのかは十分に分かっていませんでした。スイス・ローザンヌ大学の心理学研究員であるイポリット・フルニエ氏らは、スマートフォン風の通知表示を使った実験を行い、通知によって認知処理がどれほどの時間鈍るのかを調査しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-25T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a35ba072c228",
+    "title": "GPT-5.4 mini登場　複数エージェントでの開発に最適で安い！……が、実は前世代から3倍値上げ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/25/news017.html",
+    "summary_original": "GPT-5.4 miniは、マルチエージェント開発に最適な軽量モデルとして登場した。しかし本当に「安くて使える」のか。ベンチマークや価格、実際の開発体験に加え、コミュニティーでの評価も踏まえながら、その実力を検証する。",
+    "thumbnail": "",
+    "published": "2026-03-25T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "085c4d1e95c2",
+    "title": "OpenAIが核融合スタートアップ・Helionからの電力購入について協議、サム・アルトマンはHelionの取締役を辞任",
+    "url": "https://gigazine.net/news/20260324-openai-helion/",
+    "summary_original": "膨大な電力を必要とするOpenAIが、核融合スタートアップ・Helionからの電力購入を協議していることがわかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-24T22:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "34697809a48a",
+    "title": "なんと397BのAIモデルをiPhoneで動かすことに成功",
+    "url": "https://gigazine.net/news/20260324-iphone-397b-ai/",
+    "summary_original": "Appleのハードウェアと、外部ストレージからAIの「重み」をストリーミングするという手法を用い、パラメータ数が397B(3970億)の大型モデルをiPhoneで動作させるという試みが成功したことが分かりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-24T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bd1ef86efe90",
+    "title": "Paged Attention in Large Language Models LLMs",
+    "url": "https://www.marktechpost.com/2026/03/24/paged-attention-in-large-language-models-llms/",
+    "summary_original": "When running LLMs at scale, the real limitation is GPU memory rather than compute, mainly because each request requires a KV cache to store token-level data. In traditional setups, a large fixed memory block is reserved per request based on the maximum sequence length, which leads to significant unused space and limits concurrency. Paged Attention [&#8230;]\nThe post Paged Attention in Large Language Models LLMs appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-46.png",
+    "published": "2026-03-24T21:45:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fb5ccca2d681",
+    "title": "A Coding Implementation to Design Self-Evolving Skill Engine with OpenSpace for Skill Learning, Token Efficiency, and Collective Intelligence",
+    "url": "https://www.marktechpost.com/2026/03/24/a-coding-implementation-to-design-self-evolving-skill-engine-with-openspace-for-skill-learning-token-efficiency-and-collective-intelligence/",
+    "summary_original": "In this tutorial, we explore OpenSpace, a self-evolving skill engine developed by HKUDS that makes AI agents smarter, more cost-efficient, and capable of learning from every task they perform. We walk through the complete lifecycle of OpenSpace: from installing and configuring an OpenAI model, to executing cold-start tasks where no prior skills exist, watching the [&#8230;]\nThe post A Coding Implementation to Design Self-Evolving Skill Engine with OpenSpace for Skill Learning, Token Efficiency, ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f527.png",
+    "published": "2026-03-24T21:31:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e10571cbf55b",
+    "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+    "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+    "summary_original": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+    "thumbnail": "",
+    "published": "2026-03-24T21:00:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e486da1c1c66",
+    "title": "なぜFirefox(Gecko)は必要なのか？をMozillaが解説",
+    "url": "https://gigazine.net/news/20260324-mozilla-gecko/",
+    "summary_original": "Mozillaが2026年3月23日に公開したブログ記事で、Mozillaソフトウェアのために開発されたオープンソースのHTMLレンダリングエンジンである「Gecko」がなぜ重要なのかを解説しています。Mozillaは「Geckoが独立したブラウザエンジンとして存在することで、インターネット業界がAppleとGoogleに支配されてしまうことなく、インターネットの進化のあり方を形作る独立した声を確保する」と語りました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-24T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fa092ffb21ec",
+    "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+    "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+    "summary_original": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+    "thumbnail": "",
+    "published": "2026-03-24T20:56:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "08835092f853",
+    "title": "Databricks bought two startups to underpin its new AI security product",
+    "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+    "summary_original": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+    "thumbnail": "",
+    "published": "2026-03-24T20:40:56+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e3e29b9dd4eb",
+    "title": "Arm is releasing the first in-house chip in its 35-year history",
+    "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+    "summary_original": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+    "thumbnail": "",
+    "published": "2026-03-24T19:48:54+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a8171c7bde80",
+    "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
+    "url": "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/",
+    "summary_original": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents.\nThe article Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/08/prompt_injection_illustration_AI_cybersecurity-e1774380887933.png",
+    "published": "2026-03-24T19:40:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f3c0b6d1f18b",
+    "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+    "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+    "summary_original": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
+    "thumbnail": "",
+    "published": "2026-03-24T19:27:56+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1b90f90dc409",
+    "title": "「大学受験にAI活用」受験生の約9割　使い方は？　学習管理アプリ運営が調査",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news130.html",
+    "summary_original": "2025年度に大学受験した人の88.7％がAIを受験に活用していた――学習管理アプリ「Studyplus」を運営するスタディプラスは、このような調査結果を公開した。",
+    "thumbnail": "",
+    "published": "2026-03-24T19:25:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b431bb711015",
+    "title": "Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time",
+    "url": "https://the-decoder.com/google-deepminds-gemini-3-1-flash-lite-generates-websites-almost-in-real-time/",
+    "summary_original": "Google shows in a demo how Gemini 3.1 Flash-Lite generates complete websites in real time. Fast, cheap - but also useful?\nThe article Google Deepmind&#039;s Gemini 3.1 Flash-Lite generates websites almost in real time appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/google_gemini_logo_wall_coding.png",
+    "published": "2026-03-24T19:07:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0556e280dd8e",
+    "title": "This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on Qwen2.5-7B",
+    "url": "https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/",
+    "summary_original": "Researchers from FAIR at Meta, Cornell University, and Carnegie Mellon University have demonstrated that large language models (LLMs) can learn to reason using a remarkably small number of trained parameters. The research team introduces TinyLoRA, a parameterization that can scale down to a single trainable parameter under extreme sharing settings. Using this method on a [&#8230;]\nThe post This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on Qwe...",
+    "thumbnail": "",
+    "published": "2026-03-24T18:49:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4d809731a026",
+    "title": "A man created thousands of fake accounts to stream AI songs billions of times and pocket $8 million in royalties",
+    "url": "https://the-decoder.com/a-man-created-thousands-of-fake-accounts-to-stream-ai-songs-billions-of-times-and-pocket-8-million-in-royalties/",
+    "summary_original": "AI songs, fake accounts, billions of bot plays: a North Carolina man has pleaded guilty to scamming streaming platforms out of more than eight million dollars.\nThe article A man created thousands of fake accounts to stream AI songs billions of times and pocket $8 million in royalties appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/ai_robot_Music.png",
+    "published": "2026-03-24T18:44:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d8230d804427",
+    "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+    "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+    "summary_original": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-24T18:17:13+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a3a2c2e65525",
+    "title": "KADOKAWAとnoteが資本業務提携　AI時代の「創作エコシステム」実現へ",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news116.html",
+    "summary_original": "KADOKAWAはnoteと資本業務提携を締結したと発表した。",
+    "thumbnail": "",
+    "published": "2026-03-24T17:28:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0175f0e6cccc",
+    "title": "ChatGPT is turning into a shopping platform with product images, prices, and comparisons, but no checkout",
+    "url": "https://the-decoder.com/chatgpt-is-turning-into-a-shopping-platform-with-product-images-prices-and-comparisons-but-no-checkout/",
+    "summary_original": "ChatGPT is getting visual shopping features that show products with images, prices, and side-by-side comparisons right in the chat. At the same time, OpenAI is dropping its own payment system and handing checkout off to retailers.\nThe article ChatGPT is turning into a shopping platform with product images, prices, and comparisons, but no checkout appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/chatgpt_shopping-scaled.webp",
+    "published": "2026-03-24T17:22:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "56974e3d4b1f",
+    "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+    "summary_original": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-24T17:08:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "38378a8be5d2",
+    "title": "Automating complex finance workflows with multimodal AI",
+    "url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
+    "summary_original": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise complex layouts, frequently converting multi-column files, pictures, and layered datasets into an unreadable mess of plain text. The varied [&#8230;]\nThe post Automating complex finance workflows with mult...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-03-24T17:03:48+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5cf89d1519ee",
+    "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+    "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+    "summary_original": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-24T16:43:36+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "24dd9092631a",
+    "title": "Microsoft snaps up Texas data center that Oracle and OpenAI left behind",
+    "url": "https://the-decoder.com/microsoft-snaps-up-texas-data-center-that-oracle-and-openai-left-behind/",
+    "summary_original": "Microsoft has agreed to lease a data center in Abilene, Texas, that was originally built for Oracle and OpenAI, Bloomberg News reports.\nThe article Microsoft snaps up Texas data center that Oracle and OpenAI left behind appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/01/Stargate-US-digital-map-title.png",
+    "published": "2026-03-24T16:43:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "eabcc45a6c52",
+    "title": "Arm’s first CPU ever will plug into Meta’s AI datacenters later this year",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+    "summary_original": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-24T16:43:14-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3ba0f8fd8e0e",
+    "title": "Securing AI systems under today’s and tomorrow’s conditions",
+    "url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
+    "summary_original": "Evidence cited in an eBook titled &#8220;AI Quantum Resilience&#8221;, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI&#8217;s value depends on data amassed by an organisation. However, there are security risks to building models and training them on that data. [&#8230;]\nThe post Securing AI systems under today&#8217;s and tomorrow&#8217;s conditions appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-03-24T15:22:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "f78c8dcfe3f5",
+    "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
+    "summary_original": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362057/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-24T13:13:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ffdaca5476fc",
+    "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+    "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+    "summary_original": "Development houses: It's time to check your networks for infections.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
+    "published": "2026-03-24T12:38:09+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "1cab419c9ff5",
+    "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+    "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find out, Stanford researchers&#160;analyzed&#160;transcripts from chatbot users who experienced these spirals.&#160; Their findings suggest that&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/CRISPR-babies.png?w=1644",
+    "published": "2026-03-24T12:28:27+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8da73ea93b53",
+    "title": "Helping developers build safer AI experiences for teens",
+    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "summary_original": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "thumbnail": "",
+    "published": "2026-03-24T11:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5cff79eb9ac0",
+    "title": "Anthropic’s Claude Code and Cowork can control your computer",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+    "summary_original": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anthropic-Claude-Code-Cowork-computer-control.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-24T09:32:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "20bbe0533c96",
+    "title": "Update on the OpenAI Foundation",
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "summary_original": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "thumbnail": "",
+    "published": "2026-03-24T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0b5ae9549728",
+    "title": "Powering product discovery in ChatGPT",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "summary_original": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "thumbnail": "",
+    "published": "2026-03-24T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6bffbc8e0339",
+    "title": "Yann LeCun’s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Predictive World Modeling",
+    "url": "https://www.marktechpost.com/2026/03/23/yann-lecuns-new-leworldmodel-lewm-research-targets-jepa-collapse-in-pixel-based-predictive-world-modeling/",
+    "summary_original": "World Models (WMs) are a central framework for developing agents that reason and plan in a compact latent space. However, training these models directly from pixel data often leads to &#8216;representation collapse,&#8217; where the model produces redundant embeddings to trivially satisfy prediction objectives. Current approaches attempt to prevent this by relying on complex heuristics: they [&#8230;]\nThe post Yann LeCun’s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Pre...",
+    "thumbnail": "",
+    "published": "2026-03-24T05:53:58+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1648b1c1b9bb",
+    "title": "A New Framework for Evaluating Voice Agents (EVA)",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-24T02:01:52+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "6afb56ab1d6c",
+    "title": "Meta AI’s New Hyperagents Don’t Just Solve Tasks—They Rewrite the Rules of How They Learn",
+    "url": "https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/",
+    "summary_original": "The dream of recursive self-improvement in AI—where a system doesn’t just get better at a task, but gets better at learning—has long been the &#8216;holy grail&#8217; of the field. While theoretical models like the Gödel Machine have existed for decades, they remained largely impractical in real-world settings. That changed with the Darwin Gödel Machine (DGM), [&#8230;]\nThe post Meta AI’s New Hyperagents Don’t Just Solve Tasks—They Rewrite the Rules of How They Learn appeared first on MarkTechPo...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-23-at-6.33.58-PM-1.png",
+    "published": "2026-03-24T01:42:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ec9b34ed9255",
+    "title": "The hardest question to answer about AI-fueled delusions",
+    "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-23T16:31:20+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
