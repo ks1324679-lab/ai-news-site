@@ -1,0 +1,402 @@
+[
+  {
+    "id": "a7efc5d21b8e",
+    "title": "Windows標準機能より4倍高速な圧縮・解凍ソフト「CoZip」が登場したので使ってみた、GPUを駆使して爆速圧縮できる無料ソフト",
+    "url": "https://gigazine.net/news/20260326-gpu-accelerated-compression-cozip/",
+    "summary_original": "GPUを用いて非常に高速な圧縮処理が可能な圧縮・解凍(展開)ソフト「CoZip」がべあ(bea4dev)氏によって公開されました。オープンソースで開発されていてWindows用のインストーラーも用意されていたので、実際に使ってWindows標準機能と速度を比べてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-26T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ba847ba69ffb",
+    "title": "自動車修理工場向けにAI受付システムを構築した記録",
+    "url": "https://gigazine.net/news/20260326-build-ai-receptionist-auto-repair-shop/",
+    "summary_original": "ソフトウェア開発者のケダーシャ・カー氏は、高級車向けの整備工場を営む兄が車の整備中に電話に出られず週に数百件の電話を逃していたことから、AI受付システムの構築を始めました。価格表や営業時間などの実データを参照して質問に答え、分からない内容は折り返し連絡として受け付けるAI受付システムをどう組み上げたのか、カー氏はAIの助けを借りた上で情報をまとめてブログに投稿しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-26T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "99987d7006f2",
+    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+    "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "summary_original": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+    "thumbnail": "",
+    "published": "2026-03-25T21:44:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6cd22d996907",
+    "title": "無料で使えるApple IntelligenceのFoundation Modelsベースのローカル翻訳アプリ「Pre-Babel Lens」",
+    "url": "https://gigazine.net/news/20260325-pre-babel-lens/",
+    "summary_original": "Apple Intelligenceのデバイス内LLMであるFoundation Modelsを使う翻訳アプリケーション「Pre-Babel Lens(プレバベル)」が公開されました。Apple Intelligenceを有効にしたMacであれば無料で利用することが可能です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-25T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c8de106d9fa2",
+    "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+    "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    "summary_original": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+    "thumbnail": "",
+    "published": "2026-03-25T20:38:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c48529281056",
+    "title": "「Wine 11」でLinuxがWindowsゲームを実行する方法をカーネルレベルで書き換えて速度が大幅に向上",
+    "url": "https://gigazine.net/news/20260325-wine-11-linux/",
+    "summary_original": "Linux上でWindows向けアプリを動作させるための互換レイヤー「Wine」のバージョン11で、パフォーマンスを向上させるドライバー「NTSYNC」が正式にサポートされました。これに伴い、一部のゲームのパフォーマンスが目に見えるレベルで向上したとして、テクノロジー系メディアのXDAが詳細を共有しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-25T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4a10f0b60deb",
+    "title": "2026年3月25日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260325-headline/",
+    "summary_original": "Netflix独占配信から「1週間限定劇場公開」を経て全国劇場公開を成し遂げた『超かぐや姫！』で、2026年3月27日(金)から5週連続で週替わりのウェルカムアナウンス上映が行われます。第1週はかぐやが担当。第2週以降の担当は毎週火曜18時に発表されるとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-25T19:15:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a51bf85ed25f",
+    "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
+    "url": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/",
+    "summary_original": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use. That sets it apart from rival music generator Suno, which is facing legal battles with record labels over potential copyright infringement.\nThe article Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use appeared first on T...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/lyria_3_pro.png",
+    "published": "2026-03-25T19:12:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "119a424ffd1f",
+    "title": "Melania Trump wants a robot to homeschool your child",
+    "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+    "summary_original": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+    "thumbnail": "",
+    "published": "2026-03-25T18:55:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d6adcef84dd2",
+    "title": "メルカリ、出品ページの“生成AI画像”に注意喚起　「購入者に誤解与え、取引トラブルになる」",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/25/news117.html",
+    "summary_original": "メルカリは、出品時に生成AI画像などを使用する場合の注意点をまとめて公開した。メルカリでは実物のない出品や虚偽情報の記載は禁止していると説明し、生成AI画像の利用に関するルールをまとめた。",
+    "thumbnail": "",
+    "published": "2026-03-25T17:47:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0af4b2509765",
+    "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
+    "url": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/",
+    "summary_original": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks.\nThe article AI2&#039;s fully open web agent MolmoWeb navigates the web using only screenshots appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/YouTube-MolmoWebinAktion-447-1.jpg",
+    "published": "2026-03-25T17:41:13+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a2f0d2ed92cd",
+    "title": "Roundtables: The Next Era of Space Exploration",
+    "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+    "summary_original": "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists&#8217; efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-25T17:26:26+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "934a94842946",
+    "title": "Bernie Sanders and AOC propose a ban on data center construction",
+    "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+    "summary_original": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+    "thumbnail": "",
+    "published": "2026-03-25T17:15:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a9132e9f9f3d",
+    "title": "Meta is laying off hundreds of employees as it pours money into AI",
+    "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+    "summary_original": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets. \"Teams across Meta [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-25T17:10:32-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f26f774467da",
+    "title": "Google launches Lyria 3 Pro music generation model",
+    "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+    "summary_original": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+    "thumbnail": "",
+    "published": "2026-03-25T16:37:43+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "da1b06c08d3b",
+    "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+    "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+    "summary_original": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-generation program just months after Disney announced a $1 billion dollar collaboration to bake the tech into Disney Plus. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/darth-vader-fortnite-1920x1080-95ea0f1d91f3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-25T16:02:48-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e904412bd168",
+    "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+    "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+    "summary_original": "Company warns entire industry to move off RSA and EC more quickly.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+    "published": "2026-03-25T15:49:17+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a1fd854af69c",
+    "title": "Arm breaks from its licensing-only model with first in-house chip built for AI data centers",
+    "url": "https://the-decoder.com/arm-breaks-from-its-licensing-only-model-with-first-in-house-chip-built-for-ai-data-centers/",
+    "summary_original": "For the first time in its 35-year history, Arm has manufactured its own chip, expanding beyond its long-standing business model of licensing chip designs to companies like Apple and Nvidia. \nThe article Arm breaks from its licensing-only model with first in-house chip built for AI data centers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/arm-Partnership_Header.webp",
+    "published": "2026-03-25T15:10:16+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f3500499a7b4",
+    "title": "Why this battery company is pivoting to AI",
+    "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+    "summary_original": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MU-new-discoveryelectrolytes-in-SES-HQ-synthesis-foundry.jpg?w=3000",
+    "published": "2026-03-25T15:02:50+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "059316b987e3",
+    "title": "Ocorian: Family offices turn to AI for financial data insights",
+    "url": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
+    "summary_original": "To gain financial data insights, the majority of family offices now turn to AI, according to new research from Ocorian. The global study reveals 86 percent of these private wealth groups are utilising AI to improve their daily operations and data analysis. Representing a combined wealth of $119.37 billion, these organisations want machine learning to [&#8230;]\nThe post Ocorian: Family offices turn to AI for financial data insights appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-03-25T14:58:29+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c2c36ab3400b",
+    "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
+    "url": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
+    "summary_original": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me). I was taking [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267134964.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-25T14:19:32-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "84656a8392ac",
+    "title": "This startup wants to change how mathematicians do math",
+    "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "summary_original": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-25T13:59:17+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6eb18a836cad",
+    "title": "AIで生産性は上がらない？　約6000社調査で判明した“AIブーム”の実態と将来予測",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/25/news060.html",
+    "summary_original": "全米経済研究所は、米国、英国、ドイツ、オーストラリア4カ国の約6000社の経営幹部を対象としたAI利用動向の調査結果を公表した。全体の7割が何らかのAIを導入する一方で、経営幹部の利用は週平均1.5時間にとどまっており、将来の雇用予測について経営層と従業員の間でギャップがある実態も明らかになった。",
+    "thumbnail": "",
+    "published": "2026-03-25T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b8be43d03f82",
+    "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+    "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain&#160; L. Stephen&#160;Coles’s&#160;brain sits in a vat at a storage facility in Arizona. It has been held there at a temperature&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/07/Asteroid_Redamonti_7.2.25.jpg?w=3000",
+    "published": "2026-03-25T12:47:44+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "57c1ca555df4",
+    "title": "OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really accelerate the economy\"",
+    "url": "https://the-decoder.com/openai-ceo-sam-altman-reportedly-teases-a-very-strong-model-internally-that-can-really-accelerate-the-economy/",
+    "summary_original": "OpenAI has reportedly finished pretraining its next major AI model, codenamed \"Spud.\" CEO Sam Altman says it can \"really accelerate the economy.\"\nThe article OpenAI CEO Sam Altman reportedly teases a &quot;very strong&quot; model internally that can &quot;really accelerate the economy&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_logo_wall.png",
+    "published": "2026-03-25T12:19:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7586d5951931",
+    "title": "Reddit accounts with ‘fishy’ bot-like behavior will soon need to prove they’re human",
+    "url": "https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown",
+    "summary_original": "Reddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In a post on Wednesday, Reddit CEO Steve Huffman writes that the company will introduce a labeling system for accounts registered as bots, and ask users with \"automated\" or \"fishy behavior\" [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25137774/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-25T12:10:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "311364df0a71",
+    "title": "Google Lyria 3 Pro makes longer AI songs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
+    "summary_original": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-25T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c28ee4077d5b",
+    "title": "AIの“長期的なコードの保守能力”はどれほどか？　新たな評価テスト「SWE-CI」　中国チームが提案",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/25/news034.html",
+    "summary_original": "中国の中山大学とアリババグループに所属する研究者らは、AIが長期的にコードの品質を維持できるかを評価するベンチマークを提案した研究報告を発表した。",
+    "thumbnail": "",
+    "published": "2026-03-25T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "dbb0252a5af7",
+    "title": "Agentic commerce runs on truth and context",
+    "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+    "summary_original": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Reltio-iStock-1148409221.jpg?w=2120",
+    "published": "2026-03-25T11:48:13+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cb9d29d7d18b",
+    "title": "Disney pulls out of OpenAI partnership after Sora app and API gets killed just months after launch",
+    "url": "https://the-decoder.com/disney-pulls-out-of-openai-partnership-after-sora-app-and-api-gets-killed-just-months-after-launch/",
+    "summary_original": "OpenAI is shutting down its Sora app and API. Disney is now walking away from the billion-dollar deal the two companies signed just last December.\nThe article Disney pulls out of OpenAI partnership after Sora app and API gets killed just months after launch appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/sora_dead.jpeg",
+    "published": "2026-03-25T10:52:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "469f778dce9f",
+    "title": "Claude CodeにAWSのアーキテクチャ設計、コスト見積もり、構成コード生成、デプロイ実行などの能力を組み込む「Agent Plugins for AWS」公開",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/25/news073.html",
+    "summary_original": "米Amazon Web Services（AWS）は、Claude CodeとCursorに対してAWSのデプロイに関するアーキテクチャの設計、コストの見積もり、Infrastructure as Codeのコード生成、そしてデプロイの実行という一連の能力を",
+    "thumbnail": "",
+    "published": "2026-03-25T10:23:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "49fb1a181c97",
+    "title": "搬送計画を最適化、日立が仕分け業務の生産性を約4倍に高めるAIエンジンを提供",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/25/news028.html",
+    "summary_original": "日立製作所は、物流センター全体のマテハン機器をフィジカルAIへ進化させる搬送計画最適化AIエンジン「LogiRiSM」を発表した。各種機器の状態をリアルタイムで把握し、仕分け業務の生産性を従来比で約4倍に高める。",
+    "thumbnail": "",
+    "published": "2026-03-25T10:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7434cb8ffb0c",
+    "title": "Inside our approach to the Model Spec",
+    "url": "https://openai.com/index/our-approach-to-the-model-spec",
+    "summary_original": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "thumbnail": "",
+    "published": "2026-03-25T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "36b8c3c2309c",
+    "title": "AI agents enter banking roles at Bank of America",
+    "url": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
+    "summary_original": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an internal AI-powered advisory platform to a subset of financial advisers, rolled out to around 1,000 financial advisers, according to Banking Dive. [&#8230;]\nThe post AI agents enter banking roles at Bank of America appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
+    "published": "2026-03-25T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "33a590ead8c7",
+    "title": "NVIDIA AI Introduces PivotRL: A New AI Framework Achieving High Agentic Accuracy With 4x Fewer Rollout Turns Efficiently",
+    "url": "https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/",
+    "summary_original": "Post-training Large Language Models (LLMs) for long-horizon agentic tasks—such as software engineering, web browsing, and complex tool use—presents a persistent trade-off between computational efficiency and model generalization. While Supervised Fine-Tuning (SFT) is computationally inexpensive, it frequently suffers from out-of-domain (OOD) performance degradation and struggles to generalize beyond its training distribution. Conversely, end-to-end reinforcement learning (E2E [&#8230;]\nThe post ...",
+    "thumbnail": "",
+    "published": "2026-03-25T08:39:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6af7cac0f2fa",
+    "title": "Google Introduces TurboQuant: A New Compression Algorithm that Reduces LLM Key-Value Cache Memory by 6x and Delivers Up to 8x Speedup, All with Zero Accuracy Loss",
+    "url": "https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/",
+    "summary_original": "The scaling of Large Language Models (LLMs) is increasingly constrained by memory communication overhead between High-Bandwidth Memory (HBM) and SRAM. Specifically, the Key-Value (KV) cache size scales with both model dimensions and context length, creating a significant bottleneck for long-context inference. Google research team has proposed TurboQuant, a data-oblivious quantization framework designed to achieve near-optimal [&#8230;]\nThe post Google Introduces TurboQuant: A New Compression Alg...",
+    "thumbnail": "https://www.marktechpost.com/www.marktechpost.com/41f40e5d-9f22-4710-ae55-76aa655f4c89",
+    "published": "2026-03-25T07:11:35+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a1bdc83d63f1",
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "url": "https://openai.com/index/safety-bug-bounty",
+    "summary_original": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "thumbnail": "",
+    "published": "2026-03-25T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "bd1ef86efe90",
+    "title": "Paged Attention in Large Language Models LLMs",
+    "url": "https://www.marktechpost.com/2026/03/24/paged-attention-in-large-language-models-llms/",
+    "summary_original": "When running LLMs at scale, the real limitation is GPU memory rather than compute, mainly because each request requires a KV cache to store token-level data. In traditional setups, a large fixed memory block is reserved per request based on the maximum sequence length, which leads to significant unused space and limits concurrency. Paged Attention [&#8230;]\nThe post Paged Attention in Large Language Models LLMs appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-46.png",
+    "published": "2026-03-24T21:45:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fb5ccca2d681",
+    "title": "A Coding Implementation to Design Self-Evolving Skill Engine with OpenSpace for Skill Learning, Token Efficiency, and Collective Intelligence",
+    "url": "https://www.marktechpost.com/2026/03/24/a-coding-implementation-to-design-self-evolving-skill-engine-with-openspace-for-skill-learning-token-efficiency-and-collective-intelligence/",
+    "summary_original": "In this tutorial, we explore OpenSpace, a self-evolving skill engine developed by HKUDS that makes AI agents smarter, more cost-efficient, and capable of learning from every task they perform. We walk through the complete lifecycle of OpenSpace: from installing and configuring an OpenAI model, to executing cold-start tasks where no prior skills exist, watching the [&#8230;]\nThe post A Coding Implementation to Design Self-Evolving Skill Engine with OpenSpace for Skill Learning, Token Efficiency, ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f527.png",
+    "published": "2026-03-24T21:31:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0556e280dd8e",
+    "title": "This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on Qwen2.5-7B",
+    "url": "https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/",
+    "summary_original": "Researchers from FAIR at Meta, Cornell University, and Carnegie Mellon University have demonstrated that large language models (LLMs) can learn to reason using a remarkably small number of trained parameters. The research team introduces TinyLoRA, a parameterization that can scale down to a single trainable parameter under extreme sharing settings. Using this method on a [&#8230;]\nThe post This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on Qwe...",
+    "thumbnail": "",
+    "published": "2026-03-24T18:49:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
