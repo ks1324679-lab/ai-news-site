@@ -1,0 +1,402 @@
+[
+  {
+    "id": "5aa494605f01",
+    "title": "Wikipediaが文章生成AIの新ガイドライン採用、記事本文の作成は原則禁止",
+    "url": "https://gigazine.net/news/20260327-wikipedia-llm-article-text-ban/",
+    "summary_original": "英語版Wikipediaで、ChatGPTのような文章生成AIに記事本文を生成させたり書き換えさせたりすることを原則禁じるガイドラインがまとまりました。認められるのは自分で書いた文章の基本的な校正補助と、所定の手順に沿った翻訳支援だけです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-27T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "73b98f0accf9",
+    "title": "CoworkのComputer useとDispatchはどこまで使える？　実際に試して見えた実力と制約",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/27/news018.html",
+    "summary_original": "Claude CoworkとClaude Codeで新たにサポートされたComputer useとDispatch。これらはどんな機能で何に使えるのでしょうか。特にComputer useを使えば、これまでよりもはるかに多くのことができそうですが、ホントにそうなのでしょうか。ちょっと試してみました",
+    "thumbnail": "",
+    "published": "2026-03-27T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e92acf9d052b",
+    "title": "Wikipedia cracks down on the use of AI in article writing",
+    "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+    "summary_original": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+    "thumbnail": "",
+    "published": "2026-03-26T21:50:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "33e76c76fc26",
+    "title": "世界で初めて反物質をトラックに乗せて輸送することに成功",
+    "url": "https://gigazine.net/news/20260326-cern-transporting-antimatter/",
+    "summary_original": "欧州原子核研究機構(CERN)のBASE実験チームは92個の反陽子を閉じ込めた携帯型の装置を実験設備から切り離し、トラックに積んでCERNのメインサイト内で輸送し、その後も実験運用を継続することに成功したと2026年3月24日に発表しました。今回の輸送では約30分かけて8km超を移動し、最高時速42kmで構内を走行したとのことで、CERNは「反陽子を蓄えた可搬型トラップを実際に車両で移送し、移送後も扱える状態を保ったまま運用した点」を世界初の偉業ととらえています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-26T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b7fcc89529ca",
+    "title": "中国の自動車メーカーが11分で満充電できて450km走行可能なEV用ナトリウムイオンバッテリーの量産技術を確立",
+    "url": "https://gigazine.net/news/20260326-baic-sodium-ion-ev-battery/",
+    "summary_original": "中国企業の北京汽車(BAIC)が電気自動車(EV)用のナトリウムイオンバッテリーの量産技術を確立したことを発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-26T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3ac7925f803b",
+    "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
+    "url": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/",
+    "summary_original": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret.\nThe article Apple gets full Gemini access and uses distillation to build lightweight on-device AI appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/google_gemini_apple.png",
+    "published": "2026-03-26T19:54:12+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3f02382cb678",
+    "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
+    "url": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/",
+    "summary_original": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio.\nThe article Mistral&#039;s first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/mistral_ai-2.png",
+    "published": "2026-03-26T19:16:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3d1b4a60fa08",
+    "title": "11年間迷子になった愛犬のマイクロチップ情報を更新し続けついに再会に成功した人物",
+    "url": "https://gigazine.net/news/20260326-never-stopped-updating-lost-dog-chip/",
+    "summary_original": "日本では動物愛護管理法により、販売される犬や猫へのマイクロチップの装着・登録が義務付けられています。アメリカでは連邦法でマイクロチップの装着が義務付けられているわけではないものの、州レベルで義務化されていたり、咬傷歴のある犬で装着が義務付けられていたりします。そんなペットのマイクロチップを更新し続けたことで、11年前に迷子になった愛犬と再会することに成功した女性が現れました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-26T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "44b3b793c418",
+    "title": "2026年3月26日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260326-headline/",
+    "summary_original": "高橋留美子さんの漫画を原作として、2024年から完全新作的TVアニメが2シリーズ放送された『らんま1/2』の第3期制作が決定し、第1弾PVが公開されました。PVでは、乱馬のライバル・良牙がシャンプーのおばばから必殺技「爆砕点穴」の修行をつけられている様子が描写されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-26T18:51:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2e81617a9c0f",
+    "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+    "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "summary_original": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+    "thumbnail": "",
+    "published": "2026-03-26T18:34:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cacab076e8d4",
+    "title": "OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult",
+    "url": "https://the-decoder.com/openai-and-anthropic-before-the-ipo-different-balance-sheets-make-comparison-difficult/",
+    "summary_original": "OpenAI and Anthropic are both growing fast, but their revenue figures are reportedly hard to compare because each company accounts for cloud partnerships differently.\nThe article OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_anthropic_logos-1.jpeg",
+    "published": "2026-03-26T18:26:54+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e3fbdc525e67",
+    "title": "Data centers get ready — the Senate wants to see your power bills",
+    "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+    "summary_original": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+    "thumbnail": "",
+    "published": "2026-03-26T18:23:31+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d62db6722b8d",
+    "title": "Google is making it easier to import another AI’s memory into Gemini",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+    "summary_original": "Google is rolling out two new Gemini tools on Thursday which could attract users who are thinking about switching their preferred AI chatbot but don't want to \"retrain\" a new AI. Gemini's new \"Import Memory\" and \"Import Chat History\" features help users quickly copy over everything their current AI already knows about them with a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-26T17:44:37-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1e28faa5830a",
+    "title": "Gemini 3.1 Flash Live is Google's most natural-sounding AI voice model yet",
+    "url": "https://the-decoder.com/gemini-3-1-flash-live-is-googles-most-natural-sounding-ai-voice-model-yet/",
+    "summary_original": "Google's Gemini 3.1 Flash Live promises faster, more natural voice conversations. Developers can trade off quality for speed, and pricing stays at Gemini 2.5 levels.\nThe article Gemini 3.1 Flash Live is Google&#039;s most natural-sounding AI voice model yet appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/gemini_live_31.png",
+    "published": "2026-03-26T17:35:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a6fb96d5a578",
+    "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+    "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+    "summary_original": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - similar to how the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25698444/DSC08567_processed_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-26T17:31:27-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "de7f1d3d8be4",
+    "title": "Google rolls out Search Live globally, turning your phone camera into a real-time AI search tool",
+    "url": "https://the-decoder.com/google-rolls-out-search-live-globally-turning-your-phone-camera-into-a-real-time-ai-search-tool/",
+    "summary_original": "Google is rolling out \"Search Live\" to more than 200 countries. The feature lets users talk to Google Search using voice and camera.\nThe article Google rolls out Search Live globally, turning your phone camera into a real-time AI search tool appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Search_Live_blog_header.width-1200.format-webp.webp",
+    "published": "2026-03-26T17:08:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d028addf7edc",
+    "title": "Apple’s AI Playlist Playground is bad at music",
+    "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+    "summary_original": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" I am skeptical of AI's ability to serve up the music I want to begin with, but even [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925980/acastro_STK046_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-26T16:51:31-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "83599b0f576b",
+    "title": "三菱電機、Sakana AIに出資　製造業向けで協業も",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/26/news132.html",
+    "summary_original": "三菱電機はSakana AIに出資したと発表した。",
+    "thumbnail": "",
+    "published": "2026-03-26T16:40:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d2044a56186e",
+    "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+    "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+    "summary_original": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+    "thumbnail": "",
+    "published": "2026-03-26T15:25:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "338e99504f18",
+    "title": "Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition (ASR) Model Powering Enterprise Speech Intelligence",
+    "url": "https://www.marktechpost.com/2026/03/26/cohere-ai-releases-cohere-transcribe-a-sota-automatic-speech-recognition-asr-model-powering-enterprise-speech-intelligence/",
+    "summary_original": "In the landscape of enterprise AI, the bridge between unstructured audio and actionable text has often been a bottleneck of proprietary APIs and complex cascaded pipelines. Today, Cohere—a company traditionally known for its text-generation and embedding models—has officially stepped into the Automatic Speech Recognition (ASR) market with the release of their latest model &#8216;Cohere Transcribe&#8216;. [&#8230;]\nThe post Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-7.46.03-AM-1.png",
+    "published": "2026-03-26T15:01:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "776451dbe6b2",
+    "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
+    "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+    "summary_original": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday. Search Live rolled out broadly in the US last [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Search-Live-Blog-Header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-26T14:47:51-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9449d7f40f0e",
+    "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+    "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+    "summary_original": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+    "thumbnail": "",
+    "published": "2026-03-26T13:41:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b2df86898b19",
+    "title": "The Download: a battery pivot to AI, and rewriting math",
+    "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this battery company is pivoting to AI&#160; Qichao Hu&#160;doesn’t&#160;mince words about the state of the battery industry. “Almost every&#160;Western battery company has either died or is going to die.&#160;It’s&#160;kind of&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/05/GettyImages-1433324047.jpeg?w=3000",
+    "published": "2026-03-26T12:42:53+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "946aac5a2b34",
+    "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+    "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+    "summary_original": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. That's according to a series of FCC filings for [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0117.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-26T12:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6c7e47cbc446",
+    "title": "“現場で使われないAI”、どう解決？　マイナビの「0→1のハードル」を無くす戦略",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/26/news054.html",
+    "summary_original": "マイナビでは、AI推進をどのように進めてきたのか。担当者に聞いた。",
+    "thumbnail": "",
+    "published": "2026-03-26T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0fb2ee493a56",
+    "title": "人型ロボ50台が稼働へ　日本に“フィジカルAI向けデータ”収集施設　山善など",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/26/news096.html",
+    "summary_original": "山善は、産業向け人型ロボットを制御するAIの学習データを収集する施設「フィジカルAI・ロボットデータ収集センター」を開設すると発表した。人型ロボの社会実装を目指す団体「J-HRTI」で協力する。",
+    "thumbnail": "",
+    "published": "2026-03-26T11:39:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ba9a95049210",
+    "title": "知財力底上げへ　島津製作所が新会社「Genzo AI」設立　業務を自動化、コスト削減",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/26/news095.html",
+    "summary_original": "島津製作所が、知的財産関連業務を生成AIで自動化したシステムを提供する新会社「Genzo（ゲンゾウ） AI」を設立すると発表した。企業や大学、研究機関向けサービスで、知財担当者の不足や業務の属人化、外部委託費の高騰といった課題の解決につなげる狙い。2030年度に320社での導入、売上高15億円を目指す。",
+    "thumbnail": "",
+    "published": "2026-03-26T11:07:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1a67c37c0ca9",
+    "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+    "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+    "summary_original": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/IMG_4251.jpg?w=2667",
+    "published": "2026-03-26T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "9de0ac1c6c1b",
+    "title": "Are high gas prices good news for EVs? It’s complicated.",
+    "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+    "summary_original": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Iran has escalated, fossil-fuel prices have been on a roller-coaster, and I’ve started paying attention. In the US, average gas&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-26T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b06e6db8a33c",
+    "title": "RPA matters, but AI changes how automation works",
+    "url": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
+    "summary_original": "RPA (robotic process automation) is a practical and proven way to reduce manual work in business processes without AI systems. By using software bots to follow fixed rules, companies can automate repetitive tasks like data entry and invoice processing, and to a certain extent, report generation. Adoption grew quickly in many sectors, especially in finance, [&#8230;]\nThe post RPA matters, but AI changes how automation works appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-03-26T09:11:08+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "2f3209b49d1c",
+    "title": "Tencent AI Open Sources Covo-Audio: A 7B Speech Language Model and Inference Pipeline for Real-Time Audio Conversations and Reasoning",
+    "url": "https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/",
+    "summary_original": "Tencent AI Lab has released Covo-Audio, a 7B-parameter end-to-end Large Audio Language Model (LALM). The model is designed to unify speech processing and language intelligence by directly processing continuous audio inputs and generating audio outputs within a single architecture. System Architecture The Covo-Audio framework consists of four primary components designed for seamless cross-modal interaction: Hierarchical [&#8230;]\nThe post Tencent AI Open Sources Covo-Audio: A 7B Speech Language M...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-12.33.14-AM-1.png",
+    "published": "2026-03-26T07:33:55+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7fe356705219",
+    "title": "How to Build a Vision-Guided Web AI Agent with MolmoWeb-4B Using Multimodal Reasoning and Action Prediction",
+    "url": "https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/",
+    "summary_original": "In this tutorial, we explore MolmoWeb, Ai2’s open multimodal web agent that understands and interacts with websites directly from screenshots, without relying on HTML or DOM parsing. We set up the full environment in Colab, load the MolmoWeb-4B model with efficient 4-bit quantization, and build the exact prompting workflow that lets the model reason about [&#8230;]\nThe post How to Build a Vision-Guided Web AI Agent with MolmoWeb-4B Using Multimodal Reasoning and Action Prediction appeared first ...",
+    "thumbnail": "",
+    "published": "2026-03-25T23:13:43+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a2f0d2ed92cd",
+    "title": "Roundtables: The Next Era of Space Exploration",
+    "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+    "summary_original": "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists&#8217; efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities&#8230;",
+    "thumbnail": "",
+    "published": "2026-03-25T17:26:26+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e904412bd168",
+    "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+    "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+    "summary_original": "Company warns entire industry to move off RSA and EC more quickly.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+    "published": "2026-03-25T15:49:17+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f3500499a7b4",
+    "title": "Why this battery company is pivoting to AI",
+    "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+    "summary_original": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MU-new-discoveryelectrolytes-in-SES-HQ-synthesis-foundry.jpg?w=3000",
+    "published": "2026-03-25T15:02:50+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "059316b987e3",
+    "title": "Ocorian: Family offices turn to AI for financial data insights",
+    "url": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
+    "summary_original": "To gain financial data insights, the majority of family offices now turn to AI, according to new research from Ocorian. The global study reveals 86 percent of these private wealth groups are utilising AI to improve their daily operations and data analysis. Representing a combined wealth of $119.37 billion, these organisations want machine learning to [&#8230;]\nThe post Ocorian: Family offices turn to AI for financial data insights appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-03-25T14:58:29+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "7434cb8ffb0c",
+    "title": "Inside our approach to the Model Spec",
+    "url": "https://openai.com/index/our-approach-to-the-model-spec",
+    "summary_original": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "thumbnail": "",
+    "published": "2026-03-25T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "36b8c3c2309c",
+    "title": "AI agents enter banking roles at Bank of America",
+    "url": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
+    "summary_original": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an internal AI-powered advisory platform to a subset of financial advisers, rolled out to around 1,000 financial advisers, according to Banking Dive. [&#8230;]\nThe post AI agents enter banking roles at Bank of America appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
+    "published": "2026-03-25T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "33a590ead8c7",
+    "title": "NVIDIA AI Introduces PivotRL: A New AI Framework Achieving High Agentic Accuracy With 4x Fewer Rollout Turns Efficiently",
+    "url": "https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/",
+    "summary_original": "Post-training Large Language Models (LLMs) for long-horizon agentic tasks—such as software engineering, web browsing, and complex tool use—presents a persistent trade-off between computational efficiency and model generalization. While Supervised Fine-Tuning (SFT) is computationally inexpensive, it frequently suffers from out-of-domain (OOD) performance degradation and struggles to generalize beyond its training distribution. Conversely, end-to-end reinforcement learning (E2E [&#8230;]\nThe post ...",
+    "thumbnail": "",
+    "published": "2026-03-25T08:39:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6af7cac0f2fa",
+    "title": "Google Introduces TurboQuant: A New Compression Algorithm that Reduces LLM Key-Value Cache Memory by 6x and Delivers Up to 8x Speedup, All with Zero Accuracy Loss",
+    "url": "https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/",
+    "summary_original": "The scaling of Large Language Models (LLMs) is increasingly constrained by memory communication overhead between High-Bandwidth Memory (HBM) and SRAM. Specifically, the Key-Value (KV) cache size scales with both model dimensions and context length, creating a significant bottleneck for long-context inference. Google research team has proposed TurboQuant, a data-oblivious quantization framework designed to achieve near-optimal [&#8230;]\nThe post Google Introduces TurboQuant: A New Compression Alg...",
+    "thumbnail": "https://www.marktechpost.com/www.marktechpost.com/41f40e5d-9f22-4710-ae55-76aa655f4c89",
+    "published": "2026-03-25T07:11:35+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
