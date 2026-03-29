@@ -1,0 +1,282 @@
+[
+  {
+    "id": "73c32fc452f6",
+    "title": "なぜ制御室の多くが「シーフォーム・グリーン」に塗られていたのか？",
+    "url": "https://gigazine.net/news/20260330-why-control-rooms-were-seafoam-green/",
+    "summary_original": "昔の工場や原子炉施設などの制御室を見ると、壁や機器の一部がそろって淡い青緑色(シーフォーム・グリーン)に塗られていることがあります。デザイナーのベス・マシューズ氏は、こうした施設でよく見かける「シーフォーム・グリーン」の由来を調べました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-30T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3100c7f47e20",
+    "title": "「Samsung Galaxy S26／S26+／S26 Ultra」ベンチマーク結果＆バッテリー持続時間をまとめてみた",
+    "url": "https://gigazine.net/news/20260330-samsung-galaxy-s26-benchmark/",
+    "summary_original": "Samsungが2026年3月に発売した「Galaxy S26」「Galaxy S26+」「Galaxy S26 Ultra」はどういう性能を持つ端末なのか、定番のベンチマークアプリなどを用いて測ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-30T05:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7de770529d08",
+    "title": "あの「一太郎」の文章校正エンジンを使ってChrome上のテキスト入力を正しく校正できる「JUSTチェッカー」を使ってみた、XやGmailなど色んなサイトで使用可能",
+    "url": "https://gigazine.net/news/20260329-justsystems-ichitaro-justchecker/",
+    "summary_original": "ジャストシステムの老舗ワードソフト「一太郎」には日本語の文章を正しく書くための高性能な校正エンジンが備わっています。そんな一太郎の校正エンジンをChromeとEdgeで使えるようにするブラウザ拡張機能が「JUSTチェッカー」で、Xの投稿画面やGmailのメール作成画面や各種ウェブサイトの問い合わせフォームなど幅広い用途で校正機能を使うことができます。便利そうだったので実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-29T23:29:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "182fdc4a0142",
+    "title": "泥とわらで作った器でブドウを半年近く常温保存できる伝統的な保存方法「カンギナ」とは？",
+    "url": "https://gigazine.net/news/20260329-kangina-grape-storage/",
+    "summary_original": "傷みやすいブドウを泥とわらで作った器に入れて保存するアフガニスタンの伝統的な保存方法が「カンギナ」です。厚い皮を持つ品種の場合、涼しく乾いた場所で最大約6カ月保存できるとされています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-29T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a5999cb22576",
+    "title": "「Samsung Galaxy S26／S26+／S26 Ultra」外観レビュー、厚みがさらに減って7mm台へ",
+    "url": "https://gigazine.net/news/20260329-samsung-galaxy-s26-review/",
+    "summary_original": "Samsungが2026年2月に発表した第3世代AIフォン「Samsung Galaxy S26」「Samsung Galaxy S26+」「Samsung Galaxy S26 Ultra」が3月12日(木)に発売されました。Samsungが最先端技術を結集し、1日中快適に利用可能というGalaxy S26シリーズを借りたので、いろいろと触ってみることにしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-03-29T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a42324e8339a",
+    "title": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
+    "url": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
+    "summary_original": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the &#8216;manual harness engineering&#8217; that currently defines agent development with a systematic, automated evolution process. The project is being described as a potential &#8216;PyTorch moment&#8217; for agentic AI. [&#8230;]\nThe post Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Ma...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/mk1-1.png",
+    "published": "2026-03-29T18:17:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4318c4715eec",
+    "title": "Bluesky’s new app is an AI for customizing your feed",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+    "summary_original": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/attie-ai.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-29T17:44:41-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e0fe23a4975f",
+    "title": "Sora’s shutdown could be a reality check moment for AI video",
+    "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "summary_original": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+    "thumbnail": "",
+    "published": "2026-03-29T16:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0304b376948d",
+    "title": "OpenAI's Sam Altman and Science VP Kevin Weil hype AI-assisted dog cancer story ignoring there's no proof the vaccine worked",
+    "url": "https://the-decoder.com/openais-sam-altman-and-science-vp-kevin-weil-hype-ai-assisted-dog-cancer-story-ignoring-theres-no-proof-the-vaccine-worked/",
+    "summary_original": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer. The story went viral after high-profile AI executives like OpenAI's Greg Brockman and Deepmind's Demis Hassabis shared it as proof of what AI can already do. But there's no evidence the AI-designed vaccine actually worked.\nThe article OpenAI&#039;s Sam Altman and Science VP Kevin Weil hype AI-assisted dog cancer story ignoring there&#039;s no proof the vaccine worked a...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/ai_vaccine.png",
+    "published": "2026-03-29T15:35:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5ff339c617b6",
+    "title": "Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine",
+    "url": "https://the-decoder.com/eli-lilly-signs-2-75-billion-deal-with-ai-drug-developer-insilico-medicine/",
+    "summary_original": "US pharmaceutical giant Eli Lilly is betting big on AI-driven drug development, signing a $2.75 billion deal with Hong Kong-listed Insilico Medicine.\nThe article Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/09/medical_ai_illustration-2.png",
+    "published": "2026-03-29T15:10:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "54d8eb20c5e4",
+    "title": "MetaClaw framework trains AI agents while you're in meetings by checking your Google Calendar",
+    "url": "https://the-decoder.com/metaclaw-framework-trains-ai-agents-while-youre-in-meetings-by-checking-your-google-calendar/",
+    "summary_original": "Researchers from four US universities have built a framework that improves AI agents during operation. It checks the user's Google calendar to figure out when to train.\nThe article MetaClaw framework trains AI agents while you&#039;re in meetings by checking your Google Calendar appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/metaclaw_calendar.png",
+    "published": "2026-03-29T14:45:27+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a4fb104ba3ac",
+    "title": "AI sycophancy makes people less likely to apologize and more likely to double down, study finds",
+    "url": "https://the-decoder.com/ai-sycophancy-makes-people-less-likely-to-apologize-and-more-likely-to-double-down-study-finds/",
+    "summary_original": "AI models tell people what they want to hear nearly 50 percent more often than other humans do. A new Science study shows this isn't just annoying: it makes people less willing to apologize, less likely to see the other side, and more convinced they're right. The worst part: users love it.\nThe article AI sycophancy makes people less likely to apologize and more likely to double down, study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2030/03/sycophancy_illustration-2.png",
+    "published": "2026-03-29T13:02:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7c0aa33a1218",
+    "title": "Chroma Releases Context-1: A 20B Agentic Search Model for Multi-Hop Retrieval, Context Management, and Scalable Synthetic Task Generation",
+    "url": "https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/",
+    "summary_original": "In the current AI landscape, the &#8216;context window&#8217; has become a blunt instrument. We’ve been told that if we simply expand the memory of a frontier model, the retrieval problem disappears. But as any AI professionals building RAG (Retrieval-Augmented Generation) systems knows, stuffing a million tokens into a prompt often leads to higher latency, astronomical [&#8230;]\nThe post Chroma Releases Context-1: A 20B Agentic Search Model for Multi-Hop Retrieval, Context Management, and Scala...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-29-at-1.21.10-AM-1.png",
+    "published": "2026-03-29T08:25:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "141543ac0cb9",
+    "title": "Naver's \"Seoul World Model\" uses actual Street View data to stop AI from hallucinating entire cities",
+    "url": "https://the-decoder.com/navers-seoul-world-model-uses-actual-street-view-data-to-stop-ai-from-hallucinating-entire-cities/",
+    "summary_original": "South Korean internet giant Naver built a video world model grounded in actual city geometry from over a million of its own Street View images. The model generalizes to other cities without any fine-tuning.\nThe article Naver&#039;s &quot;Seoul World Model&quot; uses actual Street View data to stop AI from hallucinating entire cities appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Godzilla-Seoul-Street-View-Nano-Banana-Pro.jpg",
+    "published": "2026-03-29T06:46:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ae4e87d838a3",
+    "title": "Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI Access and Search Crawling Systems Today",
+    "url": "https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/",
+    "summary_original": "As Google integrates AI capabilities across its product suite, a new technical entity has surfaced in server logs: Google-Agent. For software devs, understanding this entity is critical for distinguishing between automated indexers and real-time, user-initiated requests. Unlike the autonomous crawlers that have defined the web for decades, Google-Agent operates under a different set of rules [&#8230;]\nThe post Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggere...",
+    "thumbnail": "",
+    "published": "2026-03-29T06:03:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5167693cfa3e",
+    "title": "A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling",
+    "url": "https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/",
+    "summary_original": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simply installing and running it out of the box, we crack open the hood and manually recreate each of its core subsystems, the agent [&#8230;]\nThe post A Coding Guide to Exploring nanobot&#8217;s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling appeared firs...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f539.png",
+    "published": "2026-03-29T05:40:25+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "63c0fcbc2223",
+    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "summary_original": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+    "thumbnail": "",
+    "published": "2026-03-28T23:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "01ea2aa29cca",
+    "title": "Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation",
+    "url": "https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/",
+    "summary_original": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final &#8216;output layer&#8217; of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. [&#8230;]\nThe post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-28-at-1.48.14-PM-1.png",
+    "published": "2026-03-28T20:58:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7e192f12ec42",
+    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "summary_original": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+    "thumbnail": "",
+    "published": "2026-03-28T20:45:54+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "77e16d7cf5ff",
+    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+    "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "summary_original": "All but two of Musk's 11 xAI co-founders departed before this week.",
+    "thumbnail": "",
+    "published": "2026-03-28T16:11:16+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ae9d7bff77ea",
+    "title": "Suno leans into customization with v5.5",
+    "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+    "summary_original": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/1774532259-suno_v5-5_blogouterbanner.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-28T14:33:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "76a496ed5b09",
+    "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+    "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+    "summary_original": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+    "thumbnail": "",
+    "published": "2026-03-28T14:15:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ac88665433ad",
+    "title": "Why can’t TikTok identify AI generated ads when I can?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+    "summary_original": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-28T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "376443630d65",
+    "title": "A woman’s uterus has been kept alive outside the body for the first time",
+    "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+    "summary_original": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/20260311_115435-v.jpg?w=1500",
+    "published": "2026-03-28T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "eea958c73747",
+    "title": "Why OpenAI killed Sora",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+    "summary_original": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-28T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3fe43b18a8d2",
+    "title": "Notion、日本と韓国でデータ保管可能に　26年5月から提供開始",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/28/news017.html",
+    "summary_original": "Notion Labsは、新たに日本と韓国をデータ保管地域に指定すると発表した。AWSを活用し国内保存を選択可能にすることで、企業の内部統制や法規制への対応を支援する。",
+    "thumbnail": "",
+    "published": "2026-03-28T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a916f48e588c",
+    "title": "ドラクエで「対話型AIバディ」誕生　ゲーム業界の機能不全をどう突破するか",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/28/news016.html",
+    "summary_original": "市場拡大の裏で収益悪化に喘ぐゲーム業界。この構造的課題を打破すべく、スクウェア・エニックスとGoogle Cloudが手を組んだ。両社が見すえる、人気作『ドラクエ』を舞台に、生成AIが「敵」から「友」へと変容する未来とは。",
+    "thumbnail": "",
+    "published": "2026-03-28T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7543ce1b7448",
+    "title": "STADLER reshapes knowledge work at a 230-year-old company",
+    "url": "https://openai.com/index/stadler",
+    "summary_original": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+    "thumbnail": "",
+    "published": "2026-03-27T22:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
