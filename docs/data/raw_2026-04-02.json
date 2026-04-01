@@ -1,0 +1,402 @@
+[
+  {
+    "id": "0a938cec55b7",
+    "title": "広く引用されている論文に虚偽の主張があったものの著者は誤りを認めながら訂正を拒否し研究機関も事実を無視して放置しているとの指摘",
+    "url": "https://gigazine.net/news/20260402-false-claims-widely-cited-paper/",
+    "summary_original": "6000回以上引用され、政府高官やアメリカの元副大統領まで言及したことのある論文に、致命的な虚偽の主張があったにもかかわらず、訂正も処罰もないとコロンビア大学の統計学および政治学の教授であるアンドリュー・ゲルマン氏が指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-02T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "969eca533c61",
+    "title": "【入門】.claudeフォルダの構造と使い方　Claude Codeを思い通りに動かそう",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/02/news015.html",
+    "summary_original": "Claude Codeを使い始めたものの、プロジェクト内に生成される「.claude」フォルダをそのままにしていませんか？　実はこのフォルダこそが、Claude Codeの振る舞いを決定づける重要なポイントです。このフォルダの構造と役割を整理し、初心者の方でも理解できるように解説します。",
+    "thumbnail": "",
+    "published": "2026-04-02T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1ddf9178225a",
+    "title": "土を耕しすぎると逆に土壌へ悪影響が及ぶ可能性があると地震学者らの実験で明らかに",
+    "url": "https://gigazine.net/news/20260402-overplowing-weakens-soil/",
+    "summary_original": "一般的に野菜や作物の種をまく前には、農機具やトラクターなどで畑の土を耕すこと(耕起)が行われています。しかし、地震学者らが音波による土壌のモニタリングを行った結果、土を耕しすぎると逆に土壌へ悪影響が及ぶ可能性があると示唆されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-02T05:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cc7e3d626c64",
+    "title": "スマホでAIモデルをローカル実行できる無料アプリ「Off Grid」レビュー、LLMも画像生成モデルも実行可能でiOS・Androidどっちも対応",
+    "url": "https://gigazine.net/news/20260401-off-grid-mobile-ai/",
+    "summary_original": "GoogleやMetaやAlibabaなど多くのAI開発企業は一部のAIモデルを無料公開しており、スマートフォンでも動作する小型のモデルも複数公開されています。そんな小型モデルをスマートフォンにダウンロードして実行できるアプリが「Off Grid」で、「テキスト生成」「画像生成」「画像認識」「ツール使用」など非常に多くの機能を備えています。便利そうだったので実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-01T23:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "00441e9e4cd3",
+    "title": "「腸と脳のコミュニケーション」を強化することで記憶力や認知機能の老化を逆転させられる可能性",
+    "url": "https://gigazine.net/news/20260401-gut-brain-communication-reversed-cognitive-decline/",
+    "summary_original": "近年の研究により、腸と脳は密接にコミュニケーションを取っていることが明らかになりました。新たに、スタンフォード大学やアーク研究所の研究チームはマウスを用いた実験で、「腸と脳のコミュニケーション」を強化することで加齢に伴う認知機能低下を逆転させられる可能性を示しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-01T22:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ccdd531fc482",
+    "title": "NotebookLMで作業時間95％削減　自治体も企業も「Google回帰」が止まらない理由",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2604/02/news053.html",
+    "summary_original": "「NotebookLM」をはじめとするGoogleのAIツールは、自治体や企業の働き方をどう変えたのか。実例とデータから導入メリットと効果を読み解く。",
+    "thumbnail": "",
+    "published": "2026-04-01T19:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "104602a7a024",
+    "title": "Meta’s natural gas binge could power South Dakota",
+    "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "summary_original": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+    "thumbnail": "",
+    "published": "2026-04-01T18:35:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "347a5baec82f",
+    "title": "Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns",
+    "url": "https://the-decoder.com/anthropics-leaked-ai-coding-tool-has-been-cloned-over-8000-times-on-github-despite-mass-takedowns/",
+    "summary_original": "Anthropic accidentally leaked the source code behind Claude Code. The extent of the damage is becoming clear—and it's potentially significant.\nThe article Anthropic&#039;s leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_logos-4.png",
+    "published": "2026-04-01T18:16:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3539f5dc16d2",
+    "title": "静岡新聞、「事実に基づかないSNS投稿」に注意喚起　AI生成の“エイプリルフールネタ”拡散か",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news124.html",
+    "summary_original": "静岡新聞社は、静岡新聞の紙面を装った第三者のSNS投稿があったとして「当該投稿は事実ではありません」と注意喚起した。X上では、生成AIで作成したとみられる同紙の紙面を模した画像が拡散していた。",
+    "thumbnail": "",
+    "published": "2026-04-01T18:05:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ee113a1de4bf",
+    "title": "東大、オープンソースの「四足歩行ロボ」　部品はオンライン発注可　階段を上がる姿など披露",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news121.html",
+    "summary_original": "東京大学は、オープンソースの四足歩行ロボット「MEVIUS2」を開発したと発表した。",
+    "thumbnail": "",
+    "published": "2026-04-01T17:51:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e7d1d3db11ee",
+    "title": "Google Deepmind study exposes six \"traps\" that can easily hijack autonomous AI agents in the wild",
+    "url": "https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/",
+    "summary_original": "AI agents are expected to browse the web on their own, handle emails, and carry out transactions. But the very environment they operate in can be weaponized against them. Researchers at Google Deepmind have put together the first systematic catalog of how websites, documents, and APIs can be used to manipulate, deceive, and hijack autonomous agents, and they've identified six main categories of attack.\nThe article Google Deepmind study exposes six &quot;traps&quot; that can easily hijack autonom...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/lockpick_neural_network.png",
+    "published": "2026-04-01T17:09:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "958cdacf364f",
+    "title": "How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference",
+    "url": "https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/",
+    "summary_original": "In this tutorial, we build and run a Colab workflow for Gemma 3 1B Instruct using Hugging Face Transformers and HF Token, in a practical, reproducible, and easy-to-follow step-by-step manner. We begin by installing the required libraries, securely authenticating with our Hugging Face token, and loading the tokenizer and model onto the available device with [&#8230;]\nThe post How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates,...",
+    "thumbnail": "",
+    "published": "2026-04-01T16:59:36+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "93167e0cfa61",
+    "title": "Holo3: Breaking the Computer Use Frontier",
+    "url": "https://huggingface.co/blog/Hcompany/holo3",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-01T16:36:15+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "94140c716f15",
+    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+    "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "summary_original": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+    "thumbnail": "",
+    "published": "2026-04-01T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cccef0c1ae60",
+    "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+    "url": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
+    "summary_original": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG&#8217;s first quarterly Global AI Pulse survey is blunt: despite global organisations planning to spend a weighted average of $186 million on AI over the next 12 months, only [&#8230;]\nThe post KPMG: Inside the AI agent playbook driving enterprise margin gains appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/steve-chase-kpmg.jpg",
+    "published": "2026-04-01T15:24:01+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "8ae1d72b155a",
+    "title": "Slack、Slackbotでエージェント連携を強化　“チームメイト”化を推進",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news101.html",
+    "summary_original": "Slackは、内蔵AIアシスタント「Slackbot」の大幅な機能拡張を発表した。分析機能「Deep Thoughts」による戦略立案、デスクトップ上の自動データ入力、他社製エージェントを繋ぐハブ機能、会議中のリアルタイムCRM更新などを実装。個人の支援ツールから、組織全体を繋ぐ究極のチームメイトへと進化させる。",
+    "thumbnail": "",
+    "published": "2026-04-01T15:08:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9dce3146b9de",
+    "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "summary_original": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+    "thumbnail": "",
+    "published": "2026-04-01T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1677d36c541e",
+    "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+    "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots at home&#160; When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/01/230628_Talon_0455-social.jpg?w=3000",
+    "published": "2026-04-01T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2f88b335df1e",
+    "title": "EU bars AI-generated content from official communications, according to Politico",
+    "url": "https://the-decoder.com/eu-bars-ai-generated-content-from-official-communications-according-to-politico/",
+    "summary_original": "Politico reports that the Commission, Parliament, and Council have barred their press teams from using fully AI-generated content. Experts see a missed opportunity.\nThe article EU bars AI-generated content from official communications, according to Politico appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/08/european_flag_castle_neural_network.png",
+    "published": "2026-04-01T12:07:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "35edf135161b",
+    "title": "Perplexity AI sued over alleged data sharing with Meta and Google",
+    "url": "https://the-decoder.com/perplexity-ai-sued-over-alleged-data-sharing-with-meta-and-google/",
+    "summary_original": "Perplexity AI is facing a class-action lawsuit. The company is accused of sharing personal user data from chats with Meta and Google, Bloomberg reports.\nThe article Perplexity AI sued over alleged data sharing with Meta and Google appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/02/Perplexity-Sonar-title.png",
+    "published": "2026-04-01T12:02:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4790fee44358",
+    "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
+    "url": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
+    "summary_original": "AI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL&#8217;s 2026 Language AI&#160;report, &#8220;Borderless Business: Transforming Translation in the Age of AI,&#8221; published on March 10. Despite broad AI investment across business functions, the report&#160;reveals&#160;that language and multilingual operations–workflows that touch sales, legal, customer support, and [&#8230;]\nThe post DeepL&#8217;s Borderless Business report reveals 8...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-04-01T12:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "afbb37093371",
+    "title": "The gig workers who are training humanoid robots at home",
+    "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+    "summary_original": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-01T11:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ce640387626d",
+    "title": "Hershey applies AI across its supply chain operations",
+    "url": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
+    "summary_original": "Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company&#8217;s latest strategy update. At its Investor Day, the company said it plans to use [&#8230;]\nThe post Hershey applies AI across its supply chain operations appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-01T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "369d6f7f9cfd",
+    "title": "OpenAI officially confirms mega-funding round and ChatGPT super app",
+    "url": "https://the-decoder.com/openai-officially-confirms-mega-funding-round-and-chatgpt-super-app/",
+    "summary_original": "OpenAI closes a $122 billion funding round at an $852 billion valuation, officially unveils the ChatGPT Super App, and signals a hard pivot toward enterprise.\nThe article OpenAI officially confirms mega-funding round and ChatGPT super app appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_logos_wall_money.png",
+    "published": "2026-04-01T09:02:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9af8b2bbf4d4",
+    "title": "AI can push your Stream Deck buttons for you",
+    "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+    "summary_original": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-01T08:38:58-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a6e2823e605a",
+    "title": "Falcon Perception",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-01T07:13:20+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "cdd81b7756b7",
+    "title": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
+    "url": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/",
+    "summary_original": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready framework. For AI professionals and developers, this release codifies the Post-Training pipeline—the essential sequence of Supervised Fine-Tuning (SFT), Reward Modeling, and Alignment—into a unified, standardized API. In the early stages [&#8230;]\nThe post Hugging Face Releases TRL v1.0: A Unified Post-T...",
+    "thumbnail": "",
+    "published": "2026-04-01T07:04:43+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bdbd30aaa17f",
+    "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+    "summary_original": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-01T06:39:52-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "93d089f7cdbf",
+    "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API",
+    "url": "https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/",
+    "summary_original": "Google has announced the release of Veo 3.1 Lite, a new model tier within its generative video portfolio designed to address the primary bottleneck for production-scale deployments: pricing. While the generative video space has seen rapid progress in visual fidelity, the cost per second of generated content has remained high, often prohibitive for developers building [&#8230;]\nThe post Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API appe...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-31-at-11.22.01-PM-1.png",
+    "published": "2026-04-01T06:22:48+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1b79050cfac1",
+    "title": "Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens with Scaled Reinforcement Learning",
+    "url": "https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/",
+    "summary_original": "In the current landscape of generative AI, the &#8216;scaling laws&#8217; have generally dictated that more parameters equal more intelligence. However, Liquid AI is challenging this convention with the release of LFM2.5-350M. This model is actually a technical case study in intelligence density with additional pre-training (from 10T to 28T tokens) and large-scale reinforcement learning The [&#8230;]\nThe post Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens wi...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/03/69ca8b787a45a5bfb5a222b8_LFM2.5-350M-Benchmarks-1.png",
+    "published": "2026-04-01T05:01:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0f9835b177f9",
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "url": "https://openai.com/index/gradient-labs",
+    "summary_original": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+    "thumbnail": "",
+    "published": "2026-04-01T02:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "08ac6ed649cf",
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "summary_original": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+    "thumbnail": "",
+    "published": "2026-04-01T01:42:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "772cb0e03e1a",
+    "title": "エイプリルフールに便乗しているサイトまとめ2026年版",
+    "url": "https://gigazine.net/news/20260401-aprilfool/",
+    "summary_original": "親愛なる読者の皆さま、毎年おなじみエイプリルフールが今年も始まりました！何もかもがネタまみれになる1日の始まりです！わーわー！◆エイプリルフールのネタのタレコミのやり方この記事中に未掲載のネタで「ここもエイプリルフールやってるよ！」というのを発見した場合、さらに「うちもエイプリルフールやってますぅ！」という自薦の連絡はネタのタレコミ用メールフォームから送信してもらえればOKです！むしろどんどん送って下さい！・掲載されやすくなる押さえるべきポイントGIGAZINE編集部員がタレコミのリンク先を見に行っても「どれがエイプリルフールのネタなの……？」ということで瞬時に判断できない＆ネタの意味がわからず記事化をあきらめてしまう……となったり、「どこかがいつもと違うらしいが、元の状態を知らないので、どこがどう変化したかわからないよぅ！タスケテー！」ということで遅れまくったり挙げ句の果てに記事化できなかったりするケースが毎年山のようにあります！なので、タレコミする際には必ず「ここが見るべきポイント！」「ここが以前とこのように違っていて、こういう意味のエイプリルフールネタです！」という説明・解説・見...",
+    "thumbnail": "",
+    "published": "2026-04-01T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "433b289ac10a",
+    "title": "Anthropic is having a month",
+    "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+    "summary_original": "A human really borks things at Anthropic for the second time this week.",
+    "thumbnail": "",
+    "published": "2026-03-31T23:58:26+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "58527590cf0b",
+    "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+    "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+    "summary_original": "No, the sky isn't falling, but Q Day is coming, and it won't be as expensive as thought.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
+    "published": "2026-03-31T18:25:33+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f0037dfa679c",
+    "title": "How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations",
+    "url": "https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/",
+    "summary_original": "In this tutorial, we work directly with the A-Evolve framework in Colab and build a complete evolutionary agent pipeline from the ground up. We set up the repository, configure an OpenAI-powered agent, define a custom benchmark, and build our own evolution engine to see how A-Evolve actually improves an agent through iterative workspace mutations. Through [&#8230;]\nThe post How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations appea...",
+    "thumbnail": "",
+    "published": "2026-03-31T18:24:44+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2ce7d9dee9c3",
+    "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+    "summary_original": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-31T18:24:19-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3ed70defae80",
+    "title": "You can now use ChatGPT with Apple’s CarPlay",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+    "summary_original": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462047/STK155_OPEN_AI_CVirginia_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-03-31T17:03:18-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "13f5e5943582",
+    "title": "SAP and ANYbotics drive industrial adoption of physical AI",
+    "url": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
+    "summary_original": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that. ANYbotics’ four-legged autonomous robots will be connected straight into SAP’s backend enterprise resource planning software. Instead of treating a robot [&#8230;]\nThe post SAP and ANYbotics drive industrial adoption of physical AI appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-03-31T15:20:53+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c93509b534a1",
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-03-31T15:10:41+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
