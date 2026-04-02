@@ -1,0 +1,402 @@
+[
+  {
+    "id": "aa7b921e7634",
+    "title": "Google傘下のDeepMindが極秘に進めた「マリオ計画」とは何だったのか、AGI安全策の行き詰まりが明らかに",
+    "url": "https://gigazine.net/news/20260403-google-deepmind-project-mario-agi-safety/",
+    "summary_original": "2014年1月にGoogleに買収されたDeepMindは、将来のAGI(人工汎用知能)を親会社の都合だけで動かさせないため、独立性の高い統治構造を極秘に模索していました。DeepMindの共同創業者であるデミス・ハサビス氏やムスタファ・スレイマン氏らは2015年秋から数年にわたって複数の安全策を探りましたが、外部からの監視や委員会の設置は機能せず、最終的には自分たち自身が社内で影響力を持つしかないという方向へ傾いていったとされています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-03T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "135eff4f4a70",
+    "title": "GeminiとClaudeのメモリインポート機能を比較してみた　便利さとプライバシーのバランスには注意が必要かも？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news011.html",
+    "summary_original": "別のチャットボットサービスからメモリをインポートする機能はClaudeが先行していましたが、Geminiにもメモリインポート機能がやってきました。しかも、チャット履歴のインポートもサポートされています。果たしてこれがどんなものなのか。さっそく試してみました。",
+    "thumbnail": "",
+    "published": "2026-04-03T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d4860cdaf3df",
+    "title": "AIにコードを書かせたら、“動くのに本番で壊れるバグ”が増えた？　その原因と対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news008.html",
+    "summary_original": "AIコーディングは開発を加速させる一方で、「見抜けないバグ」という新たなリスクを生んでいるという。一見動くのに本番環境で障害を引き起こす厄介なバグの脅威と、現場で取れる対策、さらに最新動向も踏まえた筆者の意見をまとめる。",
+    "thumbnail": "",
+    "published": "2026-04-03T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "923b02ef8202",
+    "title": "世界初の飛行機死亡事故で亡くなったトーマス・セルフリッジ中尉とはどういう人物だったのか？",
+    "url": "https://gigazine.net/news/20260402-thomas-selfridge-first-airplane-accident-victim/",
+    "summary_original": "1903年12月17日、ウィルバー・ライトとオーヴィル・ライトの兄弟は世界で初めてとなる有人動力飛行に成功しました。アメリカ陸軍はライト兄弟が開発したライトフライヤーの購入を検討しており、基地でのデモンストレーションが行われましたが、その際に墜落事故が発生。同乗していたトーマス・セルフリッジ中尉が亡くなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-02T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "55eea0a28dc0",
+    "title": "イラン戦争は石油だけでなくヘリウムやアルミニウムの供給にも悪影響を与えておりiPhoneやAIにも波及",
+    "url": "https://gigazine.net/news/20260402-iran-war-disrupting-helium-aluminum-supplies/",
+    "summary_original": "2026年2月末にイスラエルとアメリカが共同でイランへ攻撃を実施して以降、世界のエネルギー市場は混乱に陥っています。影響を受けているのは石油などの燃料資源だけでなく、ヘリウムやアルミニウムなどの半導体や医療機器の重要な材料にも及んでいると、アメリカのCBS Newsが報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-02T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bafd16a0a0fd",
+    "title": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
+    "url": "https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/",
+    "summary_original": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive &#8220;token tax&#8221; for every action. The landscape of modern AI is shifting rapidly. We are moving away from [&#8230;]\nThe post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spa...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-1.10.18-PM-1.png",
+    "published": "2026-04-02T20:35:54+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f6f5f038090e",
+    "title": "北朝鮮のハッカー「UNC1069」がオープンソースのAxiosに対するサプライチェーン攻撃の犯人だとGoogleが指摘",
+    "url": "https://gigazine.net/news/20260402-axios-threat-actor-north-korea/",
+    "summary_original": "JavaScriptライブラリ「Axios」がサプライチェーン攻撃を受けてリモートアクセス型トロイの木馬を仕込まれた件で、Googleのセキュリティ研究者が調査報告書を提出しました。Googleは、早くとも2018年から活動している北朝鮮関連の脅威アクター「UNC1069」が関与していると断定しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-02T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "df3848d9d002",
+    "title": "万博レガシー　人が乗れる四足歩行ロボ「CORLEO」　神戸・カワサキワールドに",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/02/news130.html",
+    "summary_original": "川崎重工業は、2025年の大阪・関西万博で公開した開発中の次世代モビリティ（乗り物）を、同社の博物館「カワサキワールド」（神戸市中央区）で展示している。万博で紹介した最先端技術や感動を伝えるレガシー（遺産）を地元・神戸で継承したいとしている。",
+    "thumbnail": "",
+    "published": "2026-04-02T19:51:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "317e5552b892",
+    "title": "「人型ロボの陸上選手」爆誕　GMO陸上部の走行をモーキャプ、目指すは“ロボット世界陸上”",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/02/news082.html",
+    "summary_original": "陸上選手のように走る人型ロボットは実現できるか――GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事（以下、GMO AIR）がこんな挑戦を始めた。",
+    "thumbnail": "",
+    "published": "2026-04-02T19:32:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "043898ae5866",
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "summary_original": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "thumbnail": "",
+    "published": "2026-04-02T19:21:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "39fb01dc9cc8",
+    "title": "Google's Gemma 4 is now available with Apache 2.0 licensing for the first time",
+    "url": "https://the-decoder.com/googles-gemma-4-is-now-available-with-apache-2-0-licensing-for-the-first-time/",
+    "summary_original": "Google is releasing Gemma 4, its most capable open model family yet. The four new models run on everything from smartphones to workstations and ship under a fully open Apache 2.0 license for the first time.\nThe article Google&#039;s Gemma 4 is now available with Apache 2.0 licensing for the first time appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/gemma_4-logo.webp",
+    "published": "2026-04-02T18:06:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "63c076e6d4eb",
+    "title": "Sakana AI launches \"Ultra Deep Research\" to automate weeks of strategy work",
+    "url": "https://the-decoder.com/sakana-ai-launches-ultra-deep-research-to-automate-weeks-of-strategy-work/",
+    "summary_original": "Sakana AI has unveiled \"Sakana Marlin,\" an AI assistant for business customers that researches autonomously for up to eight hours and delivers finished analyses. The tool is designed to compress weeks of strategy work into hours and is currently in beta testing.\nThe article Sakana AI launches &quot;Ultra Deep Research&quot; to automate weeks of strategy work appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/sakana_ai_ultra_deep_research.png",
+    "published": "2026-04-02T17:24:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "72aca98f9199",
+    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+    "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+    "summary_original": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-04-02T17:00:11+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c13f45af415f",
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "summary_original": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "thumbnail": "",
+    "published": "2026-04-02T16:48:16+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6809f3e7cabd",
+    "title": "KiloClaw targets shadow AI with autonomous agent governance",
+    "url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+    "summary_original": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees are bypassing official procurement, deploying autonomous agents on personal infrastructure to [&#8230;]\nThe post KiloClaw targets shadow AI with autonomous agent governance appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-04-02T16:30:53+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5bb61f8f66ae",
+    "title": "Microsoft's MAI-Transcribe-1 runs 2.5x faster than its predecessor at $0.36 per audio hour",
+    "url": "https://the-decoder.com/microsofts-mai-transcribe-1-runs-2-5x-faster-than-its-predecessor-at-0-36-per-audio-hour/",
+    "summary_original": "MAI-Transcribe-1 converts speech to text quickly and accurately in 25 languages, even with background noise. Microsoft is already using the model in its own products.\nThe article Microsoft&#039;s MAI-Transcribe-1 runs 2.5x faster than its predecessor at $0.36 per audio hour appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/05/microsoft_logo_ai.png",
+    "published": "2026-04-02T16:26:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "11d321b4b456",
+    "title": "Google now lets you direct avatars through prompts in its Vids app",
+    "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "summary_original": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+    "thumbnail": "",
+    "published": "2026-04-02T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8738eed852a8",
+    "title": "京都府、府立高校の生徒約1万人に“AI英会話”導入　多くの外国人が訪れる都市で「英語は必須スキル」",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/02/news108.html",
+    "summary_original": "京都府が府立高校生約1万人を対象にAI英会話サービスを導入する。同府の担当者は「英語力は自らの可能性を広げる必須スキル」だとし、AI英会話の導入効果に期待を寄せる。",
+    "thumbnail": "",
+    "published": "2026-04-02T15:32:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0856a0a8529e",
+    "title": "Nvidia sets new MLPerf records with 288 GPUs while AMD and Intel focus on different battles",
+    "url": "https://the-decoder.com/nvidia-sets-new-mlperf-records-with-288-gpus-while-amd-and-intel-focus-on-different-battles/",
+    "summary_original": "The latest round of the industry's top inference benchmark introduces multimodal and video models for the first time. Nvidia, AMD, and Intel each highlight different metrics, making direct comparisons difficult.\nThe article Nvidia sets new MLPerf records with 288 GPUs while AMD and Intel focus on different battles appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/ML-Perf-6.0-Benchmark.png",
+    "published": "2026-04-02T14:59:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8711292cdebd",
+    "title": "Alibaba launches Qwen3.6-Plus, its third proprietary AI model in days",
+    "url": "https://the-decoder.com/alibaba-launches-qwen3-6-plus-its-third-proprietary-ai-model-in-days/",
+    "summary_original": "Alibaba has released Qwen3.6-Plus, its third proprietary AI model in just a few days.\nThe article Alibaba launches Qwen3.6-Plus, its third proprietary AI model in days appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/qwen_teddy_logo_wall.png",
+    "published": "2026-04-02T14:46:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e34359324edd",
+    "title": "5 best practices to secure AI systems",
+    "url": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
+    "summary_original": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, companies need a multi-layered defense strategy [&#8230;]\nThe post 5 best practices to secure AI systems appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-02T14:45:03+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "eab9db906a7c",
+    "title": "Elon Musk is about to be a very busy boy!",
+    "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+    "summary_original": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-02T14:15:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3ad57c4040d1",
+    "title": "OpenAI just bought TBPN",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+    "summary_original": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-02T13:40:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "be5d69a68c5a",
+    "title": "China’s Five-Year Plan details the targets for AI deployment",
+    "url": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
+    "summary_original": "China has approved its 15th Five-Year Plan [PDF] setting out the country&#8217;s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quantum computing, biotechnology, and energy as paths that are to [&#8230;]\nThe post China&#8217;s Five-Year Plan details the targets for AI deployment appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-04-02T13:23:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5a3637bd4c06",
+    "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices.&#160;But looking ahead, further consequences&#160;could&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/21a82f27-7b51-2a01-89f9-90e034d77707.jpg",
+    "published": "2026-04-02T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7bd8cdbe6e39",
+    "title": "GIGAZINE春のプレゼント大放出企画「アンケートに答えて全部持っていってください！」",
+    "url": "https://gigazine.net/news/20260402-present-spring-2026/",
+    "summary_original": "キーボード、マウス、イヤホンなどなど、新生活で何か新しいものを手に入れたい！と思っているあなたに朗報。アンケートに答えるだけで応募できるプレゼント大放出企画がスタートします。普段の記事のアクセス解析だけではわからない「GIGAZINEを読んでいるのはどういう人たちなのか？」という点のリサーチも兼ねているので、「プレゼントはいらないけどアンケートには協力してもイイヨ！」という場合も回答してもらえると非常にありがたいです！◆応募期間2026年4月2日(木)から2025年4月19日(日)23時59分まで。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-02T12:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3f4b7ad71b16",
+    "title": "It’s not easy to get depression-detecting AI through the FDA",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+    "summary_original": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-02T11:33:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b487a1bf1364",
+    "title": "OpenAI acquires TBPN",
+    "url": "https://openai.com/index/openai-acquires-tbpn",
+    "summary_original": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "thumbnail": "",
+    "published": "2026-04-02T10:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "d0f28096640d",
+    "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+    "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+    "summary_original": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25344398/1935722537.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-02T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c32a08ac79ed",
+    "title": "Codex now offers more flexible pricing for teams",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "summary_original": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "thumbnail": "",
+    "published": "2026-04-02T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "bac8d77ec3de",
+    "title": "Autonomous AI systems depend on data governance",
+    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
+    "summary_original": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system&#8217;s behaviour can become more unpredictable. [&#8230;]\nThe post Autonomous AI systems depend on data governance appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-02T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "fc6dad743d56",
+    "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
+    "url": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
+    "summary_original": "The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian&#8217;s 2026 Future of Fraud Forecast, and it&#8217;s a tension the company is in a position to name because it sits on both sides of it. According to FTC data cited in the forecast, consumers lost [&#8230;]\nThe post Experian uncovers fraud paradox in financial services&#8217; AI adoption appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-04-02T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "9afab4be5603",
+    "title": "Fuel prices are soaring. Plastic could be next.",
+    "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+    "summary_original": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in the&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-02T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a750def32749",
+    "title": "Google Home’s latest update makes Gemini better at understanding your commands",
+    "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+    "summary_original": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes. With the update, you can describe the type of lighting you want, such as \"the color of the ocean,\" and Gemini will [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/google-home-display.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-02T09:30:12-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4268596fa058",
+    "title": "IBM Releases Granite 4.0 3B Vision: A New Vision Language Model for Enterprise Grade Document Data Extraction",
+    "url": "https://www.marktechpost.com/2026/04/01/ibm-releases-granite-4-0-3b-vision-a-new-vision-language-model-for-enterprise-grade-document-data-extraction/",
+    "summary_original": "IBM has announced the release of Granite 4.0 3B Vision, a vision-language model (VLM) engineered specifically for enterprise-grade document data extraction. Departing from the monolithic approach of larger multimodal models, the 4.0 Vision release is architected as a specialized adapter designed to bring high-fidelity visual reasoning to the Granite 4.0 Micro language backbone. This release [&#8230;]\nThe post IBM Releases Granite 4.0 3B Vision: A New Vision Language Model for Enterprise Grade Do...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-01-at-10.52.33-PM-1.png",
+    "published": "2026-04-02T06:04:34+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0ba5f98c3bac",
+    "title": "How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines",
+    "url": "https://www.marktechpost.com/2026/04/01/how-to-build-production-ready-agentscope-workflows-with-react-agents-custom-tools-multi-agent-debate-structured-output-and-concurrent-pipelines/",
+    "summary_original": "In this tutorial, we build a complete AgentScope workflow from the ground up and run everything in Colab. We start by wiring OpenAI through AgentScope and validating a basic model call to understand how messages and responses are handled. From there, we define custom tool functions, register them in a toolkit, and inspect the auto-generated [&#8230;]\nThe post How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent P...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-04-02T05:34:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a38a6a43bd72",
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "url": "https://huggingface.co/blog/gemma4",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-02T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "e72d5de18fca",
+    "title": "Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Capacity Agentic Engineering Workflows Everywhere",
+    "url": "https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-multimodal-vision-coding-model-optimized-for-openclaw-and-high-capacity-agentic-engineering-workflows-everywhere/",
+    "summary_original": "In the field of vision-language models (VLMs), the ability to bridge the gap between visual perception and logical code execution has traditionally faced a performance trade-off. Many models excel at describing an image but struggle to translate that visual information into the rigorous syntax required for software engineering. Zhipu AI&#8217;s (Z.ai) GLM-5V-Turbo is a vision [&#8230;]\nThe post Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Ca...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-1.png",
+    "published": "2026-04-01T23:04:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c38b9a2096a3",
+    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "summary_original": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+    "thumbnail": "",
+    "published": "2026-04-01T22:12:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "104602a7a024",
+    "title": "Meta’s natural gas binge could power South Dakota",
+    "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "summary_original": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+    "thumbnail": "",
+    "published": "2026-04-01T18:35:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  }
+]
