@@ -1,0 +1,402 @@
+[
+  {
+    "id": "2b2aeda9a02e",
+    "title": "無料でWindows・macOSのファイルやブラウザを内蔵ローカルAIを使いAPIキー不要で自動操作できる「Accomplish」、OpenAIやAnthropicなどの外部AIも利用可能",
+    "url": "https://gigazine.net/news/20260403-accomplish/",
+    "summary_original": "Accomplishは、Windows・macOS・Linuxのデスクトップ上で動作するオープンソースのAIデスクトップエージェントです。ファイルの整理や文書作成、ブラウザー操作などの作業を支援するツールで、組み込みAIを使ってAPIキーなしですぐに使い始められる点と、MITライセンスの下で公開されている点が特徴です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-03T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "85dc10294da5",
+    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "summary_original": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+    "thumbnail": "",
+    "published": "2026-04-03T20:35:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "03aa16cb33ef",
+    "title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "summary_original": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/bluecrayfish-1152x648.jpg",
+    "published": "2026-04-03T20:30:15+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "ae45489aceb7",
+    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "summary_original": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+    "thumbnail": "",
+    "published": "2026-04-03T20:28:40+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6dd22ac30e6b",
+    "title": "Anthropic ramps up its political activities with a new PAC",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "summary_original": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+    "thumbnail": "",
+    "published": "2026-04-03T20:22:18+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "48feceb8732d",
+    "title": "人類は1万2000年以上前に「世界最古のサイコロ」を生み出していたとの研究結果",
+    "url": "https://gigazine.net/news/20260403-native-americans-invented-worlds-oldest-dice/",
+    "summary_original": "サイコロはボードゲームやギャンブルなどに使われる道具で、意図的にランダムな数字や結果を出すために用いられます。アメリカ西部の先住民がサイコロを1万2000年以上前から生み出していたとの研究結果を、アメリカ・コロラド州立大学の博士課程に在籍するロバート・マッデン氏が発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-03T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0f3e9bf76f90",
+    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+    "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+    "summary_original": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+    "thumbnail": "",
+    "published": "2026-04-03T19:48:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "75b300a54a2c",
+    "title": "IBMとArmが戦略的提携　AI対応でメインフレームの柔軟性確保へ",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news113.html",
+    "summary_original": "IBMとArmは、IBMのハードウェアでArmベースのソフトウェアを実行可能にすることを目指す戦略的提携を発表した。仮想化技術を拡張し、AIワークロードを含むArmエコシステムのミッションクリティカルシステムへの展開を図る。",
+    "thumbnail": "",
+    "published": "2026-04-03T19:23:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5eed4ea5685c",
+    "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+    "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+    "summary_original": "A new poll shows that the debate over data centers is far from settled.",
+    "thumbnail": "",
+    "published": "2026-04-03T19:20:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d66e6a647cd5",
+    "title": "2026年4月3日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260403-headline/",
+    "summary_original": "『仮面ライダーカブト』放送から20周年を記念して、新作プロジェクトがVシネクスト『仮面ライダーカブト 20th 天を継ぐもの』として2026年11月6日(金)から期間限定上映されることになり、特報映像が公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-03T19:05:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "34125c3444b3",
+    "title": "Deepseek v4 will reportedly run entirely on Huawei chips in a major win for China's AI independence push",
+    "url": "https://the-decoder.com/deepseek-v4-will-reportedly-run-entirely-on-huawei-chips-in-a-major-win-for-chinas-ai-independence-push/",
+    "summary_original": "Deepseek v4 is expected to launch in the coming weeks and will run exclusively on Huawei chips. China's biggest tech companies have reportedly already ordered hundreds of thousands of units. Nvidia was shut out of early testing.\nThe article Deepseek v4 will reportedly run entirely on Huawei chips in a major win for China&#039;s AI independence push appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/09/deepseek_sparse_logo.png",
+    "published": "2026-04-03T19:02:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3b7aae6fa67d",
+    "title": "AI関連求人で「AI責任者」や「データアノテーター」の職が急増中",
+    "url": "https://gigazine.net/news/20260403-ai-create-new-job/",
+    "summary_original": "AIの発展により、「AIで代替可能な職種の失業者が増える」「新規採用が滞る」といった懸念が強まっています。一方で、「AI責任者」など新たな職種の求人が増加していることを経済誌のウォールストリートジャーナルが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-03T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "15183da4f34b",
+    "title": "新たな「国産LLM」公開、国立情報学研究所　「gpt-oss-20b」超えの日本語性能うたう",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news092.html",
+    "summary_original": "国立情報学研究所は、LLM「LLM-jp-4 8Bモデル」「LLM-jp-4 32B-A3Bモデル」をオープンソースライセンスで公開した。米OpenAIのオープンモデル「gpt-oss-20b」を上回る日本語性能をうたう。",
+    "thumbnail": "",
+    "published": "2026-04-03T18:47:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5a64d66f4ce9",
+    "title": "Microsoft is betting $10 billion on Japan's AI future",
+    "url": "https://the-decoder.com/microsoft-is-betting-10-billion-on-japans-ai-future/",
+    "summary_original": "Microsoft is investing $10 billion in Japan from 2026 to 2029, its largest ever commitment to the country.\nThe article Microsoft is betting $10 billion on Japan&#039;s AI future appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/08/tokyo_tower_illustration_Midjourney.png",
+    "published": "2026-04-03T18:16:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2ba9ce0a87a0",
+    "title": "Four things we’d need to put data centers in space",
+    "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+    "summary_original": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-03T17:03:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "34d105c3b6cc",
+    "title": "バーガーキング「クリーミーマヨ アボカドワッパー」試食レビュー、アボカド＆マヨで後味サッパリ",
+    "url": "https://gigazine.net/news/20260403-burgerking-mayo-avocado-whopper/",
+    "summary_original": "バーガーキングの期間限定バーガーとして「クリーミーマヨ アボカドワッパー」「ダブルクリーミーマヨ アボカドワッパー」「チーズクリーミーマヨ アボカドワッパー」の3種が2026年4月3日に登場しました。マヨソースとサワークリームに4種のハーブやガーリックパウダーを加えた「特製ハーブマヨソース」を使っており、アボカドのおいしさが引き立つ本格バーガーに仕上がっているとのこと。どんな味がするのか気になったので、実際に食べてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-03T17:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8d501507aad7",
+    "title": "作家・綾辻行人さんの作品装う“偽本”がAmazonに出現　本人が注意喚起　「誰かがAIで作ったようです」",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news097.html",
+    "summary_original": "作家の綾辻行人さんは、自身の作品を装った偽の電子書籍がAmazonで販売されているとして注意喚起した。",
+    "thumbnail": "",
+    "published": "2026-04-03T16:31:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "38ba1e9d35fa",
+    "title": "OpenAI’s AGI boss is taking a leave of absence",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+    "summary_original": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1239231852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-03T16:22:59-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dc860712a3d5",
+    "title": "SIE、3D技のCinemersive Labsを買収――プレステの視覚効果を機械学習で強化",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/03/news091.html",
+    "summary_original": "ソニー・インタラクティブエンタテインメント（SIE）は、VR/AR向け3D技術を持つCinemersive Labsの買収を発表した。機械学習を活用した視覚効果の強化とレンダリング技術の向上を図り、PlayStationにおける視覚体験の進化を目指す。買収後、同社チームはSIEのグループに合流し、次世代のコンテンツ開発に貢献する。",
+    "thumbnail": "",
+    "published": "2026-04-03T15:06:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d0e44b354620",
+    "title": "Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts",
+    "url": "https://the-decoder.com/anthropic-says-claude-codes-usage-drain-comes-down-to-peak-hour-caps-and-ballooning-contexts/",
+    "summary_original": "Anthropic explains why Claude Code users have been burning through their limits so fast and shares tips to cut down on token usage.\nThe article Anthropic says Claude Code&#039;s usage drain comes down to peak-hour caps and ballooning contexts appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_logo_wall.png",
+    "published": "2026-04-03T14:54:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a38c4e62aff1",
+    "title": "OpenAI shifts to usage-based pricing for Codex in ChatGPT business plans",
+    "url": "https://the-decoder.com/openai-shifts-to-usage-based-pricing-for-codex-in-chatgpt-business-plans/",
+    "summary_original": "OpenAI is ditching fixed licenses for Codex in its ChatGPT business plans. Instead, companies only pay for what they actually use, a move aimed squarely at GitHub Copilot and Cursor.\nThe article OpenAI shifts to usage-based pricing for Codex in ChatGPT business plans appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-3.png",
+    "published": "2026-04-03T14:23:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "20585faf2dd8",
+    "title": "Microsoft、日本にAI投資1兆6000億円　さくら・ソフトバンクとAIインフラ共同開発、日本の研究者に助成も",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news083.html",
+    "summary_original": "さくらインターネット・ソフトバンクと協力し、「Microsoft Azure」からアクセス可能な国内AI計算資源の共同開発を検討する。",
+    "thumbnail": "",
+    "published": "2026-04-03T13:27:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4e7627a0db5b",
+    "title": "Zhipu AI's GLM-5V-Turbo turns design mockups directly into executable front-end code",
+    "url": "https://the-decoder.com/zhipu-ais-glm-5v-turbo-turns-design-mockups-directly-into-executable-front-end-code/",
+    "summary_original": "Chinese AI startup Zhipu AI has released GLM-5V-Turbo, a multimodal model that processes images, video, and text and is designed for use in agent workflows.\nThe article Zhipu AI&#039;s GLM-5V-Turbo turns design mockups directly into executable front-end code appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/zhipu-ai-logo-wall.jpg",
+    "published": "2026-04-03T12:04:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8ffc9734d668",
+    "title": "Apple’s best product ever",
+    "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
+    "summary_original": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 million votes! We also have lots of other coverage of Apple's first half century, and you should [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0402_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-03T08:52:41-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "51e49f952af9",
+    "title": "TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts",
+    "url": "https://www.marktechpost.com/2026/04/03/tii-releases-falcon-perception-a-0-6b-parameter-early-fusion-transformer-for-open-vocabulary-grounding-and-segmentation-from-natural-language-prompts/",
+    "summary_original": "In the current landscape of computer vision, the standard operating procedure involves a modular &#8216;Lego-brick&#8217; approach: a pre-trained vision encoder for feature extraction paired with a separate decoder for task prediction. While effective, this architectural separation complicates scaling and bottlenecks the interaction between language and vision. The Technology Innovation Institute (TII) research team is challenging [&#8230;]\nThe post TII Releases Falcon Perception: A 0.6B-Paramet...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-03-at-1.47.18-AM-1.png",
+    "published": "2026-04-03T08:49:34+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d08f46e1c011",
+    "title": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
+    "url": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
+    "summary_original": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply [&#8230;]\nThe post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appe...",
+    "thumbnail": "",
+    "published": "2026-04-03T07:48:18+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "35ba2cb02f87",
+    "title": "Chatbots are now prescribing psychiatric drugs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+    "summary_original": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS524_AI_HEALTH_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-03T07:43:21-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "becb8d32113c",
+    "title": "Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use",
+    "url": "https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/",
+    "summary_original": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary &#8216;reasoning&#8217; models have dominated the conversation, Arcee AI has released Trinity Large Thinking. This release is an open-weight reasoning model distributed under the Apache 2.0 license, positioning it as a transparent alternative for developers [&#8230;]\nThe post Arcee AI Releases Trinity Large Thinking: An Apache 2...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/pinchbench-success-rate-by-model-1.png",
+    "published": "2026-04-02T23:56:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bafd16a0a0fd",
+    "title": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
+    "url": "https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/",
+    "summary_original": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive &#8220;token tax&#8221; for every action. The landscape of modern AI is shifting rapidly. We are moving away from [&#8230;]\nThe post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spa...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-1.10.18-PM-1.png",
+    "published": "2026-04-02T20:35:54+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "198fd4fc1dd0",
+    "title": "PSA: Anyone with a link can view your Granola notes by default",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+    "summary_original": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as an \"AI notepad for people [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/granola-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-02T17:56:16-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "72aca98f9199",
+    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+    "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+    "summary_original": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-04-02T17:00:11+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "6809f3e7cabd",
+    "title": "KiloClaw targets shadow AI with autonomous agent governance",
+    "url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+    "summary_original": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees are bypassing official procurement, deploying autonomous agents on personal infrastructure to [&#8230;]\nThe post KiloClaw targets shadow AI with autonomous agent governance appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-04-02T16:30:53+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "e34359324edd",
+    "title": "5 best practices to secure AI systems",
+    "url": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
+    "summary_original": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, companies need a multi-layered defense strategy [&#8230;]\nThe post 5 best practices to secure AI systems appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-02T14:45:03+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "eab9db906a7c",
+    "title": "Elon Musk is about to be a very busy boy!",
+    "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+    "summary_original": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-02T14:15:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "be5d69a68c5a",
+    "title": "China’s Five-Year Plan details the targets for AI deployment",
+    "url": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
+    "summary_original": "China has approved its 15th Five-Year Plan [PDF] setting out the country&#8217;s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quantum computing, biotechnology, and energy as paths that are to [&#8230;]\nThe post China&#8217;s Five-Year Plan details the targets for AI deployment appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-04-02T13:23:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5a3637bd4c06",
+    "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices.&#160;But looking ahead, further consequences&#160;could&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/21a82f27-7b51-2a01-89f9-90e034d77707.jpg",
+    "published": "2026-04-02T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b487a1bf1364",
+    "title": "OpenAI acquires TBPN",
+    "url": "https://openai.com/index/openai-acquires-tbpn",
+    "summary_original": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "thumbnail": "",
+    "published": "2026-04-02T10:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c32a08ac79ed",
+    "title": "Codex now offers more flexible pricing for teams",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "summary_original": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "thumbnail": "",
+    "published": "2026-04-02T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "bac8d77ec3de",
+    "title": "Autonomous AI systems depend on data governance",
+    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
+    "summary_original": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system&#8217;s behaviour can become more unpredictable. [&#8230;]\nThe post Autonomous AI systems depend on data governance appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-02T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "fc6dad743d56",
+    "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
+    "url": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
+    "summary_original": "The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian&#8217;s 2026 Future of Fraud Forecast, and it&#8217;s a tension the company is in a position to name because it sits on both sides of it. According to FTC data cited in the forecast, consumers lost [&#8230;]\nThe post Experian uncovers fraud paradox in financial services&#8217; AI adoption appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-04-02T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
