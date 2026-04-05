@@ -1,0 +1,272 @@
+[
+  {
+    "id": "a0372c538e95",
+    "title": "Microsoftはいかにして1兆ドルを消滅させたのか、Azureに対する信頼を損なった自己満足と誤った判断の内幕を元Azureコアエンジニアが証言",
+    "url": "https://gigazine.net/news/20260406-microsoft-azure-failure/",
+    "summary_original": "Microsoftが展開するクラウドサービスであるMicrosoft Azureのコアエンジニアだったアクセル・リーチン氏が、内部から見たMicrosoftの問題点をブログで告発しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-06T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "07254ee4c5f1",
+    "title": "MicrosoftはCopilotを「娯楽目的のもので、重要な助言では頼らないこと」と警告している",
+    "url": "https://gigazine.net/news/20260405-microsoft-copilot-for-entertainment-purposes-only/",
+    "summary_original": "MicrosoftがAIチャットボット『Microsoft Copilot』について、利用規約で「娯楽目的のもの」であり「重要なアドバイスでは頼らないでください」と警告していることがわかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-05T23:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "58e097921d31",
+    "title": "「温かい風呂」につかることがマラソンランナーの走力を向上させるかもしれない",
+    "url": "https://gigazine.net/news/20260405-hot-baths-help-marathon-training/",
+    "summary_original": "1日の終わりに温かい風呂につかり、疲れを取るのが日々の楽しみだという人もいるはず。学術誌のThe Journal of Physiologyに掲載された論文で、「温かい風呂につかることが長距離ランナーの走力を向上させる可能性がある」という興味深い研究結果が報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-05T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d78e19e047f2",
+    "title": "Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It",
+    "url": "https://www.marktechpost.com/2026/04/05/meet-maxtoki-the-ai-that-predicts-how-your-cells-age-and-what-to-do-about-it/",
+    "summary_original": "Most foundation models in biology have a fundamental blind spot: they see cells as frozen snapshots. Give a model a single-cell transcriptome — a readout of which genes are active in a cell at a given moment — and it can tell you a lot about what that cell is doing right now. What it [&#8230;]\nThe post Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-05-at-1.43.30-PM-1.png",
+    "published": "2026-04-05T20:50:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "46acdfe4dbf7",
+    "title": "How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample Inference",
+    "url": "https://www.marktechpost.com/2026/04/05/how-to-build-a-netflix-void-video-object-removal-and-inpainting-pipeline-with-cogvideox-custom-prompting-and-end-to-end-sample-inference/",
+    "summary_original": "In this tutorial, we build and run an advanced pipeline for Netflix’s VOID model. We set up the environment, install all required dependencies, clone the repository, download the official base model and VOID checkpoint, and prepare the sample inputs needed for video object removal. We also make the workflow more practical by allowing secure terminal-style [&#8230;]\nThe post How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End S...",
+    "thumbnail": "",
+    "published": "2026-04-05T20:19:56+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "78892d4b7ab7",
+    "title": "無料で不要なスマホ通知をフィルタリング・ブロックできるAndroidアプリ「DoNotNotify」レビュー",
+    "url": "https://gigazine.net/news/20260405-do-not-notify/",
+    "summary_original": "スマホアプリの通知機能は便利で有益である反面「この通知はいらない」と感じる局面が多く、その割にアプリ側で細かな通知のオンオフ設定はできない場合がほとんどです。DoNotNotifyはアプリ外から通知の許可・拒否を細かく設定できるAndroidアプリです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-05T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8358e6d1f851",
+    "title": "電子工作に必要なハードウェアをAIでサクッと調べられるウェブサイト「Open Hardware Directory」",
+    "url": "https://gigazine.net/news/20260405-open-hardware-directory-diy/",
+    "summary_original": "シングルボードコンピューターや無線チップなどのオープンソースハードウェアの充実によって、自分好みのデバイスを自作できる環境が整いつつあります。しかし、電子工作初心者にとっては適切なデバイスの選定は難しいものです。そんな時に役立つウェブサイトが「Open Hardware Directory」で、膨大なオープンソースハードウェアの中から自分の目的に合ったデバイスをAIの力を借りつつ探すことができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-05T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "197955630132",
+    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "summary_original": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+    "thumbnail": "",
+    "published": "2026-04-05T18:51:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c436a0a63b94",
+    "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+    "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+    "summary_original": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+    "thumbnail": "",
+    "published": "2026-04-05T15:40:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "02b0db59d028",
+    "title": "The New York Times drops freelancer whose AI tool copied from an existing book review",
+    "url": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/",
+    "summary_original": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes.\nThe article The New York Times drops freelancer whose AI tool copied from an existing book review appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/11/openai_chatgpt_media_deals_news.png",
+    "published": "2026-04-05T15:11:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3cae30a0b52c",
+    "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "summary_original": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+    "thumbnail": "",
+    "published": "2026-04-05T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a261fc2a80ea",
+    "title": "Suno is a music copyright nightmare",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+    "summary_original": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-05T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c34f558b3f79",
+    "title": "Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development",
+    "url": "https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/",
+    "summary_original": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual productivity gains come at the cost of reviewers and the open-source community.\nThe article Study maps developer frustration over &quot;AI slop&quot; as a &quot;tragedy of the commons&quot; in software development appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/hacker_news_reddit_illustration.jpeg",
+    "published": "2026-04-05T10:55:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0cd81c201dfc",
+    "title": "OpenAIの“AGI担当CEO”シモ氏が療養休職　ライトキャップCOOが“特別プロジェクト”担当に",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/05/news019.html",
+    "summary_original": "OpenAIのAGI導入担当CEO、フィジ・シモ氏が、病気療養のため数週間休職すると発表した。休職中はグレッグ・ブロックマン社長が製品管理を代行する。また、ブラッド・ライトキャップCOOが特別プロジェクト担当の新職務へ異動し、CMOのケイト・ラウチ氏はがん治療のため辞任。ゲイリー・ブリッグス氏が暫定CMOに就任する。",
+    "thumbnail": "",
+    "published": "2026-04-05T10:33:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a8569d17ce37",
+    "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+    "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+    "summary_original": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/IMG_0562.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-05T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "87fa311765e7",
+    "title": "Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight",
+    "url": "https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/",
+    "summary_original": "There&#8217;s a particular kind of tedium that every AI engineer knows intimately: the prompt-tuning loop. You write a system prompt, run your agent against a benchmark, read the failure traces, tweak the prompt, add a tool, rerun. Repeat this a few dozen times and you might move the needle. It&#8217;s grunt work dressed up in [&#8230;]\nThe post Meet &#8216;AutoAgent&#8217;: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight appeared first on MarkTechPo...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-6.png",
+    "published": "2026-04-05T09:21:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "215e590f1153",
+    "title": "AI offensive cyber capabilities are doubling every six months, safety researchers find",
+    "url": "https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/",
+    "summary_original": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human experts about three hours.\nThe article AI offensive cyber capabilities are doubling every six months, safety researchers find appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/AI_cybersecurity.png",
+    "published": "2026-04-05T09:08:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bbb9ddb0166c",
+    "title": "Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
+    "url": "https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/",
+    "summary_original": "Fashion has always been about anticipation, determining what one would prefer to wear before they know it themselves. It’s meant in terms of intuition, presentation, experience, and the “good eye”. Today, it can be conveyed through algorithms, neural networks, and machine learning. Artificial Intelligence is no longer at the dregs, but very much at the [&#8230;]\nThe post Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future F...",
+    "thumbnail": "",
+    "published": "2026-04-05T08:45:37+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0c0ef16410df",
+    "title": "AI benchmarks systematically ignore how humans disagree, Google study finds",
+    "url": "https://the-decoder.com/ai-benchmarks-systematically-ignore-how-humans-disagree-google-study-finds/",
+    "summary_original": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just as much as the budget itself.\nThe article AI benchmarks systematically ignore how humans disagree, Google study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/human-benchmarks-nano-banana-pro-scaled.jpg",
+    "published": "2026-04-05T08:31:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "315d5d64ac96",
+    "title": "Grammarly’s sloppelganger saga",
+    "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268400_Grammarlys_sloppelganger_saga_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-05T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "eb107e45f684",
+    "title": "「Claude」で「OpenClaw」などの利用がサブスク対象外に　API利用や追加使用量購入が必要",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/05/news018.html",
+    "summary_original": "Anthropicは、「Claude」のサブスクリプションが「OpenClaw」等のサードパーティツール利用をカバーしなくなると告知した。需要増加に伴うリソース管理の適正化が目的としている。影響を受けるユーザーには、1回限りのクレジット付与や割引、希望者への全額返金で対応する。",
+    "thumbnail": "",
+    "published": "2026-04-05T07:42:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8b24358e3451",
+    "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
+    "url": "https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/",
+    "summary_original": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior.\nThe article AI chatbot traffic grows seven times faster than social media but still trails by a factor of four appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/chatbot_market_logos_gemini_deepseek_chatgpt.png",
+    "published": "2026-04-05T07:27:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b85184eac577",
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "summary_original": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "thumbnail": "",
+    "published": "2026-04-04T16:32:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1219c4bc9223",
+    "title": "A folk musician became a target for AI fakes and a copyright troll",
+    "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+    "summary_original": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised that someone had pulled performances of the songs she posted to YouTube, created [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/0040566978_25.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-04T13:52:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "efc3c2e8b656",
+    "title": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All",
+    "url": "https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/",
+    "summary_original": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you&#8217;re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. [&#8230;]\nThe post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-04-at-2.02.50-AM-1.png",
+    "published": "2026-04-04T09:03:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "492ada7284e1",
+    "title": "Really, you made this without AI? Prove it",
+    "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+    "summary_original": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Human-made-ai-free-labels-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-04T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "502b81695f3c",
+    "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+    "summary_original": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+    "thumbnail": "",
+    "published": "2026-04-04T01:31:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  }
+]
