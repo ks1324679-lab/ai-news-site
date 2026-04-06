@@ -1,0 +1,352 @@
+[
+  {
+    "id": "a14192d9cae2",
+    "title": "20万年前のネアンデルタール人が使った接着剤に抗菌作用があることが判明、傷の手当てにも使われていた可能性が浮上",
+    "url": "https://gigazine.net/news/20260407-neanderthal-birch-tar-antibacterial/",
+    "summary_original": "約20万年前からネアンデルタール人が接着剤として使っていた「バーチタール」に、赤みや腫れ、痛み、うみなどの傷の感染に関わる黄色ブドウ球菌を抑える働きがあることを研究チームが確かめました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-07T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e6cf513249b4",
+    "title": "PythonフォーラムのPEPクイズが面白い　2つはホントで、1つはウソを見抜ける？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/07/news010.html",
+    "summary_original": "皆さんはPEP（Pythonの仕様や提案をまとめた文書）って読んだことがありますか？　あってもなくても、3つあるPEPのタイトルのうち2つはホントで、1つはウソ。だとしたら、どれがウソかを当てたくなりません？　しかも、それだけじゃないんです（笑）。",
+    "thumbnail": "",
+    "published": "2026-04-07T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "737d4786e55a",
+    "title": "AIがコードを書く時代、新人はどう育てる？　「使わせるか」「禁止するか」のジレンマ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/07/news012.html",
+    "summary_original": "AIコーディングが当たり前になった今、新人教育の現場に新たな課題が生まれている。「使わせるか」「禁止するか」という問いに、明確な答えはあるのか。そのヒントを、現場の事例と筆者なりの考えから探る。",
+    "thumbnail": "",
+    "published": "2026-04-07T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "50382e9a1db5",
+    "title": "国民の「痛み」を測ると国の豊かさが見えてくるという主張",
+    "url": "https://gigazine.net/news/20260406-pain-wellbeing-gdp/",
+    "summary_original": "国の豊かさを測る指標としてはGDP(国内総生産)がよく使われますが、それだけでは人々の暮らしの細かい部分までは見えません。ロンドン大学シティ・セント・ジョージズ校の心理学者であるルシア・マッキア氏は、学術系ニュースサイトのThe Conversationで「体の痛みもウェルビーイングを測る指標に加えるべき」と主張しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-06T22:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8f34947157ea",
+    "title": "2025年11月リリースのAIモデル「GPT-5.1」と「Opus 4.5」がコーディングの転換点、ソフトウェアエンジニアリングを永遠に変えた",
+    "url": "https://gigazine.net/news/20260406-ai-change-engineering/",
+    "summary_original": "Pythonのウェブフレームワーク「Django」などの開発で知られるソフトウェアエンジニアのサイモン・ウィリソン氏が、ポッドキャストでAIによってどのように開発の現場が変わっているのかを語りました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-06T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e5b04431c0a6",
+    "title": "初の“長考できる”国産LLM、どう開発？　「PLaMo 3.0 Prime」の資料公開、PFN",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news105.html",
+    "summary_original": "Preferred Networksは、フルスクラッチで開発したLLM「PLaMo 3.0 Prime」β版の開発に関する資料を公開した。同モデルの開発手法の一部や、同社が国産LLMを開発する理由などを紹介している。",
+    "thumbnail": "",
+    "published": "2026-04-06T20:16:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b003e9facd77",
+    "title": "3990億パラメータのオープンウェイトAIモデル「Trinity-Large-Thinking」リリース、複雑で長期的なエージェントと複数ターンにわたるツール呼び出しが得意",
+    "url": "https://gigazine.net/news/20260406-arcee-ai-trinity-large-thinking/",
+    "summary_original": "アメリカのサンフランシスコに拠点を置くAIスタートアップのArcee AIが、3990億個のパラメータを持つオープンウェイトモデル「Trinity-Large-Thinking」を改変や商用利用が可能なApache 2.0ライセンスで公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-06T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1443dd15d0e1",
+    "title": "パラメーター数8Bなのにメモリ消費わずか1.15GBの省メモリAIモデル「1-bit Bonsai」が登場、メモリ消費量14倍のモデルと同等以上の性能を発揮",
+    "url": "https://gigazine.net/news/20260406-prismml-1-bit-bonsai/",
+    "summary_original": "AIモデルはパラメーター数が多いほど性能が高くなりやすいですが、パラメーター数が多くなるとメモリ使用量が増加してしまうというトレードオフの関係にあります。AI開発企業のPrismMLが2026年3月31日に発表した「1-bit Bonsai」は80億パラメーターのモデルを1.15GBという少ないメモリ使用量で実行することが可能。さらに、メモリ約14倍消費する他モデルを打ち負かすほどのベンチマークスコアも記録しており、高性能かつ省メモリなAIモデルとして注目を集めています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-06T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "669a7a115c5c",
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "summary_original": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+    "thumbnail": "",
+    "published": "2026-04-06T18:54:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "12475e003a85",
+    "title": "Iran threatens ‘Stargate’ AI data centers",
+    "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+    "summary_original": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
+    "thumbnail": "",
+    "published": "2026-04-06T18:06:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "05d4a5e12244",
+    "title": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes",
+    "url": "https://the-decoder.com/openais-safety-brain-drain-finally-gets-an-explanation-and-its-just-sam-altmans-vibes/",
+    "summary_original": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call deception are just part of the job.\nThe article OpenAI&#039;s safety brain drain finally gets an explanation and it&#039;s just Sam Altman&#039;s vibes appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/altman_openai_townhall_talk_2026_screenshot-1.png",
+    "published": "2026-04-06T18:03:43+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d51d20d31038",
+    "title": "Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence",
+    "url": "https://the-decoder.com/less-work-equal-pay-openai-lays-out-its-vision-for-a-world-reshaped-by-superintelligence/",
+    "summary_original": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for top earners.\nThe article Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_ai_policy_superintelligence.png",
+    "published": "2026-04-06T16:40:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a87d10bae581",
+    "title": "The one piece of data that could actually shed light on your job and AI",
+    "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-06T16:33:35+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bac4b01b5865",
+    "title": "松任谷由実、AIボイスで声優に　マンガ「火の鳥」原作の公演で",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news090.html",
+    "summary_original": "ユニバーサル ミュージックは、公演「MANGALOGUE（マンガローグ）：火の鳥」で、松任谷由実さんのAI音声「Yumi AraI」が声優を担当すると発表した。",
+    "thumbnail": "",
+    "published": "2026-04-06T16:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "df77ad875649",
+    "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+    "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+    "summary_original": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
+    "thumbnail": "",
+    "published": "2026-04-06T15:55:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c8c4667ddd1b",
+    "title": "生成AI利用率、1年で27％→51％に急増　ドコモ調査",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news078.html",
+    "summary_original": "全国の15歳から69歳の過半数が生成AIを利用している――NTTドコモのモバイル社会研究所は、このような調査結果を発表した。2025年2月時点のAI利用率27％から、26年2月には51％まで急増したという。",
+    "thumbnail": "",
+    "published": "2026-04-06T15:38:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "db217a11b146",
+    "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
+    "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+    "summary_original": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield 200. Applications close on May 27.",
+    "thumbnail": "",
+    "published": "2026-04-06T14:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "326f20309662",
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+    "summary_original": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+    "thumbnail": "",
+    "published": "2026-04-06T14:11:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3d37ba82edc0",
+    "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+    "summary_original": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Stargate-UAE-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-06T11:54:19-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5ec53940028d",
+    "title": "Cisco CEO Chuck Robbins wants data centers in space",
+    "url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
+    "summary_original": "Today, I’m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don’t have to interact with very much; it’s not really a consumer brand. But all of us are in some way using Cisco’s products and services every day because [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD-Chuck-Robbins-Cisco.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-06T11:15:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "07695ab5ef48",
+    "title": "AI is changing how small online sellers decide what to make",
+    "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+    "summary_original": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.&#160; When McClary&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-06T11:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "952d9cbcc6b7",
+    "title": "Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove",
+    "url": "https://the-decoder.com/sycophantic-ai-chatbots-can-break-even-ideal-rational-thinkers-researchers-formally-prove/",
+    "summary_original": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bots and educated users don't fully solve the problem.\nThe article Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/ai_sycophancy_hypnotic.jpeg",
+    "published": "2026-04-06T10:39:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f6c272c7f0d8",
+    "title": "Announcing the OpenAI Safety Fellowship",
+    "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+    "summary_original": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+    "thumbnail": "",
+    "published": "2026-04-06T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "ac805ba64582",
+    "title": "As AI agents take on more tasks, governance becomes a priority",
+    "url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
+    "summary_original": "AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model is allowed to [&#8230;]\nThe post As AI agents take on more tasks, governance becomes a priority appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-06T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "f0f51a16e1c1",
+    "title": "Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising",
+    "url": "https://the-decoder.com/telehealth-startup-medvi-generated-billions-in-revenue-with-ai-powered-fake-advertising/",
+    "summary_original": "AI efficiency or AI fraud? How a two-person startup hit $1.8 billion in revenue with AI marketing and why the success story somewhat fell apart.\nThe article Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/deepfakes_illustration-2.png",
+    "published": "2026-04-06T08:34:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "254f156196c8",
+    "title": "RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Optimization for Arbitrary PyTorch Models",
+    "url": "https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/",
+    "summary_original": "Writing fast GPU code is one of the most grueling specializations in machine learning engineering. Researchers from RightNow AI want to automate it entirely. The RightNow AI research team has released AutoKernel, an open-source framework that applies an autonomous LLM agent loop to GPU kernel optimization for arbitrary PyTorch models. The approach is straightforward: give [&#8230;]\nThe post RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Ker...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-1.19.54-AM-1.png",
+    "published": "2026-04-06T08:20:19+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b98ce3c94ac3",
+    "title": "OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours",
+    "url": "https://the-decoder.com/openai-reveals-600000-weekly-health-queries-from-hospital-deserts-as-seven-in-ten-come-after-hours/",
+    "summary_original": "ChatGPT gets millions of health queries per week in the US, especially from areas where doctors are hard to reach.\nThe article OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/01/chatgpt_doctor_health.jpeg",
+    "published": "2026-04-06T07:46:03+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "65edefcb4544",
+    "title": "Industrial policy for the Intelligence Age",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "summary_original": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+    "thumbnail": "",
+    "published": "2026-04-06T02:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "d78e19e047f2",
+    "title": "Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It",
+    "url": "https://www.marktechpost.com/2026/04/05/meet-maxtoki-the-ai-that-predicts-how-your-cells-age-and-what-to-do-about-it/",
+    "summary_original": "Most foundation models in biology have a fundamental blind spot: they see cells as frozen snapshots. Give a model a single-cell transcriptome — a readout of which genes are active in a cell at a given moment — and it can tell you a lot about what that cell is doing right now. What it [&#8230;]\nThe post Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-05-at-1.43.30-PM-1.png",
+    "published": "2026-04-05T20:50:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "46acdfe4dbf7",
+    "title": "How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample Inference",
+    "url": "https://www.marktechpost.com/2026/04/05/how-to-build-a-netflix-void-video-object-removal-and-inpainting-pipeline-with-cogvideox-custom-prompting-and-end-to-end-sample-inference/",
+    "summary_original": "In this tutorial, we build and run an advanced pipeline for Netflix’s VOID model. We set up the environment, install all required dependencies, clone the repository, download the official base model and VOID checkpoint, and prepare the sample inputs needed for video object removal. We also make the workflow more practical by allowing secure terminal-style [&#8230;]\nThe post How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End S...",
+    "thumbnail": "",
+    "published": "2026-04-05T20:19:56+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a261fc2a80ea",
+    "title": "Suno is a music copyright nightmare",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+    "summary_original": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-05T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a8569d17ce37",
+    "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+    "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+    "summary_original": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/IMG_0562.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-05T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "87fa311765e7",
+    "title": "Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight",
+    "url": "https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/",
+    "summary_original": "There&#8217;s a particular kind of tedium that every AI engineer knows intimately: the prompt-tuning loop. You write a system prompt, run your agent against a benchmark, read the failure traces, tweak the prompt, add a tool, rerun. Repeat this a few dozen times and you might move the needle. It&#8217;s grunt work dressed up in [&#8230;]\nThe post Meet &#8216;AutoAgent&#8217;: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight appeared first on MarkTechPo...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-6.png",
+    "published": "2026-04-05T09:21:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bbb9ddb0166c",
+    "title": "Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
+    "url": "https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/",
+    "summary_original": "Fashion has always been about anticipation, determining what one would prefer to wear before they know it themselves. It’s meant in terms of intuition, presentation, experience, and the “good eye”. Today, it can be conveyed through algorithms, neural networks, and machine learning. Artificial Intelligence is no longer at the dregs, but very much at the [&#8230;]\nThe post Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future F...",
+    "thumbnail": "",
+    "published": "2026-04-05T08:45:37+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "315d5d64ac96",
+    "title": "Grammarly’s sloppelganger saga",
+    "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268400_Grammarlys_sloppelganger_saga_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-05T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
