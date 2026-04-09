@@ -1,0 +1,402 @@
+[
+  {
+    "id": "b9f19fad6112",
+    "title": "AIによる文章入力支援はユーザーの考え方を知らないうちに左右してしまう可能性",
+    "url": "https://gigazine.net/news/20260410-ai-writing-support-influence-thinking/",
+    "summary_original": "メールや文書作成で使われるAIによる文章入力支援は、AIが文章の続きを提案してくれる便利な機能です。コーネル工科大学のスターリング・ウィリアムズ＝セシ氏らは、こうした文章の候補を見ながら文章を書くことが、書き方だけでなく考え方にも影響するのかどうかを調べました。この研究は2026年3月11日付で科学誌「Science Advances」に掲載されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-10T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f0b4d5e9c5e2",
+    "title": "VS CodeのPython拡張機能が強化、venv内パッケージのシンボル検索が可能に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/10/news019.html",
+    "summary_original": "VS Code用Python拡張機能の2026年3月更新版が公開された。仮想環境にインストール済みのパッケージのシンボルを［ワークスペース内のシンボルへ移動］で検索できるようになった。コードを深く理解するのに有用な機能だ。",
+    "thumbnail": "",
+    "published": "2026-04-10T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2380ccb72e9c",
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "summary_original": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month.",
+    "thumbnail": "",
+    "published": "2026-04-09T21:29:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ef0f96b9dfcd",
+    "title": "「ノイズキャンセリングを貫通して存在を知らせる自転車用ベル」をシュコダが開発",
+    "url": "https://gigazine.net/news/20260409-bike-bell-penetrate-noise-cancelling/",
+    "summary_original": "自動車メーカーのシュコダが自転車用のベル「DuoBell」を開発しました。DuoBellは不規則な周波数の音を発することが可能で、ノイズキャンセリングイヤホンを装着している歩行者にも自身の存在を気付かせることができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-09T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d3ff1111cec4",
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "summary_original": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+    "thumbnail": "",
+    "published": "2026-04-09T20:11:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dcff1a5f0690",
+    "title": "Mac OS XをWiiに移植してしまった猛者が登場",
+    "url": "https://gigazine.net/news/20260409-mac-os-x-nintendo-wii/",
+    "summary_original": "2007年に発売されたWiiにはこれまでLinuxやNetBSD、Windows NTなど数々のOSが移植されてきました。今回、新たにMac OS XをWiiに移植することに成功したとITエンジニアのブライアン・ケラー氏が発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-09T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b9e31970d466",
+    "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+    "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+    "summary_original": "Western Union exec says there were \"challenges\" working with Broadcom.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+    "published": "2026-04-09T19:44:31+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "aa3895a4ab4e",
+    "title": "「AIはあくまで補助」――朝日新聞、「社長『AI全振り』宣言」との日経記事巡り声明",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news116.html",
+    "summary_original": "朝日新聞社は、日本経済新聞が公開した記事「朝日新聞社長『AI全振り』宣言　スーパー記者構想の狙いは」を巡り声明を出した。「AIはあくまで人間を補助する役割とし、最終的な判断と責任は人間が担う」としている。",
+    "thumbnail": "",
+    "published": "2026-04-09T19:38:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8967692d8879",
+    "title": "After data breach, $10B-valued startup Mercor is having a month",
+    "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+    "summary_original": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+    "thumbnail": "",
+    "published": "2026-04-09T19:33:54+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a9d2d3d5eabf",
+    "title": "東京都、内製のAI基盤「A1」（えいいち）　ノーコードでアプリ開発→共有　名前の由来は……",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news109.html",
+    "summary_original": "東京都は、内製のAIプラットフォーム「A1」（えいいち）の本格運用を始めたと発表した。職員がノーコードで業務に活用できるアプリを開発・共有できるという。",
+    "thumbnail": "",
+    "published": "2026-04-09T19:22:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1980b507f93b",
+    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "summary_original": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+    "thumbnail": "",
+    "published": "2026-04-09T19:10:07+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "baceca20a8cc",
+    "title": "毎回安定しておいしいエスプレッソをいれるための科学的な方法とは？",
+    "url": "https://gigazine.net/news/20260409-model-permeability-of-coffee-pucks/",
+    "summary_original": "どのようなコーヒーをおいしいと思うかは人それぞれですが、世界中のバリスタはおいしいコーヒーのレシピを求め、日々試行錯誤を繰り返しています。コーヒーの中でも、熱湯に圧力をかけて抽出するエスプレッソを作る際に重要な「液体の透過率」をモデル化する研究についての論文が、学術誌のRoyal Society Open Scienceに掲載されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-09T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "04de243c816a",
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "summary_original": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+    "thumbnail": "",
+    "published": "2026-04-09T18:50:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "02adf67439c7",
+    "title": "Claude Cowork expands to all paid plans on macOS and Windows with new org controls",
+    "url": "https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/",
+    "summary_original": "Anthropic's AI assistant Claude Cowork launches on all paid plans with new organizational controls and Zoom integration.\nThe article Claude Cowork expands to all paid plans on macOS and Windows with new org controls appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/anthropic_wall_background-2.png",
+    "published": "2026-04-09T18:40:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cbf9eb3acca8",
+    "title": "OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google",
+    "url": "https://the-decoder.com/openai-halves-its-pro-price-to-100-for-heavy-codex-users-undercuts-anthropic-and-google/",
+    "summary_original": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier.\nThe article OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_logos_wall_money.png",
+    "published": "2026-04-09T18:06:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6f254a84b399",
+    "title": "“キュピーン猫画像メーカー”初日50万アクセスもサーバ代「0円」　その秘密は",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/09/news108.html",
+    "summary_original": "「バズってから慌ててサーバを増強した、みたいな話ではない。そもそもサーバがない」",
+    "thumbnail": "",
+    "published": "2026-04-09T17:19:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5d0a1dd87cdf",
+    "title": "Google Gemini now generates interactive visualizations you can tweak and explore right in the chat",
+    "url": "https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/",
+    "summary_original": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat.\nThe article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/google_gemini_logo_wall.png",
+    "published": "2026-04-09T16:50:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "75330f0efaec",
+    "title": "Geminiが手取り足取りPythonを指南　Google Colabの「学習モード」使ってみた",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news102.html",
+    "summary_original": "Google Colabにユーザーのスキル向上を支援する「学習モード」が実装された。実際に使ってみた様子をお届けする。",
+    "thumbnail": "",
+    "published": "2026-04-09T16:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a9f4f4158299",
+    "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+    "summary_original": "AI agents hold the promise of automatically moving data between systems and triggering decisions, but in some cases, they can act without a clear record of what, when, and why they undertook their tasks. That has the potential to create a governance problem, for which IT leaders are ultimately responsible. If an organisation can&#8217;t trace [&#8230;]\nThe post Agentic AI&#8217;s governance challenges under the EU AI Act in 2026 appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-04-09T15:02:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "50565080518b",
+    "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+    "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+    "summary_original": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time. When trying out the feature for [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-09T13:57:58-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "01af70a6abd8",
+    "title": "OpenAI reportedly following Anthropic's lead in restricting access to powerful cybersecurity AI",
+    "url": "https://the-decoder.com/openai-reportedly-following-anthropics-lead-in-restricting-access-to-powerful-cybersecurity-ai/",
+    "summary_original": "OpenAI is also working on a new AI model with advanced cybersecurity capabilities that will only be available to a small group of companies, according to Axios.\nThe article OpenAI reportedly following Anthropic&#039;s lead in restricting access to powerful cybersecurity AI appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/GPT-2-Claude-Mythos-Project-Glasswing-scaled.png",
+    "published": "2026-04-09T13:47:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "15134e88c45a",
+    "title": "New Stanford study reveals when teaming up AI agents is worth the compute",
+    "url": "https://the-decoder.com/new-stanford-study-reveals-when-teaming-up-ai-agents-is-worth-the-compute/",
+    "summary_original": "Multi-agent AI systems are widely considered more capable. A Stanford study shows their apparent advantage largely comes from using more compute. But there are important exceptions.\nThe article New Stanford study reveals when teaming up AI agents is worth the compute appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/McKinsey-Codewall-Prompt-Leak.png",
+    "published": "2026-04-09T13:32:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a9fdea374238",
+    "title": "The Download: AstroTurf wars and exponential AI growth",
+    "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is&#160;fake&#160;grass&#160;a&#160;bad&#160;idea?&#160;The&#160;AstroTurf&#160;wars&#160;are&#160;far&#160;from&#160;over.&#160; In 2001,&#160;Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/02/0511013_01.jpg?w=2947",
+    "published": "2026-04-09T12:25:10+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f5cc065590dd",
+    "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+    "summary_original": "Anthropic&#8217;s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser. The company&#8217;s response was not to release it, but to quietly hand it to the organisations responsible for keeping the internet running. That model is Claude Mythos Preview, and the initiative is called&#160;Project Glasswing. [&#8230;]\nThe post Anthropic keeps new AI model private after it finds thousands of external vulnerabilities ap...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-04-09T12:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c12dda6d544e",
+    "title": "The AI industry’s race for profits is now existential",
+    "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+    "summary_original": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping close tabs on both Anthropic [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_0409.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-09T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "50a626fabbfa",
+    "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
+    "url": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
+    "summary_original": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more than an acre of synthetic turf roughly the color of the felt on a pool table, almost digital in its saturation.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AP23278453062506.jpg?w=2902",
+    "published": "2026-04-09T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7c3b4f904554",
+    "title": "Desalination technology, by the numbers",
+    "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
+    "summary_original": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an increasingly important technology, especially in water-stressed regions including the Middle East. But just how much some countries rely on desalination,&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-09T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "149eccbaaa6e",
+    "title": "Samsung Galaxy S26シリーズの使い勝手を次世代NFCショートカットボタン「Aaron Button」でさらに向上させるPITAKAのアラミド繊維採用Samsung Galaxy S26対応ケースを使ってみた",
+    "url": "https://gigazine.net/news/20260409-pitaka-samsung-galaxy-s-26-cases/",
+    "summary_original": "スマートデバイスアクセサリーやワイヤレス充電器のメーカーであるPITAKAが「Samsung Galaxy S26対応スマートフォンケース」を2026年2月26日に発売しました。このSamsung Galaxy S26対応スマートフォンケースには、航空機の機体や防護装備に使用される600Dアラミド繊維を採用して完全フラット筐体への最適設計がなされた「Edge Case(薄型)」と、1500Dアラミド繊維とTPU(熱可塑性ポリウレタン)で米軍規格の落下試験をクリアするほどの「Cairn Case(全面保護)」の2種類があり、どちらも次世代NFCショートカットボタンである「Aaron Button」を搭載しています。このAaron Buttonを活用することで、さまざまなタスクをケースのボタンに設定でき、日常生活の効率化が図れるとのことで実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-09T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "037b6741eacb",
+    "title": "Sigmoid vs ReLU Activation Functions: The Inference Cost of Losing Geometric Context",
+    "url": "https://www.marktechpost.com/2026/04/09/sigmoid-vs-relu-activation-functions-the-inference-cost-of-losing-geometric-context/",
+    "summary_original": "A deep neural network can be understood as a geometric system, where each layer reshapes the input space to form increasingly complex decision boundaries. For this to work effectively, layers must preserve meaningful spatial information — particularly how far a data point lies from these boundaries — since this distance enables deeper layers to build [&#8230;]\nThe post Sigmoid vs ReLU Activation Functions: The Inference Cost of Losing Geometric Context appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-11.png",
+    "published": "2026-04-09T07:10:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1875d8e912a3",
+    "title": "A Coding Guide to Build Advanced Document Intelligence Pipelines with Google LangExtract, OpenAI Models, Structured Extraction, and Interactive Visualization",
+    "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
+    "summary_original": "In this tutorial, we explore how to use Google’s LangExtract library to transform unstructured text into structured, machine-readable information. We begin by installing the required dependencies and securely configuring our OpenAI API key to leverage powerful language models for extraction tasks. Also, we will build a reusable extraction pipeline that enables us to process a [&#8230;]\nThe post A Coding Guide to Build Advanced Document Intelligence Pipelines with Google LangExtract, OpenAI Model...",
+    "thumbnail": "",
+    "published": "2026-04-09T06:54:36+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4f87db76a4b9",
+    "title": "Google makes it easy to deepfake yourself",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+    "summary_original": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. YouTube says the new tool will [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/acastro_STK092_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-09T06:53:49-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "eab6488750d9",
+    "title": "Google AI Research Introduces PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
+    "url": "https://www.marktechpost.com/2026/04/08/google-ai-research-introduces-paperorchestra-a-multi-agent-framework-for-automated-ai-research-paper-writing/",
+    "summary_original": "Writing a research paper is brutal. Even after the experiments are done, a researcher still faces weeks of translating messy lab notes, scattered results tables, and half-formed ideas into a polished, logically coherent manuscript formatted precisely to a conference&#8217;s specifications. For many fresh researchers, that translation work is where papers go to die. A team [&#8230;]\nThe post Google AI Research Introduces PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writ...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-8.23.44-PM-1.png",
+    "published": "2026-04-09T03:25:24+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3d01d31c1777",
+    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+    "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+    "summary_original": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+    "thumbnail": "",
+    "published": "2026-04-09T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "cb929f08664b",
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "url": "https://huggingface.co/blog/waypoint-1-5",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-09T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "aeed5283fa22",
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-09T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "1888549e5eee",
+    "title": "A Comprehensive Implementation Guide to ModelScope for Model Search, Inference, Fine-Tuning, Evaluation, and Export",
+    "url": "https://www.marktechpost.com/2026/04/08/a-comprehensive-implementation-guide-to-modelscope-for-model-search-inference-fine-tuning-evaluation-and-export/",
+    "summary_original": "In this tutorial, we explore ModelScope through a practical, end-to-end workflow that runs smoothly on Colab. We begin by setting up the environment, verifying dependencies, and confirming GPU availability so we can work with the framework reliably from the start. From there, we interact with the ModelScope Hub to search for models, download snapshots, load [&#8230;]\nThe post A Comprehensive Implementation Guide to ModelScope for Model Search, Inference, Fine-Tuning, Evaluation, and Export appea...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-04-08T22:43:24+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "56bb1e1fd8c1",
+    "title": "Meet OSGym: A New OS Infrastructure Framework That Manages 1,000+ Replicas at $0.23/Day for Computer Use Agent Research",
+    "url": "https://www.marktechpost.com/2026/04/08/meet-osgym-a-new-os-infrastructure-framework-that-manages-1000-replicas-at-0-23-day-for-computer-use-agent-research/",
+    "summary_original": "Training AI agents that can actually use a computer — opening apps, clicking buttons, browsing the web, writing code — is one of the hardest infrastructure problems in modern AI. It&#8217;s not a data problem. It&#8217;s not a model problem. It&#8217;s a plumbing problem. You need to spin up hundreds, potentially thousands, of full operating [&#8230;]\nThe post Meet OSGym: A New OS Infrastructure Framework That Manages 1,000+ Replicas at $0.23/Day for Computer Use Agent Research appeared first on...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-2.53.44-PM-1.png",
+    "published": "2026-04-08T21:54:44+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "30fd578ec9af",
+    "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+    "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+    "summary_original": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iranhax-1152x648.jpg",
+    "published": "2026-04-08T20:49:11+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "30aac13d11e3",
+    "title": "Gemini gets notebooks to help you organize projects",
+    "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+    "summary_original": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-08T20:06:12-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b30c89d92af3",
+    "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+    "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+    "summary_original": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-08T16:14:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
