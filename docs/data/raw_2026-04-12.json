@@ -1,0 +1,402 @@
+[
+  {
+    "id": "86c1b2a70a79",
+    "title": "音質をはじめ全体的にグレードアップされている「Samsung Galaxy Buds4 Pro／Buds4」を使ってみた",
+    "url": "https://gigazine.net/news/20260411-samsung-galaxy-buds4-pro/",
+    "summary_original": "前世代モデルの問題点を着実に改善したSamsungのワイヤレスイヤホン,Galaxy Buds4・Galaxy Buds4 Proを借りて、実際に試してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-11T23:45:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "862b365c1068",
+    "title": "「インターネットに投稿された架空の病気」をチャットAIが実在する病気としてユーザーに提示してしまう",
+    "url": "https://gigazine.net/news/20260411-fake-disease-ai/",
+    "summary_original": "チャットAIの普及に伴って、チャットAIに健康について相談する人も増えています。しかし、AIは完璧ではなく、不正確な情報を提示してくることもあります。スウェーデンのヨーテボリ大学の研究チームが「人間ならフェイクとすぐに分かる架空の病気に関する論文」を未査読論文としてインターネット上に公開した結果、AIが「実在する病気」としてユーザーへの回答に使用してしまう事例が確認されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-11T23:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "768f27d38a4a",
+    "title": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
+    "url": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
+    "summary_original": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache [&#8230;]\nThe post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput a...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-1.01.15-PM-1.png",
+    "published": "2026-04-11T20:10:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ac52bdd2758e",
+    "title": "日本の約3倍の医療費がかかる一方で平均寿命は短いアメリカの医療制度の問題点とは？",
+    "url": "https://gigazine.net/news/20260411-american-healthcare-conundrum/",
+    "summary_original": "アメリカは医療費が日本に比べると高額ですが、平均寿命を比較すると日本を下回っています。GitHub上で公開されたオープンソースプロジェクト「The American Healthcare Conundrum」は、アメリカの医療制度で何に費用がかかり、どこで「無駄」が発生しているのかを公開データから一つずつ検証し、その結果をまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-11T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "22f16cab167c",
+    "title": "無料でウェブサイトの稼働時間・ページの読込速度・リモートサーバーのCPU/ディスク/メモリ/ディスクの状態を監視してステータスページも自動的に公開できる「Checkmate」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260411-checkmate/",
+    "summary_original": "サーバーの状態やサービスを監視するツールは数多くありますが、Dockerを利用し軽量なサーバー監視システムを構築できる小・中規模ウェブサイト向けの無料オープンソース監視ツール「Checkmate」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-11T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0e99563f6cf2",
+    "title": "How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution",
+    "url": "https://www.marktechpost.com/2026/04/11/how-to-build-a-secure-local-first-agent-runtime-with-openclaw-gateway-skills-and-controlled-tool-execution/",
+    "summary_original": "In this tutorial, we build and operate a fully local, schema-valid OpenClaw runtime. We configure the OpenClaw gateway with strict loopback binding, set up authenticated model access through environment variables, and define a secure execution environment using the built-in exec tool. We then create a structured custom skill that the OpenClaw agent can discover and [&#8230;]\nThe post How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution appe...",
+    "thumbnail": "",
+    "published": "2026-04-11T18:10:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bcb64a208422",
+    "title": "「Lemonade」を使ってFirefoxのサイドバーにあるAIチャット機能を完全ローカル化してみた",
+    "url": "https://gigazine.net/news/20260411-lemonade-firefox-localhost/",
+    "summary_original": "FirefoxにはサイドバーにAIを表示する機能があり、ウェブサイトを閲覧しながらAIに質問したり相談したりすることが可能です。標準では「Anthropic Claude」「ChatGPT」「Copilot」「Google Gemini」「Le Chat Mistral」というクラウドで動作するAIサービスしか利用できませんが、ローカルのAIを利用する隠し設定があるとのことなので、実際にローカルのAIを動かせるように設定してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-11T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0d1c21e4793a",
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "summary_original": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+    "thumbnail": "",
+    "published": "2026-04-11T17:18:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e82e4e8ad839",
+    "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
+    "url": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/",
+    "summary_original": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\"\nThe article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman&#039;s home in the middle of the night appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_logo_3d_wall.jpeg",
+    "published": "2026-04-11T13:32:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3b77ca6b0796",
+    "title": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
+    "url": "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/",
+    "summary_original": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required.\nThe article Google&#039;s Gemma 4 puts free agentic AI on your phone and no data ever leaves the device appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google-ai-edge-gallery-482shots_so-e1775913301892.jpg",
+    "published": "2026-04-11T13:21:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2c7c62857b88",
+    "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
+    "url": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/",
+    "summary_original": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\"\nThe article The operator behind the AI agent that defamed an open-source developer calls it a &quot;social experiment&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/rathbun_agent_image.png",
+    "published": "2026-04-11T11:22:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2f7c7321b3c5",
+    "title": "Your article about AI doesn’t need AI art",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "summary_original": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-11T11:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8591ba5261b8",
+    "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
+    "url": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/",
+    "summary_original": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it.\nThe article Overworld&#039;s Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/waypoint15_demo_video.png",
+    "published": "2026-04-11T10:15:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "65fd203df5bd",
+    "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+    "summary_original": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268430_AI_deer_plushie_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-11T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "db4f79b3690f",
+    "title": "AI models would rather guess than ask for help, researchers find",
+    "url": "https://the-decoder.com/when-ai-models-cant-see-they-just-make-something-up/",
+    "summary_original": "ProactiveBench tests whether multimodal language models ask users for help when visual information is missing. Out of 22 models tested, almost none ask for what they need, but a simple reinforcement learning approach hints at a fix.\nThe article AI models would rather guess than ask for help, researchers find appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/ProactiveBench-Nano-Banana-Pro-scaled.jpg",
+    "published": "2026-04-11T09:39:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a1b2fa60fee1",
+    "title": "How Iran out-shitposted the White House",
+    "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "summary_original": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_k_radtke_shitpost_iran_white_house.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-11T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7c1d8b1bfb30",
+    "title": "経産省、30社を「DX銘柄2026」に認定　3年連続選出のSMBCは500億円超投資、成果は？",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/11/news018.html",
+    "summary_original": "経済産業省が「DX銘柄2026」を発表した。SMBCグループなど30社が選定されており、特にAI活用の取り組みが評価された。その取り組み内容とは。",
+    "thumbnail": "",
+    "published": "2026-04-11T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1b19b563002f",
+    "title": "How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model",
+    "url": "https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/",
+    "summary_original": "Complex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in production due to latency constraints and operational complexity. Instead of discarding them, Knowledge Distillation offers a smarter approach: keep the ensemble as a teacher and train a smaller student [&#8230;]\nThe post How Knowledge Distillation Compresses Ensemble Intelligence into a Single Dep...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-23.png",
+    "published": "2026-04-11T07:33:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1f9faab0ad3e",
+    "title": "AI代替で消える新卒枠……中途も影響半数で「売り手市場」に暗雲",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2604/11/news019.html",
+    "summary_original": "2026年4月6～10日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。今週のキーワードは「AIと雇用」です。",
+    "thumbnail": "",
+    "published": "2026-04-11T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "dc5b5d77af41",
+    "title": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
+    "url": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
+    "summary_original": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step [&#8230;]\nThe post Alibaba&#8217;s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massiv...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-4.04.36-PM-1.png",
+    "published": "2026-04-10T23:06:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "50e7b415d8cb",
+    "title": "小野田紀美AI戦略担当相、自身のAI利用は「業務で必要性感じず」　人材育成を推進",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/10/news132.html",
+    "summary_original": "小野田紀美人工知能（AI）戦略担当相が記者会見で、自身のAIの利用状況を問われ、「私自身は今のところ、自分の業務の中では必要性を感じていないので、必要な時には使おうと思う」と述べた。",
+    "thumbnail": "",
+    "published": "2026-04-10T21:08:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "19817b6d066a",
+    "title": "米財務長官とFRB議長が銀行幹部に警告　Anthropicの最新AI巡り、サイバーセキュリティに懸念",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/10/news131.html",
+    "summary_original": "ベセント米財務長官とパウエル連邦準備理事会（FRB）議長が今週に、銀行幹部との緊急会合を開き、米Anthropicの最新AIモデル「Claude Mythos」がもたらすサイバーセキュリティ上のリスクについて警告したと、複数の関係筋が9日明らかにした。",
+    "thumbnail": "",
+    "published": "2026-04-10T20:40:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "82b94a279d39",
+    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "summary_original": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+    "thumbnail": "",
+    "published": "2026-04-10T20:27:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "09b61da3f659",
+    "title": "A Coding Guide to Markerless 3D Human Kinematics with Pose2Sim, RTMPose, and OpenSim",
+    "url": "https://www.marktechpost.com/2026/04/10/a-coding-guide-to-markerless-3d-human-kinematics-with-pose2sim-rtmpose-and-opensim/",
+    "summary_original": "In this tutorial, we build and run a complete Pose2Sim pipeline on Colab to understand how markerless 3D kinematics works in practice. We begin with environment setup, configure the project for Colab’s headless runtime, and then walk through calibration, 2D pose estimation, synchronization, person association, triangulation, filtering, marker augmentation, and OpenSim-based kinematics. As we progress, [&#8230;]\nThe post A Coding Guide to Markerless 3D Human Kinematics with Pose2Sim, RTMPose, and...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
+    "published": "2026-04-10T20:14:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b3782a43e2e1",
+    "title": "Claudeを“コスパ良く”利用可能に　性能の異なるモデルが“適材適所”で稼働、Anthropicの新ツール",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/10/news130.html",
+    "summary_original": "米Anthropicは、性能が異なるAIモデルを“適材適所”で稼働させ、自律的にタスクをこなす際のコストパフォーマンスを高める「The advisor strategy」（アドバイザー戦略）を発表した。",
+    "thumbnail": "",
+    "published": "2026-04-10T19:19:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ff1eb47daf7e",
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "summary_original": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+    "thumbnail": "",
+    "published": "2026-04-10T16:41:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "359299c0225c",
+    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "summary_original": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+    "thumbnail": "",
+    "published": "2026-04-10T16:38:43+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "743baf6e8493",
+    "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+    "summary_original": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-10T16:16:57-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9067ba49caa2",
+    "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+    "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+    "summary_original": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and emerging pathogens have been dashed by vaccine skeptics in&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-10T14:04:20+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "41818e7c705b",
+    "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+    "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+    "summary_original": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
+    "thumbnail": "",
+    "published": "2026-04-10T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "db92b3c8e15d",
+    "title": "IBM: How robust AI governance protects enterprise margins",
+    "url": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+    "summary_original": "To protect enterprise margins, business leaders must invest in robust AI governance to securely manage AI infrastructure. When evaluating enterprise software adoption, a recurring pattern dictates how technology matures across industries. As Rob Thomas, SVP and CCO at IBM, recently outlined, software typically graduates from a standalone product to a platform, and then from a [&#8230;]\nThe post IBM: How robust AI governance protects enterprise margins appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-04-10T13:57:15+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "436aafacf15c",
+    "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+    "summary_original": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/LEGO_IRAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-10T13:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c06200ad741c",
+    "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+    "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &#160; A spacecraft has crash-landed on a hostile planet. The only survivors&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/04/Users_Glass-thumb.jpg",
+    "published": "2026-04-10T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4ea379621598",
+    "title": "Why companies like Apple are building AI agents with limits",
+    "url": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+    "summary_original": "Next-generation AI assistants being developed in the Apple ecosystem and by chipmakers like Qualcomm, but early reports suggest they are being designed with limits in place. Tom&#8217;s Guide has described early versions of these assistants as capable of navigating apps, carrying out bookings, and managing tasks in services. For instance a private beta agentic system [&#8230;]\nThe post Why companies like Apple are building AI agents with limits appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-10T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "e3e78db82abf",
+    "title": "Constellations",
+    "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+    "summary_original": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.&#160; Outside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/edit-thumb.jpg?w=2687",
+    "published": "2026-04-10T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f9a1dfb7e08e",
+    "title": "Meta has a competitive AI model but loses its open-source identity",
+    "url": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+    "summary_original": "The open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years. But when Meta threw its weight behind Llama, something shifted. A company with three billion users, vast compute resources, and the credibility of a tech giant was now building openly, [&#8230;]\nThe post Meta has a competitive AI model but loses its open-source identity appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-04-10T08:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "ad4c1c68fc55",
+    "title": "Healthcare",
+    "url": "https://openai.com/academy/healthcare",
+    "summary_original": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "thumbnail": "",
+    "published": "2026-04-10T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f97fce3bd803",
+    "title": "Using skills",
+    "url": "https://openai.com/academy/skills",
+    "summary_original": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+    "thumbnail": "",
+    "published": "2026-04-10T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0ec8e2b40942",
+    "title": "Analyzing data with ChatGPT",
+    "url": "https://openai.com/academy/data-analysis",
+    "summary_original": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+    "thumbnail": "",
+    "published": "2026-04-10T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8e1ed481fc61",
+    "title": "Writing with ChatGPT",
+    "url": "https://openai.com/academy/writing",
+    "summary_original": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+    "thumbnail": "",
+    "published": "2026-04-10T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
