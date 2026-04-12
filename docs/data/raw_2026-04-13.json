@@ -1,0 +1,282 @@
+[
+  {
+    "id": "860d58e402da",
+    "title": "医療AIは診断に必要な画像が提供されていなくてもそれらしい診断を出す可能性がある",
+    "url": "https://gigazine.net/news/20260413-medical-ai-mirage/",
+    "summary_original": "医療分野ではマンモグラフィーやMRI、病理画像の読影補助にAIを使う動きが広がる一方で、科学系メディアであるLive Scienceが取り上げた新たなプレプリント研究では、こうしたAIが本当に画像を見て答えているとは限らないことを示す結果が報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-13T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fe9cd1160fb8",
+    "title": "そのPC作業、まだ“手動”でやっているんですか？　チャットの次は「AIに作業を任せる」時代へ（Cowork活用編）",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news014.html",
+    "summary_original": "最新のAIでは、PC上の作業をAIに任せられるようになりました。ファイル整理や情報のまとめ、繰り返し作業の自動化など、AI活用の発想を大きく変える5つの活用シーンを具体例で紹介します。Claude Coworkをまだ使っていない人でも、自分の業務に当てはめて使いどころを考えられる内容です。",
+    "thumbnail": "",
+    "published": "2026-04-13T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2bdf788305d6",
+    "title": "「月の堆積物」から酸素を生成する装置をジェフ・ベゾスのBlue Originが開発",
+    "url": "https://gigazine.net/news/20260412-blue-origin-moon-dust-to-fresh-air/",
+    "summary_original": "Amazonの創業者として知られるジェフ・ベゾス氏による宇宙企業・Blue Origin(ブルーオリジン)が、月面に堆積しているレゴリスから呼吸可能な酸素を生成できる反応装置を開発しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-12T23:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c14d3454b886",
+    "title": "トランプ大統領がプーチン大統領にやけに友好的な理由は「コンプロマット」説",
+    "url": "https://gigazine.net/news/20260412-trump-putin-kompromat-theory/",
+    "summary_original": "第45・47代アメリカ合衆国大統領であるドナルド・トランプ氏のロシアに対する姿勢について、アメリカの週刊誌「The New Yorker」の記者であるアダム・デヴィッドソン氏は、2018年7月19日付けの記事で「コンプロマット」を指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-12T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "174288f60fae",
+    "title": "南三陸町を走り回る「マチ★アソビ移動図書館」を見に行ってきた",
+    "url": "https://gigazine.net/news/20260412-minami-sanriku-machiasobi-library/",
+    "summary_original": "マチ★アソビ vol.30の開催が2026年5月16日(土)～17日(日)と、あと約1カ月に迫る中、「そういえば、マチ★アソビから南三陸町に贈られた移動図書館はどうしているのだろう？」とふと思い出し、機会を作って図書館を見に行ってきました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-12T22:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "60d1b1d231ef",
+    "title": "宇宙の微小重力環境では精子の動きが悪くなり繁殖するのは難しいとの研究結果",
+    "url": "https://gigazine.net/news/20260412-astronauts-struggle-reproduce-space-colonization/",
+    "summary_original": "近年は宇宙開発の機運が世界的に高まっており、2026年4月には約半世紀ぶりに月の周回軌道に人類を送り込むアルテミスIIが実行されました。そんな中で気になるのが「人類は宇宙空間で繁殖できるのか？」という疑問ですが、新たな研究では、宇宙の微小重力環境は生殖成功の可能性を著しく下げることがわかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-12T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0edae4e8a7e0",
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "summary_original": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+    "thumbnail": "",
+    "published": "2026-04-12T21:14:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1e3ed5002e11",
+    "title": "A Coding Implementation of MolmoAct for Depth-Aware Spatial Reasoning, Visual Trajectory Tracing, and Robotic Action Prediction",
+    "url": "https://www.marktechpost.com/2026/04/12/a-coding-implementation-of-molmoact-for-depth-aware-spatial-reasoning-visual-trajectory-tracing-and-robotic-action-prediction/",
+    "summary_original": "In this tutorial, we walk through MolmoAct step by step and build a practical understanding of how action-reasoning models can reason in space from visual observations. We set up the environment, load the model, prepare multi-view image inputs, and explore how MolmoAct produces depth-aware reasoning, visual traces, and actionable robot outputs from natural language instructions. [&#8230;]\nThe post A Coding Implementation of MolmoAct for Depth-Aware Spatial Reasoning, Visual Trajectory Tracing, a...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f527.png",
+    "published": "2026-04-12T20:17:15+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "77a7f1872259",
+    "title": "Apple reportedly testing four designs for upcoming smart glasses",
+    "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+    "summary_original": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+    "thumbnail": "",
+    "published": "2026-04-12T19:58:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "977748756a7c",
+    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary_original": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "thumbnail": "",
+    "published": "2026-04-12T15:07:08+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e1fe43d410cb",
+    "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
+    "url": "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/",
+    "summary_original": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction.\nThe article Man who firebombed Sam Altman&#039;s home was likely driven by AI extinction fears appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_logo_3d_wall.jpeg",
+    "published": "2026-04-12T15:04:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "72ce90ad289d",
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "summary_original": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+    "thumbnail": "",
+    "published": "2026-04-12T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "be880d9f013a",
+    "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
+    "url": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/",
+    "summary_original": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up.\nThe article OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_logos_wall_money.png",
+    "published": "2026-04-12T13:32:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a615d7919fe6",
+    "title": "Researchers define what counts as a world model and text-to-video generators do not",
+    "url": "https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/",
+    "summary_original": "An international research team wants to bring order to the fragmented world model research landscape with OpenWorldLib. Text-to-video models like Sora are explicitly left out of their definition.\nThe article Researchers define what counts as a world model and text-to-video generators do not appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/world-model-globa-nano-banana-pro.jpg",
+    "published": "2026-04-12T12:09:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9c86ad3ea3c8",
+    "title": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
+    "url": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/",
+    "summary_original": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior.\nThe article Anthropic seeks advice from Christian leaders on Claude&#039;s moral and spiritual behavior appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/anthropic_holy_cross.png",
+    "published": "2026-04-12T11:25:54+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "61fd805c54b8",
+    "title": "Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find",
+    "url": "https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/",
+    "summary_original": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions. Weaker models actually perform worse with them than without.\nThe article Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/agent_skills_retrieval.png",
+    "published": "2026-04-12T10:32:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "04cc3697d1be",
+    "title": "MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2",
+    "url": "https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/",
+    "summary_original": "MiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax&#8217;s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built [&#8230;]\nThe post MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal B...",
+    "thumbnail": "",
+    "published": "2026-04-12T09:20:15+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b79a9990fdd9",
+    "title": "OpenAIのアルトマンCEO、批判的報道と自宅への火炎瓶事件についての個人ブログ公開　家族写真も",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/12/news018.html",
+    "summary_original": "OpenAIのサム・アルトマンCEOは、自身を批判する報道や自宅への火炎瓶投げ込み事件を受け、個人ブログで心境を明かした。AIへの不安に理解を示しつつ、過度な扇動が暴力を招くリスクを指摘。AGIを巡る権力争いを「権力の指輪」に例え、技術を広く共有し、民主的なプロセスで管理する重要性を強調している。",
+    "thumbnail": "",
+    "published": "2026-04-12T09:19:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f455aef55e03",
+    "title": "The AI code wars are heating up",
+    "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-12T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ad849e48587c",
+    "title": "Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model with Bounding Box Prediction, Multilingual Support, and Sub-250ms Edge Inference",
+    "url": "https://www.marktechpost.com/2026/04/11/liquid-ai-releases-lfm2-5-vl-450m-a-450m-parameter-vision-language-model-with-bounding-box-prediction-multilingual-support-and-sub-250ms-edge-inference/",
+    "summary_original": "Liquid AI just released LFM2.5-VL-450M, an updated version of its earlier LFM2-VL-450M vision-language model. The new release introduces bounding box prediction, improved instruction following, expanded multilingual understanding, and function calling support — all within a 450M-parameter footprint designed to run directly on edge hardware ranging from embedded AI modules like NVIDIA Jetson Orin, to mini-PC [&#8230;]\nThe post Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Mo...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/HFZP3rGWoAAGZAm-1.jpeg",
+    "published": "2026-04-12T02:41:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "768f27d38a4a",
+    "title": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
+    "url": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
+    "summary_original": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache [&#8230;]\nThe post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput a...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-1.01.15-PM-1.png",
+    "published": "2026-04-11T20:10:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0e99563f6cf2",
+    "title": "How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution",
+    "url": "https://www.marktechpost.com/2026/04/11/how-to-build-a-secure-local-first-agent-runtime-with-openclaw-gateway-skills-and-controlled-tool-execution/",
+    "summary_original": "In this tutorial, we build and operate a fully local, schema-valid OpenClaw runtime. We configure the OpenClaw gateway with strict loopback binding, set up authenticated model access through environment variables, and define a secure execution environment using the built-in exec tool. We then create a structured custom skill that the OpenClaw agent can discover and [&#8230;]\nThe post How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution appe...",
+    "thumbnail": "",
+    "published": "2026-04-11T18:10:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0d1c21e4793a",
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "summary_original": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+    "thumbnail": "",
+    "published": "2026-04-11T17:18:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2f7c7321b3c5",
+    "title": "Your article about AI doesn’t need AI art",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "summary_original": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-11T11:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "65fd203df5bd",
+    "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+    "summary_original": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268430_AI_deer_plushie_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-11T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a1b2fa60fee1",
+    "title": "How Iran out-shitposted the White House",
+    "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "summary_original": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_k_radtke_shitpost_iran_white_house.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-11T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7c1d8b1bfb30",
+    "title": "経産省、30社を「DX銘柄2026」に認定　3年連続選出のSMBCは500億円超投資、成果は？",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/11/news018.html",
+    "summary_original": "経済産業省が「DX銘柄2026」を発表した。SMBCグループなど30社が選定されており、特にAI活用の取り組みが評価された。その取り組み内容とは。",
+    "thumbnail": "",
+    "published": "2026-04-11T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1f9faab0ad3e",
+    "title": "AI代替で消える新卒枠……中途も影響半数で「売り手市場」に暗雲",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2604/11/news019.html",
+    "summary_original": "2026年4月6～10日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。今週のキーワードは「AIと雇用」です。",
+    "thumbnail": "",
+    "published": "2026-04-11T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  }
+]
