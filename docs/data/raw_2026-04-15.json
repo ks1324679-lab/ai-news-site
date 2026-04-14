@@ -1,0 +1,402 @@
+[
+  {
+    "id": "50140e31b3a7",
+    "title": "科学の力で「コカ・コーラ」がほぼ完璧に再現されてレシピが公開される、試飲した人は「これはコーラだよ」と絶賛",
+    "url": "https://gigazine.net/news/20260415-coca-cola-reproduction/",
+    "summary_original": "科学系YouTuberのLabCoatz氏が「本物とまったく見分けられないほど精密にコカコーラを再現した」という動画を公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-15T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "311fccaccf7a",
+    "title": "これなら分かる「LLM Wiki」　メモや資料をAIで整理し、使える知識に育てる新しい発想",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/15/news011.html",
+    "summary_original": "AI業界で有名なカルパシー氏が提案し、5千超のスターを集めた「LLM Wiki」。話題の新概念をやさしく整理しながら、その仕組みやRAGとの違い、試してみるためのツールやコミュニティーの動きまで紹介する。",
+    "thumbnail": "",
+    "published": "2026-04-15T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9bc5365e4bf1",
+    "title": "「マーク・ザッカーバーグCEOのAIクローン」をMetaが開発しているとの報道",
+    "url": "https://gigazine.net/news/20260414-meta-mark-zuckerberg-ai-clone/",
+    "summary_original": "FacebookやInstagramといったSNSを運営するMetaはAI分野にも注力しており、ユーザーが独自のAIチャットボットを作成できるツール「AI Studio」も展開しています。そんなMetaが、創業者でもあるマーク・ザッカーバーグCEOの「AIクローン」を開発していると報じられました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-14T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "652b5e7a8fd8",
+    "title": "FBIが暗号化メッセージアプリ「Signal」の削除済みメッセージを復元することに成功、iPhoneの通知データベースにメッセージが残っていた",
+    "url": "https://gigazine.net/news/20260414-fbi-extract-signal-message/",
+    "summary_original": "2025年7月にテキサス州アルバラードにある移民・税関捜査局(ICE)の拘留施設で警察官が首を撃たれた事件の裁判において、FBIが暗号化メッセージアプリ「Signal」のメッセージの復元に成功していたことが判明したとIT系ニュースサイトの404 Mediaが報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-14T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e801f0a58d7c",
+    "title": "日産、「AIドライブ」搭載車を9割に　長期ビジョン発表　ジュークEVと新型エクストレイルを初公開",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/14/news140.html",
+    "summary_original": "日産自動車が、今後の戦略の道標となる長期ビジョンを発表した。AIを核に据えた次世代車両コンセプト「AIディファインドビークル」（AIDV）を主軸とし、将来的にラインアップの約9割にAI自動運転技術を搭載する方針だ。また、新型「エクストレイル／ローグ e-POWER」と「ジュークEV」を初公開した。",
+    "thumbnail": "",
+    "published": "2026-04-14T21:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9c0ca14ba169",
+    "title": "たった1行の盤でプレイする1次元チェス「1D-Chess」",
+    "url": "https://gigazine.net/news/20260414-1d-chess/",
+    "summary_original": "8×8マスの盤の上でプレイするチェスを、8マス1行の盤と限られたコマだけでプレイするチェスの変種が「1D-Chess」です。1D-Chessは1980年の科学雑誌で紹介されたミニゲームで、以下のサイトでプレイすることが可能です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-14T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1679aeff7497",
+    "title": "トヨタのバスケロボに新型　「CUE7」を初お披露目　一発でシュート成功",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/14/news137.html",
+    "summary_original": "トヨタ自動車、AIバスケロボの新モデル「CUE7」を初お披露目した。一発でシュートを成功させたほか、人間らしい動的な振る舞いも見せた。",
+    "thumbnail": "",
+    "published": "2026-04-14T20:14:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "33363976f0bf",
+    "title": "数学研究におけるAI革命が到来、数学者たちは「これはまだ始まりに過ぎない」と考えている",
+    "url": "https://gigazine.net/news/20260414-ai-revolution-in-math/",
+    "summary_original": "AIの進歩はビジネスや娯楽だけでなく、さまざまな研究分野にも恩恵をもたらしています。近年は数学研究においてもAIが活用されるケースが増えており、数学者らは期待を寄せていると科学系メディアのQuanta Magazineがまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-14T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6d4ec495f21f",
+    "title": "SB Intuitions、自律的にTシャツを畳めるロボアーム　1枚約40秒で完了",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/14/news130.html",
+    "summary_original": "ソフトバンク傘下でAIを研究開発するSB Intuitionsは、自律的にTシャツを畳める2本のロボットアームの動画を公開した。1枚約40秒で畳み終える様子を確認できる。",
+    "thumbnail": "",
+    "published": "2026-04-14T19:53:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "43bf0de697a2",
+    "title": "Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute",
+    "url": "https://the-decoder.com/greg-brockman-predicts-ai-will-let-small-teams-match-the-output-of-large-ones-if-they-can-afford-the-compute/",
+    "summary_original": "In the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive. Institutions will change.\"\nThe article Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_dark_blue.png",
+    "published": "2026-04-14T19:00:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5f6e1e8f2f06",
+    "title": "TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Under One API Key",
+    "url": "https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/",
+    "summary_original": "AI agents struggle with tasks that require interacting with the live web — fetching a competitor&#8217;s pricing page, extracting structured data from a JavaScript-heavy dashboard, or automating a multi-step workflow on a real site. The tooling has been fragmented, requiring teams to stitch together separate providers for search, browser automation, and content retrieval. TinyFish, a [&#8230;]\nThe post TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, a...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-30.png",
+    "published": "2026-04-14T18:53:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1512aa13dc4d",
+    "title": "国産AI開発「取り組みは重要」小野田紀美担当相　ソフト・NEC・ホンダ・ソニー連合",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/14/news121.html",
+    "summary_original": "小野田紀美人工知能（AI）戦略担当相は14日の記者会見で、国産AIの基盤モデル作りについて、「民間企業の取り組みは非常に重要だ」と述べた。",
+    "thumbnail": "",
+    "published": "2026-04-14T18:38:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4126c0f474b7",
+    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+    "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+    "summary_original": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+    "thumbnail": "",
+    "published": "2026-04-14T18:09:12+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3bf32cc17910",
+    "title": "Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click",
+    "url": "https://the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/",
+    "summary_original": "With \"Skills,\" Google is adding a new feature to Chrome that turns frequently used AI prompts into reusable one-click tools. Instead of typing the same prompt over and over, users save it once and apply it to any website. Google also offers a ready-made library of skills for everyday tasks.\nThe article Google Chrome&#039;s new &quot;Skills&quot; feature lets you save AI prompts and reuse them with a single click appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/chrome_skills.png",
+    "published": "2026-04-14T18:01:34+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "459633ee1619",
+    "title": "Redefining the future of software engineering",
+    "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+    "summary_original": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MITTR-Softserve-report.cover_.png?w=1555",
+    "published": "2026-04-14T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "185cd6b00edf",
+    "title": "Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end",
+    "url": "https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/",
+    "summary_original": "The UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate network, but the results come with significant caveats.\nThe article Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/anthropic_logo_cybersecurity.png",
+    "published": "2026-04-14T17:31:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0acbd69258fa",
+    "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+    "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "summary_original": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+    "thumbnail": "",
+    "published": "2026-04-14T17:13:03+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9336bb09735b",
+    "title": "Claude Code routines let AI fix bugs and review code on autopilot",
+    "url": "https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/",
+    "summary_original": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine.\nThe article Claude Code routines let AI fix bugs and review code on autopilot appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/Claude-Code-Research-Preview-4a4df6b6629f9814aec4eb9323028130f43a8d70-1920x1080-1.jpg",
+    "published": "2026-04-14T17:07:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3f6d57e3ecee",
+    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+    "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "summary_original": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+    "thumbnail": "",
+    "published": "2026-04-14T17:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6923bf437266",
+    "title": "Ukraine captures a Russian position using only drones and ground robots",
+    "url": "https://the-decoder.com/ukraine-captures-a-russian-position-using-only-drones-and-ground-robots/",
+    "summary_original": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain.\nThe article Ukraine captures a Russian position using only drones and ground robots appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/01/Ukraine-Data.jpeg",
+    "published": "2026-04-14T15:37:43+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1f90a2ae46f2",
+    "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "summary_original": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+    "thumbnail": "",
+    "published": "2026-04-14T15:30:49+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "82dedecec62d",
+    "title": "Google brings its Gemini Personal Intelligence feature to India",
+    "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+    "summary_original": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+    "thumbnail": "",
+    "published": "2026-04-14T14:48:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7e81cc442e2e",
+    "title": "The attacks on Sam Altman are a warning for the AI world",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+    "summary_original": "Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extinct, the San Francisco Chronicle found. Two days later, Altman's home appeared to be targeted a second time, according to The San Francisco Standard. Only a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-14T14:04:42-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5b9f17a9155b",
+    "title": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
+    "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+    "summary_original": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select. \"Until now, repeating an AI task - like asking for ingredient [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-14T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d6ba86579f58",
+    "title": "SAP brings agentic AI to human capital management",
+    "url": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+    "summary_original": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents across recruiting, payroll, workforce administration, and talent development. Behind the user interface, these [&#8230;]\nThe post SAP brings agentic AI to human capital management appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-04-14T12:55:09+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "a5a096728c6d",
+    "title": "The Download: the state of AI, and protecting bears with drones",
+    "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If&#160;you’re&#160;following AI news,&#160;you’re&#160;probably getting&#160;whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI&#160;can’t&#160;even&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-12.47.40.png",
+    "published": "2026-04-14T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a859eeda831f",
+    "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+    "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+    "summary_original": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency’s headquarters&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/5-america-underway-in-space-on-nuclear-power-11.png?w=2500",
+    "published": "2026-04-14T12:04:47+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b3b1ae766373",
+    "title": "Canada’s Scotiabank preps for its AI future",
+    "url": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
+    "summary_original": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially client-facing teams, access to AI under the bank&#8217;s existing governance [&#8230;]\nThe post Canada&#8217;s Scotiabank preps for its AI future appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-04-14T11:20:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "9d31d8ec9b75",
+    "title": "Coming soon: 10 Things That Matter in AI Right Now",
+    "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+    "summary_original": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-14T11:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "06863e39da0f",
+    "title": "Hyundai expands into robotics and physical AI systems",
+    "url": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
+    "summary_original": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyundai&#8217;s move into physical AI systems [&#8230;]\nThe post Hyundai expands into robotics and physical AI systems appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-14T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "83de39ec496a",
+    "title": "The problem with thinking you’re part Neanderthal",
+    "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+    "summary_original": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another, which is why some people now carry&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/neanderthals.jpg?w=1749",
+    "published": "2026-04-14T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "559097908121",
+    "title": "Has Google’s AI watermarking system been reverse-engineered?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+    "summary_original": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true. The developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-14T09:53:53-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dfa76f55b4fe",
+    "title": "NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful and Open Large Audio-Language Model",
+    "url": "https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/",
+    "summary_original": "Understanding audio has always been the multimodal frontier that lags behind vision. While image-language models have rapidly scaled toward real-world deployment, building open models that robustly reason over speech, environmental sounds, and music — especially at length — has remained quite hard. NVIDIA and the University of Maryland researchers are now taking a direct swing [&#8230;]\nThe post NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Pow...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-1.22.32-AM-1.png",
+    "published": "2026-04-14T08:24:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b49962e0e530",
+    "title": "Google ADK Multi-Agent Pipeline Tutorial: Data Loading, Statistical Testing, Visualization, and Report Generation in Python",
+    "url": "https://www.marktechpost.com/2026/04/13/google-adk-multi-agent-pipeline-tutorial-data-loading-statistical-testing-visualization-and-report-generation-in-python/",
+    "summary_original": "In this tutorial, we build an advanced data analysis pipeline using Google ADK and organize it as a practical multi-agent system for real analytical work. We set up the environment, configure secure API access, create a centralized data store, and define specialized tools for loading data, exploring datasets, running statistical tests, transforming tables, generating visualizations, [&#8230;]\nThe post Google ADK Multi-Agent Pipeline Tutorial: Data Loading, Statistical Testing, Visualization, and...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-04-14T03:23:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4c142903887e",
+    "title": "Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinking",
+    "url": "https://www.marktechpost.com/2026/04/13/google-ai-research-proposes-vantage-an-llm-based-protocol-for-measuring-collaboration-creativity-and-critical-thinking/",
+    "summary_original": "Standardized tests can tell you whether a student knows calculus or can parse a passage of text. What they cannot reliably tell you is whether that student can resolve a disagreement with a teammate, generate genuinely original ideas under pressure, or critically dismantle a flawed argument. These are the so-called durable skills — collaboration, creativity, [&#8230;]\nThe post Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinkin...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-5.29.30-PM-1.png",
+    "published": "2026-04-14T00:30:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8ae7ef478aa4",
+    "title": "Trusted access for the next era of cyber defense",
+    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "summary_original": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+    "thumbnail": "",
+    "published": "2026-04-14T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "1d9d4566c211",
+    "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+    "summary_original": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/screenshot_2026-04-13_161515_0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-13T20:02:38-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4d70c3a27586",
+    "title": "A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking",
+    "url": "https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/",
+    "summary_original": "In this tutorial, we implement NVIDIA PhysicsNeMo on Colab and build a practical workflow for physics-informed machine learning. We start by setting up the environment, generating data for the 2D Darcy Flow problem, and visualizing the physical fields to clearly understand the learning task. From there, we implement and train powerful models such as the [&#8230;]\nThe post A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking a...",
+    "thumbnail": "",
+    "published": "2026-04-13T17:07:34+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4a5ae02d0135",
+    "title": "AI influencers are ‘everywhere’ at Coachella",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+    "summary_original": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ai-label-10.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-13T15:53:46-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7fda55434462",
+    "title": "Strengthening enterprise governance for rising edge AI workloads",
+    "url": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+    "summary_original": "Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads. Security chiefs have built massive digital walls around the cloud; deploying advanced cloud access security brokers and routing every piece of traffic heading to external large language models through monitored corporate gateways. The logic was [&#8230;]\nThe post Strengthening enterprise governance for rising edge AI workloads appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-04-13T13:02:01+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
