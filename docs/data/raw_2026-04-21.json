@@ -1,0 +1,352 @@
+[
+  {
+    "id": "5d79ade39d5c",
+    "title": "ニューヨーク州の墓地の地下に約556万匹のハチが生息していることが明らかに",
+    "url": "https://gigazine.net/news/20260421-5-5-million-bees-cemetery/",
+    "summary_original": "ニューヨーク州イサカにあるイーストローン墓地の地下に、ミツバチのように1つの巣で群れを作るのではなく、地中に巣を作る単独性のハチ「レギュラー・マイナービー(学名：Andrena regularis)」の大規模な営巣地があるとアメリカ・コーネル大学の研究チームが報告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-21T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "64324fb1723e",
+    "title": "Pythonの仮想環境パスが.venvに統一される？　PEP 832が提案される",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/21/news007.html",
+    "summary_original": "Pythonで仮想環境を作るときってどこに作っていますか？　ディレクトリ名をどうするか悩んでいませんか？　これを解決してくれるかもしれないPEPが提出されました。どんなものか、ちょっと見てみましょう。",
+    "thumbnail": "",
+    "published": "2026-04-21T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3b59220afb87",
+    "title": "アイテムを組み合わせて最強のタワーで相手をボコボコにするPvPゲーム「Oaken Tower」デモ版をプレイしてみた",
+    "url": "https://gigazine.net/news/20260420-oaken-tower/",
+    "summary_original": "Oaken Towerはアイテムを組み合わせて最強のタワーを作り、プレイヤー同士で戦うPvPゲームです。どんなゲームなのか実際に遊んで確かめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-20T23:02:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8b46a19af600",
+    "title": "ロダンの「考える人」は誰がモデルで何を考えているのか？",
+    "url": "https://gigazine.net/news/20260420-what-thinker-thinking-about/",
+    "summary_original": "19世紀を代表する彫刻家であるオーギュスト・ロダンが制作した「考える人」といえば、学校に置かれている定番の像で、過去にはfigma化も果たしています。そんな「考える人」は、誰がモデルで何を考えているのかについて、美術史家のノア・チャーニー氏が解説しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-20T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "32d7115febd3",
+    "title": "昔エッフェル塔の最上階には技師エッフェルのオフィスがあった",
+    "url": "https://gigazine.net/news/20260420-eiffel-tower-office/",
+    "summary_original": "フランス・パリを象徴する建造物「エッフェル塔」をフランス人技師ギュスターヴ・エッフェルが設計した際、最上階にキッチンやバスルームを備えた私設オフィスを設けていました。2026年5月、エッフェル塔の一部がオークションにかけられるということです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-20T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5ce42f9f60d6",
+    "title": "It’s not just one thing — it’s another thing",
+    "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "summary_original": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+    "thumbnail": "",
+    "published": "2026-04-20T19:37:07+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bb466d4c5c2b",
+    "title": "OpenAI's Codex now watches your screen to remember what you're working on",
+    "url": "https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/",
+    "summary_original": "OpenAI is giving Codex a memory of what's on screen. The new Chronicle feature tracks what users are working on and remembers it for future tasks, but it also amplifies familiar security risks.\nThe article OpenAI&#039;s Codex now watches your screen to remember what you&#039;re working on appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_dark_pattern.png",
+    "published": "2026-04-20T18:41:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b7d150d5cf46",
+    "title": "Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms",
+    "url": "https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/",
+    "summary_original": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel.\nThe article Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/kimi_k26-1-scaled.webp",
+    "published": "2026-04-20T17:13:04+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2e39bfd87b75",
+    "title": "Google builds elite team to close the coding gap with Anthropic",
+    "url": "https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/",
+    "summary_original": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive.\nThe article Google builds elite team to close the coding gap with Anthropic appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_shilouette.png",
+    "published": "2026-04-20T16:30:15+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e751673f562b",
+    "title": "Silicon Valley has forgotten what normal people want",
+    "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+    "summary_original": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-20T16:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9c57fea75aae",
+    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+    "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "summary_original": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+    "thumbnail": "",
+    "published": "2026-04-20T16:06:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5236ccdc83a6",
+    "title": "LINEやYahoo!検索に謎のロボットアイコン登場、いったい何者？　正体は……",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/20/news094.html",
+    "summary_original": "4月20日、Yahoo!検索やLINEなどのUI上に、謎のロボットアイコンが登場した。その正体は……。",
+    "thumbnail": "",
+    "published": "2026-04-20T15:40:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "23195d5f10b1",
+    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+    "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "summary_original": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+    "thumbnail": "",
+    "published": "2026-04-20T15:30:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "eae40de9581e",
+    "title": "Adobe fights AI disruption of its own business model with new enterprise agent platform",
+    "url": "https://the-decoder.com/adobe-fights-ai-disruption-of-its-own-business-model-with-new-enterprise-agent-platform/",
+    "summary_original": "The software giant is responding to growing pressure from AI-native competitors with a new enterprise agent platform. At the same time, the company is looking for its next chief executive.\nThe article Adobe fights AI disruption of its own business model with new enterprise agent platform appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/Adobe-CX-Enterprise.png",
+    "published": "2026-04-20T14:39:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5c7fbb5930be",
+    "title": "スクエニ、マンガの「写植指定」をAIで効率化　試用編集者の100％が「継続利用したい」",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/20/news079.html",
+    "summary_original": "最適なフォントやサイズ、スタイル、配置の候補を編集者に提案。ストーリーの流れやセリフの感情を踏まえ、編集者が最終的な指定を判断する。",
+    "thumbnail": "",
+    "published": "2026-04-20T13:50:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7c083e125e4d",
+    "title": "Humanoid robots outrun humans at Beijing's second robot half marathon",
+    "url": "https://the-decoder.com/humanoid-robots-outrun-humans-at-beijings-second-robot-half-marathon/",
+    "summary_original": "At the second half marathon for humanoid robots in Beijing, Chinese machines posted dramatically faster times on Sunday compared to last year.\nThe article Humanoid robots outrun humans at Beijing&#039;s second robot half marathon appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/Robot-Marathon-peking.png",
+    "published": "2026-04-20T13:24:02+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d88c97f69158",
+    "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+    "url": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+    "summary_original": "AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the construction and landscaping industry. By speeding up takeoff operations, a important part of estimating a [&#8230;]\nThe post Bobyard 2.0 offers improved takeoffs and unified AI for estimators appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-04-20T13:15:51+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "8e361f2a12b7",
+    "title": "Anthropicとホワイトハウス、Mythosへの懸念高まりを受けて“仲直り”を模索か",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/20/news077.html",
+    "summary_original": "米政府とAnthropicのCEOが、最新モデルのサイバーセキュリティリスクを巡り会談した。国防総省との対立を経て、両者は信頼回復と安全確保に向けた協力を模索している可能性がある。",
+    "thumbnail": "",
+    "published": "2026-04-20T13:11:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4e059f6b6283",
+    "title": "無料の教材で「使えるAIスキル」を学べる　さくらインターネットがAI検定を開始",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/20/news035.html",
+    "summary_original": "さくらインターネットは認定資格の「さくらのAI検定」を開始し、実務でAIを使いこなす人材の育成を支援する。無償のオンライン教材を用意し、AIの基礎から実務的なスキルまで体系的に学べるようにした。",
+    "thumbnail": "",
+    "published": "2026-04-20T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "dd303cd7f30d",
+    "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
+    "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+    "summary_original": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with. \"Instead of authoring dialogue trees for characters in your islands, conversations transforms an [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/fortnite-anti-cheat-update.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-20T12:58:39-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f2c49cd52da1",
+    "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+    "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/04/0700860orig.jpg?w=3000",
+    "published": "2026-04-20T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ae4a35685188",
+    "title": "How to prepare for and remediate an AI system incident",
+    "url": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+    "summary_original": "For all the possibilities AI gives us, there is always a chance of the technology malfunctioning or becoming compromised. In the event of an AI system crisis, new research from ISACA has found that the majority of organisations surveyed couldn&#8217;t explain how quickly they could stop an AI system emergency, or even report on what [&#8230;]\nThe post How to prepare for and remediate an AI system incident appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-04-20T11:39:41+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "337000087609",
+    "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
+    "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
+    "summary_original": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussard’s old Toyota Tacoma&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/2412_GW_2Month_2_1.jpg?w=1920",
+    "published": "2026-04-20T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "31662a9c1d02",
+    "title": "あっという間に初心者でも省パーツで設置完了＆好きな高さにワンタッチで調節できる電動昇降式デスク「E7 Click」を実際に組み立てて使ってみたよレビュー",
+    "url": "https://gigazine.net/news/20260420-flexispot-e7-click/",
+    "summary_original": "座ったまま長時間過ごすことは健康に悪影響を及ぼすといわれており、スタンディングデスクの導入はデスクワーカーの健康を改善する有効な一手といえます。しかし、「スタンディングデスクは組み立ても大変そうだし、高さの調整も面倒くさそう」と考えてしまい、なかなか踏ん切りがつかないという人も多いはず。FlexiSpotの電動昇降式デスク「E7 Click」はあらかじめ部品を固定するためのロック機構が搭載されており、電動工具や大量のビスなどを使う必要もなく、こうした家具の組み立てが初めてという人でもあっという間に組み立てることが可能。ボタンを押すだけで簡単に高さを調節できるほか、好みの高さを記憶させて毎回同じ高さに設定できるなど使い勝手も抜群とのことで、実際に組み立てて使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-20T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c85e7467381d",
+    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+    "summary_original": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-20T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1417e774aab3",
+    "title": "OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders",
+    "url": "https://www.marktechpost.com/2026/04/20/openai-scales-trusted-access-for-cyber-defense-with-gpt-5-4-cyber-a-fine-tuned-model-built-for-verified-security-defenders/",
+    "summary_original": "OpenAI is moving from a limited pilot to broad deployment of its Trusted Access for Cyber program, introducing GPT-5.4-Cyber — a variant of GPT-5.4 fine-tuned to be cyber-permissive — for thousands of vetted defenders.\nThe post OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-04-20T08:26:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5cb08914c228",
+    "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+    "summary_original": "When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved. On Friday, Anthropic CEO Dario Amodei walked into the West Wing for a meeting with White House Chief of Staff Susie Wiles. Treasury [&#8230;]\nThe post Anthropic walks into the White House and Mythos is the reason Washington let it in appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-04-20T08:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "15ef43f92529",
+    "title": "Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale",
+    "url": "https://www.marktechpost.com/2026/04/19/moonshot-ai-and-tsinghua-researchers-propose-prfaas-a-cross-datacenter-kvcache-architecture-that-rethinks-how-llms-are-served-at-scale/",
+    "summary_original": "For years, the way large language models handle inference has been stuck inside a box — literally. The high-bandwidth RDMA networks that make modern LLM serving work have confined both prefill and decode to the same datacenter, sometimes even the same rack. A team of researchers at Moonshot AI and Tsinghua University is making the [&#8230;]\nThe post Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale appeared fir...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-19-at-5.50.12-PM-1.png",
+    "published": "2026-04-20T00:51:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b0b87f1d965c",
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "summary_original": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "thumbnail": "",
+    "published": "2026-04-20T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "e0862fe09092",
+    "title": "OpenAI’s existential questions",
+    "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "summary_original": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+    "thumbnail": "",
+    "published": "2026-04-19T21:24:06+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4a83df174632",
+    "title": "Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Parameters Match a 1.3B Transformer",
+    "url": "https://www.marktechpost.com/2026/04/19/meet-openmythos-an-open-source-pytorch-reconstruction-of-claude-mythos-where-770m-parameters-match-a-1-3b-transformer/",
+    "summary_original": "Anthropic has never published a technical paper on Claude Mythos. That has not stopped the research community from theorizing. A new open-source project called OpenMythos, released on GitHub by Kye Gomez, attempts something ambitious: a first-principles theoretical reconstruction of what the Claude Mythos architecture might actually be, built entirely in PyTorch and grounded in peer-reviewed [&#8230;]\nThe post Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Par...",
+    "thumbnail": "",
+    "published": "2026-04-19T19:47:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e0ab883c55c6",
+    "title": "The 12-month window",
+    "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "summary_original": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+    "thumbnail": "",
+    "published": "2026-04-19T19:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "54c6d47046d4",
+    "title": "How TabPFN Leverages In-Context Learning to Achieve Superior Accuracy on Tabular Datasets Compared to Random Forest and CatBoost",
+    "url": "https://www.marktechpost.com/2026/04/19/how-tabpfn-leverages-in-context-learning-to-achieve-superior-accuracy-on-tabular-datasets-compared-to-random-forest-and-catboost/",
+    "summary_original": "Tabular data—structured information stored in rows and columns—is at the heart of most real-world machine learning problems, from healthcare records to financial transactions. Over the years, models based on decision trees, such as Random Forest, XGBoost, and CatBoost, have become the default choice for these tasks. Their strength lies in handling mixed data types, capturing [&#8230;]\nThe post How TabPFN Leverages In-Context Learning to Achieve Superior Accuracy on Tabular Datasets Compared to R...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-39.png",
+    "published": "2026-04-19T19:11:03+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "58f059131f54",
+    "title": "A Coding Implementation to Build an AI-Powered File Type Detection and Security Analysis Pipeline with Magika and OpenAI",
+    "url": "https://www.marktechpost.com/2026/04/19/a-coding-implementation-to-build-an-ai-powered-file-type-detection-and-security-analysis-pipeline-with-magika-and-openai/",
+    "summary_original": "In this tutorial, we build a workflow that combines Magika’s deep-learning-based file type detection with OpenAI’s language intelligence to create a practical and insightful analysis pipeline. We begin by setting up the required libraries, securely connecting to the OpenAI API, and initializing Magika to classify files directly from raw bytes rather than relying on filenames [&#8230;]\nThe post A Coding Implementation to Build an AI-Powered File Type Detection and Security Analysis Pipeline with ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f511.png",
+    "published": "2026-04-19T18:38:58+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "14b4d3c07b74",
+    "title": "Cloud development platform Vercel was hacked",
+    "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+    "summary_original": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-19T15:54:52-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
