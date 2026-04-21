@@ -1,0 +1,402 @@
+[
+  {
+    "id": "511e99a91ca3",
+    "title": "自動車業界向けローカル生成AIシステム、機密性の高い設計ナレッジを安全に利活用",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2604/22/news030.html",
+    "summary_original": "トリプルアイズは、グループ会社のBEXと共同で、外部ネットワークに接続せず安全に利用できる自動車設計業務向け「ローカル生成AIシステム」を開発した。",
+    "thumbnail": "",
+    "published": "2026-04-22T06:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9f6deca54051",
+    "title": "反AI派による抵抗運動が高まってきている",
+    "url": "https://gigazine.net/news/20260422-anti-ai-movement/",
+    "summary_original": "AIは人類の生産性をかつてないほどに高めていますが、同時に誤情報を出力してしまうリスクが常につきまといます。AIに対する信頼性の問題や、著作権を無視して学習を行うことへの不満、AIに仕事を取って代わられることへの懸念などから、反AI運動が日増しに活発になっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-22T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ff758f63a617",
+    "title": "サウナは運動よりも心拍数を低下させ、回復効果が確かにあるという調査結果",
+    "url": "https://gigazine.net/news/20260421-sauna-effect/",
+    "summary_original": "サウナが身体に良い効果を実際に与えているかどうか、ウェアラブルデバイスの利用データを分析した調査が報告されました。その結果、サウナに入る日は最低心拍数が低下し、運動以上に身体への回復効果を与える可能性があると示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-21T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1e33bb48b391",
+    "title": "TVアニメ『マリッジトキシン』堀元宣監督インタビュー、原作と同じくどんどんハチャメチャへ",
+    "url": "https://gigazine.net/news/20260421-marriagetoxin-motonobu-hori-interview/",
+    "summary_original": "集英社のマンガ誌アプリ『少年ジャンプ＋』にて連載中の『マリッジトキシン』がTVアニメ化され、2026年4月7日(火)より毎週火曜23時(よる11時)からカンテレ・フジテレビ系全国ネット\"火アニバル!!\"枠で放送中です。今回、本作で監督を務める堀元宣(ほり もとのぶ)さんにインタビューする機会を得たので、作品制作について、そして堀監督自身について、お話をうかがいました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-21T22:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1a9788d1d172",
+    "title": "ニコニコ動画、AIがコメントしてくれる実験機能　動画上にも流れる",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/21/news135.html",
+    "summary_original": "ドワンゴがニコニコ動画に、AIがコメントを投稿する新機能を追加した。動画を盛り上げる実験として、約1カ月間無料提供する。",
+    "thumbnail": "",
+    "published": "2026-04-21T22:17:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a4e978041cd2",
+    "title": "「検閲除去版モデル」をアピールするAIモデルがまったく検閲を除去できていないという指摘",
+    "url": "https://gigazine.net/news/20260421-uncensored-ai-models-filtered-pretrain/",
+    "summary_original": "一般的なAIモデルは、不適切な応答を防ぐために事後学習による「検閲」が行われていますが、Gemmaなどのオープンモデルに調整を施して「検閲を除去した」とアピールするサードパーティー製モデルも数多く公開されています。しかし、AIに関する調査レポートを公開しているMorgin.aiが、たとえ「検閲なし」とされているAIモデルであっても事前学習によって出力がゆがめられていると指摘しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-21T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d5628a8842c4",
+    "title": "量子コンピューターを使っても解読が難しい暗号とは？",
+    "url": "https://gigazine.net/news/20260421-quantum-computer-aes-128/",
+    "summary_original": "量子コンピューター技術の進歩によって、RSAやECDSA、EdDSAなどの非対称暗号が量子アルゴリズムに対して脆弱(ぜいじゃく)になってしまうため、早急に代替する必要が生じているといわれています。しかし、プログラミング言語Goの暗号標準ライブラリの保守担当である暗号技術エンジニアのフィリポ・バルソーダ氏が「量子コンピューター技術が進化しても、AES-128など暗号化と復号で同じ鍵を使う対称鍵暗号には影響を与えない」という見解を示しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-21T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0dc6595334dc",
+    "title": "The new word in home construction could be “plastics”",
+    "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+    "summary_original": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-21T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4df7f721afea",
+    "title": "A natural protein may protect the GI tract from infection",
+    "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+    "summary_original": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract.&#160; Intelectin-2 binds to a sugar&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-21T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3348e376f438",
+    "title": "This tool could show how consciousness works",
+    "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+    "summary_original": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-21T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "07a913fb74e4",
+    "title": "Early life may have breathed oxygen earlier than believed",
+    "url": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+    "summary_original": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years before that. By mapping enzyme sequences from&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-21T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3922ea011390",
+    "title": "Analog computing from waste heat",
+    "url": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
+    "summary_original": "Heat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT’s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn’t rely on electricity. In this analog computing method, input data is encoded not as binary 1s and 0s&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-21T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a521d11c49f0",
+    "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+    "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+    "summary_original": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+    "thumbnail": "",
+    "published": "2026-04-21T20:23:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1d373558cd33",
+    "title": "ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation",
+    "url": "https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/",
+    "summary_original": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especially in non-Latin scripts, significantly better.\nThe article ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/astronaut_thinking.png",
+    "published": "2026-04-21T19:55:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6c61749c78a4",
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "summary_original": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "thumbnail": "",
+    "published": "2026-04-21T19:11:29+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0c88065d42e6",
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "summary_original": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+    "thumbnail": "",
+    "published": "2026-04-21T19:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fdde9ca62ffc",
+    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+    "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "summary_original": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+    "thumbnail": "",
+    "published": "2026-04-21T18:51:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cb90fac355d8",
+    "title": "Google launches Deep Research and Deep Research Max agents to automate complex research",
+    "url": "https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/",
+    "summary_original": "Google Deepmind is rolling out Deep Research Max, a new AI agent built on Gemini 3.1 Pro that runs autonomous research across the web and proprietary data sources. For the first time, developers can plug in financial feeds and other specialized sources through the Model Context Protocol. The benchmarks come with the usual lack of transparency.\nThe article Google launches Deep Research and Deep Research Max agents to automate complex research appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/gemini_deep_research_max.webp",
+    "published": "2026-04-21T18:11:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dfe682559fad",
+    "title": "AIデータセンター需要で「光ファイバー技術者」がとにかく足りない　Metaと不動産大手が“未経験OK”の育成プログラム開始、米国で",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/21/news126.html",
+    "summary_original": "AIデータセンタ―建設に必要な光ファイバー技術者が不足している。米国ではMetaと不動産大手が連携し、技術者の育成プログラムを開始する。",
+    "thumbnail": "",
+    "published": "2026-04-21T18:03:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f17ab9e9e109",
+    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+    "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+    "summary_original": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+    "thumbnail": "",
+    "published": "2026-04-21T17:11:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "76e29ddf9a2a",
+    "title": "Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets Across Specialized AI Domains",
+    "url": "https://www.marktechpost.com/2026/04/21/google-introduces-simula-a-reasoning-first-framework-for-generating-controllable-scalable-synthetic-datasets-across-specialized-ai-domains/",
+    "summary_original": "Training powerful AI models depends on one resource that is quietly running out: specialized data. While the internet provided a seemingly infinite supply of text and images to train today&#8217;s generalist models, the next wave of AI breakthroughs — in cybersecurity, legal reasoning, healthcare, and other niche domains — requires data that simply doesn&#8217;t exist [&#8230;]\nThe post Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-60.png",
+    "published": "2026-04-21T16:46:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9541adb8d29d",
+    "title": "“Mythos級”AI到来に備え、自民党が日本版「Project Glasswing」組成を検討",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/21/news114.html",
+    "summary_original": "自民党が「Claude Mythos Preview」のような高度なAIによる脅威に対抗するための対策強化について検討を開始した。金融分野を念頭に、国の重要インフラの防御を目指すプロジェクトの立ち上げを図る。",
+    "thumbnail": "",
+    "published": "2026-04-21T16:05:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "314fefba7e73",
+    "title": "AI backlash is coming for elections",
+    "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+    "summary_original": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-21T15:00:05-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dfa2e3606ed8",
+    "title": "OpenAI’s updated image generator can now pull information from the web",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+    "summary_original": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-21T15:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8e2439a87add",
+    "title": "個人向け「GitHub Copilot」新規登録一時停止、使用量制限を強化　ProプランはOpusモデル使用不可に",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/21/news103.html",
+    "summary_original": "変更に納得できないユーザーはProまたはPro+のサブスクリプションをキャンセルできる。",
+    "thumbnail": "",
+    "published": "2026-04-21T14:41:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b6c07df5df83",
+    "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
+    "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+    "summary_original": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll be able to turn the Framework Laptop 16's GPU modules into external ones instead. Or, you can plug in a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eGPU_Install_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-21T14:07:24-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "80710e409ac8",
+    "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
+    "summary_original": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program. Public figures can use it to keep track of AI content on YouTube of themselves [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-21T13:30:24-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0de95885fa38",
+    "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+    "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+    "summary_original": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/quantum-encryption-1152x648.jpg",
+    "published": "2026-04-21T12:35:20+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "bd90b7384522",
+    "title": "The flood of AI music is reshaping how streaming platforms handle new uploads",
+    "url": "https://the-decoder.com/the-flood-of-ai-music-is-reshaping-how-streaming-platforms-handle-new-uploads/",
+    "summary_original": "Music streaming service Deezer reports that 44 percent of all songs uploaded to its platform daily are now fully AI-generated. The company uses its own detection technology and plans to license it to the broader music industry.\nThe article The flood of AI music is reshaping how streaming platforms handle new uploads appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/Deezer-AI-Music.jpg",
+    "published": "2026-04-21T12:24:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "565c29538d1a",
+    "title": "Corporate America's favorite ChatGPT phrase doubled twice since 2024",
+    "url": "https://the-decoder.com/corporate-americas-favorite-chatgpt-phrase-doubled-twice-since-2024/",
+    "summary_original": "A new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024.\nThe article Corporate America&#039;s favorite ChatGPT phrase doubled twice since 2024 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/not_just_AI_blabla_llm.png",
+    "published": "2026-04-21T12:20:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1e2f94a62ac7",
+    "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+    "summary_original": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affair with the caffe misto a few years ago. In person, my brain barely needs to activate [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Starbucks-App-in-ChatGPT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-21T12:19:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "933155419d79",
+    "title": "Anthropic is building its first data center team outside the US",
+    "url": "https://the-decoder.com/anthropic-is-building-its-first-data-center-team-outside-the-us/",
+    "summary_original": "According to job listings spotted by Data Center Dynamics, Anthropic is hiring data center contract specialists in Europe and Australia.\nThe article Anthropic is building its first data center team outside the US appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/anthropic_wall_background-1.png",
+    "published": "2026-04-21T10:34:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "200ccf22b473",
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-21T10:09:58+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "e34f38414bc5",
+    "title": "A Coding Implementation on Qwen 3.6-35B-A3B Covering Multimodal Inference, Thinking Control, Tool Calling, MoE Routing, RAG, and Session Persistence",
+    "url": "https://www.marktechpost.com/2026/04/21/a-coding-implementation-on-qwen-3-6-35b-a3b-covering-multimodal-inference-thinking-control-tool-calling-moe-routing-rag-and-session-persistence/",
+    "summary_original": "In this tutorial, we build an end-to-end implementation around Qwen 3.6-35B-A3B and explore how a modern multimodal MoE model can be used in practical workflows. We begin by setting up the environment, loading the model adaptively based on available GPU memory, and creating a reusable chat framework that supports both standard responses and explicit thinking [&#8230;]\nThe post A Coding Implementation on Qwen 3.6-35B-A3B Covering Multimodal Inference, Thinking Control, Tool Calling, MoE Routing, ...",
+    "thumbnail": "",
+    "published": "2026-04-21T07:54:34+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a2437f181a18",
+    "title": "Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinated Steps",
+    "url": "https://www.marktechpost.com/2026/04/20/moonshot-ai-releases-kimi-k2-6-with-long-horizon-coding-agent-swarm-scaling-to-300-sub-agents-and-4000-coordinated-steps/",
+    "summary_original": "Moonshot AI, the Chinese AI lab behind the Kimi assistant, today open-sourced Kimi K2.6 — a native multimodal agentic model that pushes the boundaries of what an AI system can do when left to run autonomously on hard software engineering problems. The release targets practical deployment scenarios: long-running coding agents, front-end generation from natural language, [&#8230;]\nThe post Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coor...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-6.58.20-PM-1.png",
+    "published": "2026-04-21T01:58:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "35c281ef269a",
+    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+    "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-21T00:40:10+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "f7f7eb2b3fa7",
+    "title": "A Coding Implementation on Microsoft’s Phi-4-Mini for Quantized Inference Reasoning Tool Use RAG and LoRA Fine-Tuning",
+    "url": "https://www.marktechpost.com/2026/04/20/a-coding-implementation-on-microsofts-phi-4-mini-for-quantized-inference-reasoning-tool-use-rag-and-lora-fine-tuning/",
+    "summary_original": "In this tutorial, we build a pipeline on Phi-4-mini to explore how a compact yet highly capable language model can handle a full range of modern LLM workflows within a single notebook. We begin by setting up a stable environment, loading Microsoft’s Phi-4-mini-instruct in efficient 4-bit quantization, and then move step by step through streaming [&#8230;]\nThe post A Coding Implementation on Microsoft’s Phi-4-Mini for Quantized Inference Reasoning Tool Use RAG and LoRA Fine-Tuning appeared first ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+    "published": "2026-04-21T00:13:51+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a85b09f82963",
+    "title": "Scaling Codex to enterprises worldwide",
+    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "summary_original": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+    "thumbnail": "",
+    "published": "2026-04-21T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3027bbe1d0f3",
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "url": "https://huggingface.co/blog/cybersecurity-openness",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-21T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "1417e774aab3",
+    "title": "OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders",
+    "url": "https://www.marktechpost.com/2026/04/20/openai-scales-trusted-access-for-cyber-defense-with-gpt-5-4-cyber-a-fine-tuned-model-built-for-verified-security-defenders/",
+    "summary_original": "OpenAI is moving from a limited pilot to broad deployment of its Trusted Access for Cyber program, introducing GPT-5.4-Cyber — a variant of GPT-5.4 fine-tuned to be cyber-permissive — for thousands of vetted defenders.\nThe post OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-04-20T08:26:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
