@@ -1,0 +1,402 @@
+[
+  {
+    "id": "447082c7404b",
+    "title": "空気清浄機を使うと40歳以上の成人の脳機能が改善する可能性がある",
+    "url": "https://gigazine.net/news/20260428-hepa-air-purifier-brain-function/",
+    "summary_original": "空気中に浮遊するPM2.5やすす、ほこりなどの粒子状の物質は、呼吸器や心血管の病気だけでなくアルツハイマー病やパーキンソン病などの神経疾患とも関連していると言われます。こうした粒子状の物質を減らす手段としてHEPAフィルターを搭載した空気清浄機が使われる中、コネチカット大学のニコラス・ペレグリーノ氏らは、1カ月間HEPAフィルターを搭載した空気清浄機を使用することで脳機能テストの結果がどう変わるのかを研究しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-28T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "55b2bf53698a",
+    "title": "毎朝の情報収集を“更新できるダッシュボード”にまとめよう　Claude CoworkのLive Artifactで作ってみた",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/28/news008.html",
+    "summary_original": "Claude Coworkに新たに加わったLive Artifactを使うと、刻々とたまっていく情報を、自分のタイミングで可視化したり、ざっくりとまとめたりできます。そこで、今回は筆者が毎朝やっている情報収集をちょっと楽にできないか試してみました。",
+    "thumbnail": "",
+    "published": "2026-04-28T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fd0a4a4aae93",
+    "title": "マジック：ザ・ギャザリングのおかげで日本語をマスターしたという体験談",
+    "url": "https://gigazine.net/news/20260427-mtg-japanese/",
+    "summary_original": "愛媛の語学学校で日本語を学び「中上級レベル」の資格を獲得したものの、資格試験の日本語と実際の生活や業務で使う日本語は全く別物だと感じたというリカルド・バサロ氏が、世界的に人気なカードゲームの「マジック：ザ・ギャザリング(MTG)」をきっかけに日本語をマスターした経験について語っています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-27T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4c25e1aa082d",
+    "title": "Open source package with 1 million monthly downloads stole user credentials",
+    "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+    "summary_original": "If you're one of millions using element-data, it's time to check for compromise.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg",
+    "published": "2026-04-27T21:04:03+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "e49ae3720183",
+    "title": "AlibabaのAI「Qwen」がBYDなどの中国メーカー製自動車に搭載されると発表、ホテルの予約やデリバリーの注文が可能に",
+    "url": "https://gigazine.net/news/20260427-alibaba-qwen-ai-coming-cars/",
+    "summary_original": "BYDやフォルクスワーゲンの合弁会社といった中国メーカー製の自動車に、Alibaba製のAIであるQwenが搭載されることが、現地時間の2026年4月24日に開催された北京モーターショーで発表されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-27T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5446b6fd1fe9",
+    "title": "新しい10GbEのUSBアダプターは超小型、実力はどれほどか？",
+    "url": "https://gigazine.net/news/20260427-10gbe-adapter/",
+    "summary_original": "長年にわたり、ノートPCで10ギガビット接続を実現する最良の方法は高価で大型かつ発熱の大きい10GbEのThunderboltアダプターを購入することでした。エンジニアのジェフ・ギーリング氏は、近年登場したRealtekのRTL8159チップセットを搭載したUSB 3.2アダプターを紹介し、「かさばるアダプターは過去のものになるかもしれない」と指摘しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-27T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c41f4ff5cb6b",
+    "title": "Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering",
+    "url": "https://www.marktechpost.com/2026/04/27/build-a-reinforcement-learning-powered-agent-that-learns-to-retrieve-relevant-long-term-memories/",
+    "summary_original": "In this tutorial, we build a Reinforcement Learning–driven agent that learns how to retrieve relevant memories from a long-term memory bank. We start by constructing a synthetic memory dataset and generating queries that require the agent to recall specific information. Using OpenAI embeddings, we convert both memories and queries into vector representations, enabling similarity signals [&#8230;]\nThe post Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Mem...",
+    "thumbnail": "",
+    "published": "2026-04-27T18:58:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0bb0e2e692cf",
+    "title": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning",
+    "url": "https://www.marktechpost.com/2026/04/27/openmoss-releases-moss-audio-an-open-source-foundation-model-for-speech-sound-music-and-time-aware-audio-reasoning/",
+    "summary_original": "The model unifies speech, environmental sound, music, and temporal reasoning into a single architecture — and outperforms every open-source model tested on general audio benchmarks, including systems more than four times its size.\nThe post OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-11.34.12-AM.png",
+    "published": "2026-04-27T18:36:06+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "cd10cd32bf8a",
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "summary_original": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+    "thumbnail": "",
+    "published": "2026-04-27T17:40:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7b2e4a2048b5",
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "summary_original": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+    "thumbnail": "",
+    "published": "2026-04-27T17:24:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c4880d927b46",
+    "title": "The missing step between hype and profit",
+    "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-27T16:13:41+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "82d5d55d2c74",
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "summary_original": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+    "thumbnail": "",
+    "published": "2026-04-27T16:13:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b4323b439cf5",
+    "title": "OpenAI、AIの社会的責任を定義する5原則を提示　外部監視の必要性を強調",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/27/news098.html",
+    "summary_original": "OpenAIのサム・アルトマンCEOは、最先端AIモデルを開発するラボ運営の5原則を公表した。2018年の「OpenAI Charter」以来の指針刷新となり、民主化や普遍的な繁栄、レジリエンスなどを掲げる。社会への影響力拡大を受け、特定の組織への権力集中を避け、外部の監視や社会との対話を重視する姿勢を強調した。",
+    "thumbnail": "",
+    "published": "2026-04-27T14:21:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c27e3a413e5e",
+    "title": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause",
+    "url": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
+    "summary_original": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.\nThe article OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/11/altman_nadella_bg2pod_25_new.png",
+    "published": "2026-04-27T14:18:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b674898a18bb",
+    "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+    "summary_original": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-27T14:17:12-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6240d32042ac",
+    "title": "OpenAI available at FedRAMP Moderate",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "summary_original": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "thumbnail": "",
+    "published": "2026-04-27T14:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "d437f31ff7ef",
+    "title": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
+    "url": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/",
+    "summary_original": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves.\nThe article Sam Altman outlines five principles that double as justification for OpenAI&#039;s business decisions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-2.png",
+    "published": "2026-04-27T13:59:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "98533adb3aad",
+    "title": "「AI社員」も登場　ServiceNow新戦略から探る、「自動化された企業」から逆算するAI活用",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2604/27/news076.html",
+    "summary_original": "企業のAI活用はこれからどう進展し、人はどのような役割を果たすのか。「AI社員」も現れたServiceNowの新たな事業戦略から探る。",
+    "thumbnail": "",
+    "published": "2026-04-27T13:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "705b1c5bdea9",
+    "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+    "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "summary_original": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+    "thumbnail": "",
+    "published": "2026-04-27T13:16:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d26cae5cca28",
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "summary_original": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
+    "thumbnail": "",
+    "published": "2026-04-27T13:08:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a47d3e3f135f",
+    "title": "Rebuilding the data stack for AI",
+    "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+    "summary_original": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-27T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "af3addef690d",
+    "title": "Meta wants to power AI data centers with solar energy from space",
+    "url": "https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/",
+    "summary_original": "Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet.\nThe article Meta wants to power AI data centers with solar energy from space appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/meta_data_center.png",
+    "published": "2026-04-27T12:57:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0147e1017b65",
+    "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+    "summary_original": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and&#8239;OpenAI&#8239;products&#8239;will ship first [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431707/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-27T12:15:47-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "cbbc45a71bea",
+    "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/martincic-greatcarbonvalley-16x19-1.jpg?w=3000",
+    "published": "2026-04-27T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-27T11:50:29-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d25693c06821",
+    "title": "NECが人材育成サービスを刷新　「今後必要とされる人材像」を再定義した背景",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2604/24/news043.html",
+    "summary_original": "NECが人材育成サービス「BluStellar Academy for DX」をリニューアルする。独自のAIエージェントを活用し、組織変革サイクルを伴走支援する。今回同社が「今後企業が求める人物像」を再定義した背景に何があるのか。",
+    "thumbnail": "",
+    "published": "2026-04-27T11:20:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "294b64b70e9c",
+    "title": "China blocks Meta's $2 billion acquisition of AI startup Manus",
+    "url": "https://the-decoder.com/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/",
+    "summary_original": "Beijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China.\nThe article China blocks Meta&#039;s $2 billion acquisition of AI startup Manus appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/meta_manus_ai.png",
+    "published": "2026-04-27T11:08:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "01d2196eff05",
+    "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+    "summary_original": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to automatically switch the phrase [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Canva-Magic-Layers-AI-Palestine-switched.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-27T10:29:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3af4bc676764",
+    "title": "1日の予定に必要な情報が日常生活の中でパッと目に入ってストレスフリーな「SwitchBot スマートデイリーステーション」を使ってみた",
+    "url": "https://gigazine.net/news/20260427-switchbot-smart-daily-station/",
+    "summary_original": "スマートホーム家電や家庭用ロボットなどを扱うSwitchBotから新しく、暮らしに必要な情報を1画面にまとめて表示するスマート天気ステーション「SwitchBot スマートデイリーステーション」が登場したので、実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-27T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "504a524dd615",
+    "title": "The company with a monopoly on AI's most critical machine is racing to build more",
+    "url": "https://the-decoder.com/the-company-with-a-monopoly-on-ais-most-critical-machine-is-racing-to-build-more/",
+    "summary_original": "ASML plans to significantly increase production of its EUV lithography machines to keep pace with growing demand for AI chips, the Wall Street Journal reports.\nThe article The company with a monopoly on AI&#039;s most critical machine is racing to build more appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/08/asml_highna_cleanroom_veldhoven_067.jpg",
+    "published": "2026-04-27T08:58:25+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d1749c325548",
+    "title": "Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo",
+    "url": "https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/",
+    "summary_original": "Meta Reality Labs releases a new foundation model family for human-centric vision that pushes pose estimation, segmentation, and 3D geometry to new state-of-the-art levels — all from a single backbone.\nThe post Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-1.43.16-AM.png",
+    "published": "2026-04-27T08:47:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2c3bb1594e87",
+    "title": "空前のAIブーム！「猫も杓子もAI」な現状は今後も続くのか？【前編】",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2604/27/news010.html",
+    "summary_original": "近年「製品セキュリティ」と呼ばれ始めたセキュリティの新分野に関する事象を紹介し考察する本連載。今回は、連載テーマである「製品セキュリティ」から多少は逸脱するが、IT革命以来の世界を革新するものと世論に目されているAIのこれまでと今後について述べる。",
+    "thumbnail": "",
+    "published": "2026-04-27T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f1dfb9eb8bd0",
+    "title": "The AI-designed car is taking shape",
+    "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+    "summary_original": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/side.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-27T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "cb70df53d4d0",
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "summary_original": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "thumbnail": "",
+    "published": "2026-04-27T06:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5a8001824bcc",
+    "title": "The LoRA Assumption That Breaks in Production",
+    "url": "https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/",
+    "summary_original": "LoRA is widely used for fine-tuning large models because it’s efficient, but it quietly assumes that all updates to a model are similar. In reality, they’re not. When you fine-tune for style (like tone, format, or persona), the changes are simple and concentrated in just a few dimensions — which LoRA handles well with low-rank [&#8230;]\nThe post The LoRA Assumption That Breaks in Production  appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-56.png",
+    "published": "2026-04-27T05:33:44+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "305061905664",
+    "title": "How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama",
+    "url": "https://www.marktechpost.com/2026/04/26/how-to-build-a-fully-searchable-ai-knowledge-base-with-openkb-openrouter-and-llama/",
+    "summary_original": "In this tutorial, we explore how to build and query a local knowledge base with OpenKB using a free, open model via OpenRouter. We securely retrieve the API key with getpass, set up the environment without hardcoding secrets, and initialize a structured, wiki-style knowledge base from scratch. As we move through the workflow, we add [&#8230;]\nThe post How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e6.png",
+    "published": "2026-04-27T05:20:25+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6cf5cb128bee",
+    "title": "An open-source spec for orchestration: Symphony",
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "summary_original": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "thumbnail": "",
+    "published": "2026-04-27T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "329b8042445f",
+    "title": "Choco automates food distribution with AI agents",
+    "url": "https://openai.com/index/choco",
+    "summary_original": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "thumbnail": "",
+    "published": "2026-04-27T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "100e89029424",
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-27T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "1ba739b09513",
+    "title": "Our principles",
+    "url": "https://openai.com/index/our-principles",
+    "summary_original": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+    "thumbnail": "",
+    "published": "2026-04-26T16:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
