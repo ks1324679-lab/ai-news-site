@@ -1,0 +1,402 @@
+[
+  {
+    "id": "f0c3b196d07d",
+    "title": "「投資の神様」の必読書・iPhone 17 Proレビュー・アニメ原作者インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第1四半期版まとめ",
+    "url": "https://gigazine.net/news/20260429-gigazine-kindle-ranking-2026-q1/",
+    "summary_original": "GIGAZINEの記事を電子化した書籍を対象に、「2026年第1四半期で最もたくさん読まれた記事トップ100」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-29T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "df596dbeeb93",
+    "title": "20年ぶりに復活したスーパーファミコンエミュレータ「SUPER ZSNES」、完全にゼロから書き直されWindows・Mac・Android対応でiOSも対応予定",
+    "url": "https://gigazine.net/news/20260428-super-zsnes/",
+    "summary_original": "「ZSNES」は1997年からリリースされているスーパーファミコン用のエミュレーターで、2006年12月を最後にメジャーリリースが終了していました。そんなZSNESをオリジナル開発者2人が再集結してゼロから書き直した新しいバージョン「SUPER ZSNES」が2026年4月27日にリリースされました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-28T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5a7ceab43b3a",
+    "title": "AIを数分の1のデータ量で動かすための「TurboQuant」の仕組みをインタラクティブな図解で把握できるサイト「TurboQuant: A First-Principles Walkthrough」",
+    "url": "https://gigazine.net/news/20260428-turboquant-a-first-principles-walkthrough/",
+    "summary_original": "Google Researchは大規模言語モデルとベクトル検索エンジンのための新しい圧縮技術群の1つとして、「TurboQuant」を2026年3月に発表しました。AIで大きな負担になっているメモリ使用量を減らしつつ、処理速度と検索性能も高めることを目的としたこのTurboQuantとはどういうものなのかを視覚的に理解するためのサイト「TurboQuant: A First-Principles Walkthrough」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-28T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3e4ac0cd537e",
+    "title": "ウェブブラウザ「Brave」がFirefoxライクなコンテナ機能をテスト中",
+    "url": "https://gigazine.net/news/20260428-brave-container-like-firefox/",
+    "summary_original": "Firefoxは公式拡張機能の「Multi-Account Containers」をインストールすることでタブごとに異なるアカウントでウェブサービスを使えるようになります。Braveの新機能テストを行うNightlyビルドにFirefoxと同様の機能を提供するコンテナ機能が追加されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-28T21:40:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b3626783bcf9",
+    "title": "OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction Model with 50M Active Parameters",
+    "url": "https://www.marktechpost.com/2026/04/28/openai-releases-privacy-filter-a-1-5b-parameter-open-source-pii-redaction-model-with-50m-active-parameters/",
+    "summary_original": "OpenAI's Privacy Filter Is a 1.5B-Parameter PII Detector Built on a Distilled Decoder — And It Runs in Your Browser\nThe post OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction Model with 50M Active Parameters appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-04-28T21:37:57+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c349200acb68",
+    "title": "世界初のサイバー兵器とされてきた「Stuxnet」の前にさかのぼる妨害マルウェア「fast16」が見つかる",
+    "url": "https://gigazine.net/news/20260428-pre-stuxnet-sabotage-malware-fast16/",
+    "summary_original": "2010年に報告されたStuxnetは、アメリカ国家安全保障局(NSA)とイスラエルの情報機関によって作成されたマルウェアであり、イランの核施設を標的としたサイバー攻撃に使用されました。Stuxnetは世界初のサイバー兵器ともいわれてきましたが、そんなStuxnetより前にアメリカが開発したとみられるマルウェア「fast16」を発見したと、サイバーセキュリティ企業のSentinelOneが報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-28T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9ac17987a01d",
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "summary_original": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "thumbnail": "",
+    "published": "2026-04-28T19:48:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a1231f5b46cc",
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "summary_original": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "thumbnail": "",
+    "published": "2026-04-28T18:49:54+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ac5d0570facc",
+    "title": "「AI需要で半導体不足」の裏で本当に起きていること　東京エレクトロン デバイス幹部が明かす",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/28/news099.html",
+    "summary_original": "AI需要による半導体不足が叫ばれている。その裏側で何が起こっているのか。東京エレクトロン デバイスの幹部が語った要点をまとめた。",
+    "thumbnail": "",
+    "published": "2026-04-28T18:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8dcbd07fb3ff",
+    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "summary_original": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "thumbnail": "",
+    "published": "2026-04-28T18:15:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3d01698e4ba0",
+    "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
+    "url": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/",
+    "summary_original": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.\nThe article Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/retro_llm.png",
+    "published": "2026-04-28T18:07:13+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b1f6732b9d83",
+    "title": "DeNAやGOなど、AI勉強会の資料を無料公開中　累計100件超",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news106.html",
+    "summary_original": "ディー・エヌ・エー（DeNA）と、GO、GOドライブは、3社のAIエンジニアが集うAI勉強会の資料を無料公開している。",
+    "thumbnail": "",
+    "published": "2026-04-28T17:48:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7f296399ef8e",
+    "title": "IBM launches AI platform Bob to regulate SDLC costs",
+    "url": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
+    "summary_original": "To regulate software delivery costs and SDLC governance, IBM is launching Bob, an AI platform built to anchor enterprise engineering. Accumulated technical debt, hybrid cloud structures, and rigid compliance requirements clash with the raw speed of coding assistants. Without boundaries, they generate unmanaged liabilities rather than functional progress. Dinesh Nirmal, SVP at IBM Software, explained: [&#8230;]\nThe post IBM launches AI platform Bob to regulate SDLC costs appeared first on AI News...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-04-28T17:34:21+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c4b3a04bee65",
+    "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+    "summary_original": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-28T16:46:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f46abba89ed3",
+    "title": "Taylor Swift is stepping up the legal war on AI copycats",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+    "summary_original": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark applications filed last [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-28T16:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8a69f67e1d62",
+    "title": "Lovable launches its vibe-coding app on iOS and Android",
+    "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+    "summary_original": "The app allows developers to vibe code web apps and websites on the go.",
+    "thumbnail": "",
+    "published": "2026-04-28T16:09:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3fabcf9934d1",
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-28T15:58:57+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-28T15:27:50-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "21149ecd89ea",
+    "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+    "summary_original": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements over company structure and mission, including whether [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-28T15:00:13-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f4c08a439e2d",
+    "title": "世界のAI人材がシンガポールに集まる必然　米中対立の裏で第3極に、規制リスクも",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news095.html",
+    "summary_original": "米中の技術覇権争いが激化する中、シンガポールがAI産業の「中立地」として存在感を高めている。中国の監視や米国のビザ規制を避ける企業が、同国の良好なビジネス環境を求めて集結している。",
+    "thumbnail": "",
+    "published": "2026-04-28T14:59:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a911abb9f07a",
+    "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
+    "url": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/",
+    "summary_original": "Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems.\nThe article Mistral AI takes on enterprise AI orchestration with Workflows appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/mistral_ai_neural_network.png",
+    "published": "2026-04-28T14:58:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "54f84d733d8d",
+    "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
+    "url": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/",
+    "summary_original": "Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal.\nThe article Meta scrambles to unwind Manus deal as Beijing&#039;s deadline looms appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/meta_manus_ai.png",
+    "published": "2026-04-28T14:40:42+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "190e01a738c1",
+    "title": "OpenAI、Microsoftとの独占契約を緩和し他クラウドでモデル提供可能に　早速「Amazon Bedrock」で解禁へ",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news088.html",
+    "summary_original": "OpenAIとMicrosoftが提携契約を改訂。OpenAIの全ての製品がAzure以外のクラウドサービスで提供可能になる。",
+    "thumbnail": "",
+    "published": "2026-04-28T14:11:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "35ffafd44de0",
+    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+    "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+    "summary_original": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+    "thumbnail": "",
+    "published": "2026-04-28T13:54:06+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "edf4f5e91b5c",
+    "title": "TeamsもMeetもあるのに「ZoomのAI」を使う意味はあるか　“コスパ”と“電話”に活路、マーケティング責任者に聞いた",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news061.html",
+    "summary_original": "Web会議ツールのZoomが、生成AIを活用し業務完結を支援するプラットフォームへの再定義を進めている。競合のTeamsやMeetが普及する中、“会話”を軸とした差別化戦略と日本での勝ち筋を同社幹部らに聞いた。",
+    "thumbnail": "",
+    "published": "2026-04-28T13:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9ab53f0c9197",
+    "title": "The evolution of encoders: From simple models to multimodal AI",
+    "url": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
+    "summary_original": "When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI understands anything in the first place. That understanding begins with encoders. Think of an encoder as a translator that converts messy, real-world information into a structured language [&#8230;]\nThe post The evolution of encoders: From simple models to multimodal AI appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-28T13:01:51+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "22269976e67e",
+    "title": "Researchers find AI text is making the internet more uniform and weirdly cheerful",
+    "url": "https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/",
+    "summary_original": "A large-scale analysis of websites from the Internet Archive shows just how much AI text already saturates the web. According to the researchers, though, the actual effects look quite different from what the public assumes.\nThe article Researchers find AI text is making the internet more uniform and weirdly cheerful appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/07/ai_web_crawler.png",
+    "published": "2026-04-28T12:51:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "591f0318c5fb",
+    "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+    "summary_original": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its launch of Claude Design earlier this month. The new connectors [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Claude-creative-connectors-Blender-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-28T12:49:08-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "22a88b7f4896",
+    "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+    "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Mitvirus_color.webp?w=2127",
+    "published": "2026-04-28T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "5ef062740f9c",
+    "title": "Google's \"Ask YouTube\" turns video search into a conversation",
+    "url": "https://the-decoder.com/googles-ask-youtube-turns-video-search-into-a-conversation/",
+    "summary_original": "Google is testing \"Ask YouTube,\" a conversational search feature that replaces the standard video list with a results page combining text, full-length videos, and Shorts.\nThe article Google&#039;s &quot;Ask YouTube&quot; turns video search into a conversation appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/youtube_neura_network_illustration-2.png",
+    "published": "2026-04-28T11:30:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "47aa00a5527e",
+    "title": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
+    "url": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/",
+    "summary_original": "Kakao Mobility has set out plans to develop Level 4 autonomous driving technologies in-house as part of its physical AI strategy. Kim Jin-kyu, vice president and head of Kakao Mobility&#8217;s Physical AI division, presented the roadmap at the 2026 World IT Show conference at COEX in Seoul. His session focused on autonomous driving services built [&#8230;]\nThe post Kakao Mobility details Level 4 autonomous driving roadmap for physical AI appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-04-28T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "9dfd8a295fb1",
+    "title": "Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect",
+    "url": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/",
+    "summary_original": "When a company with US$15.5 million in annual revenue debuts on a stock exchange and its market capitalisation briefly hits US$10 billion, the obvious question is: what do investors know that the financials don&#8217;t show yet? In Lightelligence&#8217;s case, the answer is optical interconnect and the growing conviction that conventional copper wiring between AI chips [&#8230;]\nThe post Lightelligence&#8217;s 400% debut is a bet that AI&#8217;s next bottleneck is the optical interconnect appear...",
+    "thumbnail": "",
+    "published": "2026-04-28T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "4d5d6e891215",
+    "title": "Top 10 Physical AI Models Powering Real-World Robots in 2026",
+    "url": "https://www.marktechpost.com/2026/04/28/top-10-physical-ai-models-powering-real-world-robots-in-2026/",
+    "summary_original": "The gap between language model capabilities and robotic deployment has been narrowing considerably over the past 18 months. A new class of foundation models — purpose-built not for text generation but for physical action — is now running on real hardware across factories, warehouses, and research labs. These systems span deployed robot policies, private-preview VLAs, [&#8230;]\nThe post Top 10 Physical AI Models Powering Real-World Robots in 2026 appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-04-28T08:14:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fff6c60619c6",
+    "title": "How to Build a Lightweight Vision-Language-Action-Inspired Embodied Agent with Latent World Modeling and Model Predictive Control",
+    "url": "https://www.marktechpost.com/2026/04/27/how-to-build-a-lightweight-vision-language-action-inspired-embodied-agent-with-latent-world-modeling-and-model-predictive-control/",
+    "summary_original": "In this tutorial, we build an embodied simulation vision agent that learns to perceive, plan, predict, and replan directly from pixel observations. We create a fully NumPy-rendered grid world in which the agent observes RGB frames rather than symbolic state variables, enabling us to simulate a simplified Vision-Language-Action-style pipeline. We train a lightweight world model [&#8230;]\nThe post How to Build a Lightweight Vision-Language-Action-Inspired Embodied Agent with Latent World Modeling ...",
+    "thumbnail": "",
+    "published": "2026-04-28T04:59:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ea928e566c9c",
+    "title": "Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research",
+    "url": "https://www.marktechpost.com/2026/04/27/meet-talkie-1930-a-13b-open-weight-llm-trained-on-pre-1931-english-text-for-historical-reasoning-and-generalization-research/",
+    "summary_original": "What if a language model had never heard of the internet, smartphones, or even World War II? That&#8217;s not a hypothetical — it&#8217;s exactly what a team of researchers led by Nick Levine, David Duvenaud, and Alec Radford has built. They call it talkie, and it may be the most historically disciplined large language model [&#8230;]\nThe post Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research appeared first on MarkTechPo...",
+    "thumbnail": "",
+    "published": "2026-04-28T02:24:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d0682fe009b6",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "summary_original": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "thumbnail": "",
+    "published": "2026-04-28T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "370be1499991",
+    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+    "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "summary_original": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-27T22:52:57+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4c25e1aa082d",
+    "title": "Open source package with 1 million monthly downloads stole user credentials",
+    "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+    "summary_original": "If you're one of millions using element-data, it's time to check for compromise.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg",
+    "published": "2026-04-27T21:04:03+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c41f4ff5cb6b",
+    "title": "Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering",
+    "url": "https://www.marktechpost.com/2026/04/27/build-a-reinforcement-learning-powered-agent-that-learns-to-retrieve-relevant-long-term-memories/",
+    "summary_original": "In this tutorial, we build a Reinforcement Learning–driven agent that learns how to retrieve relevant memories from a long-term memory bank. We start by constructing a synthetic memory dataset and generating queries that require the agent to recall specific information. Using OpenAI embeddings, we convert both memories and queries into vector representations, enabling similarity signals [&#8230;]\nThe post Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Mem...",
+    "thumbnail": "",
+    "published": "2026-04-27T18:58:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c4880d927b46",
+    "title": "The missing step between hype and profit",
+    "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-27T16:13:41+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
