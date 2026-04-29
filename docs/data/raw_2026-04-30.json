@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ed5277e02e86",
+    "title": "心臓が「がん」になりにくいのはドクンドクンと鼓動し続けているからかもしれない",
+    "url": "https://gigazine.net/news/20260430-heartbeat-suppress-cancer-growth/",
+    "summary_original": "心臓そのものから発生するがんは非常にまれであり、その理由としては成人の心臓細胞はほとんど分裂しないためDNA複製エラーが起きにくいことや、心臓が胸部の奥にあり発がん性物質の直接的な影響を受けにくいことなどが考えられてきました。そんな中、2026年4月24日に発表された研究では、心臓が鼓動し続ける時に生じる物理的な力が心臓内のがん細胞を増えにくくしているという可能性が新たに示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-30T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "94032e8016b8",
+    "title": "JavaScriptの日付の概念を変革するTemporalオブジェクト誕生までの9年間の道のり",
+    "url": "https://gigazine.net/news/20260429-fix-time-in-javascript/",
+    "summary_original": "JavaScriptの標準であるECMAScriptに元々組み込まれているDateオブジェクトを置き換える新しい日時API「Temporal」が導入されます。TemporalはJavaScriptの日時操作における多くの課題を解決することを目指しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-29T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c56e0d0e76fe",
+    "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+    "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+    "summary_original": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+    "thumbnail": "",
+    "published": "2026-04-29T20:59:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e8e27b647625",
+    "title": "光学ズームレンズ搭載＆最大2億画素で撮影可能なスマホ「Xiaomi 17 Ultra」でいろいろ撮影してきました",
+    "url": "https://gigazine.net/news/20260429-xiaomi-17-ultra-photo-example/",
+    "summary_original": "「Xiaomi 17 Ultra」はライカブランドを冠する3個の背面カメラを搭載したスマートフォンです。「1インチセンサーを搭載したメインカメラ」や「2億画素で撮影可能かつ光学ズームも可能な望遠カメラ」を搭載したカメラ性能の高さが特徴で、専用のグリップを装着するとデジタルカメラ風の見た目になるという面白い特徴を備えています。そんなXiaomi 17 Ultraを借りられたので、どんな写真を撮影できるのか確かめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-29T20:07:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a0227435def0",
+    "title": "無料で個人のタスク管理・大規模なプロジェクト管理・詳細なメモの整理まで効率的に作業を分類・追跡できる「Tududi」、セルフホスト可能でオープンソース",
+    "url": "https://gigazine.net/news/20260429-tududi/",
+    "summary_original": "タスク管理アプリは便利ですが無料版だと機能制限があったり、有料プランは月額料金が必要だったりします。さらに仕事や個人情報を外部クラウドに置くことへ不安を感じる人も少なくありません。そこで無料で機能制限もなく、セルフホスト運用が可能なオープンソースのタスク管理ツール「Tududi」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-29T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "acbd069544a9",
+    "title": "Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods",
+    "url": "https://www.marktechpost.com/2026/04/29/top-10-kv-cache-compression-techniques-for-llm-inference-reducing-memory-overhead-across-eviction-quantization-and-low-rank-methods/",
+    "summary_original": "Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods\nThe post Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-04-29T19:28:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "95d960bef3c8",
+    "title": "AnthropicがClaudeとAdobeやBlenderなどのツールを直接連携できるコネクタを発表、Ableton・Canva・Autodesk・Resolume・SketchUp・Spliceも",
+    "url": "https://gigazine.net/news/20260429-claude-for-creative-work/",
+    "summary_original": "「クリエイターの活動の幅を広げる」ことを目指して、AnthropicがAdobeをはじめとしたパートナー企業と連携し、Claudeを各社のツールに統合するコネクタをリリースしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-04-29T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "20eea33e5405",
+    "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+    "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+    "summary_original": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI.   The technology goes way beyond [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-04-29T18:59:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ddc6e0690928",
+    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+    "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "summary_original": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+    "thumbnail": "",
+    "published": "2026-04-29T18:33:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "be8e64e7478d",
+    "title": "Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts",
+    "url": "https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/",
+    "summary_original": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent for malicious ones.\nThe article Mistral&#039;s Le Chat spreads Iran war disinformation in 60 percent of leading prompts appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/07/Mistral-Logo-Pattern-GPT-4o.jpg",
+    "published": "2026-04-29T18:31:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bce1da5c3e7e",
+    "title": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs",
+    "url": "https://www.marktechpost.com/2026/04/29/qwen-team-releases-flashqla-a-high-performance-linear-attention-kernel-library-that-achieves-up-to-3x-speedup-on-nvidia-hopper-gpus/",
+    "summary_original": "The QwenLM team has released FlashQLA, a new kernel library that dramatically accelerates the forward and backward passes of Gated Delta Network (GDN) Chunked Prefill, targeting both large-scale pretraining and edge-side agentic inference scenarios.\nThe post Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-10.27.48-AM-1.png",
+    "published": "2026-04-29T17:28:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "613f48fed2bc",
+    "title": "Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat",
+    "url": "https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/",
+    "summary_original": "Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets.\nThe article Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_shilouette.png",
+    "published": "2026-04-29T17:18:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "33ea9610c4d5",
+    "title": "AI evals are becoming the new compute bottleneck",
+    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-29T16:45:09+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "b7ff057f3fbb",
+    "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+    "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+    "summary_original": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+    "thumbnail": "",
+    "published": "2026-04-29T16:42:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0a618e6c1c6c",
+    "title": "More Gemini features are coming to Google TV",
+    "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+    "summary_original": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+    "thumbnail": "",
+    "published": "2026-04-29T16:40:49+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d977de12935c",
+    "title": "Step by Step Guide to Build a Complete PII Detection and Redaction Pipeline with OpenAI Privacy Filter",
+    "url": "https://www.marktechpost.com/2026/04/29/step-by-step-guide-to-build-a-complete-pii-detection-and-redaction-pipeline-with-openai-privacy-filter/",
+    "summary_original": "In this tutorial, we build a complete, production-style pipeline for detecting and redacting personally identifiable information using the OpenAI Privacy Filter. We begin by setting up the environment and loading a token classification model that identifies multiple categories of sensitive data, including names, emails, phone numbers, addresses, and secrets. We then design helper functions to [&#8230;]\nThe post Step by Step Guide to Build a Complete PII Detection and Redaction Pipeline with Open...",
+    "thumbnail": "",
+    "published": "2026-04-29T16:38:30+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "04d7f3e10def",
+    "title": "Google Search queries hit an ‘all time high’ last quarter",
+    "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+    "summary_original": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-29T16:28:11-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "856a51b51c28",
+    "title": "OpenAI researchers explain why math is the road to AGI",
+    "url": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/",
+    "summary_original": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelligence.\nThe article OpenAI researchers explain why math is the road to AGI appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/ai_in_science_math.jpeg",
+    "published": "2026-04-29T15:24:12+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "59ef3aa9e68b",
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-29T15:01:48+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "489362c10603",
+    "title": "All the evidence unveiled so far in Musk v. Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "summary_original": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-29T14:03:05-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6931604ab8a5",
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "url": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
+    "summary_original": "Getting stalled enterprise AI rollouts in the EMEA region moving again will require CIOs to aggressively audit their systems. Over the past 18 months, AI deployments across Europe advanced far beyond initial testing. Companies poured capital into large language models and machine learning, expecting heavy operational upgrades. IDC research reveals that boards are slowing down, [&#8230;]\nThe post IDC: How EMEA CIOs can jumpstart AI rollouts appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-04-29T14:02:45+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "f68cdc4ceeae",
+    "title": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
+    "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+    "summary_original": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bringing AI features to Ubuntu, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CHATBOT_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-29T13:32:02-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d75818325f3c",
+    "title": "White House moves to restore Anthropic access after Pentagon standoff",
+    "url": "https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/",
+    "summary_original": "The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos.\nThe article White House moves to restore Anthropic access after Pentagon standoff appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png",
+    "published": "2026-04-29T13:23:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "911b6e0c650f",
+    "title": "OpenAI lands on AWS one day after Microsoft deal restructuring",
+    "url": "https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring/",
+    "summary_original": "Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.\nThe article OpenAI lands on AWS one day after Microsoft deal restructuring appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/openai-aws.png",
+    "published": "2026-04-29T13:06:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f6e9fc2af9bf",
+    "title": "The Download: storing nuclear waste and orchestrating agents",
+    "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/11/biometric-face-copy.jpg?w=3000",
+    "published": "2026-04-29T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "39e4cbbc4ec6",
+    "title": "Google Photos launches an AI try-on feature for clothes you already have",
+    "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+    "summary_original": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/wardrobe-try-on.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-29T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-04-29T11:35:32-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dc28630cd03a",
+    "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+    "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+    "summary_original": "Security firms find themselves especially exposed.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
+    "published": "2026-04-29T11:00:24+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "25f25fdff561",
+    "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
+    "url": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
+    "summary_original": "OpenAI launched GPT-5.5 on April 23 as what it calls &#8220;a new class of intelligence for real work and powering agents,&#8221; and the framing is deliberate. OpenAI says it&#8217;s the most capable agentic AI model to date, built from the ground up to plan, use tools, check its own output, and work through tasks independently. [&#8230;]\nThe post GPT-5.5 is OpenAI&#8217;s most capable agentic AI model yet appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-04-29T09:08:13+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "632e6abffd91",
+    "title": "ClaudeでBlenderやPhotoshopを直接制御　Anthropicがクリエイティブ向け新コネクタ8件公開",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/29/news027.html",
+    "summary_original": "Anthropicは、ClaudeにAdobe PhotoshopやBlenderなどと連携する8種類のクリエイティブ系「コネクタ」を導入した。AIが反復作業やデータ同期を担うことで、クリエイターは手動の工程を省き、迅速なアイデア創出が可能になるとしている。",
+    "thumbnail": "",
+    "published": "2026-04-29T09:01:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3fc35b0b76f1",
+    "title": "AIエージェントを活用する中堅・中小は何を使っている？　先進企業が「手放さないツール」【調査】",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2604/29/news017.html",
+    "summary_original": "ノークリサーチの調査で、AIエージェントを既に導入している中堅・中小企業が併用するツールが判明した。AIエージェント活用企業が併用するツールとは何か。",
+    "thumbnail": "",
+    "published": "2026-04-29T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9a12538ce263",
+    "title": "「OpenAIの独占権」手放したMicrosoft、AI競争に勝てるか？　巨額投資マネーの行方は",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/29/news026.html",
+    "summary_original": "Google、Microsoft、Meta、AmazonによるAI投資が止まらない。ビッグテックは巨額の投資を回収できるのか。特にMicrosoftに厳しい目が向けられている。",
+    "thumbnail": "",
+    "published": "2026-04-29T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "60838243cf1e",
+    "title": "It’s time to make a plan for nuclear waste",
+    "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+    "summary_original": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time to talk about an old problem:&#8230;",
+    "thumbnail": "",
+    "published": "2026-04-29T08:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "20240eabe240",
+    "title": "Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings",
+    "url": "https://www.marktechpost.com/2026/04/29/meta-fair-releases-neuralset-a-python-package-for-neuro-ai-that-supports-fmri-m-eeg-spikes-and-huggingface-embeddings/",
+    "summary_original": "Introducing NeuralSet: Meta's Simple, Fast, and Scalable Python Package That Bridges Neuroscience and AI\nThe post Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-12.54.07-AM-1.png",
+    "published": "2026-04-29T07:56:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c14bd73ae9f9",
+    "title": "smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3",
+    "url": "https://www.marktechpost.com/2026/04/29/smol-audio-a-colab-friendly-notebook-collection-for-fine-tuning-whisper-parakeet-voxtral-granite-speech-and-audio-flamingo-3/",
+    "summary_original": "smol-audio Is the Audio AI Cookbook Practitioners Have Been Waiting For\nThe post smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3 appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2194.png",
+    "published": "2026-04-29T07:31:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "61effb4f0685",
+    "title": "AIに丸投げ……で失敗　漫画「1週間後に生成AIで恥をかく新入社員」【残り1日】",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/10/news006.html",
+    "summary_original": "とある企業に入社した新入社員「ニイジマ」が、AI活用の“地雷”を踏みまくっていく様子を通して、会社におけるAIの使い方、その初歩を紹介します。",
+    "thumbnail": "",
+    "published": "2026-04-29T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ad57812b466e",
+    "title": "Cybersecurity in the Intelligence Age",
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "summary_original": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "thumbnail": "",
+    "published": "2026-04-29T04:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f6674537e2b8",
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-04-29T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "ac5d0570facc",
+    "title": "「AI需要で半導体不足」の裏で本当に起きていること　東京エレクトロン デバイス幹部が明かす",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/28/news099.html",
+    "summary_original": "AI需要による半導体不足が叫ばれている。その裏側で何が起こっているのか。東京エレクトロン デバイスの幹部が語った要点をまとめた。",
+    "thumbnail": "",
+    "published": "2026-04-28T18:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7f296399ef8e",
+    "title": "IBM launches AI platform Bob to regulate SDLC costs",
+    "url": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
+    "summary_original": "To regulate software delivery costs and SDLC governance, IBM is launching Bob, an AI platform built to anchor enterprise engineering. Accumulated technical debt, hybrid cloud structures, and rigid compliance requirements clash with the raw speed of coding assistants. Without boundaries, they generate unmanaged liabilities rather than functional progress. Dinesh Nirmal, SVP at IBM Software, explained: [&#8230;]\nThe post IBM launches AI platform Bob to regulate SDLC costs appeared first on AI News...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-04-28T17:34:21+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
