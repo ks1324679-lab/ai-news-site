@@ -1,0 +1,382 @@
+[
+  {
+    "id": "6b11f3214f40",
+    "title": "PS5をLinuxゲーミングPCに魔改造してSteamゲームなどをプレイ可能にする「ps5-linux」が公開される",
+    "url": "https://gigazine.net/news/20260501-ps5-linux/",
+    "summary_original": "PlayStation 5(PS5)本体上でLinux環境を動かすプロジェクト「ps5-linux」を開発者のアンディ・グエン氏がGitHubで公開しました。PS5上で完全なデスクトップLinux環境を構築することで、PS5のプラットフォームでは提供されていないPCゲームや設定にアクセスできます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-01T21:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b4d10594f734",
+    "title": "燃料や合成繊維の原料として広く使われる石油を生み出す石油精製工場の仕組みとは？",
+    "url": "https://gigazine.net/news/20260501-how-oil-refinery-works/",
+    "summary_original": "再生可能エネルギーが注目される昨今においても、全世界で1日当たり1億バレル以上の石油が消費されています。2023年時点でも石油は世界のエネルギー消費量の30％を担っており、これはどのエネルギー源よりも高い割合です。そんな石油を生み出す石油精製工場の仕組みを、ソフトバンクが出資する建設系スタートアップのKaterraでエンジニアリングチームのマネージャーを務めたブライアン・ポッター氏が解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-01T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "217d8086588d",
+    "title": "A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to DPO and GRPO Reasoning",
+    "url": "https://www.marktechpost.com/2026/05/01/a-coding-guide-on-llm-post-training-with-trl-from-supervised-fine-tuning-to-dpo-and-grpo-reasoning/",
+    "summary_original": "In this tutorial, we walk through a complete, hands-on journey of post-training large language models using the powerful TRL (Transformer Reinforcement Learning) library ecosystem. We start from a lightweight base model and progressively apply four key techniques: Supervised Fine-Tuning (SFT), Reward Modeling (RM), Direct Preference Optimization (DPO), and Group Relative Policy Optimization (GRPO). Also, we [&#8230;]\nThe post A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuni...",
+    "thumbnail": "",
+    "published": "2026-05-01T20:52:08+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1e987bf1ebb6",
+    "title": "Claude CodeでGit履歴に「OpenClaw」の文字列があるだけで利用制限や追加課金が発生するとの報告",
+    "url": "https://gigazine.net/news/20260501-claude-code-ban-openclaw/",
+    "summary_original": "AIコーディング支援ツール「Claude Code」において、Gitのコミット履歴に「OpenClaw」という文字列が含まれているだけで、リクエストが拒否されたり追加課金に回されたりするという報告がXで話題になっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-01T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9ea1b459b314",
+    "title": "2026年5月1日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260501-headline/",
+    "summary_original": "データカードダス『アイカツ！アンコール』が2026年秋から稼働する予定であることが発表されました。稼働にあわせて、アニメ『アイカツ！』のアンコール放送も行われる予定だとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-01T19:18:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e1391b33613e",
+    "title": "Ubuntu infrastructure has been down for more than a day",
+    "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "summary_original": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-1000x648.jpg",
+    "published": "2026-05-01T19:12:26+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "65a4284e6068",
+    "title": "Googleフォトに“バーチャル試着機能”登場　写真内の衣服を登録、アプリで組み合わせ可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/01/news118.html",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-01T19:05:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b9e8e21a7a63",
+    "title": "ChatGPTの「画像生成」、どう進化？　開発者に聞く　“文字化け解消”の秘訣",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news110.html",
+    "summary_original": "米OpenAIの画像生成AI「ChatGPT Images 2.0」はどのように進化したのか。ポイントを開発者に聞いた。",
+    "thumbnail": "",
+    "published": "2026-05-01T17:49:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f15b72a01048",
+    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "summary_original": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-05-01T17:44:29+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e85e9cb1897e",
+    "title": "GPT-5.5のサイバー攻撃能力は一部「Mythos超え」　英政府機関が評価",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news108.html",
+    "summary_original": "英国のAISIは、OpenAIの「GPT-5.5」が「Claude Mythos Preview」と同等のサイバー攻撃能力を持つとの評価を公表した。能力向上が業界共通の傾向である可能性が示唆されている。",
+    "thumbnail": "",
+    "published": "2026-05-01T17:22:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fddd5ab2a9dd",
+    "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
+    "url": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
+    "summary_original": "Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk.\nThe article Eight tech giants sign Pentagon deals to build an &quot;AI-first fighting force&quot; across classified networks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy.png",
+    "published": "2026-05-01T16:30:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8b842ec9f942",
+    "title": "First Chinese AI startups are reportedly ditching offshore structures to register directly in China",
+    "url": "https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/",
+    "summary_original": "After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures and registering directly in China as part of Beijing's broader push to keep its AI industry under tight control.\nThe article First Chinese AI startups are reportedly ditching offshore structures to register directly in China appeared first on T...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/china_dragon_ai.png",
+    "published": "2026-05-01T16:06:04+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f9eee99f5f65",
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "summary_original": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "thumbnail": "",
+    "published": "2026-05-01T16:02:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6100f49737ff",
+    "title": "Cyber-Insecurity in the AI Era",
+    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "summary_original": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png",
+    "published": "2026-05-01T15:54:01+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "279ca32df23a",
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "summary_original": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Davidson_square.png",
+    "published": "2026-05-01T15:31:09+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "489362c10603",
+    "title": "All the evidence revealed so far in Musk v. Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "summary_original": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T15:14:51-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9eb05cb032d1",
+    "title": "Big tech's AI spending balloons to $725 billion this year",
+    "url": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
+    "summary_original": "Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year.\nThe article Big tech&#039;s AI spending balloons to $725 billion this year appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/big_tech_cloud.png",
+    "published": "2026-05-01T14:41:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a8510694c53e",
+    "title": "なぜ？　ChatGPTの回答で「ゴブリン」増殖の謎　OpenAIが対策済み",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news085.html",
+    "summary_original": "ChatGPTで「ゴブリン」の比喩が急増した原因をOpenAIが解明。原因は「オタク」人格設定の学習過程における過剰評価だった。後継モデルにも波及したが、現在は人格の廃止やプロンプトによる抑制で修正が図られている。",
+    "thumbnail": "",
+    "published": "2026-05-01T14:25:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c993597b3fe5",
+    "title": "Musk v. Altman is just getting started",
+    "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "summary_original": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-05-01T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "18dd4a80aa23",
+    "title": "ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training",
+    "url": "https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/",
+    "summary_original": "A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce unexpected side effects.\nThe article ChatGPT&#039;s goblin obsession may be hilarious, but it points to a deeper problem in AI training appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_goblins.png",
+    "published": "2026-05-01T13:47:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "85214b832183",
+    "title": "Microsoft puts an AI legal agent inside Word for contract review",
+    "url": "https://the-decoder.com/microsoft-puts-an-ai-legal-agent-inside-word-for-contract-review/",
+    "summary_original": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines.\nThe article Microsoft puts an AI legal agent inside Word for contract review appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/microsoft_logo.png",
+    "published": "2026-05-01T13:11:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f6ad6f4147f7",
+    "title": "NVIDIA「NemoClaw」がAIエージェント推進の転換点に　Clawブームで直面する「特権リスク」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/01/news057.html",
+    "summary_original": "企業の関心が「対話型AI」から「AIエージェント」へと移り変わる中、ABI ResearchはNVIDIAのNemoClawを「エンタープライズにおけるAIエージェント採用を加速させるための転換点になる」との見解を示した。",
+    "thumbnail": "",
+    "published": "2026-05-01T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "51238cf7a49d",
+    "title": "The Download: a new Christian phone network, and debugging LLMs",
+    "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Mountain_Pass_thumb.jpg?w=3000",
+    "published": "2026-05-01T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "103feabc1f38",
+    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+    "summary_original": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T10:09:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "889806c7134e",
+    "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+    "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+    "summary_original": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/tank_testing_04.jpg?w=2514",
+    "published": "2026-05-01T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "25346cb6d7fa",
+    "title": "Elon Musk had a bad week in court",
+    "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+    "summary_original": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T09:33:15-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "11088b9f216b",
+    "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+    "summary_original": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T09:25:25-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "fca11ef90679",
+    "title": "憧れの女性をゲーム化したい男VSゲームじゃなく自分を見てほしい女のフルカラーマンガ「作らせて！絵島さん」を描き下ろしマンガやおまけ資料たっぷりでリリースしました",
+    "url": "https://gigazine.net/news/20260501-eshima-san-comics/",
+    "summary_original": "ゲームじゃなく自分を見てほしい女と憧れの女性をゲーム化したい男が攻防するフルカラーマンガ「作らせて！絵島さん」の単行本がリリースしました。AmazonのKindle本としてダウンロードできるほか、紙書籍版のリリースも予定しています。電子書籍のリリースを記念して2026年5月5日17時まで無料ダウンロードキャンペーンを開催中のため、ぜひチェックしてみてください。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-01T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a8a9c980b710",
+    "title": "Trump’s mass firing just dealt another blow to American science",
+    "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+    "summary_original": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-01T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ec25c9a9e974",
+    "title": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools",
+    "url": "https://www.marktechpost.com/2026/05/01/qwen-ai-releases-qwen-scope-an-open-source-sparse-autoencoders-sae-suite-that-turns-llm-internal-features-into-practical-development-tools/",
+    "summary_original": "Qwen Team Introduces Qwen-Scope: An Open-Source Sparse Autoencoder Suite That Turns LLM Internals into Practical Development Tools\nThe post Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-1.00.12-AM-1.png",
+    "published": "2026-05-01T08:25:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a28baaadcf88",
+    "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+    "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+    "summary_original": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T07:18:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3c5971cc8977",
+    "title": "A Coding Deep Dive into Agentic UI, Generative UI, State Synchronization, and Interrupt-Driven Approval Flows",
+    "url": "https://www.marktechpost.com/2026/04/30/a-coding-deep-dive-into-agentic-ui-generative-ui-state-synchronization-and-interrupt-driven-approval-flows/",
+    "summary_original": "In this tutorial, we build the entire Agentic UI stack from the ground up using plain Python, without relying on external frameworks to abstract away the core ideas. We implement the AG-UI event stream to make agent behavior observable in real time, and we bring in A2UI as a declarative layer that allows interfaces to [&#8230;]\nThe post A Coding Deep Dive into Agentic UI, Generative UI, State Synchronization, and Interrupt-Driven Approval Flows appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-05-01T05:06:51+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d02cf6c66a23",
+    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "summary_original": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+    "thumbnail": "",
+    "published": "2026-05-01T02:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "915f6aca8279",
+    "title": "Moonshot AI Open-Sources FlashKDA: CUTLASS Kernels for Kimi Delta Attention with Variable-Length Batching and H20 Benchmarks",
+    "url": "https://www.marktechpost.com/2026/04/30/moonshot-ai-open-sources-flashkda-cutlass-kernels-for-kimi-delta-attention-with-variable-length-batching-and-h20-benchmarks/",
+    "summary_original": "Moonshot AI releases FlashKDA, a high-performance implementation of Kimi Delta Attention that plugs directly into the flash-linear-attention ecosystem — and benchmarks show it's meaningfully faster.\nThe post Moonshot AI Open-Sources FlashKDA: CUTLASS Kernels for Kimi Delta Attention with Variable-Length Batching and H20 Benchmarks appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-01T01:16:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "70e87d03ffc2",
+    "title": "Microsoft Research’s World-R1 Uses Flow-GRPO and 3D-Aware Rewards to Inject Geometric Consistency Into Wan 2.1 Without Architectural Changes",
+    "url": "https://www.marktechpost.com/2026/04/30/microsoft-researchs-world-r1-uses-flow-grpo-and-3d-aware-rewards-to-inject-geometric-consistency-into-wan-2-1-without-architectural-changes/",
+    "summary_original": "Microsoft Research's World-R1 Uses Reinforcement Learning to Force 3D Consistency Into Text-to-Video Models\nThe post Microsoft Research&#8217;s World-R1 Uses Flow-GRPO and 3D-Aware Rewards to Inject Geometric Consistency Into Wan 2.1 Without Architectural Changes appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-5.32.14-PM-1.png",
+    "published": "2026-05-01T00:40:01+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e0cea1ae2c83",
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "summary_original": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "thumbnail": "",
+    "published": "2026-04-30T23:07:56+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f2bf8f931c48",
+    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+    "summary_original": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+    "published": "2026-04-30T20:20:48+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "7ec2acda9d69",
+    "title": "Introducing Advanced Account Security",
+    "url": "https://openai.com/index/advanced-account-security",
+    "summary_original": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+    "thumbnail": "",
+    "published": "2026-04-30T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
