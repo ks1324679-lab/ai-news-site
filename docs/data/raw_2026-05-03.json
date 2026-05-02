@@ -1,0 +1,382 @@
+[
+  {
+    "id": "057f2086f19a",
+    "title": "知能が高い人は「他人の知能」もより正しく判断できるとの研究結果",
+    "url": "https://gigazine.net/news/20260502-intelligent-people-judges-others-intelligence/",
+    "summary_original": "知能とは何かを学習したり、推論を働かせたり、問題を解決したりする能力のことであり、社会的な交流を円滑に進める上でも重要です。人々は短時間の社会的接触から他人の知能を判断する能力を持っていますが、知能が高い人は「他人の知能」をより正確に判断できることが新たな研究で示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-02T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "621d4a6ace2b",
+    "title": "WireGuardベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260502-netbird/",
+    "summary_original": "リモートワークの普及により、安全な社内ネットワーク構築の重要性が増しています。「スマホ・PC間で安全なネットワークを簡単に構築できる『Tailscale』レビュー」のように簡単にVPNを設定できる製品も登場していますが、Tailscaleはホストサーバーが外部サービスとして提供されているためサービスの継続性やセキュリティ面に懸念があります。そこで、ホストサーバー自体もセルフホスティングが可能で無料で利用できる「NetBird」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-02T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "79ddab42d297",
+    "title": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation",
+    "url": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
+    "summary_original": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation\nThe post Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-02T20:31:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "49886bd5e4ba",
+    "title": "ChatGPTのボット検知システム「Turnstile」の内部構造とSentinelチャレンジの全貌が明らかに",
+    "url": "https://gigazine.net/news/20260502-chatgpt-cloudflare/",
+    "summary_original": "ChatGPTが利用するCloudflareのボット検知システム「Turnstile」の内部構造および関連するSentinelチャレンジに関する詳細な解析結果が、セキュリティ研究やリバースエンジニアリングを扱う技術ブログサイトのBuchodiによって公開されました。ネットワークトラフィックの傍受とSDKの難読化解除を通じて解析が行われ、どのようにボットが検知されトークンが生成されるのかという仕組みが明らかにされています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-02T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f620eec25f20",
+    "title": "The best AI dictation apps, tested and ranked",
+    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "summary_original": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    "thumbnail": "",
+    "published": "2026-05-02T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0c5aa36def13",
+    "title": "イラストも写真もドット絵に変換できるウェブアプリ「Sora’s Pixel Converter」",
+    "url": "https://gigazine.net/news/20260502-soras-pixel-converter/",
+    "summary_original": "「Sora's Pixel Converter」はAmeniwa(あめにわ)氏が開発したドット絵変換ウェブアプリで、画像をドラッグ＆ドロップしてボタンをポチポチクリックするだけで印象深いドット絵を作成できます。面白そうだったので実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-02T15:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f6dfac97d440",
+    "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
+    "url": "https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/",
+    "summary_original": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble.\nThe article Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/arc-agi-benchmark.png",
+    "published": "2026-05-02T13:31:52+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ead01dc93691",
+    "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
+    "url": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
+    "summary_original": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs.\nThe article xAI&#039;s new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/xai_gro_clone_voice.png",
+    "published": "2026-05-02T12:14:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b9c37b282907",
+    "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
+    "url": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
+    "summary_original": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society.\nThe article Nvidia CEO Jensen Huang calls out tech leaders&#039; &quot;god complex&quot; over reckless AI job loss predictions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-scaled.png",
+    "published": "2026-05-02T10:32:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "601739a378a7",
+    "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
+    "url": "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/",
+    "summary_original": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead.\nThe article Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/sam_altman_vs_elon_musk.png",
+    "published": "2026-05-02T09:27:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "91c10ba95678",
+    "title": "【GW電子書籍セール50％オフ】Kindle本をGW期間中まるっと半額にしたセールを開催しました！【2026年5月6日(水)まで】",
+    "url": "https://gigazine.net/news/20260502-ebook-gw-sale/",
+    "summary_original": "マンガや旅行記などをまるっと半額にしたGIGAZINE電子書籍セールを開催しました。セール期間はGW最終日の2026年5月6日(水)までとなっていますので、GW休みで暇という方もイベントや仕事で忙しいという方も、ぜひこの機会に気になる作品をチェックしてみてください。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-02T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "300f2e97fbf2",
+    "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
+    "url": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
+    "summary_original": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings.\nThe article ChatGPT now tracks users for ads by default as OpenAI looks for new revenue appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+    "published": "2026-05-02T08:30:15+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "87ba3018d851",
+    "title": "A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent Reasoning Traces Using the lambda/hermes-agent-reasoning-traces Dataset",
+    "url": "https://www.marktechpost.com/2026/05/02/a-coding-implementation-to-parsing-analyzing-visualizing-and-fine-tuning-agent-reasoning-traces-using-the-lambda-hermes-agent-reasoning-traces-dataset/",
+    "summary_original": "In this tutorial, we explore the lambda/hermes-agent-reasoning-traces dataset to understand how agent-based models think, use tools, and generate responses across multi-turn conversations. We start by loading and inspecting the dataset, examining its structure, categories, and conversational format to get a clear idea of the available information. We then build simple parsers to extract key components [&#8230;]\nThe post A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4ad.png",
+    "published": "2026-05-02T07:47:46+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2d56d0c7ad85",
+    "title": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B",
+    "url": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
+    "summary_original": "A new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales.\nThe post A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-8.46.43-PM-1.png",
+    "published": "2026-05-02T03:47:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4402a373adb3",
+    "title": "A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
+    "url": "https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/",
+    "summary_original": "In this tutorial, we explore how we can decode linguistic features directly from brain signals using a modern neuroAI pipeline. We work with MEG data and build an end-to-end system that transforms raw neural activity into meaningful predictions, in this case, estimating word length from brain responses. We set up the environment, load and process [&#8230;]\nThe post A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Fe...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
+    "published": "2026-05-01T23:09:48+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "09c409434735",
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "summary_original": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+    "thumbnail": "",
+    "published": "2026-05-01T23:06:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "80cba93c9d6b",
+    "title": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation",
+    "url": "https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/",
+    "summary_original": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation\nThe post Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-3.22.52-PM-1.png",
+    "published": "2026-05-01T22:24:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0809bbe44568",
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "summary_original": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "thumbnail": "",
+    "published": "2026-05-01T22:13:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "572f1821c4c2",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "summary_original": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-01T22:08:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e1391b33613e",
+    "title": "Ubuntu infrastructure has been down for more than a day",
+    "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "summary_original": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-1000x648.jpg",
+    "published": "2026-05-01T19:12:26+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "65a4284e6068",
+    "title": "Googleフォトに“バーチャル試着機能”登場　写真内の衣服を登録、アプリで組み合わせ可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/01/news118.html",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-01T19:05:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b9e8e21a7a63",
+    "title": "ChatGPTの「画像生成」、どう進化？　開発者に聞く　“文字化け解消”の秘訣",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news110.html",
+    "summary_original": "米OpenAIの画像生成AI「ChatGPT Images 2.0」はどのように進化したのか。ポイントを開発者に聞いた。",
+    "thumbnail": "",
+    "published": "2026-05-01T17:49:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f15b72a01048",
+    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "summary_original": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-05-01T17:44:29+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e85e9cb1897e",
+    "title": "GPT-5.5のサイバー攻撃能力は一部「Mythos超え」　英政府機関が評価",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news108.html",
+    "summary_original": "英国のAISIは、OpenAIの「GPT-5.5」が「Claude Mythos Preview」と同等のサイバー攻撃能力を持つとの評価を公表した。能力向上が業界共通の傾向である可能性が示唆されている。",
+    "thumbnail": "",
+    "published": "2026-05-01T17:22:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f9eee99f5f65",
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "summary_original": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "thumbnail": "",
+    "published": "2026-05-01T16:02:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6100f49737ff",
+    "title": "Cyber-Insecurity in the AI Era",
+    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "summary_original": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png",
+    "published": "2026-05-01T15:54:01+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "279ca32df23a",
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "summary_original": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Davidson_square.png",
+    "published": "2026-05-01T15:31:09+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "489362c10603",
+    "title": "All the evidence revealed so far in Musk v. Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "summary_original": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T15:14:51-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a8510694c53e",
+    "title": "なぜ？　ChatGPTの回答で「ゴブリン」増殖の謎　OpenAIが対策済み",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news085.html",
+    "summary_original": "ChatGPTで「ゴブリン」の比喩が急増した原因をOpenAIが解明。原因は「オタク」人格設定の学習過程における過剰評価だった。後継モデルにも波及したが、現在は人格の廃止やプロンプトによる抑制で修正が図られている。",
+    "thumbnail": "",
+    "published": "2026-05-01T14:25:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "38393432b2c2",
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+    "summary_original": "According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europe, APAC, Middle East &#38; Africa at SAP, observes that the [&#8230;]\nThe post SAP: How enterprise AI governance secures profit margins appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-05-01T13:05:37+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "f6ad6f4147f7",
+    "title": "NVIDIA「NemoClaw」がAIエージェント推進の転換点に　Clawブームで直面する「特権リスク」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/01/news057.html",
+    "summary_original": "企業の関心が「対話型AI」から「AIエージェント」へと移り変わる中、ABI ResearchはNVIDIAのNemoClawを「エンタープライズにおけるAIエージェント採用を加速させるための転換点になる」との見解を示した。",
+    "thumbnail": "",
+    "published": "2026-05-01T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "51238cf7a49d",
+    "title": "The Download: a new Christian phone network, and debugging LLMs",
+    "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Mountain_Pass_thumb.jpg?w=3000",
+    "published": "2026-05-01T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e8953c14082a",
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+    "summary_original": "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that&#8217;s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of &#8216;Premium Requests&#8217; according to [&#8230;]\nThe post Per-token AI charges come to GitHub Copilot appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-05-01T11:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "103feabc1f38",
+    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+    "summary_original": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T10:09:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "889806c7134e",
+    "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+    "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+    "summary_original": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/tank_testing_04.jpg?w=2514",
+    "published": "2026-05-01T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "25346cb6d7fa",
+    "title": "Elon Musk had a bad week in court",
+    "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+    "summary_original": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T09:33:15-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "11088b9f216b",
+    "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+    "summary_original": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T09:25:25-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a28baaadcf88",
+    "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+    "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+    "summary_original": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-01T07:18:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
