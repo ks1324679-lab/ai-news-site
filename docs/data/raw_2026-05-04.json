@@ -1,0 +1,242 @@
+[
+  {
+    "id": "29def0306920",
+    "title": "A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection",
+    "url": "https://www.marktechpost.com/2026/05/03/a-coding-implementation-to-explore-and-analyze-the-tasktrove-dataset-with-streaming-parsing-visualization-and-verifier-detection/",
+    "summary_original": "In this tutorial, we take a deep dive into the TaskTrove dataset on Hugging Face and build a complete, practical workflow to efficiently explore it. Instead of downloading the full multi-gigabyte dataset, we stream it directly and work with individual samples in real time. We begin by setting up the environment and inspecting the raw [&#8230;]\nThe post A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection appeared first o...",
+    "thumbnail": "",
+    "published": "2026-05-03T21:26:42+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "01b7165cd4b6",
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "summary_original": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "thumbnail": "",
+    "published": "2026-05-03T20:16:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1d9d9271f892",
+    "title": "コントローラーのドリフト現象を診断できるウェブアプリ「ControllerTest.io」",
+    "url": "https://gigazine.net/news/20260503-controller-drift/",
+    "summary_original": "PlayStationやNintendo Switchなどのゲーム機のコントローラーを長期間使い続けると、アナログスティックに触れていないのに勝手に動いたと判定される「ドリフト現象」が発生することがあります。そんなドリフト現象が発生しているか否かを可視化できるウェブアプリが「ControllerTest.io」で、PCにコントローラーを接続して自分のアナログスティックの状態を診断することができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-03T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "452d5889b4ba",
+    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "summary_original": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+    "thumbnail": "",
+    "published": "2026-05-03T18:00:09+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1b8aed24daac",
+    "title": "無料でウェブページを監視し、変更があった場合にメール・スマートフォン・その他の手段で通知を受け取れる「urlwatch」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260503-urlwatch/",
+    "summary_original": "ブログや企業サイト、官公庁のお知らせページなど、更新を追いたいのにRSSが用意されていないページは今でも多く存在します。「urlwatch」を使うと、指定したページを定期的に取得して前回との差分を比較し、変更があった時だけ通知を受け取ることが可能です。メールやSlack・Discord・Telegramなどに対応しており、自分専用の更新通知システムを構築できます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-03T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "faf27dd48158",
+    "title": "「脱原発」を目指していたベルギーが方針転換して原子力へ注力へ、事業取得に向けた独占交渉を開始",
+    "url": "https://gigazine.net/news/20260503-belgium-nuclear-reactors-takeover/",
+    "summary_original": "ベルギーは2003年に原子力発電を段階的に廃止する方針を定めていましたが、エネルギー供給への不安などからその方針を転換しています。ベルギー政府は2026年4月30日、フランスのエネルギー大手であるENGIEが保有・運営する国内7基の原子炉を取得する条件を詰めるため、ENGIEと優先的に交渉する意向表明書に署名しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-03T17:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "030c757e39c7",
+    "title": "検索サービス「Ask.com」終了、Ask Jeeves以来の29年の歴史に幕",
+    "url": "https://gigazine.net/news/20260503-ask-com-shuts-down/",
+    "summary_original": "検索サービスの草分け的存在として1996年に創業した「Ask.com(Ask Jeeves)」が、親会社・IAC Inc.の検索事業からの撤退に伴い、2026年5月1日をもってサービス提供を終了しました。かつては月間1億ユーザーを抱えるサービスでNASCARのスポンサーもしていたことがありますが、近年は存在感が薄れており、「閉鎖されていなかったことに驚き」などと報じる声もあります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-03T16:25:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3d3b522a8d0a",
+    "title": "「GIGAZINEマンガ大賞」2026年5月度募集開始＆「作らせて！絵島さん」コミックスリリース記念イラストのメイキングはこんな感じ",
+    "url": "https://gigazine.net/news/20260503-gigazine-manga/",
+    "summary_original": "GIGAZINEマンガ大賞は毎月更新・毎月審査でマンガ作品の応募を受け付けています。2025年12月までGIGAZINEで連載していた「作らせて！絵島さん」のコミックスリリースを記念して「記念イラストメイキング」を作者からいただいたので、解説コメント付きのメイキングをぜひチェックお願いします。「作らせて！絵島さん」は2026年5月5日17時まで無料ダウンロードキャンペーンを開催中なほか、GIGAZINEでは5月6日まで電子書籍をまるっと半額にした「GWセール」も開催中のため、ぜひこの機会にゲットしてください。そのほか、より詳細なマンガの情報や秘密のデータを特別に読むことができるGIGAZINEシークレットクラブ(GSC)も要チェックです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-03T10:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "24b69baaa490",
+    "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
+    "url": "https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/",
+    "summary_original": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely.\nThe article Microsoft caught sneaking &quot;Co-Authored-by Copilot&quot; into VS Code commits - even with AI off appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/microsoft_logo.png",
+    "published": "2026-05-03T09:31:15+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2d552d61c9ed",
+    "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+    "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+    "summary_original": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_squirrel_influencer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-03T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "826b09e96bd3",
+    "title": "MIT study explains why scaling language models works so reliably",
+    "url": "https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/",
+    "summary_original": "MIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition.\nThe article MIT study explains why scaling language models works so reliably appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/Neural-nets-superposition.png",
+    "published": "2026-05-03T08:42:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e402be5b8f13",
+    "title": "China is falling behind in the AI race, according to a US government benchmark",
+    "url": "https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/",
+    "summary_original": "A US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and other Chinese players may end up being the stronger argument.\nThe article China is falling behind in the AI race, according to a US government benchmark appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/china_vs_usa_race.png",
+    "published": "2026-05-03T08:12:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3800b60792a2",
+    "title": "AI music is flooding streaming services — but who wants it?",
+    "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GettyImages-1468752442.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-03T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ca8e3c3b1b4f",
+    "title": "アクセンチュアが日本精工と戦略提携　AIで間接業務改革、製造現場の自動化も",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
+    "summary_original": "アクセンチュアがベアリングに強みを持つ日本精工と戦略的パートナーシップ契約を結んだ。間接業務をAIで効率化しつつ、新商品開発や製造現場の自動化に取り組む。",
+    "thumbnail": "",
+    "published": "2026-05-03T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "18700ff510d6",
+    "title": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
+    "url": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
+    "summary_original": "Sakana AI Introduces KAME: A Tandem Architecture That Injects Real-Time LLM Knowledge Into Speech-to-Speech Conversational AI Without Adding Latency\nThe post Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-03-at-12.46.41-AM-1.png",
+    "published": "2026-05-03T07:47:42+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "29b7bb4e5457",
+    "title": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding",
+    "url": "https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/",
+    "summary_original": "Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company. The release pushes Xiaomi deeper into the race among Chinese open-weight providers like Deepseek, where the fight is shifting from raw benchmark scores to how cheaply and how long a model can run autonomously on a single task.\nThe article Xiaomi&#039;s open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Xiaomi-MiMo-Explore-and-Love-e1774194951718.jpg",
+    "published": "2026-05-03T07:24:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4e68fb420c7e",
+    "title": "What is Tokenization Drift and How to Fix It?",
+    "url": "https://www.marktechpost.com/2026/05/03/what-is-tokenization-drift-and-how-to-fix-it/",
+    "summary_original": "A model can behave perfectly one moment and degrade the next—without any change to your data, pipeline, or logic. The root cause often lies in something far more subtle: how your input is tokenized. Before a model processes text, it converts it into token IDs, and even minor formatting differences—like spacing, line breaks, or punctuation—can [&#8230;]\nThe post What is Tokenization Drift and How to Fix It? appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-2.png",
+    "published": "2026-05-03T07:06:45+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "970a103a260f",
+    "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas",
+    "url": "https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/",
+    "summary_original": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow?\nThe article Same prompt, different morals: how frontier AI models diverge on ethical dilemmas appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/Philosophy-Bench.png",
+    "published": "2026-05-03T07:00:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "df55c54b90a0",
+    "title": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score",
+    "url": "https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/",
+    "summary_original": "Mistral AI's latest release brings async cloud-based coding sessions, a new 128B flagship model, and an agentic Work mode to Le Chat — a meaningful step forward for developers building with AI agents.\nThe post Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-02-at-5.36.17-PM-1.png",
+    "published": "2026-05-03T00:38:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4ce3b826e9fa",
+    "title": "AI-generated actors and scripts are now ineligible for Oscars",
+    "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "summary_original": "Bad news for Tilly Norwood.",
+    "thumbnail": "",
+    "published": "2026-05-02T21:54:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "79ddab42d297",
+    "title": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation",
+    "url": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
+    "summary_original": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation\nThe post Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-02T20:31:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f620eec25f20",
+    "title": "The best AI dictation apps, tested and ranked",
+    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "summary_original": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    "thumbnail": "",
+    "published": "2026-05-02T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "09c409434735",
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "summary_original": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+    "thumbnail": "",
+    "published": "2026-05-01T23:06:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "572f1821c4c2",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "summary_original": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-01T22:08:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
