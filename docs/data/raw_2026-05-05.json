@@ -1,0 +1,262 @@
+[
+  {
+    "id": "cc58c02f0b3f",
+    "title": "好きな声で好きなセリフを喋らせられるローカルAI「Irodori-TTS」の使い方、日本語特化でローカル動作するので無制限に生成し放題",
+    "url": "https://gigazine.net/news/20260504-irodori-tts-text-to-speech-ai/",
+    "summary_original": "「Irodori-TTS」はAratako氏が開発した日本語特化の音声合成AIモデル(TTSモデル)です。ローカルで動作する軽量モデルで、「セリフ」「声」「感情」を自由に指定して音声を生成することができます。NVIDIA製GPUを搭載したPCなら数秒で生成可能で、GPU非搭載PCでもCPUを使って生成できます。かなり高品質なセリフ音声を作れて便利なので、インストール手順や使い方をまとめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-04T22:44:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3d370e580865",
+    "title": "趣味を仕事にすることの弊害とは？趣味は人生にとってどういう意味があるのか？",
+    "url": "https://gigazine.net/news/20260504-protect-your-hobbies/",
+    "summary_original": "近年はSNSでの収益化やフリーランスでの活動が容易になったことから、趣味や特技を生かして収益化する人が増えています。しかし、趣味を仕事にすることにはさまざまな弊害もあると、カナダのウォータールー大学レクリエーション・レジャー研究学科で助教を務めるアリー・ベイリー氏が指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-04T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8997406a7f50",
+    "title": "無料で個人サブスクを管理できる「Wallos」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260504-wallos/",
+    "summary_original": "動画配信サービス・クラウドストレージ・ドメイン更新・スマートフォンアプリの有料プランなど、毎月・毎年発生するサブスクリプションは気づかないうちに増えていきます。「Wallos」は定期支払いを一覧化し、次回支払日や月額・年額の合計、カテゴリ別の支出を確認できるオープンソースのセルフホスト型サブスク管理ツールです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-04T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a168596f1396",
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "summary_original": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "thumbnail": "",
+    "published": "2026-05-04T19:12:49+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ab9cbacf113b",
+    "title": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI",
+    "url": "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/",
+    "summary_original": "Anthropic, Blackstone, Hellman &#038; Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude.\nThe article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logos-6.png",
+    "published": "2026-05-04T18:04:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3da8df81f43a",
+    "title": "無料で簡単にGooglePlay以外の無料オープンソースAndroidアプリをインストールして自動更新できる「F-Droid」",
+    "url": "https://gigazine.net/news/20260504-f-droid/",
+    "summary_original": "Androidにアプリをインストールする場合、Google Playを経由するのが一般的です。ただしアプリ開発者から見ると、アプリを公開するためには登録料を払う必要があったり審査をパスする必要があったりするため、Google Playは「自由なオープンソース」と相容れない存在であるととらえる向きもあります。アプリを配布する別の手段としてはapkファイルがありますが、素性の怪しいapkファイルをインストールするセキュリティリスクの問題に加え、「アプリが更新してもわからない」ことによる潜在的なリスクも考えられます。「F-Droid」はユーザーの自由を最優先としたAndroidアプリ配信エコシステムであり、インストールするアプリに対する信頼性を担保するとともにアプリの更新を通知しアップデートをサポートしてくれるなど、「自由かつオープンソースなモバイルアプリの本拠地」となっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-04T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5836d0d07257",
+    "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+    "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+    "summary_original": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1152x648-1777915631.jpg",
+    "published": "2026-05-04T17:57:46+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "cde12b0c15be",
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "summary_original": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+    "thumbnail": "",
+    "published": "2026-05-04T16:57:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "791e2ed7efba",
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "summary_original": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+    "thumbnail": "",
+    "published": "2026-05-04T16:45:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4507c485b2ba",
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "summary_original": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+    "thumbnail": "",
+    "published": "2026-05-04T16:36:03+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2df0f916df05",
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "summary_original": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+    "thumbnail": "",
+    "published": "2026-05-04T15:59:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dcf3412565ed",
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-04T15:51:27+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8efa0275e498",
+    "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
+    "url": "https://the-decoder.com/openai-raises-over-4-billion-for-new-enterprise-deployment-venture/",
+    "summary_original": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. \nThe article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+    "published": "2026-05-04T14:02:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "714997c0a40f",
+    "title": "Building AI data centers is becoming a stress test for banks",
+    "url": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/",
+    "summary_original": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors.\nThe article Building AI data centers is becoming a stress test for banks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/01/Stargate-US-digital-map-title.png",
+    "published": "2026-05-04T13:21:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0ca39b129128",
+    "title": "Tailoring AI solutions for health care needs",
+    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "summary_original": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Cover-MIT_MayoClinic_V12_03192026.png?w=1556",
+    "published": "2026-05-04T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d3576286998f",
+    "title": "The creator of Roomba is back with a furry robot companion",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+    "summary_original": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines &#38; Magic, is a dog-sized robotic pet that resembles [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Golden.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-04T12:51:38-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7d000ed598f9",
+    "title": "キーボードを取り外してデュアル有機ELタッチディスプレイに変形するASUSのIntel Core Ultra X9搭載ノートPC「Zenbook DUO UX8407」フォトレビュー",
+    "url": "https://gigazine.net/news/20260504-asus-zenbook-duo-photo/",
+    "summary_original": "ASUSはノートPCモードとデュアルスクリーンモードを切り替えて使用できるデュアルディスプレイノートPCの「ASUS Zenbook DUO UX8407」を2026年4月16日に日本向けに販売開始しました。2025年モデルのUX8406から薄型軽量化するなどデザイン面の変更のほか、Intel Core Ultra X9 388H搭載で高性能AI処理も可能なスペックとのことなので、ASUSから借りることができたUX8407がどんな感じなのか実際に使用して撮影しまくってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-04T12:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-04T11:43:49-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b92e1bb742d6",
+    "title": "Cerebras targets $40 billion valuation in second IPO attempt",
+    "url": "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/",
+    "summary_original": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter.\nThe article Cerebras targets $40 billion valuation in second IPO attempt appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/03/WSE-3-title.png",
+    "published": "2026-05-04T11:11:13+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "47384021c202",
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+    "summary_original": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. [&#8230;]\nThe post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-05-04T11:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "a445e4b9b891",
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+    "summary_original": "Two weeks ago at Google Cloud Next &#8217;26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it&#160;made&#160;agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI [&#8230;]\nThe post Google made agentic AI governance a product. Enterprises still have to catch up. appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-05-04T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5b259f724c28",
+    "title": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves",
+    "url": "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
+    "summary_original": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done.\nThe article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_chatgpt_colors.png",
+    "published": "2026-05-04T09:35:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1116fa5b92d2",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "summary_original": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+    "thumbnail": "",
+    "published": "2026-05-04T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "2d552d61c9ed",
+    "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+    "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+    "summary_original": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_squirrel_influencer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-03T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3800b60792a2",
+    "title": "AI music is flooding streaming services — but who wants it?",
+    "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GettyImages-1468752442.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-03T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ca8e3c3b1b4f",
+    "title": "アクセンチュアが日本精工と戦略提携　AIで間接業務改革、製造現場の自動化も",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
+    "summary_original": "アクセンチュアがベアリングに強みを持つ日本精工と戦略的パートナーシップ契約を結んだ。間接業務をAIで効率化しつつ、新商品開発や製造現場の自動化に取り組む。",
+    "thumbnail": "",
+    "published": "2026-05-03T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  }
+]
