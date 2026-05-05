@@ -1,0 +1,402 @@
+[
+  {
+    "id": "7bb9e3ac0f9b",
+    "title": "無料で高機能な画像編集ソフト「GIMP」のUIをPhotoshopっぽくできる「PhotoGIMP」",
+    "url": "https://gigazine.net/news/20260505-photogimp/",
+    "summary_original": "オープンソースで開発されている高機能な画像処理・編集ソフトの「GIMP」を、AdobeのPhotoshopユーザーにとってなじみやすいUIレイアウトに変換するパッチ「PhotoGIMP」が公開されているので、実際に導入してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-05T23:20:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4fea8decac42",
+    "title": "Closing the ‘Expressivity Gap’: How Mistral’s Voxtral TTS is Redefining Multilingual Voice Cloning with a Hybrid Autoregressive and Flow-Matching Architecture",
+    "url": "https://www.marktechpost.com/2026/05/05/closing-the-expressivity-gap-how-mistrals-voxtral-tts-is-redefining-multilingual-voice-cloning-with-a-hybrid-autoregressive-and-flow-matching-architecture/",
+    "summary_original": "Voice AI has a dirty secret. Most text-to-speech systems sound fine — until they don&#8217;t. They can read a sentence. What they cannot do is mean it. The rhythm is off. The emotion is flat. The speaker sounds like themselves for two seconds, then drifts into generic synthetic territory. That gap between intelligible audio and [&#8230;]\nThe post Closing the &#8216;Expressivity Gap&#8217;: How Mistral&#8217;s Voxtral TTS is Redefining Multilingual Voice Cloning with a Hybrid Autoregressive and F...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-16.png",
+    "published": "2026-05-05T21:11:42+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f6a1b51332be",
+    "title": "朝まで寝たいのに深夜に目が覚めてしまうのはなぜなのか？深夜の覚醒を防いでぐっすり眠るコツは？",
+    "url": "https://gigazine.net/news/20260505-waking-at-3am-every-night/",
+    "summary_original": "ふと深夜から早朝の3～5時頃に目が覚めてしまい、まだ暗いのになかなか寝付くことができなかった経験がある人もいるはず。一体なぜ深夜に目が覚めてしまうのか、どうすれば深夜の覚醒を改善できるのかについて、イギリスのウォーリック大学で心理学助教を務めるタラー・ムークタリアン氏が解説しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-05T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d9d36c1ef849",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "summary_original": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "thumbnail": "",
+    "published": "2026-05-05T20:56:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dc9649abc8e2",
+    "title": "Build a Modular Skill-Based Agent System for LLMs with Dynamic Tool Routing in Python",
+    "url": "https://www.marktechpost.com/2026/05/05/build-a-modular-skill-based-agent-system-for-llms-with-dynamic-tool-routing-in-python/",
+    "summary_original": "In this tutorial, we build a complete skill-based agent system for large language models and explore how modular capabilities can be structured like an operating system for AI agents. We define reusable skills, attach metadata and schemas to them, register them in a central registry, and enable dynamic orchestration through tool calling and multi-step reasoning. [&#8230;]\nThe post Build a Modular Skill-Based Agent System for LLMs with Dynamic Tool Routing in Python appeared first on MarkTechPost...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-05-05T20:47:25+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d15cde9337a4",
+    "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+    "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+    "summary_original": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+    "thumbnail": "",
+    "published": "2026-05-05T20:06:40+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f559dd99a020",
+    "title": "メルセデス・ベンツが物理ボタンを復活させる方針",
+    "url": "https://gigazine.net/news/20260505-mercedes-benz-physical-buttons/",
+    "summary_original": "自動車の車内操作は大型タッチスクリーンに集約される傾向がありますが、エアコンや音量調整など頻繁に使う機能まで画面内メニューに入ると運転中に操作しにくいという問題があります。メルセデス・ベンツは今後も大型スクリーンを搭載しつつ、直接操作したい重要な機能には物理ボタンを戻す方針を示しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-05T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b9dc4e2fd76e",
+    "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+    "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+    "summary_original": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-1152x648.jpg",
+    "published": "2026-05-05T19:46:15+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "52b7018ad47a",
+    "title": "無料でYouTubeなどから動画・音楽をダウンロードできるAndroidアプリ「YTDLnis」、オープンソースで開発され広告やユーザー登録なしで利用可能",
+    "url": "https://gigazine.net/news/20260505-ytdlnis/",
+    "summary_original": "動画のダウンロードを頻繁に行う人ほど、複数のダウンロードのタイミングを調節したり「寝ている間に自宅のWi-Fiでダウンロードしたい」といった管理をしたくなるはず。「YTDLnis」は無料で使用できて広告なし・ユーザー登録不要で、ダウンロードキューやスケジュールダウンロードなどを搭載した高機能なAndroidアプリです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-05T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7f906d509633",
+    "title": "US government now has pre-release access to AI models from five major labs for national security testing",
+    "url": "https://the-decoder.com/us-government-now-has-pre-release-access-to-ai-models-from-five-major-labs-for-national-security-testing/",
+    "summary_original": "The US Department of Commerce is expanding its AI safety testing: Following Anthropic and OpenAI, Google Deepmind, Microsoft, and xAI have now signed agreements with the Center for AI Standards and Innovation. The companies provide models with reduced safety guardrails for testing in classified environments amid growing cybersecurity risks and an intensifying tech race with China.\nThe article US government now has pre-release access to AI models from five major labs for national security testing...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
+    "published": "2026-05-05T18:28:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "70186d80e45c",
+    "title": "ChatGPT update rolls out GPT-5.5 Instant with fewer hallucinations and more personalized answers",
+    "url": "https://the-decoder.com/chatgpt-update-rolls-out-gpt-5-5-instant-with-fewer-hallucinations-and-more-personalized-answers/",
+    "summary_original": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law. A new feature called \"memory sources\" lets users see which stored context shaped a given response. The model is rolling out to all ChatGPT users right away, though personalization based on past chats, files, and Gmail launches first for Plus and Pro users on the web.\nThe article ChatGPT update rolls out GPT-...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/gpt_55_instant-scaled.png",
+    "published": "2026-05-05T18:04:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a7ff631174d2",
+    "title": "無料で「ComfyUI」「Open WebUI」などからローカルAIモデルをGPUで動かすDocker環境を一発で構築し動かし続ける「Puget Systems Docker App Packs」",
+    "url": "https://gigazine.net/news/20260505-puget-systems-docker-app-packs/",
+    "summary_original": "ローカルPCでAIを使い始めるとき、Dockerの設定やGPUドライバの依存関係の解決に時間がかかるケースがあります。ワークステーションメーカーのPuget Systemsが公開した「Puget Systems Docker App Packs」は、1行のコマンドを実行するだけで生成AIや大規模言語モデルの実行環境を自動構築できるオープンソースのセットアップツールです。「ComfyUI」による画像生成から、チーム向けのローカルLLMサーバーまで、用途に応じた複数の環境テンプレートを選ぶだけで、すぐにAIワークフローを開始できます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-05T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7e9641e74763",
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "summary_original": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+    "thumbnail": "",
+    "published": "2026-05-05T17:46:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2c86cbbc5016",
+    "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+    "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+    "summary_original": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-05T17:46:04-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6b299ce73670",
+    "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+    "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+    "summary_original": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697397/STK071_APPLE_N.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-05T17:18:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e0cce78c69c8",
+    "title": "OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream",
+    "url": "https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/",
+    "summary_original": "OpenAI is reportedly planning its own AI smartphone, with chips from MediaTek and Qualcomm and manufacturing by Luxshare. According to analyst Ming-Chi Kuo, mass production could start as early as the first half of 2027, with up to 30 million devices shipped in the first two years. The form factor choice is also an admission that more experimental AI hardware isn't ready for the mainstream yet.\nThe article OpenAI&#039;s first hardware play might be a phone that replaces your app grid with an age...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_dark_pattern.png",
+    "published": "2026-05-05T17:14:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f2ffd9ae2c29",
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "summary_original": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+    "thumbnail": "",
+    "published": "2026-05-05T17:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "392b2ef45ab9",
+    "title": "Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue",
+    "url": "https://the-decoder.com/anthropic-ships-ten-ai-agents-for-finance-as-both-it-and-openai-chase-ipo-ready-revenue/",
+    "summary_original": "Anthropic has released ten preconfigured AI agents for the financial sector that are designed to automate typical tasks performed by investment banks, asset managers and insurers. According to the announcement, the templates cover areas such as research, risk and compliance checks and financial accounting.\nThe article Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/Anthropic-Bun-title.png",
+    "published": "2026-05-05T16:09:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8738ef1c33b5",
+    "title": "Microsoft gives up on Xbox Copilot AI",
+    "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+    "summary_original": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/01_Wire-Hero-1920x1080-1-0b305b4a9ace7898196b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-05T15:54:37-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8c525cdd8fbf",
+    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "summary_original": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+    "thumbnail": "",
+    "published": "2026-05-05T15:49:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "32712f675735",
+    "title": "Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook",
+    "url": "https://the-decoder.com/meta-now-scans-photos-for-bone-structure-and-body-size-to-flag-minors-on-instagram-and-facebook/",
+    "summary_original": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasizes.\nThe article Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/meta_ai_logo-1.png",
+    "published": "2026-05-05T15:49:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9f3a2c3aa6fa",
+    "title": "Apple could let you pick a favorite AI model in iOS 27",
+    "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+    "summary_original": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-05T15:45:30-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk took the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-05T13:28:52-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "798ce4a374ad",
+    "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg",
+    "published": "2026-05-05T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "93c12d76db8c",
+    "title": "Why Reddit blocked my daily visit to its mobile website",
+    "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+    "summary_original": "Reddit REALLY wants you to use its app.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-1152x648.jpg",
+    "published": "2026-05-05T11:20:08+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "2fd4f4a9abde",
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-05T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "05d3c5cd4cae",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "summary_original": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "thumbnail": "",
+    "published": "2026-05-05T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c9dd6bc7b13c",
+    "title": "A blueprint for using AI to strengthen democracy",
+    "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "summary_original": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-05T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "fa22954463c1",
+    "title": "中堅・中小企業に最も人気のAIエージェントは？　Google Agentspaceは2位",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/05/news016.html",
+    "summary_original": "中堅・中小企業で多く導入されている、あるいは導入予定のAIエージェントは何か。また、小規模企業がITツールに拠出する費用の実態から浮かび上がる、「ある教訓」とは。",
+    "thumbnail": "",
+    "published": "2026-05-05T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c940e18e34b7",
+    "title": "Why Gradient Descent Zigzags and How Momentum Fixes It",
+    "url": "https://www.marktechpost.com/2026/05/05/why-gradient-descent-zigzags-and-how-momentum-fixes-it/",
+    "summary_original": "How momentum optimizes gradient descent by dampening oscillations and accelerating convergence on complex\nThe post Why Gradient Descent Zigzags and How Momentum Fixes It appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-13.png",
+    "published": "2026-05-05T07:26:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "56cd4b308b80",
+    "title": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs",
+    "url": "https://www.marktechpost.com/2026/05/05/google-adds-event-driven-webhooks-to-the-gemini-api-eliminating-the-need-for-polling-in-long-running-ai-jobs/",
+    "summary_original": "A push-based notification system for Batch API, Deep Research, and video generation tasks arrives with built-in security, retry guarantees, and two configuration modes.\nThe post Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-05T07:01:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c3a8f7df2cc8",
+    "title": "Anthropic、Blackstoneらと新会社設立へ 中小企業へのClaude導入を加速",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
+    "summary_original": "Anthropicは、Blackstoneなどの資産運用大手と共同でエンタープライズ向けAIサービス企業を設立した。新会社は主に中小企業のClaude導入を支援し、既存のパートナー網を補完する役割を担う。同様にOpenAIも投資会社と組み、AI実装を担う新会社の設立に向けて動いていると報じられた。",
+    "thumbnail": "",
+    "published": "2026-05-05T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "11c245634428",
+    "title": "A Coding Guide to Survey Bias Correction Using Facebook Research Balance with IPW CBPS Ranking and Post Stratification Methods",
+    "url": "https://www.marktechpost.com/2026/05/04/a-coding-guide-to-survey-bias-correction-using-facebook-research-balance-with-ipw-cbps-ranking-and-post-stratification-methods/",
+    "summary_original": "In this tutorial, we walk through a complete, end-to-end workflow for correcting bias in survey data using the balance library. We simulate a realistic population, deliberately introduce sampling bias, and then apply multiple re-weighting techniques to recover unbiased estimates. We focus on four widely used methods: Inverse Probability Weighting (IPW), Covariate Balancing Propensity Scores (CBPS), [&#8230;]\nThe post A Coding Guide to Survey Bias Correction Using Facebook Research Balance with I...",
+    "thumbnail": "",
+    "published": "2026-05-05T04:46:45+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3938b1e238f6",
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "summary_original": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "thumbnail": "",
+    "published": "2026-05-05T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c41f5455f6cb",
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "summary_original": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "thumbnail": "",
+    "published": "2026-05-04T21:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5836d0d07257",
+    "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+    "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+    "summary_original": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1152x648-1777915631.jpg",
+    "published": "2026-05-04T17:57:46+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "dcf3412565ed",
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-04T15:51:27+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0ca39b129128",
+    "title": "Tailoring AI solutions for health care needs",
+    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "summary_original": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Cover-MIT_MayoClinic_V12_03192026.png?w=1556",
+    "published": "2026-05-04T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "47384021c202",
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+    "summary_original": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. [&#8230;]\nThe post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-05-04T11:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "a445e4b9b891",
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+    "summary_original": "Two weeks ago at Google Cloud Next &#8217;26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it&#160;made&#160;agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI [&#8230;]\nThe post Google made agentic AI governance a product. Enterprises still have to catch up. appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "published": "2026-05-04T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
