@@ -1,0 +1,402 @@
+[
+  {
+    "id": "22ac5a86332a",
+    "title": "Nintendo Switch 2が1万円値上げ、有料サブスクのNintendo Switch Onlineも値上げ",
+    "url": "https://gigazine.net/news/20260509-nintendo-switch-2-price-hike/",
+    "summary_original": "2026年5月8日、任天堂がNintendo Switch 2を含む製品およびサービスの値上げを発表しました。Nintendo Switch 2はマイニンテンドーストアで販売されている多言語対応版は値上げなしですが、Nintendo Switch 2 日本語・国内専用の希望小売価格は2026年5月25日から5万9980円となり、1万円値上げされます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-09T00:19:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "46551ce5d259",
+    "title": "なぜPCのCPUファンで「黒色」バージョンを作るのに時間がかかるのかをNoctuaが説明",
+    "url": "https://gigazine.net/news/20260508-black-cpu-fan-long-time/",
+    "summary_original": "CPUクーラーを製造するNoctuaは、顔料にカーボンブラックを使用した黒色のファン製品を展開しています。単なるカラーバリエーションの1つに見えますが、実は黒色のファンを作るのは非常に難しいという裏話をNoctuaが共有しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-08T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2fff87824839",
+    "title": "How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation, and Trajectory Discovery",
+    "url": "https://www.marktechpost.com/2026/05/08/how-to-build-a-single-cell-rna-seq-analysis-pipeline-with-scanpy-for-pbmc-clustering-annotation-and-trajectory-discovery/",
+    "summary_original": "In this tutorial, we perform an advanced single-cell RNA-seq analysis workflow using Scanpy on the PBMC-3k benchmark dataset. We start by loading the dataset, inspecting its structure, and applying quality control checks to evaluate gene counts, total counts, mitochondrial content, and ribosomal gene signals. We then filter low-quality cells and genes, detect potential doublets with [&#8230;]\nThe post How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotatio...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-05-08T21:32:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4649a4ef5d77",
+    "title": "少子高齢化は社会をどう壊すのか？日本並の出生率のドイツが迎える危機をサイエンス系YouTubeチャンネルが解説",
+    "url": "https://gigazine.net/news/20260508-germany-is-over/",
+    "summary_original": "少子化の影響でドイツが間もなく危機的状況に陥ると、チャンネル登録者数2520万人超のサイエンス系YouTubeチャンネルであるKurzgesagtが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-08T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "044227d1cd5b",
+    "title": "Intel’s comeback story is even wilder than it seems",
+    "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+    "summary_original": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+    "thumbnail": "",
+    "published": "2026-05-08T20:02:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "45edc9f68b59",
+    "title": "暗号化メールサービスのProton Mailが「量子コンピューターでも突破できない暗号技術」に対応へ",
+    "url": "https://gigazine.net/news/20260508-proton-mail-post-quantum-encryption/",
+    "summary_original": "オープンソースのエンドツーエンド暗号化メールサービスであるProton Mailが、量子コンピューターによる将来的な暗号解読リスクに備えるポスト量子暗号に対応したと2026年5月5日に発表しました。この対応は無料プランを含む全プランに順次展開されており、有効化すると新しい暗号化メール向けにポスト量子暗号(PQC)対応キーを生成・利用できるようになります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-08T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "25cd9c15ceba",
+    "title": "Anthropicがバグ報奨金プログラムを誰でも参加可能に変更、最高1万ドルの報奨金を約束",
+    "url": "https://gigazine.net/news/20260508-anthropic-bug-bounty-program/",
+    "summary_original": "AIモデル「Claude」シリーズの開発元として知られるAnthropicが、バグ報奨金プログラムを一般公開しました。これまではセキュリティ研究者のみが報告可能でしたが、今後は誰でもプログラムに参加して、バグを報告して報奨金を受け取ることができるようになります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-08T19:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e6293921d1be",
+    "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+    "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+    "summary_original": "Across the country, schools and colleges postpone year-end tests.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2192144566-1152x648.jpg",
+    "published": "2026-05-08T18:33:48+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a0ebd83ccb77",
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "summary_original": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "thumbnail": "",
+    "published": "2026-05-08T18:33:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5418cf88ef86",
+    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
+    "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
+    "summary_original": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation.\nThe article AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/ai_startups_money_2.png",
+    "published": "2026-05-08T17:50:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8cdd070f6235",
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-08T17:41:05+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "59bf2930fc5e",
+    "title": "国立国会図書館、「AI動向」に関する調査資料を無料公開中",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html",
+    "summary_original": "国立国会図書館が公式Xアカウントで、「AIを巡る動き」をテーマに、関連する調査資料をまとめて紹介している。",
+    "thumbnail": "",
+    "published": "2026-05-08T17:28:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c0c8d060e1b6",
+    "title": "Apple、390億円の和解金支払いで合意　AI機能の開発遅れに関する集団訴訟で",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
+    "summary_original": "音声アシスタント「Siri」のAI機能の誇大広告を巡る集団訴訟について、米Appleが2億5000万ドル（約390億円）の支払いで合意する和解案を米国の裁判所へ提出した。2024年に発表したAIプラットフォーム「Apple Intelligence」の開発遅れに関するもので、同社は今後、和解の対象となる米国の消費者に対して端末1台につき基本25ドルを支払うとしている。",
+    "thumbnail": "",
+    "published": "2026-05-08T17:05:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "846923cd1de1",
+    "title": "SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations",
+    "url": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/",
+    "summary_original": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI. \nThe article SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/openai_logo_wall.png",
+    "published": "2026-05-08T16:26:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2c5dba8eca78",
+    "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+    "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+    "summary_original": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-08T16:19:40+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "148aa0644a1a",
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-08T16:03:50+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "e14b174a0081",
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "summary_original": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq...",
+    "thumbnail": "",
+    "published": "2026-05-08T15:46:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3a389ae338dc",
+    "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+    "url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+    "summary_original": "RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks. The company said AI Receptionist, known as AIR, can now handle some order enquiries through Shopify, arrange appointments through [&#8230;]\nThe post RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-05-08T14:54:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "7d329d9e2c09",
+    "title": "Anthropic approaches $1 trillion valuation as revenue grows fivefold",
+    "url": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/",
+    "summary_original": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion.\nThe article Anthropic approaches $1 trillion valuation as revenue grows fivefold appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/claude_anthropic_tpu_google.png",
+    "published": "2026-05-08T14:49:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3bc01457309b",
+    "title": "All the latest updates on AI data centers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "summary_original": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160; From audacious plans to launch data centers into [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T14:45:08-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "88fa6800f411",
+    "title": "メローニ伊首相がAI生成とみられる自身の下着姿投稿　捏造画像通し「危険なツール」と警告",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news086.html",
+    "summary_original": "イタリアのメローニ首相が、AIの合成で作られたとみられる自身の下着姿の写真を、自らのSNSで公開し、虚偽画像が捏造される危険性について警告した。",
+    "thumbnail": "",
+    "published": "2026-05-08T14:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "795904b0717f",
+    "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+    "summary_original": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+    "thumbnail": "",
+    "published": "2026-05-08T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "962beb38e838",
+    "title": "AI safety tests have a new problem: Models are now faking their own reasoning traces",
+    "url": "https://the-decoder.com/ai-safety-tests-have-a-new-problem-models-are-now-faking-their-own-reasoning-traces/",
+    "summary_original": "Anthropic's Natural Language Autoencoders make Claude Opus 4.6's internal activations readable as plain text. Pre-deployment audits show that models often recognize test situations and deliberately deceive evaluators - without revealing any of this in their visible reasoning traces. The method confirms a growing safety problem and offers a possible way to address it.\nThe article AI safety tests have a new problem: Models are now faking their own reasoning traces appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Anthropic-Natural-language-autoencoders.png",
+    "published": "2026-05-08T13:21:02+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "91cd61c2a457",
+    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "summary_original": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T12:30:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "64638280e4f2",
+    "title": "「ウォーターマークを入れたい絵描きなんていない」──AI推進企業のコロプラがクリエイター保護ツール「CCP」を作ったワケ",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news073.html",
+    "summary_original": "AI活用を推進するコロプラが、クリエイター作品を生成AIの“無断学習”から保護する無料アプリ「COLOPL Contents Protector（CCP）」をリリースした。AIを積極的に使いながら、同時にAIから作品を守るツールも作る。この背景にある考え方を、菅井健太CIO（上席執行役員）と、CCPの開発を担当した工藤剛氏に聞いた。",
+    "thumbnail": "",
+    "published": "2026-05-08T12:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "09a84312cc4b",
+    "title": "Running Codex safely at OpenAI",
+    "url": "https://openai.com/index/running-codex-safely",
+    "summary_original": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "thumbnail": "",
+    "published": "2026-05-08T12:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "daa45aa17640",
+    "title": "The Download: AI malaise and babymaking tech",
+    "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society? Will&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/04/5.-Hanusik-thumb.jpg?w=3000",
+    "published": "2026-05-08T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f90b4c98b6e0",
+    "title": "「Claude Mythos」が15年前のバグも発掘、Firefoxの修正数が一挙に15倍超に",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news068.html",
+    "summary_original": "Mozillaは、AnthropicのAIモデル「Claude Mythos Preview」を活用し、Firefoxに潜んでいた271件の深刻なバグを特定、修正した。中には20年以上前の古いバグも含まれ、4月のバグ修正数は従来の約15倍となる423件に上った。報告はAIが行い、修正は人間のエンジニアが担うことで、過去最高の安全性を実現したとしている。",
+    "thumbnail": "",
+    "published": "2026-05-08T11:41:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "696d5e6d87ce",
+    "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+    "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+    "summary_original": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2153471300.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T11:25:02-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0e15a5fba988",
+    "title": "OpenAI opens GPT-5.5-Cyber to vetted security researchers",
+    "url": "https://the-decoder.com/openai-opens-gpt-5-5-cyber-to-vetted-security-researchers/",
+    "summary_original": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critical infrastructure, including partners like Cisco, CrowdStrike, and Cloudflare. The model competes directly with Anthropic's Mythos Preview.\nThe article OpenAI opens GPT-5.5-Cyber to vetted security researchers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/gpt-55_title.png",
+    "published": "2026-05-08T11:07:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "56959341dab6",
+    "title": "Everybody wants to rule the AI world",
+    "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+    "summary_original": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such was the story of The Blip, the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0408_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T09:31:37-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "10d8c05fb616",
+    "title": "Here’s how technology transformed babymaking",
+    "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+    "summary_original": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-08T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4ef0d8377bd5",
+    "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+    "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+    "summary_original": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason for this lull - the company has [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Nanoleaf-AI-Robotics-New-Products-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T08:15:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "18cbef437da1",
+    "title": "Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable Text Explanations",
+    "url": "https://www.marktechpost.com/2026/05/08/anthropic-introduces-natural-language-autoencoders-that-convert-claudes-internal-activations-directly-into-human-readable-text-explanations/",
+    "summary_original": "When you type a message to Claude, something invisible happens in the middle. The words you send get converted into long lists of numbers called activations that the model uses to process context and generate a response. These activations are, in effect, where the model&#8217;s &#8220;thinking&#8221; lives. The problem is nobody can easily read them. [&#8230;]\nThe post Anthropic Introduces Natural Language Autoencoders That Convert Claude&#8217;s Internal Activations Directly into Human-Readable...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-12.38.29-AM.png",
+    "published": "2026-05-08T07:45:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "17d2c108fda5",
+    "title": "OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API",
+    "url": "https://www.marktechpost.com/2026/05/08/openai-releases-three-realtime-audio-models-gpt-realtime-2-gpt-realtime-translate-and-gpt-realtime-whisper-in-the-realtime-api/",
+    "summary_original": "Three purpose-built audio models expand what developers can build with live voice: reasoning agents, speech translation across 70+ languages, and streaming transcription.\nThe post OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-08T07:05:36+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8b7e15d90cb9",
+    "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
+    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "summary_original": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+    "thumbnail": "",
+    "published": "2026-05-08T04:42:29+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "aad7e49b73bb",
+    "title": "Build a CloakBrowser Automation Workflow with Stealth Chromium, Persistent Profiles, and Browser Signal Inspection",
+    "url": "https://www.marktechpost.com/2026/05/07/build-a-cloakbrowser-automation-workflow-with-stealth-chromium-persistent-profiles-and-browser-signal-inspection/",
+    "summary_original": "In this tutorial, we explore CloakBrowser, a Python-friendly browser automation tool that uses Playwright-style APIs within a stealth Chromium environment. We begin by setting up CloakBrowser, preparing the required browser binary, and resolving the common Colab asyncio loop issue by running the sync browser workflow in a separate worker thread. We then move through practical [&#8230;]\nThe post Build a CloakBrowser Automation Workflow with Stealth Chromium, Persistent Profiles, and Browser Signa...",
+    "thumbnail": "",
+    "published": "2026-05-08T00:14:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6df021e78e96",
+    "title": "LightSeek Foundation Releases TokenSpeed, an Open-Source LLM Inference Engine Targeting TensorRT-LLM-Level Performance for Agentic Workloads",
+    "url": "https://www.marktechpost.com/2026/05/07/lightseek-foundation-releases-tokenspeed-an-open-source-llm-inference-engine-targeting-tensorrt-llm-level-performance-for-agentic-workloads/",
+    "summary_original": "Inference efficiency has quietly become one of the most consequential bottlenecks in AI deployment. As agentic coding systems such as Claude Code, Codex, and Cursor scale from developer tools to infrastructure powering software development at large, the underlying inference engines serving those requests are under increasing strain. The LightSeek Foundation researchers have released TokenSpeed, an [&#8230;]\nThe post LightSeek Foundation Releases TokenSpeed, an Open-Source LLM Inference Engine Ta...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-3.03.21-PM-1.png",
+    "published": "2026-05-07T22:03:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9fc187e8a48d",
+    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "summary_original": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg",
+    "published": "2026-05-07T19:18:16+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "6a3f232352e8",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "summary_original": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+    "thumbnail": "",
+    "published": "2026-05-07T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
