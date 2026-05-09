@@ -1,0 +1,392 @@
+[
+  {
+    "id": "a5a0f57fa931",
+    "title": "「執筆に生成AIを使った疑い」で大手出版社がホラー小説の出版を中止、この騒動が意味するAI執筆と出版の問題とは？",
+    "url": "https://gigazine.net/news/20260509-horror-novel-pulled-ai-concerns/",
+    "summary_original": "ミア・バラード氏が自費出版したホラー小説『Shy Girl(シャイ・ガール)』は、大手出版社のアシェット・ブック・グループによってアメリカでの出版が予定されていました。ところが、執筆に生成AIが使われたという疑惑が持ち上がったことを受け、アシェット・ブック・グループは出版を中止。この騒動がAIと出版業界にもたらした意味について、リバプール大学の英文学博士課程に在籍するナタリー・ウォール氏が解説しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-09T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "990dccad31c9",
+    "title": "「働くネコ」たちを写真とエピソードで記録した「Bodega Cats of New York」プロジェクト",
+    "url": "https://gigazine.net/news/20260509-bodega-cats-of-new-york/",
+    "summary_original": "ニューヨーク市内に1万軒以上あるとされる小型食料品店「ボデガ」では、店内で暮らすネコが商品棚やカウンターにいることがあります。こうしたボデガ猫たちを写真とエピソードで記録しているプロジェクトが「Bodega Cats of New York」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-09T21:45:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "67ff76d2d0dc",
+    "title": "Chromeの「オンデバイスAI」がGoogleサーバーにデータを送信していないという主張を削除",
+    "url": "https://gigazine.net/news/20260509-chrome-on-device-ai/",
+    "summary_original": "Google Chromeはユーザーの端末上でAI処理を行うための「オンデバイスAI」をPCにダウンロードしています。ChromeはオンデバイスAIについて「データをGoogleサーバーに送信することなく、デバイス上で直接実行されるAIモデルを使用できます」と記載していましたが、2026年5月5日にリリースされたChrome 148でこの説明が削除されていると報告され話題になっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-09T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8f4711b7ff25",
+    "title": "GitHubだけで配布されているAndroid用アプリをF-Droidのようにインストールして管理＆自動更新できる「Obtainium」レビュー",
+    "url": "https://gigazine.net/news/20260509-obtainium/",
+    "summary_original": "Google PlayやF-Droidで配布されているAndroidアプリは更新があるとスマホに通知され、アップデートを行うことができます。ただしGitHubだけで配布されているアプリはapkファイルをダウンロードして手動でインストールするだけでありアップデートは自力で行う必要があります。「Obtainium」はGitHubなどのリリースページだけで配布されているAndroidアプリのインストールをF-Droidのようにサポートし、アプリのリリースページから直接インストール・アップデート管理や自動更新してくれ、他の手段ではインストールがおぼつかないケースでも面倒を見てくれる便利なツールです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-09T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4a66ef6ae6a1",
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-09T18:09:28+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "51fea2ec6a4c",
+    "title": "カメラの出っ張りゼロで背面フラットな「Google Pixel 10a」の写真撮影性能を検証するべくいろいろ撮影してきました",
+    "url": "https://gigazine.net/news/20260509-google-pixel-10a-photo-example/",
+    "summary_original": "Google製スマートフォン「Google Pixel 10a」が2026年4月14日に登場しました。Pixel 10aはPixelシリーズ特有の大きなカメラバーが廃止されており、カメラ部分の出っ張りがないフラットな背面を実現しています。「フラットになったのはうれしいものの、写真撮影性能はどうなっているのか？」という疑問を解決するべく、Pixel 10aを外に持ち出していろいろ撮影してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-09T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4b6db41ff386",
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "summary_original": "Nvidia continues to be a big investor in the AI ecosystem.",
+    "thumbnail": "",
+    "published": "2026-05-09T14:43:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ae45afe57f23",
+    "title": "Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help",
+    "url": "https://the-decoder.com/fields-medalist-says-chatgpt-5-5-pro-delivered-phd-level-math-research-in-under-two-hours-with-zero-human-help/",
+    "summary_original": "Fields Medalist Timothy Gowers had ChatGPT 5.5 Pro tackle open problems in number theory. The model improved an exponential bound to a polynomial one in under an hour. An MIT researcher involved calls the key idea \"completely original.\" Gowers' takeaway: the bar for mathematical contributions is now proving something LLMs can't.\nThe article Fields Medalist says ChatGPT 5.5 Pro delivered &quot;PhD-level&quot; math research in under two hours with zero human help appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/ai_and_math.png",
+    "published": "2026-05-09T14:32:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cbf7fcaf416a",
+    "title": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them",
+    "url": "https://the-decoder.com/broadcom-reportedly-wont-build-openais-custom-chip-unless-microsoft-buys-40-percent-of-them/",
+    "summary_original": "OpenAI's custom AI chip project with Broadcom has hit a funding wall. Broadcom won't finance production unless Microsoft commits to buying 40 percent of the chips, and Microsoft hasn't agreed yet. OpenAI manager Sachin Katti called the dependency \"financially unattractive\" in an internal message. The first phase alone costs around 18 billion dollars.\nThe article Broadcom reportedly won&#039;t build OpenAI&#039;s custom chip unless Microsoft buys 40 percent of them appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+    "published": "2026-05-09T10:45:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "29cf8a03aeb6",
+    "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
+    "url": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/",
+    "summary_original": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces.\nThe article Google&#039;s &quot;Preferred Sources&quot; feature is a free pass for more garbage in search appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/google_web_dystopia-1.png",
+    "published": "2026-05-09T10:29:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b97d31dd930c",
+    "title": "Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows",
+    "url": "https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/",
+    "summary_original": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic.\nThe article Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/07/surveillance_camera.png",
+    "published": "2026-05-09T07:20:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3041c3e6de22",
+    "title": "9 Best AI Tools for Spec-Driven Development in 2026: Kiro, BMAD, GSD, and More Compare",
+    "url": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/",
+    "summary_original": "Vibe coding gets you to a prototype. Spec-driven development gets you to production. As AI coding agents grow more powerful, the engineering community has quietly split into two camps: developers who prompt iteratively and hope for the best, and developers who write structured specifications first and let agents execute against them. The second group is shipping faster, with fewer regressions, and with code that survives review. This guide covers the 9 AI tools driving that shift in 2026 — from ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f517.png",
+    "published": "2026-05-09T06:01:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "663f130925a5",
+    "title": "Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents",
+    "url": "https://www.marktechpost.com/2026/05/08/meet-github-spec-kit-an-open-source-toolkit-for-spec-driven-development-with-ai-coding-agents/",
+    "summary_original": "If you have spent time using AI coding agents — GitHub Copilot, Claude Code, Gemini CLI — you have probably run into this situation: you describe what you want, the agent generates a block of code that looks correct, compiles, and then subtly misses the actual intent. This &#8220;vibe-coding&#8221; approach can work for quick prototypes [&#8230;]\nThe post Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4a1.png",
+    "published": "2026-05-09T03:59:56+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8e2b23460141",
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "summary_original": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-08T23:59:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3db6af49a0c9",
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+    "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "summary_original": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+    "thumbnail": "",
+    "published": "2026-05-08T22:59:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "45ab52fd7de4",
+    "title": "OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions",
+    "url": "https://www.marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions/",
+    "summary_original": "OpenAI has shipped a Chrome extension for Codex, its AI coding agent, enabling it to complete browser-based tasks directly inside Google Chrome on macOS and Windows — including interacting with signed-in websites, using Chrome DevTools, and running multi-step workflows across browser tabs.\nThe post OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
+    "published": "2026-05-08T22:22:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2fff87824839",
+    "title": "How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation, and Trajectory Discovery",
+    "url": "https://www.marktechpost.com/2026/05/08/how-to-build-a-single-cell-rna-seq-analysis-pipeline-with-scanpy-for-pbmc-clustering-annotation-and-trajectory-discovery/",
+    "summary_original": "In this tutorial, we perform an advanced single-cell RNA-seq analysis workflow using Scanpy on the PBMC-3k benchmark dataset. We start by loading the dataset, inspecting its structure, and applying quality control checks to evaluate gene counts, total counts, mitochondrial content, and ribosomal gene signals. We then filter low-quality cells and genes, detect potential doublets with [&#8230;]\nThe post How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotatio...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-05-08T21:32:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "044227d1cd5b",
+    "title": "Intel’s comeback story is even wilder than it seems",
+    "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+    "summary_original": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+    "thumbnail": "",
+    "published": "2026-05-08T20:02:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e6293921d1be",
+    "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+    "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+    "summary_original": "Across the country, schools and colleges postpone year-end tests.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2192144566-1152x648.jpg",
+    "published": "2026-05-08T18:33:48+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a0ebd83ccb77",
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "summary_original": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "thumbnail": "",
+    "published": "2026-05-08T18:33:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5418cf88ef86",
+    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
+    "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
+    "summary_original": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation.\nThe article AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/ai_startups_money_2.png",
+    "published": "2026-05-08T17:50:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "59bf2930fc5e",
+    "title": "国立国会図書館、「AI動向」に関する調査資料を無料公開中",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html",
+    "summary_original": "国立国会図書館が公式Xアカウントで、「AIを巡る動き」をテーマに、関連する調査資料をまとめて紹介している。",
+    "thumbnail": "",
+    "published": "2026-05-08T17:28:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c0c8d060e1b6",
+    "title": "Apple、390億円の和解金支払いで合意　AI機能の開発遅れに関する集団訴訟で",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
+    "summary_original": "音声アシスタント「Siri」のAI機能の誇大広告を巡る集団訴訟について、米Appleが2億5000万ドル（約390億円）の支払いで合意する和解案を米国の裁判所へ提出した。2024年に発表したAIプラットフォーム「Apple Intelligence」の開発遅れに関するもので、同社は今後、和解の対象となる米国の消費者に対して端末1台につき基本25ドルを支払うとしている。",
+    "thumbnail": "",
+    "published": "2026-05-08T17:05:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2c5dba8eca78",
+    "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+    "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+    "summary_original": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-08T16:19:40+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "148aa0644a1a",
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-08T16:03:50+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "e14b174a0081",
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "summary_original": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq...",
+    "thumbnail": "",
+    "published": "2026-05-08T15:46:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3a389ae338dc",
+    "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+    "url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+    "summary_original": "RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks. The company said AI Receptionist, known as AIR, can now handle some order enquiries through Shopify, arrange appointments through [&#8230;]\nThe post RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-05-08T14:54:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "3bc01457309b",
+    "title": "All the latest updates on AI data centers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "summary_original": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160; From audacious plans to launch data centers into [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T14:45:08-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "88fa6800f411",
+    "title": "メローニ伊首相がAI生成とみられる自身の下着姿投稿　捏造画像通し「危険なツール」と警告",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news086.html",
+    "summary_original": "イタリアのメローニ首相が、AIの合成で作られたとみられる自身の下着姿の写真を、自らのSNSで公開し、虚偽画像が捏造される危険性について警告した。",
+    "thumbnail": "",
+    "published": "2026-05-08T14:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "91cd61c2a457",
+    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "summary_original": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T12:30:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "64638280e4f2",
+    "title": "「ウォーターマークを入れたい絵描きなんていない」──AI推進企業のコロプラがクリエイター保護ツール「CCP」を作ったワケ",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news073.html",
+    "summary_original": "AI活用を推進するコロプラが、クリエイター作品を生成AIの“無断学習”から保護する無料アプリ「COLOPL Contents Protector（CCP）」をリリースした。AIを積極的に使いながら、同時にAIから作品を守るツールも作る。この背景にある考え方を、菅井健太CIO（上席執行役員）と、CCPの開発を担当した工藤剛氏に聞いた。",
+    "thumbnail": "",
+    "published": "2026-05-08T12:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "09a84312cc4b",
+    "title": "Running Codex safely at OpenAI",
+    "url": "https://openai.com/index/running-codex-safely",
+    "summary_original": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "thumbnail": "",
+    "published": "2026-05-08T12:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "daa45aa17640",
+    "title": "The Download: AI malaise and babymaking tech",
+    "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society? Will&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/04/5.-Hanusik-thumb.jpg?w=3000",
+    "published": "2026-05-08T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f90b4c98b6e0",
+    "title": "「Claude Mythos」が15年前のバグも発掘、Firefoxの修正数が一挙に15倍超に",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news068.html",
+    "summary_original": "Mozillaは、AnthropicのAIモデル「Claude Mythos Preview」を活用し、Firefoxに潜んでいた271件の深刻なバグを特定、修正した。中には20年以上前の古いバグも含まれ、4月のバグ修正数は従来の約15倍となる423件に上った。報告はAIが行い、修正は人間のエンジニアが担うことで、過去最高の安全性を実現したとしている。",
+    "thumbnail": "",
+    "published": "2026-05-08T11:41:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "696d5e6d87ce",
+    "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+    "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+    "summary_original": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2153471300.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T11:25:02-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "56959341dab6",
+    "title": "Everybody wants to rule the AI world",
+    "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+    "summary_original": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such was the story of The Blip, the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0408_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T09:31:37-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "10d8c05fb616",
+    "title": "Here’s how technology transformed babymaking",
+    "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+    "summary_original": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-08T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4ef0d8377bd5",
+    "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+    "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+    "summary_original": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason for this lull - the company has [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Nanoleaf-AI-Robotics-New-Products-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-08T08:15:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "18cbef437da1",
+    "title": "Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable Text Explanations",
+    "url": "https://www.marktechpost.com/2026/05/08/anthropic-introduces-natural-language-autoencoders-that-convert-claudes-internal-activations-directly-into-human-readable-text-explanations/",
+    "summary_original": "When you type a message to Claude, something invisible happens in the middle. The words you send get converted into long lists of numbers called activations that the model uses to process context and generate a response. These activations are, in effect, where the model&#8217;s &#8220;thinking&#8221; lives. The problem is nobody can easily read them. [&#8230;]\nThe post Anthropic Introduces Natural Language Autoencoders That Convert Claude&#8217;s Internal Activations Directly into Human-Readable...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-12.38.29-AM.png",
+    "published": "2026-05-08T07:45:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
