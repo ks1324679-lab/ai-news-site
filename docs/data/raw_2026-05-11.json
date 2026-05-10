@@ -1,0 +1,232 @@
+[
+  {
+    "id": "afc0fe74438b",
+    "title": "AIにも「身内びいき」がある、採用AIは同じAIモデルが書いた履歴書を高く評価しやすいとの研究結果",
+    "url": "https://gigazine.net/news/20260511-ai-self-preferencing-hiring/",
+    "summary_original": "就職活動でAIを使って履歴書を整える人がいる一方で、企業側も履歴書のスクリーニングにAIを使うケースが増えています。こうした「AIが書いた履歴書をAIが評価する」状況について、メリーランド大学、シンガポール国立大学、オハイオ州立大学の研究チームが調べたところ、評価役のAIは自分と同じAIモデルが書いた履歴書を高く評価しやすいことが判明しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-11T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1631c07c6442",
+    "title": "「ビジネスクラスやファーストクラスの廃止」などの効率化で航空業界の炭素排出量を半減できる可能性",
+    "url": "https://gigazine.net/news/20260510-air-transport-efficiency-halve-emissions/",
+    "summary_original": "航空業界は1回のフライトで膨大な燃料を消費しており、脱炭素化が最も難しい分野のひとつとして知られています。ところが、多くの旅客機に用意されているファーストクラスやビジネスクラスを廃止したり、最新航空機を導入したりするなどの効率化によって、二酸化炭素排出量を半減できる可能性があるとの研究結果が発表されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-10T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b44e47d10bf5",
+    "title": "わずか6年で約146兆円、AI向けデータセンター投資の巨大さが一目で分かるグラフ",
+    "url": "https://gigazine.net/news/20260510-ai-datacenter-megaprojects/",
+    "summary_original": "Amazon、Microsoft、Googleの親会社であるAlphabet、Meta、Oracleといった大手テクノロジー企業は、AI向けの計算資源を支えるためにデータセンターへの投資を急拡大させています。Forethoughtの研究者であるFin Moorhouse氏がXに投稿したグラフでは、これらの大規模クラウド企業によるデータセンター投資が、アメリカの歴史的な巨大プロジェクトと比べても非常に大きな規模になっていることが示されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-10T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8297c2208a18",
+    "title": "Get ready for the whisper-filled office of the future",
+    "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "summary_original": "How will work setups change if we spend more and more time talking to our computers?",
+    "thumbnail": "",
+    "published": "2026-05-10T21:15:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d82850e9c305",
+    "title": "送電インフラを必要とせず利益も得ない住民が10年で2500億円以上のコスト負担を受けることになるのはおかしいとメリーランド州当局が異議を申し立て",
+    "url": "https://gigazine.net/news/20260510-maryland-ai-data-center-cost/",
+    "summary_original": "アメリカ東部の送電網を運営しているPJM Interconnection(PJM)が送電網更新費用のうち20億ドル(約3130億円)をメリーランド州に請求する予定になっていることについて、「州の消費者が10年にわたり16億ドル(約2500億円)の追加負担を強いられることになる」として、メリーランド州の市民顧問局(OPC)が連邦エネルギー規制委員会(FERC)に異議を申し立てました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-10T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "981829972ba5",
+    "title": "AIにはプログラマーの美徳の1つである「怠惰」がないという指摘",
+    "url": "https://gigazine.net/news/20260510-llm-lost-laziness/",
+    "summary_original": "AI時代のソフトウェア開発において、人間のプログラマーが持つ「怠惰」という美徳が失われる危険性を、ソフトウェアエンジニアのブライアン・カントリル氏が自身のブログで論じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-10T20:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "224cbba90f0c",
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "summary_original": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "thumbnail": "",
+    "published": "2026-05-10T20:40:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "760b0834b2e8",
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-10T18:44:11+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "4eb9259913a0",
+    "title": "OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s Global Rankings",
+    "url": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
+    "summary_original": "Hermes Agent, the open-source self-improving AI agent from Nous Research, has overtaken OpenClaw to claim the #1 position on OpenRouter's global daily token rankings as of May 10, 2026 — generating 224 billion daily tokens versus OpenClaw's 186 billion. The milestone places a Nous Research project ahead of an OpenAI-sponsored platform in real-world daily inference volume, just three months after launch.\nThe post OpenClaw vs Hermes Agent: Why Nous Research&#8217;s Self-Improving Agent Now Leads O...",
+    "thumbnail": "",
+    "published": "2026-05-10T16:20:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3a87370c284e",
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "summary_original": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+    "thumbnail": "",
+    "published": "2026-05-10T15:34:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "25809fe2798e",
+    "title": "How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching",
+    "url": "https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/",
+    "summary_original": "In this tutorial, we explore NadirClaw as an intelligent routing layer that classifies prompts into simple and complex tiers before sending them to the most suitable model. We start by installing the required packages, setting up an optional Gemini API key, and testing the local classifier through the NadirClaw CLI without making any live LLM [&#8230;]\nThe post How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching appeared first ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2139.png",
+    "published": "2026-05-10T15:18:43+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "94c3957e9e31",
+    "title": "「え、就職の面接官がAIだって？」　普及する“AI面接官”への困惑と改善要望【調査】",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news020.html",
+    "summary_original": "ある調査によると、米国人回答者の63％が「AI面接官」による面談を経験している。AI活用を拒否する意見は少ない半面、運用面への“注文”が並ぶ。多くの求職者の支持を集めた改善要望は何か。また、「AI面接官」を導入する企業のデメリットとは。",
+    "thumbnail": "",
+    "published": "2026-05-10T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "11cb8450eb5f",
+    "title": "AI agents can now hack computers and copy themselves, and they're getting better fast",
+    "url": "https://the-decoder.com/ai-agents-can-now-hack-computers-and-copy-themselves-and-theyre-getting-better-fast/",
+    "summary_original": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get better at hacking.\nThe article AI agents can now hack computers and copy themselves, and they&#039;re getting better fast appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/hacking_agents_self_replicating-2.png",
+    "published": "2026-05-10T11:45:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7256fdb8f5dc",
+    "title": "Anthropic and OpenAI sit down with religious leaders to seek ethical advice",
+    "url": "https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/",
+    "summary_original": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from various religions. Critics like AI researcher Rumman Chowdhury call the talks \"at best a distraction\" from concrete questions about regulation and control over AI systems.\nThe article Anthropic and OpenAI sit down with religious leaders to seek ethical advice appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_anthropic_religion.png",
+    "published": "2026-05-10T10:41:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ee2a52cd7ca4",
+    "title": "ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips",
+    "url": "https://the-decoder.com/bytedance-plans-over-30-billion-for-ai-expansion-bets-big-on-chinese-chips/",
+    "summary_original": "ByteDance is raising its planned AI spending for 2026 to over 200 billion yuan (roughly $30 billion), at least a 25 percent jump from earlier plans. The TikTok parent is increasingly turning to Chinese chips. Still, the figure looks modest next to the $725 billion that Google, Amazon, Microsoft, and Meta are planning to spend combined.\nThe article ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/china_neural_network.jpeg",
+    "published": "2026-05-10T09:34:02+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5def7d5f2cce",
+    "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers",
+    "url": "https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/",
+    "summary_original": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range. Meanwhile, Palo Alto Networks reports that frontier models autonomously chain vulnerabilities, shrinking the time from initial access to data exfiltration to just 25 minutes. Evaluation methods are growing more slowly than the models themselves, and that may be the bigger problem.\nThe article METR says it can barely measure Claude Mythos, Palo Alto Networks w...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/cybersecurity_llm_kraken.png",
+    "published": "2026-05-10T09:25:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cb597c24d018",
+    "title": "GPT-5.5 costs 49 to 92 percent more than its predecessor, depending on the input length",
+    "url": "https://the-decoder.com/gpt-5-5-costs-49-to-92-percent-more-than-its-predecessor-depending-on-the-input-length/",
+    "summary_original": "OpenAI doubled GPT-5.5's list price compared to GPT-5.4, claiming shorter responses would offset the increase. An OpenRouter analysis of real usage data tells a different story: actual costs rose 49 to 92 percent depending on input length. Anthropic hiked Opus 4.7 prices too—and with both companies eyeing IPOs, the trend is unlikely to stop.\nThe article GPT-5.5 costs 49 to 92 percent more than its predecessor, depending on the input length appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png",
+    "published": "2026-05-10T08:05:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "310b5a543f77",
+    "title": "NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX",
+    "url": "https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/",
+    "summary_original": "NVlabs releases cuda-oxide v0.1.0, a custom rustc codegen backend that compiles #[kernel]-annotated Rust functions to PTX through a Rust → Stable MIR → Pliron IR → LLVM IR → PTX pipeline, with single-source host+device compilation from one cargo oxide build command.\nThe post NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-10T06:01:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "78ff151ea44f",
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "summary_original": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "thumbnail": "",
+    "published": "2026-05-10T02:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "62e2c8f94a80",
+    "title": "A Coding Implementation to Recover Hidden Malware IOCs with FLARE-FLOSS Beyond Classic Strings Analysis",
+    "url": "https://www.marktechpost.com/2026/05/09/a-coding-implementation-to-recover-hidden-malware-iocs-with-flare-floss-beyond-classic-strings-analysis/",
+    "summary_original": "In this tutorial, we explore how FLARE-FLOSS helps us recover hidden and obfuscated strings from a Windows PE file. We begin by setting up FLOSS and the MinGW-w64 cross-compiler. We synthesize a small malware-like executable that hides strings using multiple techniques, including static strings, stack-built strings, tight strings, and XOR-decoded strings. After that, we compare [&#8230;]\nThe post A Coding Implementation to Recover Hidden Malware IOCs with FLARE-FLOSS Beyond Classic Strings Analy...",
+    "thumbnail": "",
+    "published": "2026-05-10T01:11:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c96d9b28d385",
+    "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
+    "url": "https://www.marktechpost.com/2026/05/09/nvidia-ai-releases-star-elastic-one-checkpoint-that-contains-30b-23b-and-12b-reasoning-models-with-zero-shot-slicing/",
+    "summary_original": "NVIDIA researchers have introduced Star Elastic, a post-training method that embeds multiple nested reasoning models — at 30B, 23B, and 12B parameter scales — inside a single checkpoint, eliminating the need for separate training runs or stored model weights per variant. Built on the Nemotron Elastic framework and applied to Nemotron Nano v3, the method trains all three variants in a single 160B-token run, achieving a 360× token reduction compared to pretraining each model from scratch. Beyond t...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-3.20.16-PM-1.png",
+    "published": "2026-05-09T22:24:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f09c2bde499d",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary_original": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "thumbnail": "",
+    "published": "2026-05-09T21:45:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8e2b23460141",
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "summary_original": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-08T23:59:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
