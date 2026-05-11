@@ -1,0 +1,382 @@
+[
+  {
+    "id": "0210f7f8d89e",
+    "title": "中国の主要AIラボを訪問したアメリカ人研究者が語る「中国AIエコシステム」は欧米のAI研究と何が違うのか？",
+    "url": "https://gigazine.net/news/20260512-ai-ecosystem-china/",
+    "summary_original": "アメリカのAI研究者であり最先端のAI技術を解説するニュースレター「Interconnects」を運営するネイサン・ランバート氏が、中国の主要AIラボを複数訪問して得た知見をまとめています。ランバート氏は、中国のAI業界について「アメリカのような競争的な関係ではなく、ひとつの巨大なエコシステムのようだった」と述べており、中国AI企業の急速な成長を支える文化や組織構造、研究者の特徴について詳細に解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-12T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1466e6e7aded",
+    "title": "GPT-5.5は最高性能ではないのに、なぜエンジニアが熱狂？　カギは“最後まで自走する力”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news009.html",
+    "summary_original": "GPT-5.5は、ベンチマークだけを見れば絶対王者ではない。それでも開発者が熱狂する理由を、Codexとの組み合わせ、トークン効率、そして“最後まで自走する力”から整理する。",
+    "thumbnail": "",
+    "published": "2026-05-12T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a9711c6ad07e",
+    "title": "多くの人が健康情報源として頼っている「健康・ウェルネス系インフルエンサー」は何者なのか？",
+    "url": "https://gigazine.net/news/20260511-american-health-and-wellness-influencers/",
+    "summary_original": "誰しも「健康でいたい」とは思っているものの、自分自身でうまく健康管理できるわけではないので、求めてしまうもの。アメリカ人の40％、50歳未満の成人だと半数が、SNSなどから医療情報・健康情報を得ていることが明らかになっています。ピュー研究所は、そのインフルエンサーとはどういった人物なのかについての調査を行い、結果を公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-11T23:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "868de0307003",
+    "title": "AI機能を何でもクラウドに任せるべきではなく「ローカルAIを標準にすべき」とエンジニアが主張",
+    "url": "https://gigazine.net/news/20260511-local-ai-norm/",
+    "summary_original": "ITエンジニアのサイラス・ロペス氏が、クラウドAIへ安易に依存せず、端末上で動くローカルAIを標準にするべきだという記事を投稿しています。記事では、OpenAIやAnthropicのAPIをアプリに組み込む流行について、便利そうに見える一方で、壊れやすく、プライバシー面の負担が大きく、運用も複雑になると指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-11T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "aaeebd13082d",
+    "title": "AIでプログラムを作るバイブコーディングやエージェントエンジニアリングの限界と活用方法とは？",
+    "url": "https://gigazine.net/news/20260511-vibe-coding-and-agentic-engineering/",
+    "summary_original": "開発者のサイモン・ウィリソン氏がAIコーディングツールについて振り返り、これまで別物だと考えていた「バイブコーディング」と「エージェント型エンジニアリング」が自身の作業の中で重なり始めていると述べました。これは単にAIがコードを書けるようになったという話ではなく、プロの開発者がどこまでAIに任せ、どこから責任を引き受けるべきなのかを問いかけています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-11T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5a40e995c946",
+    "title": "Understanding LLM Distillation Techniques",
+    "url": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
+    "summary_original": "Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its [&#8230;]\nThe post Understanding LLM Distillation Techniques  appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-29.png",
+    "published": "2026-05-11T20:20:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b9396847c876",
+    "title": "How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy Signals, and Performance Metrics",
+    "url": "https://www.marktechpost.com/2026/05/11/how-to-build-technical-analysis-and-backtesting-workflow-with-pandas-ta-classic-strategy-signals-and-performance-metrics/",
+    "summary_original": "In this tutorial, we implement how to use pandas-ta-classic to build a complete technical analysis and trading strategy workflow. We start by installing the required libraries, downloading historical OHLCV stock data with yfinance, cleaning the returned data structure, and inspecting the available indicator categories inside the library. We then calculate popular indicators such as SMA, [&#8230;]\nThe post How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy S...",
+    "thumbnail": "",
+    "published": "2026-05-11T20:05:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "280a799f7211",
+    "title": "トランプ政権の政府効率化省「DOGE」がChatGPTで「アジア系や先住民族への言及」をスキャンして助成金打ち切り措置を決定していたとして違法の判決が下る",
+    "url": "https://gigazine.net/news/20260511-doge-chatgpt/",
+    "summary_original": "アメリカの政府効率化省(DOGE)はトランプ政権下で2025年1月に設立された組織で、一時期はイーロン・マスク氏がリーダーを務めて予算削減を目的に政府機関の体制刷新や助成金見直しを進めていました。DOGEの決定には不満や反対意見も続出していたのですが、2026年5月7日にはアメリカの地方裁判所によって「DOGEによる1億ドル超えの助成金打ち切り措置」を差し止める判決が下されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-11T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5ee0a2a09cb0",
+    "title": "The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door",
+    "url": "https://the-decoder.com/the-eu-wants-to-regulate-ai-but-needs-openai-and-anthropic-to-let-regulators-through-the-door/",
+    "summary_original": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings on its Mythos model, regulators still don't have access. The gap highlights how dependent Europe's AI oversight remains on voluntary cooperation from the companies it aims to regulate.\nThe article The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door appeared...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/european_flag_logo_wall.png",
+    "published": "2026-05-11T18:19:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "126909da76cf",
+    "title": "日本のAI普及率上昇は\"世界平均の3倍ペース\"　モデルの日本語性能改善が要因か",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/11/news122.html",
+    "summary_original": "Microsoftのレポートによれば、日本におけるAIの普及率は世界平均の3倍ペースで上昇している。その要因はモデルの日本語性能向上にあるようだ。",
+    "thumbnail": "",
+    "published": "2026-05-11T18:04:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "038091430013",
+    "title": "バクラク、契約業務の自動化を支援する新サービスを今夏提供予定　27年度以降適用の「新リース会計基準」の判定にも対応",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news114.html",
+    "summary_original": "バックオフィス向けの業務効率化ツール「バクラク」を提供するLayerX（東京都中央区）は5月11日、AIエージェントが契約業務を支援する新サービス「バクラク契約管理」を今夏に提供予定だと発表した。",
+    "thumbnail": "",
+    "published": "2026-05-11T18:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e95d23db4950",
+    "title": "十時CEOが明かす“ソニー流”AI活用術　ゲーム開発にも導入、クリエイティブを支える工夫",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/11/news118.html",
+    "summary_original": "ソニーグループの十時裕樹CEOは、5月8日に実施した経営方針説明会で、クリエイティブ領域におけるAI活用の進捗を明かした。",
+    "thumbnail": "",
+    "published": "2026-05-11T17:57:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4589e39a5eed",
+    "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
+    "url": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
+    "summary_original": "Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization.\nThe post Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-11-at-10.41.39-AM.png",
+    "published": "2026-05-11T17:52:15+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "18e29f063a54",
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-11T17:35:12+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4d6775401962",
+    "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models",
+    "url": "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/",
+    "summary_original": "Baidu's Ernie 5.1 uses just a third of its predecessor's parameters and reportedly cost only six percent of what comparable models require to pre-train. That's possible thanks to a \"Once-For-All\" approach that extracts smaller sub-models from a single training run. On the Search Arena leaderboard, Ernie 5.1 ranks 4th globally, behind two Claude Opus variants and GPT-5.5 Search.\nThe article Baidu&#039;s Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models appeared first...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/07/baidu_computer_paw.png",
+    "published": "2026-05-11T17:08:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0b86095285b9",
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "summary_original": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
+    "thumbnail": "",
+    "published": "2026-05-11T17:02:35+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "124d8dd2395b",
+    "title": "OpenAI's DeployCo subsidiary adopts Palantir's playbook, building a moat from workflows no lab can simulate",
+    "url": "https://the-decoder.com/openais-deployco-subsidiary-adopts-palantirs-playbook-building-a-moat-from-workflows-no-lab-can-simulate/",
+    "summary_original": "OpenAI is building a consulting and implementation business. The \"OpenAI Deployment Company,\" internally called DeployCo, is a majority-controlled subsidiary designed to help companies integrate AI systems into their core operations.\nThe article OpenAI&#039;s DeployCo subsidiary adopts Palantir&#039;s playbook, building a moat from workflows no lab can simulate appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/OpenAI-Moat-DeployCo.png",
+    "published": "2026-05-11T15:40:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "81b78a3faa12",
+    "title": "NTTグループはAIで「GAFAM級」の存在感を発揮できるか？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/11/news060.html",
+    "summary_original": "NTTグループがAI関連サービスの取り組みを明らかにした。インフラからアプリケーションまでフルスタックで提供する事業体制で、GAFAM級の存在感を発揮できるか。",
+    "thumbnail": "",
+    "published": "2026-05-11T15:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "745b0f5462c6",
+    "title": "Lawsuit claims ChatGPT coached FSU shooter on gun operation, timing, and victim thresholds",
+    "url": "https://the-decoder.com/lawsuit-claims-chatgpt-coached-fsu-shooter-on-gun-operation-timing-and-victim-thresholds/",
+    "summary_original": "OpenAI is facing a lawsuit over the mass shooting at Florida State University. According to the complaint, the shooter spent months talking to ChatGPT about guns and shootings. Florida's attorney general has launched a criminal investigation, saying: \"If ChatGPT were a person, it would be facing charges for murder.\" The case adds to a growing wave of lawsuits targeting AI chatbots.\nThe article Lawsuit claims ChatGPT coached FSU shooter on gun operation, timing, and victim thresholds appeared fir...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_lawsuit-2.png",
+    "published": "2026-05-11T15:19:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "926628b3d01e",
+    "title": "AI automates HR compliance, except for the area tech companies need",
+    "url": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+    "summary_original": "Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time. Payroll monitoring flags discrepancies automatically. Predictive analytics anticipate employee churn before it happens. HR tech stacks now offer automated solutions for nearly every regulatory requirement – from GDPR data requests to workplace safety reporting. But there is one glaring exception. For UK [&#8230;]\nThe post AI automates HR compliance, except for the area tech companies need...",
+    "thumbnail": "",
+    "published": "2026-05-11T14:34:05+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "88c04bc21ade",
+    "title": "AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty",
+    "url": "https://the-decoder.com/ai-turns-patches-into-working-exploits-in-30-minutes-and-the-90-day-disclosure-window-is-the-casualty/",
+    "summary_original": "Language models find security flaws faster and turn patches into working exploits in minutes. A veteran researcher says the established disclosure process needs to change.\nThe article AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/AI_cybersecurity.png",
+    "published": "2026-05-11T13:53:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "14c481f9151a",
+    "title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "summary_original": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Capital-One-iStock-2208464815.jpg?w=1943",
+    "published": "2026-05-11T13:33:06+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8b55c4119673",
+    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "summary_original": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+    "thumbnail": "",
+    "published": "2026-05-11T13:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bfe32a159113",
+    "title": "Innovation abounds in device charging",
+    "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+    "summary_original": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a slew of technological advances. These&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Anker-iStock-2213447337.jpg",
+    "published": "2026-05-11T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cff19a85c096",
+    "title": "Implementing advanced AI technologies in finance",
+    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "summary_original": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/NetSuite-social-card.png",
+    "published": "2026-05-11T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0f665aa2e806",
+    "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+    "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/10/ND23-space-01b.jpg?w=3000",
+    "published": "2026-05-11T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "5b6afa769aec",
+    "title": "Google stopped a zero-day hack that it says was developed with AI",
+    "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "summary_original": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-11T12:09:42-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-11T11:27:12-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "df677f715e23",
+    "title": "Joanna Stern is not a robot, but she lived with them",
+    "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+    "summary_original": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that because Joanna [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_joanna_stern.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-11T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e3d1e8ca7a4b",
+    "title": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "summary_original": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "thumbnail": "",
+    "published": "2026-05-11T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7c483a75c783",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "summary_original": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "thumbnail": "",
+    "published": "2026-05-11T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "084a0dcd2ccb",
+    "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
+    "url": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+    "summary_original": "Bain &#38; Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The estimate comes from the second report in Bain&#8217;s five-part series on the software industry in the age of AI. The report examines [&#8230;]\nThe post Bain sees US$100 billion SaaS market in agentic AI automation appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-05-11T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "8b05252873ac",
+    "title": "Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs",
+    "url": "https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/",
+    "summary_original": "Sakana AI and NVIDIA Researchers demonstrate that simple L1 regularization can induce over 99% sparsity in feedforward layers with negligible downstream performance impact, and translate that sparsity into real GPU throughput gains using new sparse data formats and fused CUDA kernels.\nThe post Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-11-at-1.25.44-AM.png",
+    "published": "2026-05-11T08:36:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1ac78ce1e7f8",
+    "title": "A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications",
+    "url": "https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/",
+    "summary_original": "In this tutorial, we implement how Memori serves as an agent-native memory infrastructure layer for building more persistent, context-aware LLM applications. We start by setting up Memori in a Google Colab environment and connecting it to both synchronous and asynchronous OpenAI clients, so that every model call can automatically pass through the memory layer. We [&#8230;]\nThe post A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi...",
+    "thumbnail": "",
+    "published": "2026-05-11T07:34:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c86720c8c7e1",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "summary_original": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "thumbnail": "",
+    "published": "2026-05-11T06:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8297c2208a18",
+    "title": "Get ready for the whisper-filled office of the future",
+    "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "summary_original": "How will work setups change if we spend more and more time talking to our computers?",
+    "thumbnail": "",
+    "published": "2026-05-10T21:15:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "224cbba90f0c",
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "summary_original": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "thumbnail": "",
+    "published": "2026-05-10T20:40:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3a87370c284e",
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "summary_original": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+    "thumbnail": "",
+    "published": "2026-05-10T15:34:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  }
+]
