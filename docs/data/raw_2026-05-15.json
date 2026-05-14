@@ -1,0 +1,402 @@
+[
+  {
+    "id": "6cdba0eedfd2",
+    "title": "AIネイティブか、死か――オラクルが描く「次世代SaaS」への生存戦略",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2605/15/news049.html",
+    "summary_original": "日本オラクルは、同社が展開する「基幹系AI」の最新動向を説明した。AIのコモディティ化が進む中、SaaS事業者は技術の固定化を避け、柔軟なアーキテクチャ構成が求められる。ウイングアーク1st、NSW、ソフトマックスの3社も登壇し、「SaaSの死」を回避するAIを核とした生存戦略を紹介した。",
+    "thumbnail": "",
+    "published": "2026-05-15T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1040fa3962d2",
+    "title": "「なくなったら半導体産業が成立しない」　ソフトバンクGが絶大な信頼を置く企業「Arm」とは何者か",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/15/news054.html",
+    "summary_original": "孫正義社長が3.3兆円で買収した、半導体設計企業のArm。AI時代に欠かせない存在となった同社は、一体どのような企業なのか。",
+    "thumbnail": "",
+    "published": "2026-05-15T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "898b97243a68",
+    "title": "約5万9000年前のネアンデルタール人が石器で虫歯を削って治療していた可能性",
+    "url": "https://gigazine.net/news/20260515-neanderthal-dental-caries-treatment/",
+    "summary_original": "ロシア・シベリア南西部のチャギルスカヤ洞窟で見つかった約5万9000年前のネアンデルタール人の臼歯から、虫歯で傷んだ部分を石器で削ったとみられる痕跡が見つかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-15T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3dc1bdc19fc1",
+    "title": "Python 3.15 β1がリリースされたので新機能や変更点をまとめてみた",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news016.html",
+    "summary_original": "2026年10月にリリース予定のPython 3.15のβ1がリリースされた。Python 3.15の新機能はこれで出そろったことから、どんなものが追加されたかをまとめてみました。",
+    "thumbnail": "",
+    "published": "2026-05-15T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a798c83d7c0e",
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "summary_original": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "thumbnail": "",
+    "published": "2026-05-14T21:30:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bda51602bd9f",
+    "title": "実はアメリカでは無料で「.city.state.us」ドメインが取得できる",
+    "url": "https://gigazine.net/news/20260514-city-state-us-domain/",
+    "summary_original": "「.city.state.us」のドメインは本来アメリカ合衆国の地方自治体や行政機関が地理的な位置を示すために使用する地域ドメインで、アメリカだと無料で設定することが可能です。ワシントン大学でニューラルネットワークを研究するソフトウェアエンジニアのフレデリック・チャン氏が実際に「.city.state.us」ドメインを取得した経緯を、自身のブログでまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-14T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5cc6e708b103",
+    "title": "OpenAI says Codex is coming to your phone",
+    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "summary_original": "The update gives users enhanced flexibility over how they can manage their workflows.",
+    "thumbnail": "",
+    "published": "2026-05-14T20:58:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7ad6f447a612",
+    "title": "AIを単一のスコアで評価する「AI IQ」が登場、各ベンチマーク結果をもとにスコアを算出",
+    "url": "https://gigazine.net/news/20260514-ai-iq/",
+    "summary_original": "AIモデルの性能比較では、複数のベンチマークの点数が並ぶランキング表を読む必要があり「結局どのモデルがどれくらい賢いのか」が分かりにくい場面があります。エンジニアで起業家のライアン・シェイ氏は、最先端AIモデルを人間のIQスケールに換算して表示するプロジェクト「AI IQ」を2026年5月12日に発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-14T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "baafa407a6f8",
+    "title": "What happens when AI starts building itself?",
+    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "summary_original": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+    "thumbnail": "",
+    "published": "2026-05-14T19:57:20+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "69dc545776b8",
+    "title": "チームみらい安野氏、「Mythos」巡る政府対応の遅さに苦言　「危機感共有してきたつもり」",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/14/news139.html",
+    "summary_original": "チームみらいの安野貴博党首は5月14日の会見で、米AnthropicのAIモデル「Claude Mythos Preview」（以下、Mythos）を巡る日本政府の対応の遅さを指摘した。",
+    "thumbnail": "",
+    "published": "2026-05-14T19:22:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3a7e43483526",
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "summary_original": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+    "thumbnail": "",
+    "published": "2026-05-14T19:12:03+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2c05eee6a567",
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "summary_original": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+    "thumbnail": "",
+    "published": "2026-05-14T19:05:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b1ef97481fff",
+    "title": "なぜエジプトのミイラに古代ギリシアの叙事詩「イーリアス」のパピルスが詰め込まれていたのか？",
+    "url": "https://gigazine.net/news/20260514-egyptian-mummy-fragment-iliad-abdomen/",
+    "summary_original": "2026年4月、エジプトのオクシリンコスという遺跡から見つかったミイラの腹部から、古代ギリシアの叙事詩「イーリアス」が記されたパピルスの断片が見つかりました。一体なぜエジプトのミイラからイーリアスが見つかったのかについて、ドイツのテュービンゲン大学で考古学を研究しているステファン・ブルム氏らが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-14T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3d30727982c4",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-14T18:55:01+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c4acbc0e0fe8",
+    "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+    "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+    "summary_original": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-05-14T18:32:01+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f4f461dc4996",
+    "title": "2026年5月14日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260514-headline/",
+    "summary_original": "ポケモンの名を冠した世界初の空港「のと里山ポケモン・ウィズ・ユー空港」が、石川県の「のと里山空港」を期間限定で改装する形で2026年7月7日(火)に開港します。石川県と一般財団法人ポケモン・ウィズ・ユー財団による、令和6年能登半島地震で被災した子どもたちに笑顔を届ける活動や、能登地域の観光支援を目的として進める取り組みの一環とのことで、期間は2029年9月30日までの予定。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-14T18:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d080a008d467",
+    "title": "“Mythosレベル”のAIサイバー攻撃対策で官民連携　金融庁が作業部会、Anthropic日本法人も参加",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/14/news129.html",
+    "summary_original": "金融庁は、米AnthropicのAIモデル「Claude Mythos Preview」（以下、Mythos）など最新AIモデルのサイバー攻撃性能の向上を受け、官民連携で金融分野のセキュリティ対策を強化する作業部会を開催した。",
+    "thumbnail": "",
+    "published": "2026-05-14T17:36:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "173612216323",
+    "title": "Behold, the Elon Musk jackass trophy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+    "summary_original": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-14T16:59:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "867c8b9af7a5",
+    "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+    "url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+    "summary_original": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2251821138-1024x648.jpg",
+    "published": "2026-05-14T16:47:43+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "aef6c5b4dd7b",
+    "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+    "summary_original": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-14T16:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d38fa000ee7a",
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "summary_original": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-14T15:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "826e85f4eccd",
+    "title": "Use this map to find the data centers in your backyard",
+    "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+    "summary_original": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The Dalles, a city near the Washington state [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-14-at-1.06.40PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-14T13:40:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "09ab76a12173",
+    "title": "Work with Codex from anywhere",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "summary_original": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+    "thumbnail": "",
+    "published": "2026-05-14T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7db00b81e7f6",
+    "title": "Data readiness for agentic AI in financial services",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "summary_original": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Elastic-iStock-2224485239.jpg?w=1289",
+    "published": "2026-05-14T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f187631eef2e",
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "summary_original": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/EDB-Report-2026-cover-FINAL.png",
+    "published": "2026-05-14T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "9a693d8973ad",
+    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+    "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/08/SO23_war-thumb.jpeg?w=2288",
+    "published": "2026-05-14T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-14T11:46:04-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e1ec38c98b28",
+    "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+    "summary_original": "British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported. The two companies&#8217; agreement covers an estimated 1,000 to 2,000 robots in Schaeffler&#8217;s global manufacturing sites by 2032, according to a Humanoid spokesperson. The companies have not disclosed the contract value. The first deployment is scheduled between [&#8230;]\nThe post Physical AI moves closer to factory floors as companies test humano...",
+    "thumbnail": "",
+    "published": "2026-05-14T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "8f6d6ef7d4c0",
+    "title": "The Tesla Semi could be a big deal for electric trucking",
+    "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+    "summary_original": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the Tesla Semi in late 2017. And now we’ve got final battery specs, official prices, and big news&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-14T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7ca2e14624de",
+    "title": "The shock of seeing your body used in deepfake porn",
+    "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+    "summary_original": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Hoeckele-deepfake-02_5e2848.jpg?w=2000",
+    "published": "2026-05-14T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d8e5d33b6634",
+    "title": "Top real estate app development companies in the US: Abilities and costs",
+    "url": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
+    "summary_original": "Real estate products depend on integrations, data flows, and compliance layers that rarely appear in marketing pages. A vendor may look strong on reviews about general software development and struggle once MLS feeds, payment systems, and document workflows enter the build. In short, among top real estate app development companies in the US for 2026 [&#8230;]\nThe post Top real estate app development companies in the US: Abilities and costs appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-05-14T07:51:58+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "7feb4acf8eef",
+    "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
+    "url": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
+    "summary_original": "Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.\nThe post Nous Research Releases Token Superposition Training to Sp...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-10.33.23-PM-1.png",
+    "published": "2026-05-14T05:46:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "31d7f648c33c",
+    "title": "How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy Engine, and Insider Threat Detection",
+    "url": "https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/",
+    "summary_original": "In this tutorial, we build a realistic Zero-Trust network simulation by modeling a micro-segmented environment as a directed graph and forcing every request to earn access through continuous verification. We implement a dynamic policy engine that blends ABAC-style permissions with device posture, MFA, path reachability, zone sensitivity, and live risk signals such as anomaly and [&#8230;]\nThe post How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive ...",
+    "thumbnail": "",
+    "published": "2026-05-14T02:31:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0782024bcee1",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "summary_original": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "thumbnail": "",
+    "published": "2026-05-14T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c2fad0632e54",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "url": "https://huggingface.co/blog/continuous_async",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-14T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "a04a8c527e0f",
+    "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
+    "url": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
+    "summary_original": "63% of organizations have no AI governance policy. Shadow AI is already running inside your stack — here is the data.\nThe post Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-13T21:44:37+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c3a7ca2f3ac2",
+    "title": "Fastino Labs Open-Sources GLiGuard: A 300M Parameter Safety Moderation Model That Matches or Exceeds Accuracy of Models 23–90x Its Size",
+    "url": "https://www.marktechpost.com/2026/05/13/fastino-labs-open-sources-gliguard-a-300m-parameter-safety-moderation-model-that-matches-or-exceeds-accuracy-of-models-23-90x-its-size/",
+    "summary_original": "Fastino Labs has released GLiGuard, a 300M parameter open-source safety moderation model that evaluates four safety tasks — prompt safety, jailbreak strategy detection, harm category classification, and refusal detection — in a single forward pass. Built on an encoder architecture rather than the decoder-only design used by most guardrail models, GLiGuard achieves up to 16x higher throughput and 16.6x lower latency than current state-of-the-art models, while matching or exceeding the accuracy of...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-1.38.03-PM-1.png",
+    "published": "2026-05-13T20:41:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "80175ecc3a77",
+    "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+    "summary_original": "The Physical AI Conference shaping the future of robotics, autonomous&#160;systems&#160;and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI pioneers turning intelligence into physical action.&#160; Physical AI Expo North America&#160;will take place on May 18–19, 2026 at the San Jose McEnery Convention&#160;Center, uniting global AI innovators, robotics leaders, [&#8230;]\nThe post Physical AI Conference Comes to San Jose as Robotics &#0...",
+    "thumbnail": "",
+    "published": "2026-05-13T13:43:38+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "49a108cb408a",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "summary_original": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "thumbnail": "",
+    "published": "2026-05-13T11:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0e3ef1ad9d99",
+    "title": "Mira Murati’s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration",
+    "url": "https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/",
+    "summary_original": "Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-turn architecture that processes 200ms chunks of audio, video, and text simultaneously — eliminating the need for external voice-activity detection harnesses. Unlike standard turn-based models that freeze perception during generation, the system runs two components in parallel: a real-time interacti...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-2.05.10-AM-1.png",
+    "published": "2026-05-13T09:21:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
