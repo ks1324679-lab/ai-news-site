@@ -1,0 +1,392 @@
+[
+  {
+    "id": "b576cbcb309b",
+    "title": "生成AIで3Dモデルを自動作成　専門スキル不要でテキストや画像から3D化",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+    "summary_original": "スリー・ディー・エスは、テキストや画像入力から3Dモデルを自動生成できる生成AI「Meshy.ai」の日本国内での提供を開始した。専門的な3Dモデリングスキルを必要とせず、試作検討やデザイン用途などに向けた3D活用を支援する。",
+    "thumbnail": "",
+    "published": "2026-05-19T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e6bd070f149e",
+    "title": "ホウレンソウの葉緑体由来の構造をマウスの目に投与して光合成させることに成功",
+    "url": "https://gigazine.net/news/20260519-spinach-mouse-eye-photosynthesis/",
+    "summary_original": "植物は光合成によって生きるために必要な物質を作りますが、動物は基本的に光合成を行うことができません。シンガポール国立大学(NUS)の研究チームは、ホウレンソウの葉緑体由来の構造をマウスの目に投与することで光合成を行わせる研究の結果を報告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-19T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5673b35b7936",
+    "title": "Python 3.15に追加されるlazy importと内包表記でのアンパッキングについて調べてみた",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/19/news014.html",
+    "summary_original": "Python 3.15の新機能として追加された「モジュールの読み込みを必要な時点まで遅延するlazy import」と二重ループの構造を取る内包表記をより直感的に書けるようになる「内包表記でのアンパッキング」がどんなものかをちょっとコードを書いて調べてみました。",
+    "thumbnail": "",
+    "published": "2026-05-19T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1c9abd2c248c",
+    "title": "メーカーが倒産してしまったEVのオーナーらが自力でソフトウェアを解析してオープンソースツールを構築",
+    "url": "https://gigazine.net/news/20260518-fisker-ocean-open-source-ev/",
+    "summary_original": "近年の自動車には高度なソフトウェアが搭載されていますが、メーカーが倒産するとソフトウェアのアップデートやサービスが提供されなくなり、文鎮化してしまうリスクがあります。2024年に倒産したEVメーカー・Fisker(フィスカー)のEV車を所有するオーナーたちが、自分たちでフィスカー車を維持するための非営利団体を設立し、ソフトウェアをリバースエンジニアリングしてオープンソースツールを構築していると、EV関連のニュースサイトであるElectrekが報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-18T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "14ef05c44f0f",
+    "title": "Intel Core i9-14900KFが9.2GHzに達してCPU周波数の世界新記録を樹立",
+    "url": "https://gigazine.net/news/20260518-intel-i9-14900kf-overclock/",
+    "summary_original": "CPUやGPUなどのPCパーツを、定格の最高を上回る周波数で動作させて性能を極限まで引き出すことをめざすのが「オーバークロック」です。中国のオーバークロッカーであるwytiwxがIntel Core i9-14900KFをオーバークロックし、世界新記録を樹立したと報じられています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-18T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d8859cfa6328",
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "summary_original": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that the bigger obstacle is access, and that Claude solves it.",
+    "thumbnail": "",
+    "published": "2026-05-18T21:29:31+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9f8d5ae45548",
+    "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
+    "url": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
+    "summary_original": "As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes [&#8230;]\nThe post Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect U...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-18-at-2.14.57-PM-1.png",
+    "published": "2026-05-18T21:26:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "44acb7623408",
+    "title": "Google検索公式による「生成型AI機能向けにウェブサイトを最適化する方法」",
+    "url": "https://gigazine.net/news/20260518-google-guide-optimizing-generative-ai/",
+    "summary_original": "生成AIの台頭により、ユーザーの情報検索方法は大きく変化しつつあり、これに伴い検索エンジンのGoogle検索もアップグレードされています。こういった状況で「Google検索における生成型AI機能向けにウェブサイトを最適化する方法」をGoogleが解説しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-18T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "83926c58a057",
+    "title": "かつて「ゲームが社会的リスク」だったベトナムがゲーム大国に躍進しダウンロード数は世界第2位に",
+    "url": "https://gigazine.net/news/20260518-vietnam-game/",
+    "summary_original": "2026年5月にベトナムのホーチミン市で開催されたイベント『Vietnam GameVerse 2026』で、ベトナムのモバイルゲームダウンロード数が中国に次ぐ世界第2位だったことが明らかになりました。ベトナムはかつてゲームを厳しく制限していたこともある国ですが、今や国を挙げてゲームに力を注いでいます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-18T20:21:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "36dab186d020",
+    "title": "Stochastic Gradient Descent (SGD’s) Frequency Bias and How Adam Fixes It",
+    "url": "https://www.marktechpost.com/2026/05/18/stochastic-gradient-descent-sgds-frequency-bias-and-how-adam-fixes-it/",
+    "summary_original": "Modern language models are trained on data with extremely uneven token distributions. A small number of words appear in almost every sentence, while many rare but meaningful tokens occur only occasionally. This creates a hidden optimization challenge: parameters associated with common tokens receive constant gradient updates, while parameters tied to rare tokens may go hundreds [&#8230;]\nThe post Stochastic Gradient Descent (SGD&#8217;s) Frequency Bias and How Adam Fixes It  appeared first on Ma...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-36.png",
+    "published": "2026-05-18T20:18:55+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d023da2950a3",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "summary_original": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+    "thumbnail": "",
+    "published": "2026-05-18T19:27:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d4f58b017f19",
+    "title": "Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours",
+    "url": "https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours/",
+    "summary_original": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would have been ready to dismiss the case \"immediately.\" Musk's attorney reserved the right to appeal.\nThe article Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/12/openai_lawsuit_justice-2.png",
+    "published": "2026-05-18T18:20:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "824e77ca4c6b",
+    "title": "What to expect from Google this week",
+    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-18T17:35:43+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f568df07558f",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "summary_original": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "thumbnail": "",
+    "published": "2026-05-18T17:34:43+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "879ef9f692d5",
+    "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
+    "url": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+    "summary_original": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.\nThe article Cursor&#039;s Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/08/cursor_AI_logo.png",
+    "published": "2026-05-18T17:29:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9e44d638b21d",
+    "title": "The Signals That Matter – MIT Insider’s Panel",
+    "url": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-18T16:57:44+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "981e2ce3b8c4",
+    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "summary_original": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-18T16:01:39+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "5fe33294ceaa",
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-18T16:00:21+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "7d7bfee82504",
+    "title": "Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker",
+    "url": "https://the-decoder.com/pope-leo-xiv-presents-first-ai-encyclical-anthropic-co-founder-invited-as-guest-speaker/",
+    "summary_original": "Pope Leo XIV will present his first encyclical on artificial intelligence on May 25. Anthropic co-founder Christopher Olah has been invited as a guest speaker.\nThe article Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/anthropic_holy_cross.png",
+    "published": "2026-05-18T15:32:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "210dad3ca6f9",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-18T15:12:46+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "3be90d994a82",
+    "title": "Musk v. Altman proved that AI is led by the wrong people",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+    "summary_original": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monday after just [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25739950/247386_Elon_Musk_Open_AI_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-18T15:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3a9b0386203c",
+    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "summary_original": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+    "thumbnail": "",
+    "published": "2026-05-18T14:56:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "184fb5875c90",
+    "title": "The Open Agent Leaderboard",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-18T14:12:58+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-18T13:49:49-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dbc1dabc8537",
+    "title": "A Stanford student reflects on his ChatGPT class and a culture of \"just a little bit of fraud\"",
+    "url": "https://the-decoder.com/a-stanford-student-reflects-on-his-chatgpt-class-and-a-culture-of-just-a-little-bit-of-fraud/",
+    "summary_original": "Stanford student Theo Baker describes in a guest essay for the New York Times how ChatGPT shaped his entire graduating class. His conclusion: AI turned an already existing culture of dishonesty at the elite university into the default.\nThe article A Stanford student reflects on his ChatGPT class and a culture of &quot;just a little bit of fraud&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/Stacked-Papers-Deep-Research-Dissolving-Nano-Banana-Pro.jpeg",
+    "published": "2026-05-18T13:42:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4f2f8f4da2b7",
+    "title": "Elon Musk loses his case against Sam Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+    "summary_original": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-18T13:39:32-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "bf59c5022804",
+    "title": "NEC社長が説く　AI時代と新たな安全保障環境の到来で「ITサービスはこう変わる」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/18/news062.html",
+    "summary_original": "AI時代、そして新たな安全保障環境の到来で、ITサービスはどう変わるのか。NECの森田隆之社長が説く、「これからのITサービス産業における勝者の条件」に迫る。",
+    "thumbnail": "",
+    "published": "2026-05-18T13:10:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "287e87db95e6",
+    "title": "MAGA-aligned groups want government oversight of frontier AI models",
+    "url": "https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/",
+    "summary_original": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship.\nThe article MAGA-aligned groups want government oversight of frontier AI models appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2.png",
+    "published": "2026-05-18T12:48:55+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "87bd85e73f4c",
+    "title": "人間 vs. 人型ロボ、より多く作業をこなせるのは？　生配信で対決した結果……　米企業",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/18/news069.html",
+    "summary_original": "人間と人型ロボット、どちらがより多く作業をこなせるのか――ロボット開発企業の米Figureは5月18日（日本時間）、このような勝負の様子を生配信した。",
+    "thumbnail": "",
+    "published": "2026-05-18T12:23:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a6efc7256520",
+    "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+    "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/Lymph-Node-Chip-0709-1.jpg?w=2702",
+    "published": "2026-05-18T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bc1f08a7020e",
+    "title": "Amazon Alexa Plus can now create AI-generated podcasts",
+    "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+    "summary_original": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/amazon-alexa-podcasts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-18T11:55:25-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ed128b31ae1c",
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "summary_original": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+    "thumbnail": "",
+    "published": "2026-05-18T11:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b977dbfb4bc2",
+    "title": "「ポンコツ」と呼ばれたM365 Copilotの逆転劇、GPT-5が転換点　活用の秘訣は“脱・プロンプト職人”",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news013.html",
+    "summary_original": "リリース当初は期待外れとの声もあった「Microsoft 365 Copilot」だが、近年は評価が変わってきているようだ。何が転換点だったのか。3人のMicrosoft MVPがその進化と活用の本質を語り合った座談会の模様をお届けする。",
+    "thumbnail": "",
+    "published": "2026-05-18T10:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1af67e245b3a",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "summary_original": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "thumbnail": "",
+    "published": "2026-05-18T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "ef8543f0bb46",
+    "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+    "url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+    "summary_original": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled shopping actions and eligible automated purchases. The company said Alexa for Shopping combines Rufus’ product [&#8230;]\nThe post Amazon launches Alexa for Shopping as Rufus moves behind the scenes appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-05-18T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "b028c2570f1c",
+    "title": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon",
+    "url": "https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/",
+    "summary_original": "NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format — combining selective BF16 layers, 16×16 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients — validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro).\nThe post NVIDIA Introduces a 4-Bit Pretrain...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-18-at-1.35.42-AM-1.png",
+    "published": "2026-05-18T08:42:52+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "05d208b2500e",
+    "title": "A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor",
+    "url": "https://www.marktechpost.com/2026/05/17/a-coding-implementation-to-compress-and-benchmark-instruction-tuned-llms-with-fp8-gptq-and-smoothquant-quantization-using-llmcompressor/",
+    "summary_original": "In this tutorial, we explore how to apply post-training quantization to an instruction-tuned language model using llmcompressor. We start with an FP16 baseline and then compare multiple compression strategies, including FP8 dynamic quantization, GPTQ W4A16, and SmoothQuant with GPTQ W8A8. Along the way, we benchmark each model variant for disk size, generation latency, throughput, perplexity, [&#8230;]\nThe post A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GP...",
+    "thumbnail": "",
+    "published": "2026-05-17T18:19:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5c90a84245fe",
+    "title": "Revamped Siri will reportedly offer autodeleting chats",
+    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "summary_original": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10817647/acastro_180510_1777_siri_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-17T14:40:28-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "81f4f509bcba",
+    "title": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs",
+    "url": "https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/",
+    "summary_original": "Vercel Labs has released Zero, an experimental systems programming language designed so AI agents can read, repair, and ship native programs without requiring human interpretation of compiler output. The language emits JSON diagnostics with stable codes and typed repair metadata, enforces capability-based I/O at compile time, and compiles to sub-10 KiB native binaries.\nThe post Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Pro...",
+    "thumbnail": "",
+    "published": "2026-05-17T08:11:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
