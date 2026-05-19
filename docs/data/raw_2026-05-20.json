@@ -1,0 +1,402 @@
+[
+  {
+    "id": "406770337631",
+    "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破　「Mythos」が見せつけた脆弱性攻撃の威力",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
+    "summary_original": "米セキュリティ企業のCalifが、米Appleが5年がかりで開発した最先端のセキュリティ対策「MIE」を突破するエクスプロイト（攻撃プログラム）を、わずか5日間で開発したと発表した。利用したのはAnthropicのAIモデル「Mythos」のプレビュー版だった。",
+    "thumbnail": "",
+    "published": "2026-05-20T06:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "964124876e24",
+    "title": "霧の水滴の中で細菌が成長していることが判明、空気中の有害物質を分解する働きも",
+    "url": "https://gigazine.net/news/20260520-fog-bacteria-formaldehyde/",
+    "summary_original": "霧は空気中の水蒸気が冷えてできた細かな水滴が地表近くに浮かんでいる現象です。アリゾナ州立大学やサスケハナ大学などの研究チームは、霧の水滴に含まれる細菌が単に空気中を漂っているだけでなく水滴の中で成長していると報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-20T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "028269f30b38",
+    "title": "【やさしいデータ分析】ベイズ統計入門 ～ 古典的な統計との違いと使い分け",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news006.html",
+    "summary_original": "初歩から応用までステップアップしながら学んでいく『やさしいデータ分析』シリーズ第5弾がスタート。ベイズ統計を学ぶに当たって、知っておくべきキーワード、連載の予定を紹介します。データ分析を実践的に役立てるための基礎をしっかり学んでみませんか？",
+    "thumbnail": "",
+    "published": "2026-05-20T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "011e0607b2f3",
+    "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
+    "summary_original": "米Googleが開発者会議「Google I/O 2026」で、動画の生成・編集に対応するAIモデル「Gemini Omni」を発表した。自然言語による指示で動画を作成・編集でき、同社は「世界モデル」や画像生成モデル「Nano Banana」の動画版とうたう。最初のモデル「Gemini Omni Flash」の提供も開始した。",
+    "thumbnail": "",
+    "published": "2026-05-20T03:38:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "849677abbb40",
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "summary_original": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+    "thumbnail": "",
+    "published": "2026-05-19T21:33:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e347e9f1a2d2",
+    "title": "日立、Anthropicと提携　グループ29万人に「Claude」などAI導入　社会インフラ分野にも展開へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
+    "summary_original": "日立製作所と米Anthropicが戦略的パートナーシップを締結した。Anthropicの生成AIサービス「Claude」など先進AIを日立グループ約29万人の全ビジネスプロセスに導入するほか、同社の社会インフラ向けソリューション群「HMAX by Hitachi」（HMAX）にも展開する。Anthropicを巡っては、4月にNECとの協業を発表。国内ITとの提携を進めている。",
+    "thumbnail": "",
+    "published": "2026-05-19T21:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "df9d01ab5f19",
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "summary_original": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+    "thumbnail": "",
+    "published": "2026-05-19T21:25:31+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "56e3cf0857f6",
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "summary_original": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "thumbnail": "",
+    "published": "2026-05-19T21:16:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f54e9de1e415",
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "summary_original": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+    "thumbnail": "",
+    "published": "2026-05-19T21:08:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "48af11f73971",
+    "title": "ブラウザに表示されたボタンをクリックするだけでどんな情報が収集されるのかが分かるゲーム「Click Click Click」",
+    "url": "https://gigazine.net/news/20260519-click/",
+    "summary_original": "「Click Click Click」はアムステルダムを本拠地とするインタラクティブデザインスタジオ「Moniker」のゲーム作品です。どんなゲームなのか、実際にプレイしてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-19T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b25fe2ef51a8",
+    "title": "Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, Managed Execution, and Enterprise Support",
+    "url": "https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-i-o-2026-a-standalone-agent-first-platform-with-cli-sdk-managed-execution-and-enterprise-support/",
+    "summary_original": "Google used its I/O 2026 developer keynote to ship a meaningful architectural shift in how it packages AI-assisted development. The company announced Google Antigravity 2.0 — a standalone desktop application built entirely around agent orchestration alongside an Antigravity CLI, an Antigravity SDK, Managed Agents in the Gemini API, and enterprise support through the Gemini Enterprise [&#8230;]\nThe post Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, ...",
+    "thumbnail": "",
+    "published": "2026-05-19T20:30:58+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "25e688045343",
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "summary_original": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-19T20:15:18+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "53d03497bf4f",
+    "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "summary_original": "“By the end of this week, you and Sam will be the most hated men in America.”",
+    "thumbnail": "",
+    "published": "2026-05-19T20:11:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f9ec62f428cf",
+    "title": "強力なAIモデルのリリース前に政府のテストと承認を義務づけるよう数十人のMAGA支持者がトランプ大統領に要求",
+    "url": "https://gigazine.net/news/20260519-maga-conservative-group-trump-test-ai/",
+    "summary_original": "ドナルド・トランプ大統領の支持基盤となっているMAGA(メイク・アメリカ・グレート・アゲイン)支持者ら数十人が、AI開発企業が強力なAIモデルを公開する前に政府がテスト・承認するよう求める書簡に署名したことが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-19T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a4810b9e13e5",
+    "title": "Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month",
+    "url": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/",
+    "summary_original": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark. Instead of daily prompt limits, Google is moving to a consumption-based compute model, a trend that's gaining traction across the industry.\nThe article Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/google_logo_neural_network-4.png",
+    "published": "2026-05-19T19:33:12+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b7c24e20fb78",
+    "title": "OpenAIの共同設立者アンドレイ・カーパシー、Anthropicにジョイン",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000006/",
+    "summary_original": "米OpenAIの共同設立者でAI研究者のアンドレイ・カーパシー氏は5月20日（日本時間）、米Anthropicにジョインしたと自身のXアカウントで発表した。",
+    "thumbnail": "",
+    "published": "2026-05-19T19:02:53+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4cce296b7f03",
+    "title": "「AIが大学生活をどのように変えてしまったのか？」をスタンフォード大学の学生が語る",
+    "url": "https://gigazine.net/news/20260519-stanford-student-reflects-chatgpt/",
+    "summary_original": "生成AIの登場により、多くの学生がAIを利用するようになっており、AIを用いたカンニングなどの不正行為が問題視されています。そんな学生のAI利用について、スタンフォード大学の現役学生が語りました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-19T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3c39ff149bfd",
+    "title": "イランがホルムズ海峡を通過する船舶向けにビットコインを用いた海上保険サービスを設立したと準国営メディアが報じる",
+    "url": "https://gigazine.net/news/20260519-bitcoin-hormuz-strait/",
+    "summary_original": "2026年2月28日にアメリカとイスラエルがイランを攻撃して以降、イランの軍事組織であるイスラム革命防衛隊によりイランの南方にあるホルムズ海峡の通行が大幅に制限されており、2026年4月にはイランが海峡を通過しようとする船舶に仮想通貨で通行料の支払いを要求する計画を立てていました。さらに2026年5月16日には、イラン経済省がホルムズ海峡とペルシャ湾を通過する貨物の保険を求める海運会社を対象とした「ホルムズ・セーフ」と呼ばれる海上保険プラットフォームを設立したことをイラン革命防衛隊系のメディアが報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-19T18:45:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "63751fb3a376",
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-19T18:38:09+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "3855f68bbcd6",
+    "title": "Sorry for the outages: Bot spam is pushing our servers to the limit",
+    "url": "https://the-decoder.com/sorry-for-the-outages-bot-spam-is-pushing-our-servers-to-the-limit/",
+    "summary_original": "Since May 17, our site has been hard to reach, and we want to say sorry for the trouble, especially to our subscribers.\nThe article Sorry for the outages: Bot spam is pushing our servers to the limit appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2022/09/Banner_The-Decoder_SoMe_1920x1080px.png",
+    "published": "2026-05-19T18:31:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ca3eef7aa463",
+    "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+    "url": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+    "summary_original": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1303783356-1152x648.jpg",
+    "published": "2026-05-19T18:27:08+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5b832751b7d1",
+    "title": "Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research",
+    "url": "https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research/",
+    "summary_original": "Andrej Karpathy, one of the biggest names in AI, is joining Anthropic. The former OpenAI core team member and Tesla Autopilot architect says he wants to get back into R&#038;D, calling the next few years at the frontier of LLMs \"especially formative.\" That he chose Anthropic over a return to OpenAI is a clear loss for his former employer.\nThe article Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research appeared first on The Decode...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/08/andrej_karpathy_youtube_screenshot.png",
+    "published": "2026-05-19T18:23:27+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e7785d8c77e3",
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "summary_original": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google announced a sweeping redesign of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven conversat...",
+    "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30",
+    "published": "2026-05-19T17:45:00+00:00",
+    "source": "VentureBeat AI",
+    "language": "en"
+  },
+  {
+    "id": "13af806c8ee3",
+    "title": "Google's I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app",
+    "url": "https://the-decoder.com/googles-i-o-announcements-new-models-a-cloud-agent-that-never-sleeps-and-a-redesigned-gemini-app/",
+    "summary_original": "Google used its I/O developer conference to unveil a wave of new AI products. The highlights: a new model called Gemini 3.5 Flash, a multimodal model called Gemini Omni, and a personal agent named Gemini Spark that runs around the clock in the cloud. The Gemini app also gets a major refresh.\nThe article Google&#039;s I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Google-IO-26.png",
+    "published": "2026-05-19T17:44:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "daffa43cd7cb",
+    "title": "The future of Google is a search box that does everything",
+    "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
+    "summary_original": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Google [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lcimg-036c9a25-7169-4853-846e-94fd035c259f.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-19T17:24:14-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "40602be22bd7",
+    "title": "Google’s AI future demands trust — and your personal data",
+    "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+    "summary_original": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-19T17:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "536bff690f24",
+    "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
+    "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+    "summary_original": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-19T14:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f31901b0cd85",
+    "title": "Agora-1 turns the N64 classic GoldenEye into a playable AI simulation for four players",
+    "url": "https://the-decoder.com/agora-1-turns-the-n64-classic-goldeneye-into-a-playable-ai-simulation-for-four-players/",
+    "summary_original": "Odyssey has released Agora-1, a world model that lets up to four players act simultaneously in an AI-generated world—tested on the N64 classic GoldenEye. Two separate models handle game state simulation and rendering in real time. The team sees potential in collaborative robotics and AI agent training.\nThe article Agora-1 turns the N64 classic GoldenEye into a playable AI simulation for four players appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Odyssey-Goldeneye-Agora-title.png",
+    "published": "2026-05-19T13:57:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4aff86b3999c",
+    "title": "The 13 biggest announcements at Google I/O 2026",
+    "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+    "summary_original": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses. If you weren't able to tune into the event's livestream today or follow along with our live blog, you can [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/io2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-19T13:54:33-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0b85bf4e9eb4",
+    "title": "Google wants to compete with Anthropic’s Mythos",
+    "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+    "summary_original": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally - and marketing it [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK453_PRIVACY_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-19T13:48:22-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6dfb885ed4e2",
+    "title": "Understanding the modern cybercrime landscape",
+    "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+    "summary_original": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typically use automation and AI to exploit longstanding vulnerabilities, and many have adopted&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/HPE_VL_Backgrounds_HR_1920x1080_E.jpg?w=1920",
+    "published": "2026-05-19T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "17cca9af0713",
+    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+    "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.34.42.png?w=1290",
+    "published": "2026-05-19T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "84f3f3412343",
+    "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+    "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+    "summary_original": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.&#160; Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial egg” as part of its effort to resurrect extinct avian&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Device_1.jpg?w=2667",
+    "published": "2026-05-19T12:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e4af29ed3a8d",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "summary_original": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "thumbnail": "",
+    "published": "2026-05-19T10:45:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "cae5b71f8beb",
+    "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+    "summary_original": "President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that &#8220;something could happen&#8221; on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump first authorised the sales in December 2025, and US Trade Representative Jamieson Greer told Bloomberg that semiconductor controls were [&#8230;]\nThe post The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected ...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-05-19T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "7be2bc5c70a2",
+    "title": "Best Enterprise Level Agentic AI Platforms for 2026",
+    "url": "https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/",
+    "summary_original": "Enterprise agentic AI has moved from pilots to production in 2026. This guide ranks the top 10 platforms — Salesforce Agentforce, Microsoft Copilot Studio, ServiceNow, LangGraph, and more — with verified pricing, real adoption data, and honest constraints to help enterprise teams make the right platform decision.\nThe post Best Enterprise Level Agentic AI Platforms for 2026 appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-19T08:24:58+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "26e60d18c2c7",
+    "title": "How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API",
+    "url": "https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/",
+    "summary_original": "In this tutorial, we build an advanced agentic AI system using the OpenAI API and a hidden terminal prompt for the API key. We design the agent as a small pipeline of specialized roles: planner, tool-using executor, and critic, so that we can separate strategy, action, and quality control. We also integrate structured tools (calculator, [&#8230;]\nThe post How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API appeared first on MarkTechP...",
+    "thumbnail": "",
+    "published": "2026-05-19T05:29:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bb12754c8385",
+    "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+    "url": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "summary_original": "Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it&#8217;s sometimes the smaller considerations that need to play big – at least, in the minds of enterprise decision-makers. [&#8230;]\nThe post AI is a matter of power, infrastructure and security: TechEx North America appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/techex-insert.jpeg",
+    "published": "2026-05-19T01:36:26+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "9b154231c9e4",
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "summary_original": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-19T00:53:10+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e05bf9ebf2f8",
+    "title": "Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-19T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
