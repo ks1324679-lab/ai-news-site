@@ -1,0 +1,402 @@
+[
+  {
+    "id": "cb41a874be39",
+    "title": "AIベンチマーク「自転車に乗ったペリカンを描く」をGemini 3.1 ProやQwen3.6-35B-A3Bにやってもらうとこうなる",
+    "url": "https://gigazine.net/news/20260521-llms-pelicans-on-bicycles-2026/",
+    "summary_original": "AIの性能を測るベンチマークにはさまざまなものがありますが、その中でも少し変わっているのがソフトウェア開発者のサイモン・ウィリソン氏が使っている「自転車に乗ったペリカンを描かせる」というテスト。PyCon US 2026の5分間ライトニングトークで、ウィリソン氏はGemini 3.1 ProやQwen3.6-35B-A3Bなどによる「自転車に乗ったペリカン」の生成結果を報告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-21T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bfc431c3df1e",
+    "title": "Python 3.15で追加されるfrozendictクラスとsentinelクラスってどんなもの？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/21/news014.html",
+    "summary_original": "Python 3.15では組み込み型として変更不可能な辞書であるfrozendictクラスと、値が見つからないことや使えないことを意味する番兵値を表すsentinelクラスが追加される予定です。これらをどんなふうに使うのか、ちょっと調べてみました。",
+    "thumbnail": "",
+    "published": "2026-05-21T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "701a8a6a4c04",
+    "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
+    "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+    "summary_original": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+    "thumbnail": "",
+    "published": "2026-05-20T22:03:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "42a4a62f5a1d",
+    "title": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B more.",
+    "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+    "summary_original": "Elon Muks's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+    "thumbnail": "",
+    "published": "2026-05-20T21:55:49+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "619e2ba43125",
+    "title": "Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google’s TurboQuant Algorithm",
+    "url": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/",
+    "summary_original": "turbovec brings Google Research's TurboQuant algorithm to vector search, offering 16x compression and zero codebook training for RAG pipelines.\nThe post Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google&#8217;s TurboQuant Algorithm appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a1.png",
+    "published": "2026-05-20T21:42:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8ad8deb31608",
+    "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+    "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "summary_original": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+    "thumbnail": "",
+    "published": "2026-05-20T21:29:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6275c19a3401",
+    "title": "700以上のOSを起動できるエミュレーター「バーチャルOSミュージアム」",
+    "url": "https://gigazine.net/news/20260520-virtual-os-museum/",
+    "summary_original": "現代のすべてのOSの祖先とされる「CTSS」や、GUIを備えた最初のOS「Pilot」など、歴史に残る700以上のOSをエミュレートできるツール「バーチャルOSミュージアム」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-20T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5e513af90e20",
+    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "summary_original": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+    "thumbnail": "",
+    "published": "2026-05-20T20:28:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ba50f07de278",
+    "title": "「AIデリバリーシステムの導入で160億円超の損害を被った」とピザハットのフランチャイズ加盟店が提訴",
+    "url": "https://gigazine.net/news/20260520-pizza-hut-franchisee-sues-ai-delivery-system/",
+    "summary_original": "近年はさまざまな企業がAIを導入して業務改善を図っており、一部のファストフード店では注文システムにAIを導入したり、キッチンやホールの業務管理を担うAIを導入したりしています。そんな中、大手宅配ピザチェーン・ピザハットのフランチャイズ加盟店が「ピザハットが導入したAIデリバリーシステムにより多額の損害を被った」として、ピザハットに1億ドル(約160億円)超の損害賠償を請求する訴訟を起こしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-20T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4f3ec8edc1c2",
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "summary_original": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+    "thumbnail": "",
+    "published": "2026-05-20T19:47:20+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b0b3dbc2b0b0",
+    "title": "2026年5月20日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260520-headline/",
+    "summary_original": "アニメ『BLEACH』の最終クールとなる『BLEACH 千年血戦篇-禍進譚-』のメインPVが公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-20T19:45:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2733ab398b63",
+    "title": "Googleが複数サービスや店舗を横断して使えるショッピングハブ「Universal Cart」発表、UCP対応でAIエージェントが人間の代わりにオンラインショッピングを完結可能に",
+    "url": "https://gigazine.net/news/20260520-google-universal-cart/",
+    "summary_original": "「Google I/O 2026」でGoogleがインテリジェントショッピングカート「Universal Cart」を発表しました。Google検索・Gemini・YouTube・GmailなどGoogleのサービスを使っているタイミングで見つけた商品を追加でき、そのまま購入手続きまで進めるショッピングカートです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-20T19:35:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1f7b0324d248",
+    "title": "Google publishes exploit code threatening millions of Chromium users",
+    "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+    "summary_original": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg",
+    "published": "2026-05-20T19:10:36+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "e5f916312faa",
+    "title": "Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\"",
+    "url": "https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/",
+    "summary_original": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Cursor. Applicants should know agent loops, MCP, and context engineering and be heavy users of existing coding tools.\nThe article Deepseek wants to take on Claude Code and OpenAI&#039;s Codex with &quot;Deepseek Code&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/deepseek_code.png",
+    "published": "2026-05-20T18:48:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "169a876ea7f9",
+    "title": "How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations",
+    "url": "https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/",
+    "summary_original": "In this tutorial, we will generate knowledge graphs from plain text, conversations, and multiple source documents using kg-gen. We start by setting up the required dependencies and configuring an LLM through LiteLLM, then we extract entities, predicates, and relationships from simple text. As we move forward, we work with longer passages using chunking and clustering, [&#8230;]\nThe post How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive V...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-05-20T18:24:08+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4588d725e15e",
+    "title": "LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed",
+    "url": "https://the-decoder.com/linkedins-war-on-ai-slop-is-not-just-a-policy-update-it-is-an-admission-that-the-platform-lost-control-of-its-feed/",
+    "summary_original": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of the time. The irony: parent company Microsoft has been actively pushing AI use on LinkedIn itself.\nThe article LinkedIn&#039;s war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/linkedin_ki_spam_icon.png",
+    "published": "2026-05-20T18:21:23+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c4a0ad31b03b",
+    "title": "‘Solve all diseases,’ you say?",
+    "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+    "summary_original": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/demishassabis.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-20T17:06:35-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1bde14f74956",
+    "title": "Google「25年で最大の刷新」　AI検索、新モデルで“OpenAI対抗”鮮明に【発表まとめ】",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
+    "summary_original": "Googleは「新AIモデル『Gemini 3.5』」「AI検索の機能強化」「AIエージェントツール」などを発表した。OpenAIらへの対抗姿勢が鮮明となった発表をまとめた。",
+    "thumbnail": "",
+    "published": "2026-05-20T16:35:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7c9aa331e9b9",
+    "title": "Google tests the app market version of the SaaSpocalypse",
+    "url": "https://the-decoder.com/google-tests-the-app-version-of-the-saaspocalypse/",
+    "summary_original": "Google AI Studio can now generate native Android apps from a prompt - built in Kotlin with Jetpack Compose and testable in a browser emulator. For simple utility apps like trackers or checklists, the Play Store could become less and less relevant. Apple is taking the opposite approach, consistently blocking vibe-coding apps.\nThe article Google tests the app market version of the SaaSpocalypse appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Google-IO-26.png",
+    "published": "2026-05-20T15:27:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d75e93a63f37",
+    "title": "Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights",
+    "url": "https://the-decoder.com/stability-ai-launches-stable-audio-3-0-with-up-to-six-minute-tracks-and-open-weights/",
+    "summary_original": "Stability AI has unveiled Stable Audio 3.0, a new generation of audio models - three of which ship with open weights. The models generate music tracks up to six minutes long and were trained entirely on licensed data, according to the company.\nThe article Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Stable-Audio-3.0-Thumbnail_16x9.jpg",
+    "published": "2026-05-20T14:59:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d79dfbc9e546",
+    "title": "Vibe coding is coming to your phone",
+    "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+    "summary_original": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-20T13:40:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a835a1c19b54",
+    "title": "Green steel startup Boston Metal is doubling down on critical metals",
+    "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+    "summary_original": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8% of global greenhouse emissions today. With the additional money, the new focus could&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-20T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d07c1834493e",
+    "title": "You can now remix other people’s YouTube Shorts with AI",
+    "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+    "summary_original": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-20T12:41:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5f48f1a129a3",
+    "title": "The Download: fully artificial chicken eggs and why Musk lost",
+    "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg. Instead, these chickens were&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/SO23-therapies-01.webp?w=1454",
+    "published": "2026-05-20T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "66a2141d8958",
+    "title": "Google Search’s AI evolution includes more ads",
+    "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+    "summary_original": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a new Search box for larger, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-20T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "41c49abb1ee2",
+    "title": "Google pairs its Genie world model with Street View to create explorable AI worlds based on real places",
+    "url": "https://the-decoder.com/google-pairs-its-genie-world-model-with-street-view-to-create-explorable-ai-worlds-based-on-real-places/",
+    "summary_original": "Google Deepmind connects its Genie 3 world model to Street View imagery: users drop a pin on a map and get a walkable, AI-generated world based on a real place. Google's Street View data, collected over many years, becomes a strategic training resource for creative demos, but above all for AI agents and robots.\nThe article Google pairs its Genie world model with Street View to create explorable AI worlds based on real places appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/08/genie_3_google_deepmind.png",
+    "published": "2026-05-20T11:30:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2c32df700bb8",
+    "title": "NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6× Tokens Per Forward Over Qwen3-8B",
+    "url": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/",
+    "summary_original": "NVIDIA researchers have released Nemotron-Labs-Diffusion, a language model family that unifies three decoding modes in one architecture. The model supports autoregressive (AR) decoding, diffusion-based parallel decoding, and self-speculation decoding. It is available in 3B, 8B, and 14B parameter sizes. The family includes base, instruct, and vision-language variants. Sequential Decoding Limits Throughput Standard autoregressive (AR) language [&#8230;]\nThe post NVIDIA AI Releases Nemotron-Labs-Di...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-20-at-3.28.04-AM-1.png",
+    "published": "2026-05-20T10:41:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0c6e87a7593a",
+    "title": "It&#8217;s make or break time for AI labeling systems",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+    "summary_original": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-20T10:12:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a795498fea42",
+    "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+    "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+    "summary_original": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export controls. The Zhenwu M890, developed by Alibaba&#8217;s semiconductor subsidiary [&#8230;]\nThe post Alibaba is designing AI chips around agents, and that changes what the race is actually about appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-05-20T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "40aa09bf7d7a",
+    "title": "「Gemini 3.5」登場　軽量モデルは一部3.1 Pro超え、高性能モデルは6月公開予定",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/",
+    "summary_original": "Googleが新しいAIモデル群「Gemini 3.5」シリーズを発表。軽量モデルの「Gemini 3.5 Flash」は発表同日から利用可能。高性能モデルの「Gemini 3.5 Pro」は6月にリリース予定。",
+    "thumbnail": "",
+    "published": "2026-05-20T09:02:56+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c16a3e281f57",
+    "title": "Alibaba Qwen Team Introduces Qwen3.5-LiveTranslate-Flash: Real-Time Multimodal Interpretation Across 60 Languages at 2.8-Second Latency",
+    "url": "https://www.marktechpost.com/2026/05/20/alibaba-qwen-team-introduces-qwen3-5-livetranslate-flash-real-time-multimodal-interpretation-across-60-languages-at-2-8-second-latency/",
+    "summary_original": "Alibaba's Qwen team has released Qwen3.5-LiveTranslate-Flash, a real-time multimodal translation model that processes audio and video simultaneously. The model covers 60 input languages and produces speech output in 29 languages at 2.8 seconds of latency. Key additions over the previous Qwen3 version include real-time speaker voice cloning, vision-enhanced comprehension via lip movements and on-screen text, and dynamic keyword configuration for domain-specific terminology. On FLEURS and CoVoST2 ...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-20-at-1.09.04-AM-1.png",
+    "published": "2026-05-20T08:09:51+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "58c84e0ead6b",
+    "title": "アクセンチュアらが「エージェント型工場」を開発　製造現場の計画外停止の削減図る",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/20/news022.html",
+    "summary_original": "アクセンチュアとアバナード、Microsoftは、製造業向けAIエージェント基盤「エージェント型工場」を共同開発した。従来の製造分析ダッシュボードの枠を超え、現場担当者の判断を支援する。",
+    "thumbnail": "",
+    "published": "2026-05-20T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "56348ee114cb",
+    "title": "Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding",
+    "url": "https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/",
+    "summary_original": "Google's Gemini 3.5 Flash beats its own flagship on coding and agentic benchmarks while running four times faster and at half the cost.\nThe post Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-20-at-12.03.04-AM-1.png",
+    "published": "2026-05-20T07:12:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "60bd87525804",
+    "title": "NHNテコラス、AIエージェント導入から運用改善まで支援する新サービスを提供",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/20/news029.html",
+    "summary_original": "NHNテコラスは、AIエージェントの導入から運用、改善までを支援するサービスの提供を開始した。Amazon Bedrock AgentCoreを軸にした構築支援と、Amazon Quickの導入パッケージを通じて業務へのAI定着を後押しする。",
+    "thumbnail": "",
+    "published": "2026-05-20T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a23c5621227e",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "summary_original": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "thumbnail": "",
+    "published": "2026-05-20T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "95e072c6616e",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "summary_original": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "thumbnail": "",
+    "published": "2026-05-20T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "ae68796c79fe",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "summary_original": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "thumbnail": "",
+    "published": "2026-05-20T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "b8480648c364",
+    "title": "Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "summary_original": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "thumbnail": "",
+    "published": "2026-05-19T20:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "25e688045343",
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "summary_original": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-19T20:15:18+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6ad4b0a087dd",
+    "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+    "url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+    "summary_original": "Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent. The AI and Big Data programme opened with reference to what was termed the &#8220;AI graveyard&#8221; – that is, AI projects that seem to perform well in pilot, but don&#8217;t seem [&#8230;]\nThe post Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/clankers-300x284.jpeg",
+    "published": "2026-05-19T19:18:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
