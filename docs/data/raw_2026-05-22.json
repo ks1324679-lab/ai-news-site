@@ -1,0 +1,402 @@
+[
+  {
+    "id": "96cf480d8772",
+    "title": "ついに予測市場を規制する最初の州が出現",
+    "url": "https://gigazine.net/news/20260522-ban-prediction-markets/",
+    "summary_original": "スポーツの勝敗から政治的出来事まであらゆるものを賭けの題材にする「予測市場」は拡大しつつあり、2026年4月には242億ドル(約3兆7800億円)まで取引量が増加しています。そんな中、ミネソタ州が全米で初めて予測市場サイトの運営を禁止する法律に署名し、アメリカの商品先物取引委員会(CFTC)はこれを違法として訴訟を起こしています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-22T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "80144d03c476",
+    "title": "Anthropicの営業責任者が業務にClaudeをどのように活用しているのかを解説",
+    "url": "https://gigazine.net/news/20260522-anthropic-sales-leader-claude-cowork/",
+    "summary_original": "AI企業のAnthropicでアメリカのミッドマーケット向け営業・市場開拓を担当するトラヴィス・ブライアント氏が、AIエージェント「Claude Cowork」を使って営業業務をどのように進めているのかをClaude公式ブログで解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-22T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "32c254d43fc6",
+    "title": "ローカルLLMは本当に手元で動くのか？　ハードウェアとモデルの現実的な選び方【2026年春】",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/22/news012.html",
+    "summary_original": "Gemma 4を手元で使ってみると、翻訳や要約ならローカルLLMでも十分に実用的だと感じた。モデル選び、GPU選び、Macや専用AIマシンの価格感まで、個人が無理なく始めるための判断材料を整理する。",
+    "thumbnail": "",
+    "published": "2026-05-22T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fb57caeeb152",
+    "title": "Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs",
+    "url": "https://www.marktechpost.com/2026/05/21/cohere-releases-command-a-a-218b-sparse-moe-model-for-agentic-workflows-that-runs-on-as-few-as-two-h100-gpus/",
+    "summary_original": "Cohere releases Command A+, an open-source 218B Sparse Mixture-of-Experts model consolidating four prior Command A variants into one. It runs on as few as two H100 GPUs at W4A4 quantization, supports 48 languages, and is Cohere's first multimodal reasoning model.\nThe post Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-2.39.46-PM-1.png",
+    "published": "2026-05-21T21:47:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8138d5f60708",
+    "title": "Google Cloudが誤ってアカウント停止、Railway全体が約8時間ダウンした障害の全貌",
+    "url": "https://gigazine.net/news/20260521-railway-incident/",
+    "summary_original": "アプリケーションのデプロイや運用基盤を提供するRailwayで日本時間2026年5月20日の7時20分ごろから15時14分ごろまで約8時間にわたる大規模障害が発生しました。Railwayによると、Google CloudがRailwayの本番用アカウントを誤って一時停止状態にしたことが原因とのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-21T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bf40a95dd6a6",
+    "title": "Roundtables: Can AI Learn to Understand the World?",
+    "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "summary_original": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-21T20:41:05+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2065203c1096",
+    "title": "Metaがサウジアラビアとアラブ首長国連邦の人権活動家をブロックしたとして現地団体が抗議",
+    "url": "https://gigazine.net/news/20260521-meta-blocks-saudi-arabia-uae/",
+    "summary_original": "サウジアラビアに拠点を置く人権団体のALQSTが、Metaに対する抗議声明を発表しました。Metaはサウジアラビア当局からの要請を受けてサウジアラビア国内のさまざまなコンテンツへのアクセスを制限しましたが、ALQSTはこれを表現の自由の侵害だと訴えています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-21T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "00d321dd1852",
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "summary_original": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+    "thumbnail": "",
+    "published": "2026-05-21T19:45:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7d8088891c85",
+    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "summary_original": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+    "thumbnail": "",
+    "published": "2026-05-21T19:19:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "13fdcf243334",
+    "title": "Scaling creativity in the age of AI",
+    "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "summary_original": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Digital-paper-marble.jpeg",
+    "published": "2026-05-21T19:16:43+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b925442dcf89",
+    "title": "AI投資など成果最大化へ国・地域別戦略　自民提言案の全容判明　骨太にも反映",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
+    "summary_original": "高市早苗首相（自民党総裁）直属の党日本成長戦略本部（本部長・岸田文雄元首相）が月内にも取りまとめるAIやエネルギー安全保障など戦略17分野への投資促進に向けた提言案の全容が判明した。",
+    "thumbnail": "",
+    "published": "2026-05-21T19:10:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9f87b8c66e22",
+    "title": "Google checks websites for llms.txt in new agentic browsing audit",
+    "url": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/",
+    "summary_original": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool.\nThe article Google checks websites for llms.txt in new agentic browsing audit appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/11/openai_browser_chrome_chatgpt_google-1.png",
+    "published": "2026-05-21T19:07:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "00271c9060ce",
+    "title": "Wikipediaを運営するウィキメディア財団のバーナデット・ミーハン新CEOにインタビュー、AI時代のWikipediaは何を目指しているのか根掘り葉掘り聞いてみました",
+    "url": "https://gigazine.net/news/20260521-wikimedia-foundation-ceo-interview/",
+    "summary_original": "創設25周年を迎えた世界最大の百科事典サイト・Wikipediaを運営するウィキメディア財団は、元アメリカ駐チリ大使という肩書きを持つバーナデット・ミーハン氏が2026年1月に新CEOに就任したことを発表しました。ちょうど来日したミーハン新CEOに直接インタビューする機会を得られたので、ウィキメディア財団やWikipediaに関して気になることをいろいろと聞いてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-21T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "90bacf183f61",
+    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "summary_original": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+    "thumbnail": "",
+    "published": "2026-05-21T17:30:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "summary_original": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-21T16:15:18-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4394a26e1625",
+    "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking",
+    "url": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/",
+    "summary_original": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context. Fields Medalist Tim Gowers calls the result \"a milestone in AI mathematics\" and warns: \"We have still probably entered an era where it will become very difficult for humans to compete with AI at solving mathematical problems.\"\nThe article OpenAI shifts the boundary of autom...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Erdos-Problem-90-OpenAI.png",
+    "published": "2026-05-21T16:11:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "32ece92680df",
+    "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+    "summary_original": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencement speakers like former Google CEO Eric Schmidt face loud and sustained jeers from students after praising [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-3.44.22PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-21T16:00:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ecf87ae7aac7",
+    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+    "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "summary_original": "Spotify will let you generate daily or weekly briefs based on your prompts",
+    "thumbnail": "",
+    "published": "2026-05-21T15:27:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d559b8767d3c",
+    "title": "Spotify takes on Google’s NotebookLM with its new app",
+    "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+    "summary_original": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+    "thumbnail": "",
+    "published": "2026-05-21T15:27:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "25bda9038066",
+    "title": "US Cyber Command races to deploy AI on top-secret networks",
+    "url": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/",
+    "summary_original": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI systems like Anthropic's Claude Mythos can find security vulnerabilities faster than the best human hackers - and according to Anthropic, comparable tools could be widely available within six to 24 months.\nThe article US Cyber Command races to deploy AI on top-secret networks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy.png",
+    "published": "2026-05-21T15:20:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "46f6b57e1f12",
+    "title": "Cohere open-sources its strongest model yet",
+    "url": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/",
+    "summary_original": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license.\nThe article Cohere open-sources its strongest model yet appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Cohere-Command-A-Plus-3840x1920-1.webp",
+    "published": "2026-05-21T15:17:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b5a2d9a9f18a",
+    "title": "Anthropic is about to become the first profitable AI lab",
+    "url": "https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/",
+    "summary_original": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q2 revenue. Just last summer, the company didn't expect to turn a profit before 2028. The main drivers are coding tools and agentic Claude usage, which at times pushed demand beyond available compute capacity.\nThe article Anthropic is about to become the first profitable AI lab appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Anthropic-US-Leadership.png",
+    "published": "2026-05-21T15:15:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e46b93e1759f",
+    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "summary_original": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/PXL_20260519_113915550.MP_.jpg?w=2987",
+    "published": "2026-05-21T14:30:45+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c47218addf4f",
+    "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+    "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+    "summary_original": "Beneficiaries include startup backed by firm with links to the Trump family.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png",
+    "published": "2026-05-21T13:48:38+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c9e9794d3616",
+    "title": "This AI guitar pedal let me roll my own effects",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+    "summary_original": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around old-school trackers and a multi-effect [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268540_Polyend_Endles_TOBrien_0036.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-21T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c779fe0349e7",
+    "title": "The Download: online safety’s future and climate tech’s big pivot",
+    "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/AF-MIT-JUAREZ-MAR2023-029.jpeg?w=3000",
+    "published": "2026-05-21T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "973c5765af89",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "summary_original": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "thumbnail": "",
+    "published": "2026-05-21T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7db89da1a3f3",
+    "title": "Spotify is launching AI-generated remixes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+    "summary_original": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-21T11:54:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5445f48aca4b",
+    "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+    "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+    "summary_original": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-21T11:47:29-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "88b2a6e1243a",
+    "title": "「仮面ライダーアギト」最新映画、“AI動画”で宣伝　担当者が明かすねらい",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000011/",
+    "summary_original": "有名俳優が演じる登場人物たちが過去から現在の姿に変化する――公開中の映画「アギトー超能力戦争ー」の公式SNSアカウントが4月27日に投稿したこのような宣伝動画が注目を集めた。同映画の宣伝を手掛けるシュナイトに詳細を聞いた。",
+    "thumbnail": "",
+    "published": "2026-05-21T11:31:50+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "cb1833640a27",
+    "title": "Climate tech companies are pivoting to critical minerals",
+    "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+    "summary_original": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Suddenly, it feels like every climate tech company has a story&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-21T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c9619fbeff73",
+    "title": "OpenAI、日本政府と一部企業にセキュリティ特化AI「GPT-5.5-Cyber」提供へ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/",
+    "summary_original": "OpenAIは、サイバーセキュリティに特化した同社の最新AIモデル「GPT-5.5-Cyber」を日本の政府や一部企業に提供する方針を明かした。",
+    "thumbnail": "",
+    "published": "2026-05-21T09:23:40+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "98f77cf61b44",
+    "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+    "summary_original": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street&#8217;s US$86.84 billion forecast–the numbers did what Nvidia numbers always do: dominate the room.&#160; But [&#8230;]\nThe post Nvidia&#8217;s Vera chip is the US$200 billion bet Jensen Huang doesn&#8217;t want you to overlook appeared firs...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-05-21T08:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "67c9f864a19c",
+    "title": "「SaaSの死」への反撃シナリオ　Anthropicショックを覆すIBMの「4つの武器」",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/21/news026.html",
+    "summary_original": "ボストンで開催されたIBMの顧客イベント「Think Boston 2026」。会場の熱気とは裏腹に、同社はかつてない逆風にさらされていた。米Anthropic「Claude Mythos」は、メインフレームの脆弱性を容易に特定し、IBMの牙城を根底から揺るがす。「SaaSの死」という言葉が飛び交い、IBMの株価は30％近く急落した。この「Anthropicショック」に対し、IBMはどう立ち向かうのか。レガシーをAI時代の資産へと変える「4つの武器」と、反撃に向けた逆転のシナリオを現地から詳報する。",
+    "thumbnail": "",
+    "published": "2026-05-21T07:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "224a3185d97d",
+    "title": "One Model, Three Modalities: ByteDance Releases Lance for Image and Video Understanding, Generation, and Editing",
+    "url": "https://www.marktechpost.com/2026/05/21/one-model-three-modalities-bytedance-releases-lance-for-image-and-video-understanding-generation-and-editing/",
+    "summary_original": "ByteDance's Intelligent Creation Lab has released Lance, an open-source native unified multimodal model that handles image and video understanding, generation, and editing — all within a single framework, using only 3B activated parameters.\nThe post One Model, Three Modalities: ByteDance Releases Lance for Image and Video Understanding, Generation, and Editing appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-12.07.02-AM-1.png",
+    "published": "2026-05-21T07:14:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "90979a1e3b7a",
+    "title": "What is a Forward Deployed Engineer: The AI Role OpenAI, Anthropic, and Google Are Hiring in 2026",
+    "url": "https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2026/",
+    "summary_original": "OpenAI launched a $4B+ Deployment Company and Anthropic closed a $1.5B joint venture with Blackstone and Goldman Sachs — both built around the Forward Deployed Engineer model Palantir pioneered. Here is what FDEs actually do, why standard SaaS fails for enterprise AI, and what skills early-career AI engineers need to break into this role.\nThe post What is a Forward Deployed Engineer: The AI Role OpenAI, Anthropic, and Google Are Hiring in 2026 appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/a-hand-drawn-venn-diagram-sketched-in-bl_pNcqroZdXgCTMXysn491tQ_sLPvQZd-TkWl24gZiyC3Tw_hd-1.png",
+    "published": "2026-05-21T04:58:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "619e2ba43125",
+    "title": "Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google’s TurboQuant Algorithm",
+    "url": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/",
+    "summary_original": "turbovec brings Google Research's TurboQuant algorithm to vector search, offering 16x compression and zero codebook training for RAG pipelines.\nThe post Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google&#8217;s TurboQuant Algorithm appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a1.png",
+    "published": "2026-05-20T21:42:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1f7b0324d248",
+    "title": "Google publishes exploit code threatening millions of Chromium users",
+    "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+    "summary_original": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg",
+    "published": "2026-05-20T19:10:36+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "169a876ea7f9",
+    "title": "How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations",
+    "url": "https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/",
+    "summary_original": "In this tutorial, we will generate knowledge graphs from plain text, conversations, and multiple source documents using kg-gen. We start by setting up the required dependencies and configuring an LLM through LiteLLM, then we extract entities, predicates, and relationships from simple text. As we move forward, we work with longer passages using chunking and clustering, [&#8230;]\nThe post How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive V...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-05-20T18:24:08+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a795498fea42",
+    "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+    "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+    "summary_original": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack rather than just filling a gap left by US export controls. The Zhenwu M890, developed by Alibaba&#8217;s semiconductor [&#8230;]\nThe post Alibaba is designing AI chips around agents, and that changes what the race is actually about appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-05-20T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
