@@ -1,0 +1,402 @@
+[
+  {
+    "id": "0ff688b6c786",
+    "title": "最高のプログラマーの特性・排水溝にコーヒーを流すべきではないなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年4月版はコレ！",
+    "url": "https://gigazine.net/news/20260524-gigazine-kindle-ranking-2026-04/",
+    "summary_original": "GIGAZINEの記事を電子化した書籍を対象に「2026年4月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-24T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "54000dbf4205",
+    "title": "「クランチロール・アニメアワード2026」のアニメ・オブ・ザ・イヤーは『僕のヒーローアカデミア FINAL SEASON』、フィルム・オブ・ザ・イヤーは『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』",
+    "url": "https://gigazine.net/news/20260523-crunchyroll-anime-awards-2026/",
+    "summary_original": "アニメ配信サービスのクランチロールが開催した「クランチロール・アニメアワード2026」の受賞作品が発表されました。放送・配信されたアニメから選ばれるアニメ・オブ・ザ・イヤーは『僕のヒーローアカデミア FINAL SEASON』、アニメ映画から選ばれるフィルム・オブ・ザ・イヤーは『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』となりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-23T22:07:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3583f21a458b",
+    "title": "Windows XP風デスクトップでWikipediaをエクスプローラーのように探索できる「Wikipedia File Explorer」レビュー",
+    "url": "https://gigazine.net/news/20260523-wikipedia-file-explorer/",
+    "summary_original": "Wikipediaの記事を調べる時は検索窓にキーワードを入力したり記事中のリンクをたどったりするのが一般的ですが、そんなWikipediaをWindows XP風のデスクトップ上でフォルダーを開くように探索できるウェブアプリ「Wikipedia File Explorer」が、デザイナーのSami Smith氏によって公開されています。懐かしいWindows XP風の見た目と操作感でどのようにWikipediaをたどれるのか、実際に使って確かめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-23T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d3534f11bc9d",
+    "title": "無料で簡単にLinuxサーバーのベンチマークができる「Yet-Another-Bench-Script」",
+    "url": "https://gigazine.net/news/20260523-yet-another-bench-script/",
+    "summary_original": "Linuxサーバーのベンチマークスクリプトは数多く存在しますが、依存パッケージのインストールや管理者権限が不要で、fio・iperf3・Geekbenchという実績あるツールを一括実行できる「Yet-Another-Bench-Script」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-23T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "97e70212b71b",
+    "title": "Android搭載の小型ゲーム機「AYANEO Pocket S Mini」の外観はこんな感じ",
+    "url": "https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/",
+    "summary_original": "「AYANEO Pocket S Mini」は2026年3月26日に国内発売したゲーム機です。SoCはSnapdragon G3x Gen 2を搭載し、Android用ゲームアプリをインストールして物理ボタンやアナログスティックでプレイ可能とのこと。どんなデバイスなのか気になったので実機を借りてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-23T20:36:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c2281cfbffa6",
+    "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
+    "url": "https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/",
+    "summary_original": "Tencent has open-sourced TencentDB Agent Memory, a fully local memory system for AI agents released under the MIT license. The project pairs symbolic short-term memory, which offloads verbose tool logs into a compact Mermaid task canvas, with a 4-tier long-term memory pyramid (L0 Conversation → L1 Atom → L2 Scenario → L3 Persona). It ships as an OpenClaw plugin and a Hermes Docker image, runs on local SQLite + sqlite-vec by default, and uses hybrid BM25 + vector retrieval with RRF fusion. Tencen...",
+    "thumbnail": "",
+    "published": "2026-05-23T19:31:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "86abcef855f4",
+    "title": "Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory",
+    "url": "https://www.marktechpost.com/2026/05/23/build-a-superclaude-framework-workflow-with-commands-agents-modes-and-session-memory/",
+    "summary_original": "In this tutorial, we build an advanced workflow using the SuperClaude Framework as a structured layer on top of the Anthropic API.\nThe post Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e6.png",
+    "published": "2026-05-23T19:05:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "48b8fd617b3f",
+    "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+    "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+    "summary_original": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricing could squeeze Western providers hard.\nThe article Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/deepseek_logo_money.png",
+    "published": "2026-05-23T17:10:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "32e0243942b6",
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "summary_original": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "thumbnail": "",
+    "published": "2026-05-23T15:08:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "049609b07c31",
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "summary_original": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "thumbnail": "",
+    "published": "2026-05-23T13:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a5b5fb107291",
+    "title": "One of the world's top law schools draws a hard line against AI in legal education",
+    "url": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
+    "summary_original": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school’s rationale: future lawyers must first learn to think for themselves before they can use AI meaningfully.\nThe article One of the world&#039;s top law schools draws a hard line against AI in legal education appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/04/ai_law_illustration-3.png",
+    "published": "2026-05-23T10:55:03+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7393f2ea709b",
+    "title": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
+    "url": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
+    "summary_original": "Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior — no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks.\nThe post Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-23-at-2.48.09-AM.png",
+    "published": "2026-05-23T10:32:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "791618648860",
+    "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
+    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
+    "summary_original": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6. The team also demos the model steering a four-legged robot.\nThe article Alibaba&#039;s latest AI model ran autonomously for 35 hours to optimize code for its own custom chip appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/qwen3.7-max-banner.jpg",
+    "published": "2026-05-23T10:17:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0940682c0e31",
+    "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
+    "url": "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
+    "summary_original": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep users inside the Google ecosystem, and the company is shifting from traffic distributor to AI publisher whose source selection is becoming a question of editorial power.\nThe article Google CEO Pichai now calls links a &quot;part&quot; of search, redefining the web&#039;s role in its own product appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/google_web_dystopia-2.png",
+    "published": "2026-05-23T09:16:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "eb18f8dd4b05",
+    "title": "Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints",
+    "url": "https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/",
+    "summary_original": "Perplexity has open-sourced Bumblebee, an internal security tool it uses to protect the developer systems behind its search product, Comet, and Computer. Bumblebee is a read-only inventory collector for macOS and Linux developer endpoints. It scans npm, PyPI, Go modules, MCP configs, editor extensions, and browser extensions — without invoking any package manager or running any code.\nThe post Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints appeared fir...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-23-at-1.20.14-AM-1.png",
+    "published": "2026-05-23T08:17:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "60228c85ad07",
+    "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
+    "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
+    "summary_original": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safeguards strong enough to prevent misuse of these models.\nThe article Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_claude.png",
+    "published": "2026-05-23T07:42:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b01ec93d479b",
+    "title": "Google’s new anything-to-anything AI model is wild",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "summary_original": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-23T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "503a5ba4d23d",
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-23T00:02:03+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "fd275f985643",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "summary_original": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "thumbnail": "",
+    "published": "2026-05-22T23:03:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d4ba36838dce",
+    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+    "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+    "summary_original": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+    "thumbnail": "",
+    "published": "2026-05-22T21:02:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6c669bd48f01",
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "summary_original": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+    "thumbnail": "",
+    "published": "2026-05-22T20:40:48+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "121f6c4b62f9",
+    "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator’s Garry Tan for AI Agents",
+    "url": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
+    "summary_original": "AI agents start every session from zero — no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP — about 20 minutes, all t...",
+    "thumbnail": "",
+    "published": "2026-05-22T18:23:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e24de95badde",
+    "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+    "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+    "summary_original": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
+    "published": "2026-05-22T18:13:05+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "ffcf91e658a0",
+    "title": "「私も2次元しか愛せない人間」　小野田大臣がAIへの恋愛感情に見解示す　依存には懸念",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news125.html",
+    "summary_original": "小野田大臣は5月22日の記者会見で、対話型生成AIが利用者に恋愛感情を抱かせるなど、精神的な依存を助長するリスクについて言及した。",
+    "thumbnail": "",
+    "published": "2026-05-22T16:40:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "955ca9a5f55f",
+    "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "summary_original": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-22T16:39:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d58891a38c35",
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-22T15:25:59+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "411382840eb2",
+    "title": "「Google Antigravity」利用上限緩和　ただし2.0アップデート手順に要注意",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000018/",
+    "summary_original": "Googleは「Google Antigravity 2.0」の利用上限を2回に渡って緩和した。ただしアップデート後にIDEが起動しないなどのトラブルが報告されており、導入には注意が必要だ。",
+    "thumbnail": "",
+    "published": "2026-05-22T14:53:26+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d831d531aba6",
+    "title": "「Google AI Pro」ユーザーはYouTube広告ほぼ非表示　「Premium Lite」無料付与",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news107.html",
+    "summary_original": "Googleグループの特典を付与することで、AIプランの契約者数を拡大する狙いだ。",
+    "thumbnail": "",
+    "published": "2026-05-22T13:27:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5e435b725c5f",
+    "title": "Elon, stop trying to make Grok happen",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+    "summary_original": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-22T13:17:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "043b8de6089f",
+    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+    "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/GettyImages-892980170-crop.jpeg?w=3000",
+    "published": "2026-05-22T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "682b115b447c",
+    "title": "A hacker group is poisoning open source code at an unprecedented scale",
+    "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+    "summary_original": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg",
+    "published": "2026-05-22T10:30:14+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "bd47b267637e",
+    "title": "The literary world isn’t prepared for AI",
+    "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+    "summary_original": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257664_7_writing_apps_CVirginia.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-22T10:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d13076162bb5",
+    "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+    "summary_original": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-22T10:20:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "be4f2f29c4b1",
+    "title": "不法滞在・就労　入管がSNS分析強化へ　AIで自動巡回システム導入を検討",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news070.html",
+    "summary_original": "出入国在留管理庁は5月22日、不法残留・不法就労外国人の摘発強化に向け、SNS上の投稿を収集・分析するサイバーパトロールを強化する方針を明らかにした。外国語でやり取りされる不法就労の募集や偽造在留カードの取引情報などを把握し、摘発の端緒とする狙い。民間の分析ツールやAIの活用も視野に、担当体制の整備を進める。",
+    "thumbnail": "",
+    "published": "2026-05-22T10:18:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "282a25929c19",
+    "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+    "url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+    "summary_original": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 million. The lab will [&#8230;]\nThe post OpenAI opens Singapore AI lab as IMDA updates AI framework appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-05-22T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "f4f2f1817b9d",
+    "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+    "url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+    "summary_original": "Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country&#8217;s largest grid operator, have risen more than tenfold in two years, with data-centre growth identified as a primary driver. [&#8230;]\nThe post China&#8217;s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention appeared first on...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-05-22T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "81495904716a",
+    "title": "Google I/O showed how the path for AI-driven science is shifting",
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "summary_original": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-22T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e0f241a5f596",
+    "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+    "url": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+    "summary_original": "The ceremony was scheduled. The CEOs were on the guest list. And then it wasn&#8217;t happening. On Thursday, US President Donald Trump scrapped a planned AI executive order, which had already been delayed multiple times, citing concerns that it might erode America&#8217;s competitive edge over China. &#8220;We&#8217;re leading China, we&#8217;re leading everybody, and I don&#8217;t [&#8230;]\nThe post Musk and Zuckerberg convinced Trump to scrap AI executive order appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-05-22T09:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "49d5d24ea872",
+    "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+    "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+    "summary_original": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers have said that competitors will only be taking substances that&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-22T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "12845316ffd6",
+    "title": "「SaaS is Dead」でも採用激化？　「作れるだけ」のエンジニアが淘汰されるワケ",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/22/news034.html",
+    "summary_original": "生成AIの進化を背景に「SaaS is Dead」論が、SNSや投資家向けの論考を中心に広がっています。一方、SaaS業界の採用市場は縮小することなく、むしろ強化する企業も目立ちます。しかし、求める人材の条件が大きく変化しました。AIによるSaaS開発が容易になった今、企業が求めるIT人材の条件とは何なのでしょうか。",
+    "thumbnail": "",
+    "published": "2026-05-22T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  }
+]
