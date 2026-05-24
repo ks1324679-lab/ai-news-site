@@ -1,0 +1,202 @@
+[
+  {
+    "id": "583f809cbbaa",
+    "title": "データセンターの排熱で風下の住宅地が暑くなる実例を確認",
+    "url": "https://gigazine.net/news/20260525-data-center-waste-heat-downwind/",
+    "summary_original": "データセンターはクラウドサービスやウェブサービスに加え、AIの利用拡大を支える重要なインフラですが、稼働に伴う排熱が周辺地域に与える影響も注目されています。アリゾナ州立大学の研究チームがフェニックス都市圏にある4つのデータセンター周辺で車載センサーを使って測定したところ、風下側の住宅地で風上側より気温が高くなる実例が確認されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-25T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "79b228428ed4",
+    "title": "マンガや同人誌を集めて読むためのオープンソースアプリ「LANraragi」",
+    "url": "https://gigazine.net/news/20260524-lanraragi/",
+    "summary_original": "ZIP・CBZ・PDFなど多様な形式のアーカイブをそのまま置くだけで、ブラウザやスマートフォンのリーダーアプリから読めるようになるオープンソースのマンガ・同人誌アーカイブサーバー「LANraragi」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-24T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a792ad84870e",
+    "title": "アメリカには「ファシズムの10の兆候」がすべて見られると歴史家が主張",
+    "url": "https://gigazine.net/news/20260524-america-fascism-10-signs/",
+    "summary_original": "「ファシズム」という言葉は強い印象を与えるため、現代政治を語る場で使うと「大げさだ」「歴史的な悲劇を軽く扱っている」と受け取られることがあります。しかし、歴史家のルトガー・ブレグマン氏は自身のYouTubeチャンネルで公開した動画の中で、現在のアメリカにはファシズムの10の兆候がすべて見られると主張しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-24T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a1acbef14ea2",
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "summary_original": "We're in the transition period -- all of us.",
+    "thumbnail": "",
+    "published": "2026-05-24T21:39:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "33008a484c32",
+    "title": "宇宙での生活は宇宙飛行士の重力感覚にどのような影響を与えるのか？",
+    "url": "https://gigazine.net/news/20260524-space-does-something-strange-to-astronauts/",
+    "summary_original": "宇宙に長期滞在した宇宙飛行士は地球に戻ると、重力のある環境に再び慣れるまで時間がかかることがあります。ベルギーのルーヴァン・カトリック大学とスペインのバスク科学財団の研究チームが国際宇宙ステーションで長期間過ごした飛行士を対象に実施した研究で、無重力に近い環境が物を握る感覚や動かし方に影響することが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-24T19:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e7ea3e75a471",
+    "title": "AppleがWWDCに先立ち「Gen AI」(生成AI)用のサブドメインを準備していることが明らかに",
+    "url": "https://gigazine.net/news/20260524-apple-preparing-gen-ai-website/",
+    "summary_original": "Appleが「genai.apple.com」という生成AI関連のサブドメインを登録していることが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-24T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8907bc013160",
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "summary_original": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+    "thumbnail": "",
+    "published": "2026-05-24T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fc64cca0302a",
+    "title": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
+    "url": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+    "summary_original": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training. Instead of transcribing pages, the model learns by answering questions and finding the right passages on its own.\nThe article ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Multimodal-Vision-AI-reads-Documents-Nano-Banana-Pro.jpg",
+    "published": "2026-05-24T13:28:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b84c863f1576",
+    "title": "Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent",
+    "url": "https://the-decoder.com/deepminds-hassabis-sees-humanity-in-the-foothills-of-the-singularity-while-lecun-says-current-ai-isnt-intelligent/",
+    "summary_original": "Yann LeCun says current AI systems aren't genuinely intelligent. Demis Hassabis thinks humanity is already \"standing in the foothills of the singularity.\" And Gemini co-lead Oriol Vinyals splits the difference: today's models would've looked like AGI seven years ago, but they still can't learn from experience or produce real breakthroughs.\nThe article Deepmind&#039;s Hassabis sees humanity &quot;in the foothills of the singularity&quot; while LeCun says current AI isn&#039;t intelligent appeared...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/hassabis_io_26.png",
+    "published": "2026-05-24T12:54:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6c907572e108",
+    "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools",
+    "url": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
+    "summary_original": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different country labels, and Copilot delivered detailed stereotypes instead of accurate results. Thinking models catch the trick, but only if users know when to reach for them.\nThe article Why you shouldn&#039;t leave model selection on default in Copilot, Gemini and other AI tools appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/ai_data_bias.png",
+    "published": "2026-05-24T10:17:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d88720726bd4",
+    "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
+    "url": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
+    "summary_original": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model reportedly runs on older hardware too. The controversial \"any lawful use\" clause that derailed earlier talks is not part of the deal.\nThe article Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/pentagon_vs_anthropic.png",
+    "published": "2026-05-24T08:51:02+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4bd93a048ddb",
+    "title": "Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed",
+    "url": "https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/",
+    "summary_original": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70 percent compared to standard self-consistency while matching its accuracy. The whole search cost $40 and took 160 minutes.\nThe article Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn&#039;t have designed appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/autotts-agent-decides-reasoning-depth-nano-banana-pro.jpg",
+    "published": "2026-05-24T08:06:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a51bc6b64f11",
+    "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+    "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0005_3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-24T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "818158ab4ee8",
+    "title": "「Gemini」「Claude Code」「Codex」　全社展開・本番実装に役立つ5つのポイント",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
+    "summary_original": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
+    "thumbnail": "",
+    "published": "2026-05-24T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "da74ad5ee29a",
+    "title": "ソースネクストのAI議事録、Microsoft 365 Copilot連携で検索、要約を効率化",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
+    "summary_original": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。",
+    "thumbnail": "",
+    "published": "2026-05-24T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "32e0243942b6",
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "summary_original": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "thumbnail": "",
+    "published": "2026-05-23T15:08:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "049609b07c31",
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "summary_original": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "thumbnail": "",
+    "published": "2026-05-23T13:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b01ec93d479b",
+    "title": "Google’s new anything-to-anything AI model is wild",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "summary_original": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-23T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "503a5ba4d23d",
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-23T00:02:03+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "fd275f985643",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "summary_original": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "thumbnail": "",
+    "published": "2026-05-22T23:03:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  }
+]
