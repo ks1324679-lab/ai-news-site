@@ -1,0 +1,302 @@
+[
+  {
+    "id": "8fd055da7a3b",
+    "title": "「現存する世界最古の活版印刷機」がベルギーの博物館に展示されている",
+    "url": "https://gigazine.net/news/20260526-worlds-two-oldest-printing-presses/",
+    "summary_original": "活版印刷は凸型の活字を並べた組版を使って印刷する技術であり、情報伝達の速度を飛躍的に向上させることに役立ちました。ベルギー第2の都市・アントウェルペン(アントワープ)にあるプランタン＝モレトゥスの家屋・工房・博物館複合体には、現存する世界最古の活版印刷機2台が展示されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-26T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "762deafa0564",
+    "title": "なぜほとんどの人が右利きなのか？",
+    "url": "https://gigazine.net/news/20260526-why-almost-everyone-right-handed/",
+    "summary_original": "人間の約90％が右利きとされていますが、その謎は記事作成時点でも解き明かされていません。オックスフォード大学の研究チームが、「なぜ人間は右利きが多いのか？」について分析しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-26T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "18bb9ca1d655",
+    "title": "現実の出来事で賭ける「予測市場」で勝つのは誰か？負けるのは誰か？大手予測市場Polymarketからの証拠",
+    "url": "https://gigazine.net/news/20260525-polymarket-win-or-lose/",
+    "summary_original": "選挙結果から戦争勃発の可能性、イベントに有名人が参加するかどうかまで、ありとあらゆる現実の出来事を賭けの題材にする「予測市場」が世界的に人気を集めています。最大規模の予測市場である「Polymarket」を調査した研究で、一体どれほどの人数が予測で勝っているのか、あるいは負けているのかが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-25T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f9331472f05f",
+    "title": "植物である「タバコ」がニコチンを生成する200年来の謎が解明される",
+    "url": "https://gigazine.net/news/20260525-tobacco-plants-make-nicotine-puzzle/",
+    "summary_original": "ニコチンは報酬系の刺激作用や強力な依存性を有しており、タバコに含まれる化学物質として知られます。植物であるタバコがどのようにしてニコチンを生成するのかは2世紀近くにわたり謎のままでしたが、新たな研究によってタバコがニコチンを生成するプロセスが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-25T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a7312c9c52bb",
+    "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
+    "url": "https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/",
+    "summary_original": "Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-oblivious Hadamard transforms, OSCAR derives separate rotations for keys and values from attention-aware covariance structures estimated offline. At 2.28 bits per KV element, OSCAR reduces the BF16 accuracy gap to 3.78 points on Qwen3-4B-Thinking-2507 and 1.42 points on Qwen3-8B, while delivering app...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-25-at-2.24.00-PM-1.png",
+    "published": "2026-05-25T21:24:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3ba19733c9b1",
+    "title": "イギリス全土を旅して古い「赤い電話ボックス」を記録する「K6 project」",
+    "url": "https://gigazine.net/news/20260525-k6-project-uk/",
+    "summary_original": "イギリスを舞台にした映画やヨーロッパ風のファンタジー作品などで「赤い電話ボックス」を見ることがあります。赤い電話ボックスはイギリスで象徴的な風景の1つですが、携帯電話の普及に伴って数を減らしています。「K6 project」では赤い電話ボックスをイギリス全土を旅して記録し、どのような場所にどんな種類の赤い電話ボックスが設置されているのかを見ることができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-25T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f4dda20eb40f",
+    "title": "Step by Step Guide to Build and Compare FedAvg and FedProx Federated Learning on Non-IID CIFAR-10 with NVIDIA FLARE",
+    "url": "https://www.marktechpost.com/2026/05/25/step-by-step-guide-to-build-and-compare-fedavg-and-fedprox-federated-learning-on-non-iid-cifar-10-with-nvidia-flare/",
+    "summary_original": "In this tutorial, we build an advanced federated learning experiment with NVIDIA FLARE. We compare FedAvg and FedProx on a non-IID CIFAR-10 setup, where client data is split using a Dirichlet distribution to simulate realistic label imbalance across federated sites. We use the NVFlare Job API to define and launch federated jobs, while the Client [&#8230;]\nThe post Step by Step Guide to Build and Compare FedAvg and FedProx Federated Learning on Non-IID CIFAR-10 with NVIDIA FLARE appeared first on...",
+    "thumbnail": "",
+    "published": "2026-05-25T20:26:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9142c2808519",
+    "title": "「Claude Mythos」が1万件以上の脆弱性を発見　しかし修正追い付かず　Anthropicが報告書",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
+    "summary_original": "米Anthropicは5月22日（現地時間）、セキュリティプロジェクト「Project Glasswing」の初期報告を公開した。約50社のパートナー企業が1カ月で高・重大レベルの脆弱性を1万件超発見した成果に加え、同社が独自に進めてきたオープンソースソフトウェアのスキャン結果も公表された。",
+    "thumbnail": "",
+    "published": "2026-05-25T20:20:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d536b83a2744",
+    "title": "日大、教職員1万人が「Google AI Pro」活用へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
+    "summary_original": "日本大学が、米Googleの教育機関向けAIサブスクリプション「Google AI Pro for Education」を導入する。専任の教職員1万人が利用可能にし、定型業務のさらなる効率化を目指す。グーグル・クラウド・ジャパンが発表した。",
+    "thumbnail": "",
+    "published": "2026-05-25T19:38:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "abb22fea2763",
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "summary_original": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "thumbnail": "",
+    "published": "2026-05-25T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "42e65106b1e4",
+    "title": "数千規模のAIエージェントをどう統制する？　IBMが製品群を発表",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news045.html",
+    "summary_original": "複数のAIエージェントを活用に当たって、いかに統制するかが課題として浮上している。こうした課題の解消に向けてIBMが提供する、AIオペレーティングモデルと製品群とは。",
+    "thumbnail": "",
+    "published": "2026-05-25T15:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "96a0ae8f1cd7",
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "summary_original": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+    "thumbnail": "",
+    "published": "2026-05-25T15:09:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e8190199a3ff",
+    "title": "ServiceNow、AIエージェントの「データの空白」を埋める機能群を発表",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news043.html",
+    "summary_original": "AIエージェント導入の「壁」になるのが、サイロ化したデータとガバナンスの未整備だ。ServiceNowはこの課題をどう解決しようとしているのか。年次イベントで発表された新機能群を紹介する。",
+    "thumbnail": "",
+    "published": "2026-05-25T15:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "78243e70169e",
+    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+    "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "summary_original": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+    "thumbnail": "",
+    "published": "2026-05-25T14:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "218e902321e9",
+    "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+    "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+    "summary_original": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+    "thumbnail": "",
+    "published": "2026-05-25T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d371b2bc4d51",
+    "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection",
+    "url": "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
+    "summary_original": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI models show evidence of introspection and emotion-like states. The Pope's own document struck a different tone: \"These systems merely imitate certain functions of human intelligence.\"\nThe article At the launch of Pope Leo XIV&#039;s encyclical, Anthropic co-founder says AI models show signs of introspection appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/anthropic_holy_cross.png",
+    "published": "2026-05-25T13:40:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a45594b61c86",
+    "title": "US's big bet on quantum computing may not be entirely legal",
+    "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "summary_original": "Deal also launched the first quantum foundry company, but is there a need for it?",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-2-1152x648.jpeg",
+    "published": "2026-05-25T12:00:15+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "dca55dc7620e",
+    "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+    "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+    "summary_original": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278126608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-25T11:05:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c15754e6dab5",
+    "title": "金融庁と日銀、「フロンティアAI」による脆弱性大量発見に備えた対応を金融機関に要請",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000020/",
+    "summary_original": "金融庁と日本銀行はフロンティアAIの進展で脆弱性が短期間に大量発見される事態に備え、金融機関などに早期の対応を要請した。経営トップの直接関与の下、9項目の対策を求める。",
+    "thumbnail": "",
+    "published": "2026-05-25T10:57:42+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "414eb953dae0",
+    "title": "Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars",
+    "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+    "summary_original": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hundred dollars per problem in inference costs. Unlike OpenAI's natural-language approach, the system uses the Lean compiler to verify every proof step automatically. Still, the overall success rate sits at just 2.5 percent.\nThe article Google Deepmind&#039;s AlphaProof Nexus solves decades-old math problems for a few hundred dollars appeared...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/google_deepmind_alpha_evolve_llm_math.png",
+    "published": "2026-05-25T10:41:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e8f281819148",
+    "title": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
+    "url": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/",
+    "summary_original": "As MCP crosses 97 million monthly SDK downloads and AI agents move into production workflows, authentication has become the most critical infrastructure decision teams face. This guide ranks the eight leading platforms — WorkOS, Stytch, Auth0 by Okta, Composio, Nango, Arcade, TrueFoundry, and Cloudflare — on spec compliance, enterprise identity depth, integration breadth, and real-world fit for 2026 deployments.\nThe post Best Authentication Platforms for AI Agents and MCP Servers in 2026 appeare...",
+    "thumbnail": "",
+    "published": "2026-05-25T10:34:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "decc88f62a83",
+    "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
+    "url": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
+    "summary_original": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder to spot. His stance is one example of how deeply split the AI community is over the role of LLMs.\nThe article George Hotz says coding agents will be &quot;one of the most costly mistakes&quot; in software development appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/ai_code_quality_debate.png",
+    "published": "2026-05-25T09:05:34+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "17278c95de34",
+    "title": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
+    "url": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
+    "summary_original": "Most web applications still have no structured way for an AI agent to register. auth.md proposes a fix: a Markdown file apps publish at their domain that tells agents which registration flows are supported, which scopes to request, and how to get credentials tied to a real user — without a human filling out a form.\nThe post WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-25T07:38:15+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b0d728133cc7",
+    "title": "AI models often give the right answers but point to the wrong sources",
+    "url": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+    "summary_original": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right, the cited evidence is often wrong. Researchers at Peking University call this \"attribution hallucination,\" a risk for regulated fields like law and medicine. Their new CiteVQA benchmark is the first to test for it systematically.\nThe article AI models often give the right answers but point to the wrong sources appeared first on The Deco...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/CiteVQA-Spot-Error-PDF-Hallucination-Nano-Banana-Pro.jpg",
+    "published": "2026-05-25T07:30:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "86df175a446d",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "summary_original": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "thumbnail": "",
+    "published": "2026-05-25T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "37be5f050c29",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-25T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "ffaeea76f4a9",
+    "title": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
+    "url": "https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/",
+    "summary_original": "In this tutorial, we implement the Langfuse (an open-source LLM engineering platform) pipeline for tracing, prompt management, scoring, datasets, and experiments. We build a complete workflow that works with either a real OpenAI key or a deterministic mock LLM, so we can understand every major Langfuse feature without depending on paid model access. We start [&#8230;]\nThe post Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-05-24T23:03:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a1acbef14ea2",
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "summary_original": "We're in the transition period -- all of us.",
+    "thumbnail": "",
+    "published": "2026-05-24T21:39:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fc64cca0302a",
+    "title": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
+    "url": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+    "summary_original": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training. Instead of transcribing pages, the model learns by answering questions and finding the right passages on its own.\nThe article ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Multimodal-Vision-AI-reads-Documents-Nano-Banana-Pro.jpg",
+    "published": "2026-05-24T13:28:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a51bc6b64f11",
+    "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+    "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0005_3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-24T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
