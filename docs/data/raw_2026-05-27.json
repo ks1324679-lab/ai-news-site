@@ -1,0 +1,392 @@
+[
+  {
+    "id": "64210e297805",
+    "title": "経営幹部の99％が今後2年以内に「AI関連の人員削減」が起こると考えている",
+    "url": "https://gigazine.net/news/20260527-vast-majority-executives-expect-ai-layoffs/",
+    "summary_original": "世界最大の組織・人事マネジメント・コンサルティング会社であるMercerが、「Global Talent Trends 2026(世界の人材動向2026)」を発表しました。この調査レポートから、経営幹部の99％が「今後2年間でAI関連の人事削減を含む、ある程度の人員削減が行われる」と予想していることが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-27T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "911e7b07698f",
+    "title": "秘密を分散させて漏えいを防ぐ「シャミアの秘密共有」の仕組みとは？",
+    "url": "https://gigazine.net/news/20260527-shamirs-secret-sharing/",
+    "summary_original": "シャミアの秘密共有(SSS)は暗号研究者のアディ・シャミア氏が1979年に開発したアルゴリズムで、グループのメンバーが秘密情報を分割して所持し、複数人が情報を持ち寄らないと必要な情報が完成しないため、一部の秘密情報だけ盗まれても情報が漏えいしないという暗号方式です。暗号鍵の保護に用いられるシャミアの秘密共有の仕組みについて、エンドツーエンド暗号化のクラウドストレージサービスを提供する「Ente」が解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-27T06:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d3cfc1df171c",
+    "title": "DeepSeekは低価格AIでどうやって稼ぐつもりなのか？",
+    "url": "https://gigazine.net/news/20260526-deepseek-strategy/",
+    "summary_original": "中国のAI企業であるDeepSeekはアメリカ企業の最先端AIに匹敵する性能のオープンモデルを公開しており、記事作成時点では700億元(約1兆6000億円)という大規模な資金調達に向けて交渉を進めていることが報じられています。そんなDeepSeekの戦略について、AI関連の分析を行っているGDP氏が論じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-26T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d8bc2f1948f7",
+    "title": "「AIが捏造した参考文献」が含まれる生物医学論文が2023年から3年で12倍以上に急増、2026年には277件に1つという割合に",
+    "url": "https://gigazine.net/news/20260526-ai-hallucinations-scientific-research-fake-citations/",
+    "summary_original": "近年は科学者らが研究や論文執筆にAIを使うことが当たり前となっていますが、その過程でAIが虚偽の調査内容を作り出したり、存在しない架空の参考文献を記載してしまったりするケースがあります。250万件の生物医学論文に含まれる参考文献について調査した結果、合計2810件もの論文に偽の引用文献が記載されていることが判明しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-26T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "336256f5c435",
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "summary_original": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+    "published": "2026-05-26T19:50:33+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "04beefe3cf7b",
+    "title": "ファーウェイ、半導体で「1.4nm相当」目指す　31年までに　「ムーアの法則」に代わる新法則を提唱",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news138.html",
+    "summary_original": "中国Huaweiが半導体進化の新法則「τスケーリング法則」を提唱した。従来の微細化に代わり信号遅延を圧縮しトランジスタ密度を向上させる。秋のKirinチップに独自の回路技術LogicFoldingを初適用し、2031年に1.4nm相当の密度を目指すという。",
+    "thumbnail": "",
+    "published": "2026-05-26T19:20:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1ab37a271eb8",
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "summary_original": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "thumbnail": "",
+    "published": "2026-05-26T18:33:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0bf6296b6cb8",
+    "title": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
+    "url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
+    "summary_original": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conjecture with a \"cute, simple proof,\" a sign of \"serious overhang\" in AI-driven math discoveries.\nThe article Claude Mythos reportedly solves OpenAI&#039;s landmark Erdős problem with a &quot;cute, simple proof&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_anthropic-1.jpeg",
+    "published": "2026-05-26T18:31:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "96f157c6ce9a",
+    "title": "This startup is betting India’s gig economy can train the world’s robots",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "summary_original": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+    "thumbnail": "",
+    "published": "2026-05-26T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f2c5d9ca1e26",
+    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "summary_original": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+    "thumbnail": "",
+    "published": "2026-05-26T14:55:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b920d871e577",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "summary_original": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-1-_-V2-1.png",
+    "published": "2026-05-26T14:54:10+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "88fed15fb9e8",
+    "title": "China reportedly now requires top AI researchers to get permission before leaving the country",
+    "url": "https://the-decoder.com/china-reportedly-now-requires-top-ai-researchers-to-get-permission-before-leaving-the-country/",
+    "summary_original": "China is now restricting overseas travel for top AI researchers at private companies like Alibaba and DeepSeek. Those affected need official approval before leaving the country. Beijing fears data leaks, technology theft, and talent poaching and is tightening its grip on the domestic AI industry.\nThe article China reportedly now requires top AI researchers to get permission before leaving the country appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/05/us_china_AI_talent.png",
+    "published": "2026-05-26T14:25:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3e05233b5219",
+    "title": "松下幸之助氏の「AI偽動画」に注意　PHP研究所が再告知　津田健次郎さんによるTikTok提訴受け",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/26/news080.html",
+    "summary_original": "出版・教育事業を手がけるPHP研究所は5月26日、創設者・故松下幸之助氏の画像や音声を無断でAI合成した偽動画が引き続き出回っているとして、公式Xで改めて注意喚起を投稿した。",
+    "thumbnail": "",
+    "published": "2026-05-26T14:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bd0bc3af9241",
+    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+    "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+    "summary_original": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
+    "thumbnail": "",
+    "published": "2026-05-26T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "29d108a31fb5",
+    "title": "Google Cloud COO says AI security belongs in the boardroom, not just the server room",
+    "url": "https://the-decoder.com/google-cloud-coo-says-ai-security-belongs-in-the-boardroom-not-just-the-server-room/",
+    "summary_original": "Google Cloud COO Francis de Souza is urging companies to build security into their AI strategy from day one.\nThe article Google Cloud COO says AI security belongs in the boardroom, not just the server room appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/google_logo_neural_network-4.png",
+    "published": "2026-05-26T13:25:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0937c9e6b901",
+    "title": "Gemini APIが“半額”で使える「Flex」　注意点は？　「Priority」とは何が違う？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news039.html",
+    "summary_original": "Googleは「Gemini」のAPI向けに、新たなサービスティア「Flex」と「Priority」を追加した。Flexは標準サービスティアの半額で利用できるという。両者はどう違い、どう使い分けるべきなのか。",
+    "thumbnail": "",
+    "published": "2026-05-26T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b5c5d979dfd3",
+    "title": "AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn",
+    "url": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/",
+    "summary_original": "An audit of 2.5 million biomedical papers by Columbia University and other institutions shows that the rate of fabricated references has increased more than twelvefold since 2023. The researchers suspect a link to the widespread use of language models - the fake references match their paper's topic, follow correct formatting, and are nearly impossible to spot. 98 percent of the affected papers have received no response from their publishers.\nThe article AI-hallucinated citations are creeping int...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/chatgpt_health.png",
+    "published": "2026-05-26T12:36:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "25ecfa04a09c",
+    "title": "The Download: puncturing the AI jobs panic",
+    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/20230509-MITSanders-0179-h.jpeg?w=3000",
+    "published": "2026-05-26T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "609a0facfde0",
+    "title": "Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to",
+    "url": "https://the-decoder.com/y-combinator-founder-paul-graham-says-ai-written-founder-emails-feel-like-being-lied-to/",
+    "summary_original": "Y Combinator founder Paul Graham ignores emails clearly written by AI—they feel \"like being lied to,\" he says. That's coming from one of OpenAI's earliest investors. Studies suggest his reaction is anything but unusual.\nThe article Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/ai_generated_mails.png",
+    "published": "2026-05-26T11:00:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f56416e4fc5c",
+    "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+    "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+    "summary_original": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_2026.05.26_Sundar_Google.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-26T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7efeee159fd6",
+    "title": "Autonomous AI systems test governance in physical environments",
+    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "summary_original": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focused on online harms and model outputs, including bias, misinformation, and harmful content. Embodied [&#8230;]\nThe post Autonomous AI systems test governance in physical environments appeared first on A...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "published": "2026-05-26T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "312269b16a16",
+    "title": "古いアニメをAIで美麗に生まれ変わらせる「Aiarty Video Enhancer」使ってみたレビュー、簡単操作で低解像度の動画を4Kに高画質化",
+    "url": "https://gigazine.net/news/20260526-aiarty-video-enhancer/",
+    "summary_original": "簡単操作で低解像度の動画を4K解像度に高画質化することができるソフトウェアが「Aiarty Video Enhancer」です。動画の高画質化だけでなくノイズ除去やピンボケ補正、ディテール再現、スローモーション、音声ノイズ除去、色補正などさまざまな処理をAIを用いて実行できるということで、実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-26T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7400dc01b3a1",
+    "title": "A reality check on the AI jobs hysteria",
+    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "summary_original": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—or tech journalist—and&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-26T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e49dc2a61c4b",
+    "title": "It’s time to address the looming crisis in entry-level work.",
+    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "summary_original": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-26T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e63fb63c520b",
+    "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+    "summary_original": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-26T08:46:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f32e92990213",
+    "title": "はてな、個人向けフォーラムサービス開始へ　「安心して語り合える場」目指す　開発・運営にはAI活用",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/26/2000000022/",
+    "summary_original": "はてなは、新たに個人ユーザー向けのフォーラムサービスを夏にリリースすると発表した。「話題・トピックを中心にユーザー同士がつながり、安心して意見を交わせる場を提供する」という。",
+    "thumbnail": "",
+    "published": "2026-05-26T08:04:31+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6621d7b948d3",
+    "title": "AI warfare is already here",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+    "summary_original": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268475_AIs_red_line_JMac2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-26T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b6903c9611e1",
+    "title": "考えるだけでPC操作・脳内発話も　中国がAI脳インプラント開発加速、一般販売も間近か　Nature報道",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
+    "summary_original": "Nature誌によると、中国のスタートアップ企業が、AIを活用したブレイン・コンピュータ・インタフェース（BCI）の開発と実用化を急ピッチで進めているという。",
+    "thumbnail": "",
+    "published": "2026-05-26T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4af5aee7f963",
+    "title": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
+    "url": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+    "summary_original": "OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project supports 646 languages for TTS and exposes an MCP server for integration with Claude, Cursor, or any MCP client.\nThe post Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-26T07:56:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "843a99b483b6",
+    "title": "Design a Complete Multimodal RLVR Pipeline with Open-MM-RL, Vision-Language Prompting, Reward Scoring, and GRPO Export",
+    "url": "https://www.marktechpost.com/2026/05/26/design-a-complete-multimodal-rlvr-pipeline-with-open-mm-rl-vision-language-prompting-reward-scoring-and-grpo-export/",
+    "summary_original": "In this tutorial, we explore the TuringEnterprises/Open-MM-RL dataset as a practical foundation for multimodal reasoning and reinforcement learning with verifiable rewards. We load the dataset, inspect its schema, analyze domains, formats, question lengths, answer types, and image distributions, and visualize representative examples from each domain. We also build a lightweight reward function that checks exact, [&#8230;]\nThe post Design a Complete Multimodal RLVR Pipeline with Open-MM-RL, Visio...",
+    "thumbnail": "",
+    "published": "2026-05-26T07:25:55+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4cca4ffcd1e4",
+    "title": "Uber president says AI spending is getting ‘harder to justify’",
+    "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+    "summary_original": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-26T05:55:09-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a7312c9c52bb",
+    "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
+    "url": "https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/",
+    "summary_original": "Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-oblivious Hadamard transforms, OSCAR derives separate rotations for keys and values from attention-aware covariance structures estimated offline. At 2.28 bits per KV element, OSCAR reduces the BF16 accuracy gap to 3.78 points on Qwen3-4B-Thinking-2507 and 1.42 points on Qwen3-8B, while delivering app...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-25-at-2.24.00-PM-1.png",
+    "published": "2026-05-25T21:24:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f4dda20eb40f",
+    "title": "Step by Step Guide to Build and Compare FedAvg and FedProx Federated Learning on Non-IID CIFAR-10 with NVIDIA FLARE",
+    "url": "https://www.marktechpost.com/2026/05/25/step-by-step-guide-to-build-and-compare-fedavg-and-fedprox-federated-learning-on-non-iid-cifar-10-with-nvidia-flare/",
+    "summary_original": "In this tutorial, we build an advanced federated learning experiment with NVIDIA FLARE. We compare FedAvg and FedProx on a non-IID CIFAR-10 setup, where client data is split using a Dirichlet distribution to simulate realistic label imbalance across federated sites. We use the NVFlare Job API to define and launch federated jobs, while the Client [&#8230;]\nThe post Step by Step Guide to Build and Compare FedAvg and FedProx Federated Learning on Non-IID CIFAR-10 with NVIDIA FLARE appeared first on...",
+    "thumbnail": "",
+    "published": "2026-05-25T20:26:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "abb22fea2763",
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "summary_original": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "thumbnail": "",
+    "published": "2026-05-25T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a45594b61c86",
+    "title": "US's big bet on quantum computing may not be entirely legal",
+    "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "summary_original": "Deal also launched the first quantum foundry company, but is there a need for it?",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-2-1152x648.jpeg",
+    "published": "2026-05-25T12:00:15+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "dca55dc7620e",
+    "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+    "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+    "summary_original": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278126608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-25T11:05:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e8f281819148",
+    "title": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
+    "url": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/",
+    "summary_original": "As MCP crosses 97 million monthly SDK downloads and AI agents move into production workflows, authentication has become the most critical infrastructure decision teams face. This guide ranks the eight leading platforms — WorkOS, Stytch, Auth0 by Okta, Composio, Nango, Arcade, TrueFoundry, and Cloudflare — on spec compliance, enterprise identity depth, integration breadth, and real-world fit for 2026 deployments.\nThe post Best Authentication Platforms for AI Agents and MCP Servers in 2026 appeare...",
+    "thumbnail": "",
+    "published": "2026-05-25T10:34:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "86df175a446d",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "summary_original": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "thumbnail": "",
+    "published": "2026-05-25T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "37be5f050c29",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-25T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
