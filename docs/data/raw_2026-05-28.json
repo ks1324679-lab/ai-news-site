@@ -1,0 +1,402 @@
+[
+  {
+    "id": "13d39938c28a",
+    "title": "「商品を受け取った客」がカード会社に虚偽申告、Stripeの対応に販売者が激怒",
+    "url": "https://gigazine.net/news/20260528-stripe-friendly-fraud/",
+    "summary_original": "顧客本人が正当な支払いを後から不正利用・未承認などと主張して代金の支払いを免れる不正行為が「フレンドリー詐欺」です。インディー系開発ブランドのGingerlimeを運営するヨアブ・アネル氏が「オンライン決済サービスのStripeはフレンドリー詐欺に『友好的』であるように思える」と自身のブログで指摘しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-28T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "721cfaa72d03",
+    "title": "失敗データこそ資産だ――3Dモデルや解析結果をAIで統合、一目で探せるナレッジに",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2605/27/news134.html",
+    "summary_original": "「RAGでは超えられない製造現場の暗黙知がある」――ギリアは3Dモデルや解析結果をマルチモーダルLLMで統合し、設計の暗黙知を形式知化する新プラットフォームの提供を開始した。不採用理由や失敗の文脈も、組織の資産に変える。",
+    "thumbnail": "",
+    "published": "2026-05-28T06:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6c229762bb0c",
+    "title": "「OmniDrive」ファームウェアを使うとBlu-rayドライブでゲームキューブ・Wii・Xbox 360のゲームをPCに取り込むことが可能",
+    "url": "https://gigazine.net/news/20260528-omnidrive/",
+    "summary_original": "最新のBlu-rayドライブでゲームキューブ、Wii、初代Xbox、Xbox 360といった旧型ゲーム機のゲームディスクをPCで取り込みできるようになるのが、Blu-rayドライブ向けファームウェアの「OmniDrive」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-28T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "28e97bfc5ecd",
+    "title": "アメリカン航空が500機以上の旅客機にStarlinkを導入して機内Wi-Fiでギガビット通信を可能に",
+    "url": "https://gigazine.net/news/20260527-american-airlines-to-install-starlink/",
+    "summary_original": "アメリカの大手航空会社・アメリカン航空が2027年第1四半期から保有機のうち500機以上にStarlinkのアンテナを装備し、機内で高速通信サービスを提供する方針を明らかにしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-27T23:15:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0b4b0ab15b48",
+    "title": "「AIモデルには睡眠が必要」という研究結果",
+    "url": "https://gigazine.net/news/20260527-ai-need-sleep/",
+    "summary_original": "進化したAIモデルはユーザーからの複雑な指示で膨大なデータを探索し、長期にわたるタスクを実行しようとします。こうした長期間の処理はAIに悪影響をもたらすため、一時的に情報の入力をシャットアウトして整理する「睡眠」のような時間が必要だという研究が公表されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-27T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "db83f6aa8a8a",
+    "title": "若年層の大腸がん罹患率は本当に上昇しているのか？",
+    "url": "https://gigazine.net/news/20260527-colorectal-cancer-rising-in-young/",
+    "summary_original": "大腸がんは一般的に40～50代以上の中高年に多くみられますが、近年では「若い世代の大腸がんが増えている」という指摘が相次いでいます。若年層の大腸がんが増えているという言説は本当なのかどうかについて、さまざまな社会的トピックについて解説するブログ・DYNOMIGHT INTERNET WEBSITEがデータを元に解説しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-27T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "657abec023ff",
+    "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+    "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+    "summary_original": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/solid-state-drive-ssd-1152x648.jpg",
+    "published": "2026-05-27T20:56:03+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "d73c2adfc401",
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "summary_original": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+    "thumbnail": "",
+    "published": "2026-05-27T20:10:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b20d73959a82",
+    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "summary_original": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+    "thumbnail": "",
+    "published": "2026-05-27T19:39:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1eb01a951326",
+    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "summary_original": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-05-27T18:39:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cde45a7e95df",
+    "title": "Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks",
+    "url": "https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/",
+    "summary_original": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, especially in rendering text inside images and commercial visuals.\nThe article Microsoft&#039;s MAI-Image-2.5 pulls even with Google&#039;s Nano Banana 2 on benchmarks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/mai_25.png",
+    "published": "2026-05-27T18:31:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3ab4580e6716",
+    "title": "NEC、日立、富士通が“Anthropic協業”でそろい踏み　狙いは？　【3社の幹部コメントまとめ】",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/27/news119.html",
+    "summary_original": "わずか1カ月の間にNEC、日立製作所、富士通がAnthropicとの協業を発表した。各社の狙いはどこにあるのか。",
+    "thumbnail": "",
+    "published": "2026-05-27T18:25:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "de1eb69b40e7",
+    "title": "AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months",
+    "url": "https://the-decoder.com/ai-coding-agent-devin-maker-cognition-more-than-doubles-its-valuation-to-26-billion-in-under-nine-months/",
+    "summary_original": "Cognition, the company behind AI software developer Devin, has raised over $1 billion at a valuation north of $26 billion. The massive round shows just how much investor money is flowing into AI coding agents, even as their real-world value remains hotly debated.\nThe article AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/cognition_logo.jpg",
+    "published": "2026-05-27T18:09:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "02233afb32a8",
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "summary_original": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+    "thumbnail": "",
+    "published": "2026-05-27T18:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "32ed4d7d13f2",
+    "title": "Robinhood lets AI agents trade shares and make credit card purchases for customers",
+    "url": "https://the-decoder.com/robinhood-lets-ai-agents-trade-shares-and-make-credit-card-purchases-for-customers/",
+    "summary_original": "Robinhood now lets customers connect AI agents like Anthropic's Claude to a separate investment account via MCP. The agents can trade stocks on their own. US brokerage regulator FINRA already flags such agents as a new risk area, warning about unchecked decisions. Robinhood itself admits the product isn't for everyone.\nThe article Robinhood lets AI agents trade shares and make credit card purchases for customers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/robinhood_logo.png",
+    "published": "2026-05-27T17:42:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6c6d47b51097",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-27T17:20:29+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "aaab7738d381",
+    "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+    "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+    "summary_original": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The fr...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-10.08.51-AM-1.png",
+    "published": "2026-05-27T17:09:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "876c71a2b6a9",
+    "title": "YouTube will try to automatically flag AI videos starting this month",
+    "url": "https://the-decoder.com/youtube-will-try-to-automatically-flag-ai-videos-starting-this-month/",
+    "summary_original": "YouTube is tightening its AI labeling rules. Labels for photorealistic or heavily AI-altered content will now show up in more visible spots, below the player for long videos and as an overlay on Shorts. Starting May 2026, an automatic detection system will flag AI-generated content even if creators don't disclose it. Recommendations and monetization won't be affected.\nThe article YouTube will try to automatically flag AI videos starting this month appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/youtube_logo_slide.png",
+    "published": "2026-05-27T16:54:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bb51b20a21c6",
+    "title": "「この答弁はAIが原案作成」　参院本会議で松本デジタル相「職員が事実確認し私が決済」",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/27/news118.html",
+    "summary_original": "5月から全府省庁で実証事業を開始している行政用の生成AI基盤「源内」について、5月27日の参院本会議で参政党の梅村みずほ氏が活用状況を尋ねたのに対し、松本尚デジタル相は「この答弁も源内が原案を作成した」と述べた。",
+    "thumbnail": "",
+    "published": "2026-05-27T16:48:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "05063096037a",
+    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+    "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "summary_original": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+    "thumbnail": "",
+    "published": "2026-05-27T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "431b433f8c79",
+    "title": "Google folds Display Ads into AI-first Demand Gen platform",
+    "url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+    "summary_original": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years. Marketers previously relied on its predictable framework to target placements, bid on audiences, and A/B test static creative [&#8230;]\nThe post Google folds Display Ads into AI-first Demand Gen platform appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-05-27T13:12:06+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "171ed5114d47",
+    "title": "The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion",
+    "url": "https://the-decoder.com/the-ai-boom-drove-nvidias-yearly-taiwan-spending-from-15-billion-to-150-billion/",
+    "summary_original": "Nvidia now spends up to $150 billion a year on suppliers like TSMC in Taiwan.\nThe article The AI boom drove Nvidia&#039;s yearly Taiwan spending from $15 billion to $150 billion appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/09/Jensen-Huang-Dreamforce-title.png",
+    "published": "2026-05-27T13:07:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "facc3e6924ad",
+    "title": "「AIに任せ過ぎて本番データ消失」　活用率98％のGMOが導き出した、生成AIを使いこなせる人の5つの特徴",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news020.html",
+    "summary_original": "GMOインターネットグループが、同グループ内における生成AIの業務活用に関する定点調査の結果を発表した。グループ全体での活用率が97.8％に達した他、AIエージェントの活用率が急激に高まっていることが明らかとなった。",
+    "thumbnail": "",
+    "published": "2026-05-27T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "165bbee8b830",
+    "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+    "url": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+    "summary_original": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility with a level of discipline that manual trading often struggles to maintain. Every entry and exit can be based on clear rules, not [&#8230;]\nThe post Exploring the Benefits of AI Bots for Forex Trading in Forex Markets appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-05-27T12:38:44+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "99510de1c052",
+    "title": "ヒト型AIロボスタートアップのアトムが30億円調達　「日本のGDPを1％アップ」目指す",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
+    "summary_original": "ヒューマノイドAIロボットを開発するアトム（東京都江東区）は5月27日、開発着手とあわせて、シードラウンドで総額30億円を調達したと発表した。製造業や物流・運輸の現場で使えるロボットを開発し、将来の量産化を目指す。",
+    "thumbnail": "",
+    "published": "2026-05-27T12:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "58acaee1daba",
+    "title": "The Download: keeping up with AI, and the future of IVF",
+    "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/06/JA22_animal-infra-01b.jpeg?w=3000",
+    "published": "2026-05-27T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a0c082562cbc",
+    "title": "AI tried to bury this politician — now people have actually heard of him",
+    "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+    "summary_original": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2271137268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-27T11:40:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b5479ebcde18",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "summary_original": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "thumbnail": "",
+    "published": "2026-05-27T11:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "2422c4a58256",
+    "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+    "summary_original": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-27T10:36:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4faf7b5a927c",
+    "title": "This smart bird feeder captures more of my backyard drama",
+    "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+    "summary_original": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son's tennis matches, and a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6250.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-27T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "48cae240bbcd",
+    "title": "YouTube is putting AI labels where you’ll actually see them",
+    "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+    "summary_original": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and labeling AI-generated content on the platform. For [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-updated-AI-labels.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-27T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5883c112fb15",
+    "title": "The AI fight brewing inside The New York Times",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+    "summary_original": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-1171305932.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-27T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6391afe0d64e",
+    "title": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
+    "url": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
+    "summary_original": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.\nThe post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-12.17.50-AM.png",
+    "published": "2026-05-27T07:23:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5899b169bc6e",
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "summary_original": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "thumbnail": "",
+    "published": "2026-05-27T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "48ced02649d8",
+    "title": "MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters",
+    "url": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
+    "summary_original": "Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model.\nThe post MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-26-at-10.24.07-PM-1.png",
+    "published": "2026-05-27T05:24:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "919d46e19bc3",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "summary_original": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "thumbnail": "",
+    "published": "2026-05-27T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "1c77cec1ddad",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "summary_original": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "thumbnail": "",
+    "published": "2026-05-27T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7cdcfd616873",
+    "title": "Reachy Mini goes fully local",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-27T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "3b3971cee4f2",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-27T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "e854ca330957",
+    "title": "Design a High-Precision Retrieve-and-Rerank Pipeline with ZeroEntropy Zerank-2 Reranker",
+    "url": "https://www.marktechpost.com/2026/05/26/design-a-high-precision-retrieve-and-rerank-pipeline-with-zeroentropy-zerank-2-reranker/",
+    "summary_original": "In this tutorial, we use zeroentropy/zerank-2-reranker, a 4B Qwen3-based cross-encoder reranker, to improve retrieval quality. We start by setting up the runtime, loading the reranker, and understanding how it scores query-document pairs. Then, we move from simple pairwise scoring to a practical two-stage retrieve-and-rerank pipeline, where a fast bi-encoder first retrieves candidates and zerank-2 reranks [&#8230;]\nThe post Design a High-Precision Retrieve-and-Rerank Pipeline with ZeroEntropy Ze...",
+    "thumbnail": "",
+    "published": "2026-05-26T23:13:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
