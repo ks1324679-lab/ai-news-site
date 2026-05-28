@@ -1,0 +1,402 @@
+[
+  {
+    "id": "731a078511b8",
+    "title": "NVIDIAのAI向けCPU「Vera」がAMDのEPYCやIntelのXeonを凌駕する強力な性能を発揮",
+    "url": "https://gigazine.net/news/20260529-nvidia-vera-benchmark/",
+    "summary_original": "2026年後半に稼働が始まる予定のAI特化CPU「Vera」について、Linux特化メディアのPhoronixがNVIDIAに招かれてベンチマークテストを実施し、その結果を公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-29T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5b508be0b0d9",
+    "title": "3500人以上の読者が回答したGIGAZINE春のアンケート結果を公開中！そして2026年度4月分のGIGAZINEのアクセス解析結果はこんな感じ",
+    "url": "https://gigazine.net/news/20260529-access/",
+    "summary_original": "お知らせその1、GIGAZINE春のプレゼント企画の応募で答えてもらったアンケートの結果をまとめています。回答してくれたGIGAZINE読者3598人のデータを基にしており、GIGAZINEをいつも読んでくれている人たちの傾向がよくわかります。回答してくれた皆さま、ありがとうございました！コンビニのおにぎりは1個何円まで許せる？GIGAZINE読者に聞いてみた - GIGAZINE記事広告では良い点も悪い点も書くべき？ - GIGAZINEアンケート結果は今後も公開していくので、気になる人はX(旧Twitter)・Facebook・Threads・Discordをフォローすると更新を追いかけることができてお役立ちです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-29T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f2923491dbf8",
+    "title": "「Google Antigravity 2.0と戯れながら感じたこと」と「LLM Wikiを実践して『ロケスマペディア』を作ってみた」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news012.html",
+    "summary_original": "かわさきからは「Google Antigravity 2.0と戯れながら感じたこと」というタイトルで生成AI時代における教科書的コンテンツの存在意義と、AIにコードを書かせる時代の学び方について、一色からは「LLM Wikiを実践して『ロケスマペディア』を作ってみた」というタイトルで、自身で執筆した記事のコンセプトを実務に落とし込んだ社内知識ベースの実践と運用課題について書きました。",
+    "thumbnail": "",
+    "published": "2026-05-29T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b71cbdd9b0e8",
+    "title": "Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents",
+    "url": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
+    "summary_original": "Anthropic's Claude Opus 4.8 brings dynamic workflows and cheaper fast mode to Claude Code, now in research preview\nThe post Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-28T22:12:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0179347b4a25",
+    "title": "Anthropic、Claude Opus 4.8を一般提供　誠実さが飛躍的に向上、Mythosに並ぶアライメント性能を実現",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
+    "summary_original": "Anthropicは、AIモデルの最新版「Claude Opus 4.8」の一般提供を開始した。前世代から推論やコーディング能力を向上させ、自らの作業の不確実性に対する「誠実さ」が劇的に改善した。また、数百のサブエージェントを並行して走らせる新機能「dynamic workflows」も追加されている。",
+    "thumbnail": "",
+    "published": "2026-05-28T21:42:33+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c467a528efa6",
+    "title": "Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H",
+    "url": "https://the-decoder.com/claude-company-anthropic-nears-a-trillion-dollar-valuation-after-raising-65-billion-in-series-h/",
+    "summary_original": "Anthropic raises $65 billion in a Series H round at a $965 billion valuation. Annualized revenue tops $47 billion, according to CFO Krishna Rao. The company plans to invest in safety research, computing capacity, and expanding its Claude product lineup.\nThe article Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_logos-4.png",
+    "published": "2026-05-28T21:30:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7b1aab1a5e8d",
+    "title": "The internet is being rebuilt for machines",
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "summary_original": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "thumbnail": "",
+    "published": "2026-05-28T21:24:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a4b14aaa4aae",
+    "title": "Anthropic ships Claude Opus 4.8 as a \"modest but tangible improvement\" that tops GPT-5.5 in most benchmarks",
+    "url": "https://the-decoder.com/anthropic-ships-claude-opus-4-8-as-a-modest-but-tangible-improvement-that-tops-gpt-5-5-in-most-benchmarks/",
+    "summary_original": "Anthropic releases Claude Opus 4.8, which beats GPT-5.5 and Gemini 3.1 Pro in most benchmarks. The model also catches its own coding errors four times more often than its predecessor. Alongside the launch, Anthropic is rolling out dynamic workflows that can spin up hundreds of parallel sub-agents to handle tasks like codebase-wide migrations.\nThe article Anthropic ships Claude Opus 4.8 as a &quot;modest but tangible improvement&quot; that tops GPT-5.5 in most benchmarks appeared first on The Dec...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/claude_opus_48_title-scaled.webp",
+    "published": "2026-05-28T21:20:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "daf12180c9ce",
+    "title": "AIエージェントの「記憶」は人間の記憶とどう異なるのか？",
+    "url": "https://gigazine.net/news/20260528-ai-agent-memory-system/",
+    "summary_original": "AI技術の進化によって、与えられた目標の達成に合わせて自分で考え、外部ツールやデータを自律的に操作・判断して行動する「AIエージェント」が実現しています。AIが人間のように複雑なタスクをこなすためには、与えられた情報を保存して必要に応じて引き出せる記憶(メモリ)が必要。ポーランドのエンジニアであるbrgsk氏が、AIエージェントの記憶が人間の記憶とどう違うかを解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-28T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "de4f4196e194",
+    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "summary_original": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
+    "published": "2026-05-28T20:29:53+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "0d22b3289c3b",
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "summary_original": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+    "thumbnail": "",
+    "published": "2026-05-28T20:06:07+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a32677c7cb64",
+    "title": "AIによる「自律型戦争」は既に始まっている、Anthropicと国防総省との争いが自律型AI兵器のリスクを浮き彫りに",
+    "url": "https://gigazine.net/news/20260528-ai-warfare-already/",
+    "summary_original": "生成AIの普及により、あらゆることをAIがこなせるようになりつつありますが、戦争にもAIが利用されつつあることが指摘されています。戦争におけるAIの活用は、Anthropicと国防総省の争いにより、より多くの人の目に留まることとなりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-28T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "55d274436d2a",
+    "title": "レノボ、国内に“水冷AIインフラ”の検証施設　GPUサーバ需要増で水冷活用促す",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
+    "summary_original": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
+    "thumbnail": "",
+    "published": "2026-05-28T19:25:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7808f42ec186",
+    "title": "2026年5月28日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260528-headline/",
+    "summary_original": "IT周辺機器メーカーのエレコムが創業40年という節目の年に、コーポレートロゴの刷新を発表しました。新ロゴはデザイナー・野老朝雄氏が手がけたもので、メインカラーには若さや成長を意味する萌黄色が用いられ、「定規とコンパスで誰でも描ける」コンセプトに基づいています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-05-28T19:24:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fa304b3484d5",
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "summary_original": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+    "thumbnail": "",
+    "published": "2026-05-28T18:52:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "407517f5fdbe",
+    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+    "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "summary_original": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+    "thumbnail": "",
+    "published": "2026-05-28T18:32:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5549a01e041a",
+    "title": "How a new extraction process could unlock the world’s lithium",
+    "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+    "summary_original": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.&#160; The research was published today in Science, and a startup called Rock Zero is working to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/vials.jpg?w=1646",
+    "published": "2026-05-28T18:01:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c7127ebb5741",
+    "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+    "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
+    "summary_original": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
+    "thumbnail": "",
+    "published": "2026-05-28T17:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b68701c5ea77",
+    "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+    "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+    "summary_original": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-28T16:14:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d12b40187593",
+    "title": "Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes",
+    "url": "https://the-decoder.com/google-cloud-responds-to-ai-accelerated-cyberattacks-with-a-platform-that-aims-to-close-security-gaps-in-minutes/",
+    "summary_original": "Google Cloud has unveiled \"AI Threat Defense,\" a platform designed to automatically find, assess, and patch security flaws in enterprise systems. The company bundles technologies it partly acquired through acquisitions.\nThe article Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Google-AI-Threat-Defense-title.png",
+    "published": "2026-05-28T15:35:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2a95b3e38d18",
+    "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+    "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+    "summary_original": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, positioning Google Pay as a central clearinghouse for purchases executed by autonomous agents rather than human users. AI agents – designed to perform tasks like booking [&#8230;]\nThe post Google Pay preps for AI agents with Universal Commerce Protocol appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-05-28T14:55:43+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c56beb7639f8",
+    "title": "Google launches a tiny board that runs Gemma 3 locally",
+    "url": "https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/",
+    "summary_original": "Google unveiled the new Coral Board at Google I/O - a compact single-board computer for on-device AI.\nThe article Google launches a tiny board that runs Gemma 3 locally appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/google_logo_neural_network-4.png",
+    "published": "2026-05-28T14:29:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "85e95cb533ee",
+    "title": "Claude’s new model is more ‘honest’ when it messes up",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+    "summary_original": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-28T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "15d045e2cfde",
+    "title": "Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent",
+    "url": "https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/",
+    "summary_original": "Mistral AI is renaming its chatbot Le Chat to Vibe and bundling chat, coding agents and a new Work Mode under one brand. The Work Mode docks onto Google Workspace, Outlook, Slack or GitHub and processes tasks such as emails, reports or pull requests independently. Mistral has not specified any concrete usage limits though. The company is thus positioning itself more directly against the agent-based offerings from OpenAI, Google and Anthropic.\nThe article Mistral rebrands LeChat as Vibe, betting ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/le-chat-agent-surf-wave-nano-banana-pro.jpg",
+    "published": "2026-05-28T12:23:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7e0a41b09086",
+    "title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/FF_01-2_web-edited.jpg",
+    "published": "2026-05-28T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3bce87a3c6c3",
+    "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+    "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+    "summary_original": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-dreams-of-violets.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-28T12:08:45-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c7838110e95a",
+    "title": "YouTube takes baby steps to being a real podcast app",
+    "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
+    "summary_original": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. A new \"on-the-go mode\" shifts YouTube into an audio-first layout, with larger, simplified playback buttons, a still image in place of the video, and a timeline showing video [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-on-the-go-mode-news.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-28T12:05:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "71069e0fc3a9",
+    "title": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
+    "summary_original": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
+    "thumbnail": "",
+    "published": "2026-05-28T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ad40f2b9aa81",
+    "title": "「国会議員マップ」話題　建設職人が個人で開発、議員の発言や政治の動きを分かりやすく　生成AI活用",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news082.html",
+    "summary_original": "小さな建設会社を経営し、工事現場で働く職人でもある「中島」氏が、けがで現場を離れた期間に立ち上げたというサイトだ。余暇に個人で開発・運営しており、収益は目的にしていない。",
+    "thumbnail": "",
+    "published": "2026-05-28T10:55:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5dd8b5fd7446",
+    "title": "These new iOS 27 renders hint at Siri’s big redesign",
+    "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+    "summary_original": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25698444/DSC08567_processed_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-05-28T10:33:31-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d5cce597c646",
+    "title": "NBA plans AI system for automatic out-of-bounds calls",
+    "url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+    "summary_original": "NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around the court to determine possession. Silver compared the approach to Hawk-Eye, the tracking technology used for line calls in tennis. Disputed call preceded Silver’s comments Silver’s [&#8230;]\nThe post NBA plans AI system for automatic out-of-bounds calls appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-05-28T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "7ed1b16dcb9b",
+    "title": "Climate tech companies are going public. What’s next?",
+    "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+    "summary_original": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-28T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2c6e5bbca2bc",
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "summary_original": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+    "thumbnail": "",
+    "published": "2026-05-28T09:51:11+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7b81543afecf",
+    "title": "Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate",
+    "url": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
+    "summary_original": "Perplexity AI open-sources a rewritten Unigram tokenizer that reduces reranker latency and cuts production CPU utilization by 5-6x.\nThe post Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-05-28T09:08:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d8bb637c4151",
+    "title": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
+    "url": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/",
+    "summary_original": "In this tutorial, we build a complete pgvector playground inside Google Colab and explore how PostgreSQL can work as a powerful vector database for modern AI applications. We start by installing PostgreSQL, compiling the pgvector extension, connecting through Psycopg, and registering vector types for smooth Python integration. Then, we create embeddings with SentenceTransformers, store them [&#8230;]\nThe post A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-05-28T08:07:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "044f8d29ddcc",
+    "title": "Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules",
+    "url": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
+    "summary_original": "DiffusionBlocks converts residual networks into independently trainable blocks by interpreting layer updates as reverse diffusion denoising steps.\nThe post Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-5.51.29-PM-1.png",
+    "published": "2026-05-28T00:51:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "78758b8ec5bc",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "summary_original": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "thumbnail": "",
+    "published": "2026-05-28T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "657abec023ff",
+    "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
+    "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+    "summary_original": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/solid-state-drive-ssd-1152x648.jpg",
+    "published": "2026-05-27T20:56:03+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "6c6d47b51097",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-05-27T17:20:29+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "aaab7738d381",
+    "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+    "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+    "summary_original": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The fr...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-10.08.51-AM-1.png",
+    "published": "2026-05-27T17:09:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
