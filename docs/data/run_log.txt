@@ -795,3 +795,11 @@
   ✗ API呼び出しエラー（バッチ 6）: [ServerError] 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
   ✗ API呼び出しエラー（バッチ 7）: [ServerError] 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
   ✓ バッチ 8: 5件処理完了
+  ✓ バッチ 1: 5件処理完了
+  ✓ バッチ 2: 5件処理完了
+  ✓ バッチ 3: 5件処理完了
+  ✓ バッチ 4: 5件処理完了
+  ✓ バッチ 5: 5件処理完了
+  ✓ バッチ 6: 5件処理完了
+  ✓ バッチ 7: 5件処理完了
+  ✓ バッチ 8: 5件処理完了
