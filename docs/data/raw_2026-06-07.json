@@ -1,0 +1,292 @@
+[
+  {
+    "id": "412c130d6bc5",
+    "title": "GoogleがSpaceXの計算能力にアクセスするため月額1500億円弱を支払う契約を締結",
+    "url": "https://gigazine.net/news/20260606-google-will-pay-spacex-920-million-usd-per-month/",
+    "summary_original": "AnthropicがSpaceXのスーパーコンピューター「Colossus 1」使用のために、月額12億5000万ドル(約2000億円)を支払う契約を結んだことが2026年5月に明らかになっていますが、これに続いて、GoogleもSpaceXに月額9億2000万ドル(約1470億円)を支払う契約を結んだことがわかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-06T23:51:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5771950f8123",
+    "title": "規則正しい生活リズムで暮らすことが生物学的老化を遅らせる鍵かもしれない",
+    "url": "https://gigazine.net/news/20260606-daily-rhythms-slow-biological-aging/",
+    "summary_original": "「毎日同じ時間帯に寝て、同じ時間帯に起きる」という規則正しい生活を送ることは健康にとって重要ですが、つい週末になると夜更かししてしまったり、交代勤務で一定の生活リズムを守ることが難しかったりすることもあります。新たな研究では、規則正しい生活パターンを維持することが、生物学的老化を遅らせる役に立つ可能性があると示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-06T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c3048522c6f1",
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "summary_original": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "thumbnail": "",
+    "published": "2026-06-06T20:32:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "148abf059640",
+    "title": "無料でファイル・メモ共有ができ日本語化済みの「SkySend」、有効期限や最大ダウンロード数で自動削除設定でき、エンドツーエンド暗号化をサポートしてオープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260606-skysend/",
+    "summary_original": "ファイルや機密情報をクラウドで共有すると、送信後もサーバー上にデータが残り続けるケースがほとんどです。「SkySend」はブラウザ内で暗号化を完結し、有効期限や最大ダウンロード数に達したタイミングでデータを自動削除、さらに日本語UIでアカウント不要のまま無料で使え、セルフホストにも対応したオープンソースツールとして公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-06T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ec2b897e7367",
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-06T19:02:33+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "a0f78593f2d6",
+    "title": "モバイルルーター「Beryl 7」上でAdGuardを動かしあらゆるアプリで広告ブロック＆スマホをつないでUSBテザリングなどさまざまな機能を試してみたよレビュー",
+    "url": "https://gigazine.net/news/20260606-beryl-7-adguard/",
+    "summary_original": "中国に本拠を置くネットワーク機器メーカー・GL.iNetのモバイルルーター「Beryl 7」は、持ち運びに適したコンパクトさと優れたVPN速度を両立しているほか、スマートフォンから簡単な設定をするだけで、ネットワークを使う場合に丸ごと広告ブロックできたり、端末を指定して特定のサイトにアクセスできなくするペアレンタルコントロールが設定できたり、一時的なユーザーやIoT機器をメインネットワークから隔離するゲストWi-Fiを設定できたりと、さまざまな機能を実行できます。今回は公衆Wi-Fiしかない場所で安全に複数人へインターネットを提供することを想定し、実際に複数の機能を試してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-06T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fa9b3f426447",
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "summary_original": "Apple's WWDC nears: Here's what you can look forward to.",
+    "thumbnail": "",
+    "published": "2026-06-06T18:13:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ccc6abf7dab5",
+    "title": "無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」",
+    "url": "https://gigazine.net/news/20260606-llm-checker/",
+    "summary_original": "「LLM Checker」は自分のPCのハードウェアをスキャンしローカルで実行可能なLLMを推薦してくれるCLIツールであり、Ollamaと完全に統合されていることを特徴としています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-06T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fc0aef7cf74a",
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "summary_original": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "thumbnail": "",
+    "published": "2026-06-06T17:42:15+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ccfe51be44a8",
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "summary_original": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "thumbnail": "",
+    "published": "2026-06-06T16:17:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4de125ead243",
+    "title": "Sakana AI bets AI that improves itself can break the compute arms race of frontier labs",
+    "url": "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/",
+    "summary_original": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as an alternative to the raw compute arms race among big US labs. Anthropic, meanwhile, warns about the control risks of this very technology.\nThe article Sakana AI bets AI that improves itself can break the compute arms race of frontier labs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/Sakana-AI.png",
+    "published": "2026-06-06T13:57:52+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "71551227ee86",
+    "title": "Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product",
+    "url": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
+    "summary_original": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch builds working tools, schedules appointments, or sends emails. CEO Mark Zuckerberg sees the product as a way to open up new revenue streams beyond advertising and refinance the company's massive AI investments.\nThe article Meta&#039;s Hatch AI agent could cost up to $200 a month and marks its first paid AI product appeared first on The Decode...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/meta_ai_logo_wall_muse.png",
+    "published": "2026-06-06T11:42:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e8805de91d21",
+    "title": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
+    "url": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+    "summary_original": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and the Blackbox AI service. Meanwhile, xAI's pretraining team shrank to fewer than five people, and several leads walked out. The compute Musk bought up is now being rented to Anthropic and Google instead of powering his own models.\nThe article Elon Musk&#039;s xAI reportedly trained its coding models on Claude outputs for months before get...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wakk.png",
+    "published": "2026-06-06T11:22:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "859e1a741ce4",
+    "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "summary_original": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-06T11:05:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2b0bd4e04b6e",
+    "title": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
+    "url": "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/",
+    "summary_original": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weights, and download instructions are available on GitHub under the Apache 2.0 open-source license, with the training data to follow.\nThe article New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/audio-interaction-model-generated-image-nano-banana-pro.jpg",
+    "published": "2026-06-06T10:50:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d20c26243dcf",
+    "title": "Meta made its own AI-generated clickbait news feed",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "summary_original": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-06T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "102c3d453536",
+    "title": "Here comes new Siri again",
+    "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+    "summary_original": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-06T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f55f65ff6ed0",
+    "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
+    "url": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/",
+    "summary_original": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia chips to meet demand for its Gemini Enterprise platform. That one of the world's largest cloud providers needs to rent capacity externally shows how scarce AI infrastructure has become, and how tightly big tech companies' businesses are now intertwined.\nThe article SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_shilouette.png",
+    "published": "2026-06-06T07:57:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b23873b9f698",
+    "title": "英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功　未知の変異株にも備える“万能型”",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/",
+    "summary_original": "ケンブリッジ大学は、AIが設計した抗原を用いる“ユニバーサルワクチン”の初の臨床試験に成功したと発表した。サルベコウイルス群のゲノム配列を機械学習で解析し、グループ共通の“スーパー抗原”を設計した。健康な39人に投与し、安全性と免疫応答を確認した。",
+    "thumbnail": "",
+    "published": "2026-06-05T22:27:33+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "06dd206e0d4b",
+    "title": "How a USB-connected speaker can infect a PC without ever being touched",
+    "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+    "summary_original": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/sound-blaster-katana-v2x-1152x648-1780688877.jpg",
+    "published": "2026-06-05T21:00:29+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5f705da3009f",
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "summary_original": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+    "thumbnail": "",
+    "published": "2026-06-05T20:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7082779c41f8",
+    "title": "This is your laptop… on AI",
+    "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+    "summary_original": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-05T12:39:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "224dd616cdbb",
+    "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+    "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/10/ND21_ASML-2021cp13-25089-ext2.jpg?w=2999",
+    "published": "2026-06-05T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e1aa28611029",
+    "title": "New York lawmakers pass one-year ban on new data centers",
+    "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+    "summary_original": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-05T11:25:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ebaa83c988a9",
+    "title": "検図から積算まで支援する図面解析AI、工数を最大60％削減",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news020.html",
+    "summary_original": "フィーチャは、図面解析AI「Drawing-AI」の機能拡張と対応領域の拡大を発表した。回路図や金型図面に加えて建築図面にも対応し、検図やデータ化、積算業務を支援する。実証実験では作業工数を30～60％削減した。",
+    "thumbnail": "",
+    "published": "2026-06-05T09:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5ecdba611c11",
+    "title": "Are AI chatbots making us lose control of our brains?",
+    "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+    "summary_original": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-05T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "94d4f7da1b03",
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "summary_original": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-05T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f5df1a3bd4d5",
+    "title": "AIで思考力が奪われる？　世界の研究が警告するAIバカの壁【動画あり】",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news037.html",
+    "summary_original": "調べる前にAI、考える前にAI――こうした使い方をしていると知らないうちに思考力に影響を与えているかもしれません。AIを使うほど人はバカになるのでしょうか。今回はその実態と対処法を紹介します。",
+    "thumbnail": "",
+    "published": "2026-06-05T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "df6acef021f0",
+    "title": "AIコスト高騰で中国DeepSeekへの“乗り換え”続出か　米国決済サービスの支出調査で明らかに",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/",
+    "summary_original": "米Rampの支出調査で中国DeepSeekが急成長ベンダーの首位に。米国勢より1?2桁安い料金を背景に、DeepSeekへ直接支払う米企業が増加。AIエージェント「Cline」の開発者も同様の乗り換えを報告した。",
+    "thumbnail": "",
+    "published": "2026-06-05T07:28:58+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  }
+]
