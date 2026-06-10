@@ -1,0 +1,402 @@
+[
+  {
+    "id": "c12880e186bf",
+    "title": "「何でもIT化」が組織を壊す　「GIGAスクール名付け親」に聞くAI時代のリーダー論",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/11/news029.html",
+    "summary_original": "業務を劇的に効率化させる一方で、扱い方を間違えれば組織のエンゲージメントを破壊する生成AI。テスト採点時間を最大80％削減するDXを実現しながらも「記述式の自動採点は絶対に導入しない」と言い切るEdLog社長の中川哲氏（元日本マイクロソフト業務執行役員）。同氏が形だけのDXで組織を停滞させないためのマネジメント論を展開。「AIのスコアだけで判断された部下の心は離れる」と語る組織論に迫る。",
+    "thumbnail": "",
+    "published": "2026-06-11T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3044903621c7",
+    "title": "「陰謀論にハマる数年前から兆候がある」という研究結果、機械学習モデルで見えた特徴的な言葉遣い",
+    "url": "https://gigazine.net/news/20260611-conspiracy-language/",
+    "summary_original": "陰謀論コミュニティに関与したユーザーは、陰謀論について語っていない場所でも特徴的な言葉遣いをしており、しかも陰謀論コミュニティに関与する前から同様の傾向が見られるという研究結果が発表されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-11T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8a71f638d44c",
+    "title": "1日1杯未満の飲酒でも複数のがんリスク上昇につながるという研究結果",
+    "url": "https://gigazine.net/news/20260611-alcohol-cancer-risk-low-consumption/",
+    "summary_original": "「少しお酒を飲む程度なら大きな問題はない」と考えている人は多いかもしれません。しかし、ワシントン大学の研究チームが飲酒とがん・心血管疾患・2型糖尿病・認知症などの関係を調べたところ、少量の飲酒でも複数のがんリスク上昇につながることが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-11T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e2ae23658cfd",
+    "title": "スマホからWindowsのCodexアプリを操作できるの？　外出中でもAIコーディングを止めない方法",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news016.html",
+    "summary_original": "OpenAIのCodexアプリで、Windows上の開発作業をスマートフォンから確認し指示できるようになった。AIコーディング中にPCの前を離れても、作業が止まりにくい。実用面でかなりうれしい機能を紹介する。",
+    "thumbnail": "",
+    "published": "2026-06-11T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f5fdb80fa91a",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "summary_original": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "thumbnail": "",
+    "published": "2026-06-11T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6de145b73128",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "summary_original": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "thumbnail": "",
+    "published": "2026-06-10T22:31:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f17e33515dda",
+    "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
+    "url": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
+    "summary_original": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseline....",
+    "thumbnail": "",
+    "published": "2026-06-10T22:07:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "419c635d5148",
+    "title": "ComfyUIがOpenAI・Anthropic・Google・MoonshotのAIを競わせてプルリクをレビューする仕組みを公開",
+    "url": "https://gigazine.net/news/20260610-comfyui-four-rival-review/",
+    "summary_original": "コンテンツ生成AIアプリ「ComfyUI」の開発チームが、4つのAIモデルを使ってプルリクエストをレビューする仕組み「Cursor Review」を公開し、解説記事が公式ブログに掲載されました。OpenAI、Anthropic、Google、Moonshotのモデルに同じプルリクエスト(PR)を別々の観点からチェックさせ、最後に1つの判定モデルが結果を整理してGitHub上にレビューを投稿すると述べられています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-10T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8371f1a31ea2",
+    "title": "ChatGPTで広告表示へ　無料・Goプランが対象　6月22日にポリシー更新",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news128.html",
+    "summary_original": "米OpenAIは6月10日、「ChatGPT」の広告に関する規定を追加したプライバシーポリシーを改定した。無料プラン、「Go」プランが対象となる。",
+    "thumbnail": "",
+    "published": "2026-06-10T20:50:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6bbed14085f2",
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "summary_original": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "thumbnail": "",
+    "published": "2026-06-10T20:19:31+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "db7a87e3035c",
+    "title": "AIの誤検知による誤認逮捕で職・家・2人の子どもの親権を失う事例が発生",
+    "url": "https://gigazine.net/news/20260610-ai-misidentification-wrongful-arrest/",
+    "summary_original": "アメリカ・ノースカロライナ州シャーロット在住のジャリル・リチャードソン氏は、AIによる顔認識技術によって、自身が犯していない自動車窃盗の容疑で誤認逮捕されました。同氏は数カ月間拘留された後、訴訟を取り下げてもらうことに成功したものの、その間に職を失い、家を失い、2人の子どもの親権まで失っています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-10T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c6fecd915567",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "summary_original": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "thumbnail": "",
+    "published": "2026-06-10T20:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3b58b04507bf",
+    "title": "AIエージェントもフィッシング詐欺に引っかかる？　米セキュリティ企業がOpenClawで検証　結果は……",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
+    "summary_original": "AIエージェントが話題になる昨今。ローカル環境で動作するエージェントにPCを操作させ、作業を効率化しようと試みる人も散見される。ただ、AIエージェントがフィッシング詐欺に引っ掛かったら、大変なことになるかもしれない。米セキュリティ企業Varonisが6月9日（現地時間）に発表した検証レポートによれば、エージェントもフィッシングに引っかかる場合があったという。",
+    "thumbnail": "",
+    "published": "2026-06-10T19:42:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a7303d1624ae",
+    "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word",
+    "url": "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/",
+    "summary_original": "Google released DiffusionGemma, a 26-billion-parameter model that generates text not token by token but through diffusion, similar to how image AI turns noise into a picture. According to Nvidia, it hits about 1,000 tokens per second on a single H100 GPU, roughly four times faster than comparable autoregressive models. The speed comes at a cost, though. Output quality is lower, so Google is positioning it as an experimental tool for developers for now.\nThe article Google&#039;s new open model Di...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/diffusiongemma-01-hero.jpg",
+    "published": "2026-06-10T19:20:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d4d504b4747f",
+    "title": "Starlinkが専用キットをレンタルするユーザーから月額約1600円のレンタル料を徴収する方針に転換",
+    "url": "https://gigazine.net/news/20260610-starlink-monthly-kit-fee/",
+    "summary_original": "衛星インターネットのStarlinkは専用キットに含まれるルーターやアンテナを設置し、低軌道衛星を通じた高速・低遅延のデータ通信を利用できます。そんなStarlinkは一部地域で専用キットの無料レンタルを行ってきましたが、この方針を転換して月額10ドル(約1600円)のレンタル料を徴収するようになったことが報じられました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-10T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "65d7549a89e3",
+    "title": "Apple「Siri AI」、13億台超が“利用不能”か？　新機能の拡大阻む“弱点”とは",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/10/news117.html",
+    "summary_original": "米Morgan Stanleyは調査レポートで、米Appleが新たに発表した「Siri AI」について、新機能の拡大を阻む、ある弱点を指摘した。",
+    "thumbnail": "",
+    "published": "2026-06-10T18:58:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1df0e3ea36eb",
+    "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
+    "url": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
+    "summary_original": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-10-at-11.42.40-AM-1.png",
+    "published": "2026-06-10T18:50:51+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bc5205889ea5",
+    "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\"",
+    "url": "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/",
+    "summary_original": "Sam Altman told employees he expects an OpenAI IPO \"within the next year,\" but a delay to 2027 is possible. He frames it as caution around self-improving AI, though Anthropic's stronger growth numbers and imminent IPO may be the real reason to wait.\nThe article OpenAI&#039;s IPO slips as Altman tells staff to expect a public offering &quot;within the next year&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_altman_2.png",
+    "published": "2026-06-10T18:27:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "529a63a471e8",
+    "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches",
+    "url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/",
+    "summary_original": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no specialized knowledge. Eight complete attack chains were finished before Microsoft's auto-updates had reached a single device. The old patch rhythm is obsolete, Anthropic argues.\nThe article Anthropic study shows AI needs hours, not weeks, to build exploits from security patches appeared first on The De...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_claude.png",
+    "published": "2026-06-10T17:38:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7282240d4a4e",
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "summary_original": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+    "thumbnail": "",
+    "published": "2026-06-10T17:07:35+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9562e83254d9",
+    "title": "How memory tools can make AI models worse",
+    "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "summary_original": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+    "thumbnail": "",
+    "published": "2026-06-10T16:11:08+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "778e7a00c542",
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "summary_original": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+    "thumbnail": "",
+    "published": "2026-06-10T15:41:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "418aad4aca8d",
+    "title": "OpenAI wants its biggest data center yet, and Nvidia would back the bill",
+    "url": "https://the-decoder.com/openai-wants-its-biggest-data-center-yet-and-nvidia-would-back-the-bill/",
+    "summary_original": "OpenAI is negotiating to lease a planned 10-gigawatt data center in Ohio that could be financially backed by Nvidia, according to The Information.\nThe article OpenAI wants its biggest data center yet, and Nvidia would back the bill appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+    "published": "2026-06-10T13:59:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "648b542afa79",
+    "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+    "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+    "summary_original": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-10T13:45:11-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4a554e6b3bf9",
+    "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+    "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+    "summary_original": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-10T13:38:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d3048b9eb088",
+    "title": "Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered",
+    "url": "https://the-decoder.com/claude-fable-5-the-first-mythos-model-is-powerful-expensive-and-heavily-filtered/",
+    "summary_original": "Anthropic has released Claude Fable 5, the first model in its new Mythos class. It leads nearly every benchmark, including SWE-bench Verified at 95 percent, but costs twice as much as Opus 4.8 at 10 or 50 dollars per million tokens. Strict safety filters block about nine percent of requests, and a new 30-day data retention policy applies even to zero-data-retention contracts.\nThe article Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered appeared first on The Dec...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
+    "published": "2026-06-10T13:34:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "fe94a21c98c6",
+    "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+    "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+    "summary_original": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-10T13:20:36-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8b5706199cae",
+    "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+    "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+    "summary_original": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-10T12:50:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "237147d6cc59",
+    "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+    "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+    "summary_original": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Google Lens, recordings from its real-time [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-10T12:18:45-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1076dadb61ed",
+    "title": "The Download: the “steroid olympics” and a safer Mythos",
+    "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/02/LSBerke_DesignIntro-thumb.jpeg?w=1321",
+    "published": "2026-06-10T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2c872de7fac2",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "summary_original": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+    "thumbnail": "",
+    "published": "2026-06-10T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "820a457e9e23",
+    "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+    "url": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+    "summary_original": "&#8220;We&#8217;ve all had that moment where you search for something you know is there, but it just won&#8217;t show up.&#8221; Apple&#8217;s Stacey Ford, vice president of OS Program Management, was talking about Spotlight at WWDC 2026, but she could have been describing the company&#8217;s AI ambitions.&#160; On Monday at Apple Park, the thing that wouldn&#8217;t [&#8230;]\nThe post Siri AI arrives with Google inside, and much of the world is locked out appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Apple-Siri-AI-conversation-history-overview-260608_inline.jpg.large_2x-731x1024.jpg",
+    "published": "2026-06-10T11:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "10fa5cf767ed",
+    "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
+    "url": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
+    "summary_original": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents [&#8230;]\nThe post Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-10T10:24:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7fff4a7e479d",
+    "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
+    "url": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+    "summary_original": "McDonald’s is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed “Archy,” was introduced during the company’s Worldwide convention, according to Restaurant Business. It is being tested at five McDonald’s locations in the United States, though the company has not named the restaurants involved. [&#8230;]\nThe post McDonald’s tests Google-backed AI drive-thru ordering system appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-06-10T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "ea2ec57ecc63",
+    "title": "The “steroid olympics” were a circus—and a window into our culture",
+    "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+    "summary_original": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing through the blood of a few dozen swimmers, sprinters, and weightlifters. And millions of dollars up for grabs for athletes&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260524_TechnologyReview_EnhancedGames_205.jpg?w=1333",
+    "published": "2026-06-10T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "9b4554aa5fc4",
+    "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
+    "url": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
+    "summary_original": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-10T08:26:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "eb01d8347eff",
+    "title": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
+    "url": "https://www.marktechpost.com/2026/06/09/building-a-code-dataset-pipeline-from-nvidia-nemotron-pretraining-code-v3-metadata-with-streaming-pandas-and-tiktoken/",
+    "summary_original": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its schema, and build a manageable sample. We analyze languages, file extensions, repository frequency, and directory depth to understand the index structure. We then reconstruct raw GitHub URLs, fetch real source files, and estimate the token scale of the fetched code.\nThe post Building a Code Dataset...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-06-10T04:52:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e527af61aff2",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "url": "https://openai.com/index/lseg",
+    "summary_original": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "thumbnail": "",
+    "published": "2026-06-10T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7d1f3e342dc6",
+    "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+    "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+    "summary_original": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+    "published": "2026-06-09T20:56:52+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "92ac31968c0b",
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-09T19:38:28+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
