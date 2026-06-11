@@ -1,0 +1,402 @@
+[
+  {
+    "id": "3edb6f540991",
+    "title": "“AIが電力使いすぎ問題”　「電力不足」懸念で、発電能力より深いボトルネックとは",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/12/news029.html",
+    "summary_original": "ガートナージャパンが「電力供給の遅れがデータセンター建設に影響を与えている」と指摘した。しかし、ボトルネックは発電能力ではないという。課題はどこにあるのか。",
+    "thumbnail": "",
+    "published": "2026-06-12T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8c587fee596c",
+    "title": "Blueskyは2026年中に新機能「コミュニティ」を追加予定、同じ興味を持つ人々とより深く交流できる小規模スペース",
+    "url": "https://gigazine.net/news/20260612-bluesky-communities-deeper-smaller-spaces/",
+    "summary_original": "X(旧Twitter)の代替SNSとして人気のBlueskyに、同じことに興味を持つ人々とより深く交流できる「コミュニティ」機能が追加されることが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-12T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4295f403d77c",
+    "title": "「日本がいないと成り立たない」世界へ、フィジカルAIが導く独自の交渉力",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/12/news049.html",
+    "summary_original": "Laboro.AIはメディア向けAI勉強会を開催し、2026年の業界トレンドや、日本の生存戦略となる次世代AIの動向を解説した。「SaaSの死」に伴うソフトウェア開発の変化や、グローバルなエコシステムで不可欠性を目指す「フィジカルAI」としての勝ち筋を語る。",
+    "thumbnail": "",
+    "published": "2026-06-12T06:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9559d7038434",
+    "title": "AIで書いた文章を自分の言葉として伝えるのは倫理的に問題があるのか？",
+    "url": "https://gigazine.net/news/20260612-ai-use-disclosure-morally-wrong/",
+    "summary_original": "ChatGPTなどの生成AIを使えば会議メモやメール、スピーチの原稿を短時間で整えることができますが、AIの力を借りたことを相手に明かさず自分が書いた文章として伝えると相手を誤解させる可能性があります。オーストラリア・マッコーリー大学で哲学を研究するシアヴォシュ・サヘビ氏とトーマス・モンテフィオーレ氏が、AIを使っていることを明かさない場合にどのような問題が起こるのかについて論じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-12T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3649d8283d00",
+    "title": "Perplexity Moves Deep Research Into Computer, Routing Research Subtasks Across 20+ Frontier Models For Reports, Decks, And Dashboards",
+    "url": "https://www.marktechpost.com/2026/06/11/perplexity-moves-deep-research-into-computer-routing-research-subtasks-across-20-frontier-models-for-reports-decks-and-dashboards/",
+    "summary_original": "Deep Research now lives inside Perplexity Computer, breaking hard questions into subtasks and routing across 20+ frontier models.\nThe post Perplexity Moves Deep Research Into Computer, Routing Research Subtasks Across 20+ Frontier Models For Reports, Decks, And Dashboards appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-11T22:21:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f8065bfe8631",
+    "title": "AppleがmacOS上で高速かつ軽量なLinux環境を提供できる「Container machine」を発表",
+    "url": "https://gigazine.net/news/20260611-apple-container-machines/",
+    "summary_original": "WWDC26で発表された、Mac上で軽量のLinux環境を提供できる新機能が「Container machine」です。Container machineは高速でありながら軽量かつ永続的で、標準的なOCIイメージに基づき構築・共有でき、ユーザーやホームディレクトリの自動共有などのホスト統合機能により、ターミナル内のどこからでもLinux環境に素早く簡単にアクセスすることが可能となります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-11T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "57a32144a394",
+    "title": "xAI Ships Grok Build Plugin Marketplace With MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers Plugins at Launch",
+    "url": "https://www.marktechpost.com/2026/06/11/xai-ships-grok-build-plugin-marketplace-with-mongodb-vercel-sentry-chrome-devtools-cloudflare-and-superpowers-plugins-at-launch/",
+    "summary_original": "Grok Build's in-terminal marketplace bundles skills, agents, hooks, and MCP servers, with commit-SHA verification on every remote plugin.\nThe post xAI Ships Grok Build Plugin Marketplace With MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers Plugins at Launch appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-11T21:30:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fdea0b6ff0f7",
+    "title": "オープンソースソフトウェアのプロジェクト開発へ積極的に関与していたユーザーが人間の制御下にない AIだった可能性",
+    "url": "https://gigazine.net/news/20260611-fedora-ai-runs/",
+    "summary_original": "オープンソースのLinuxディストリビューション「Fedora」で、バグ修正など複数の貢献を行いながらも言動に不審なところがあるアカウントが確認されました。開発者らは「AIだった可能性がある」と結論づけています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-11T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "32f44ef46f2c",
+    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+    "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+    "summary_original": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+    "thumbnail": "",
+    "published": "2026-06-11T20:33:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d79c394fd6ca",
+    "title": "「なぜ最初は素晴らしかった企業が理念を失って変貌してしまうのか」という問いに『リーン・スタートアップ』の著者が回答",
+    "url": "https://gigazine.net/news/20260611-good-companies-drift-away-lean-startup/",
+    "summary_original": "最初は素晴らしい理念を掲げていたはずの企業が成長するにつれ、徐々に当初の理念から逸脱していく様子を見たことがある人もいるはず。日本でも話題となったビジネス書『リーン・スタートアップ ムダのない起業プロセスでイノベーションを生みだす』の著者であり起業家のエリック・リース氏が、一体なぜ優良企業が衰退してしまうのかについて、ソーシャルニュースサイトのHacker Newsで質問を受け付けています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-11T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "dc391d966a6d",
+    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+    "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+    "summary_original": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+    "thumbnail": "",
+    "published": "2026-06-11T19:58:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "780aac7adea3",
+    "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "summary_original": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.\nThe article Landmark German ruling declares Google&#039;s ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/ai_overviews_hammer_law.png",
+    "published": "2026-06-11T16:56:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d008a461e581",
+    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+    "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "summary_original": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+    "thumbnail": "",
+    "published": "2026-06-11T16:36:20+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2220d9e56c4d",
+    "title": "AnthropicとNEC、金融8社とAI活用で連携　三井住友FG、大和証券など",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+    "summary_original": "開示可能な範囲で各社が業務に関する知見を持ち寄り、業界の枠を超えた協働体制を築く。",
+    "thumbnail": "",
+    "published": "2026-06-11T16:31:05+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "69cefc8b8838",
+    "title": "Jeff Bezos' AI startup Prometheus closes $12 billion round at a $41 billion valuation",
+    "url": "https://the-decoder.com/jeff-bezos-ai-startup-prometheus-closes-12-billion-round-at-a-41-billion-valuation/",
+    "summary_original": "Jeff Bezos' AI startup Prometheus has closed a $12 billion funding round at a $41 billion valuation. The company launched just last November with $6.2 billion in seed funding. No products yet, because Bezos says sharing details would be \"premature.\"\nThe article Jeff Bezos&#039; AI startup Prometheus closes $12 billion round at a $41 billion valuation appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/prometheus_bezos.png",
+    "published": "2026-06-11T16:24:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "74b436eff9dc",
+    "title": "Free Deezer tool lets users on any streaming service check their playlists for AI music",
+    "url": "https://the-decoder.com/free-deezer-tool-lets-users-on-any-streaming-service-check-their-playlists-for-ai-music/",
+    "summary_original": "Deezer now offers a free AI music detector that lets users on any major streaming platform check whether AI-generated songs are hiding in their playlists.\nThe article Free Deezer tool lets users on any streaming service check their playlists for AI music appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/Deezer-AI-Music.jpg",
+    "published": "2026-06-11T16:14:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3e3939697ff9",
+    "title": "JASRAC、「AI作曲・人間作詞」の曲は管理します――「人間の創作的寄与の有無」で線引き",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/11/news110.html",
+    "summary_original": "歌詞・楽曲両方をAIが作った曲は管理しないが、歌詞か楽曲をAI生成し、もう片方を人間が創作した曲は、人が作った部分のみ管理するという。",
+    "thumbnail": "",
+    "published": "2026-06-11T15:49:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "57f419fe4ff7",
+    "title": "Pool’s new app turns your screenshots into something useful",
+    "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+    "summary_original": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+    "thumbnail": "",
+    "published": "2026-06-11T15:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3a3e6feb92a4",
+    "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing",
+    "url": "https://the-decoder.com/openai-vs-anthropic-a-price-war-over-api-tokens-is-brewing/",
+    "summary_original": "OpenAI is weighing token price cuts to win customers from Anthropic, the Wall Street Journal reports.\nThe article OpenAI vs. Anthropic: A price war over API tokens is brewing appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_anthropic_torn_apart.png",
+    "published": "2026-06-11T15:28:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "86be1fa08a55",
+    "title": "サッカーW杯、偽ライブ配信サイトに注意　生成AIで詐欺が巧妙化　Acronisが警告",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/11/news106.html",
+    "summary_original": "生成AI技術の発展により、偽のチケット販売サイトや偽のライブ配信サイトなどの手口は巧妙化しており、十分な注意が必要だ。",
+    "thumbnail": "",
+    "published": "2026-06-11T15:14:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c265bd405c5c",
+    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+    "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "summary_original": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+    "thumbnail": "",
+    "published": "2026-06-11T14:23:43+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "033ccf63529d",
+    "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+    "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+    "summary_original": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-11T13:26:57-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a620a5110262",
+    "title": "Dario Amodei's new essay reads like a Cold War playbook for the AI age",
+    "url": "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/",
+    "summary_original": "Anthropic publishes a sweeping essay and two policy frameworks. The company calls for binding audits of frontier models and paints a picture of AI as a strategic weapon wielded by nation-states.\nThe article Dario Amodei&#039;s new essay reads like a Cold War playbook for the AI age appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/Anthropic-Policy-2026.webp",
+    "published": "2026-06-11T13:10:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2e52d71156ea",
+    "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+    "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_SpaceTourism_final.jpg?fit=2128,1196",
+    "published": "2026-06-11T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8be4f81cae1a",
+    "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+    "url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+    "summary_original": "Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel. Autonomous agents will now process user prompts, evaluate merchant catalogues, and complete the checkout process using Visa’s payment rails at any supporting merchant. [&#8230;]\nThe post Visa ChatGPT integration enables AI agent retail purchasing appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-06-11T11:08:17+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5fa3405179d5",
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "summary_original": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-11T11:00:45+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cf4bdee75a70",
+    "title": "Xebia: Why AI agents fail without the right data foundation",
+    "url": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+    "summary_original": "If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation – and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global CTO at Xebia, explains. “If you don’t think about that, you can [&#8230;]\nThe post Xebia: Why AI agents fail without the right data foundation appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-06-11T10:42:38+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "869cad821412",
+    "title": "Job titles of the future: Nature’s drug designer",
+    "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+    "summary_original": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he was increasingly concerned about&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-11T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d64a6f7de63c",
+    "title": "Inside soccer’s data renaissance",
+    "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+    "summary_original": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were Jesse&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Israel_Jesse_Davis_final.jpg?w=3000",
+    "published": "2026-06-11T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d853c3a34183",
+    "title": "Why China is betting on big nuclear reactors",
+    "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+    "summary_original": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Meanwhile, the US has built just two reactors in that&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-11T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "322201fa8cf1",
+    "title": "Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow",
+    "url": "https://www.marktechpost.com/2026/06/11/nous-research-ships-hermes-agent-profile-builder-identity-model-skills-and-mcp-servers-in-one-dashboard-flow/",
+    "summary_original": "The Hermes Agent dashboard now builds complete agent profiles in one flow, replacing multi-step CLI setup for users.\nThe post Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-11T09:53:52+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "380bba462b52",
+    "title": "Meet ‘North Mini Code’: Cohere’s 30B Open-Weight Mixture-of-Experts Model With 3B Active Parameters for Agentic Coding",
+    "url": "https://www.marktechpost.com/2026/06/11/meet-north-mini-code-coheres-30b-open-weight-mixture-of-experts-model-with-3b-active-parameters-for-agentic-coding/",
+    "summary_original": "Cohere's first developer coding model is a 30B mixture-of-experts running on a single H100 with 256K context length.\nThe post Meet &#8216;North Mini Code&#8217;: Cohere&#8217;s 30B Open-Weight Mixture-of-Experts Model With 3B Active Parameters for Agentic Coding appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-11T08:33:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "866072bf2988",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "summary_original": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-11T07:40:43-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b8acadde21ce",
+    "title": "Deezer launches an AI music detector for other streaming services",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+    "summary_original": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-11T04:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9b77dce7b354",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "summary_original": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "thumbnail": "",
+    "published": "2026-06-11T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "bfbf641beda5",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "summary_original": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "thumbnail": "",
+    "published": "2026-06-11T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f5fdb80fa91a",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "summary_original": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "thumbnail": "",
+    "published": "2026-06-11T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8926e37d73b8",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "summary_original": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "thumbnail": "",
+    "published": "2026-06-11T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "9a812e42d024",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-11T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "f17e33515dda",
+    "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
+    "url": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
+    "summary_original": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseline....",
+    "thumbnail": "",
+    "published": "2026-06-10T22:07:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
