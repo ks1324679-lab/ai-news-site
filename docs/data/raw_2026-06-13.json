@@ -1,0 +1,402 @@
+[
+  {
+    "id": "2712d5e1c02e",
+    "title": "政治家がインタビューで質問に答えない時に使う35種類のテクニックとは？",
+    "url": "https://gigazine.net/news/20260613-politicians-35-techniques/",
+    "summary_original": "政治家がインタビューで質問に正面から答えず別の話題に移ったり、質問そのものに問題があると指摘したりする場面は珍しくありません。イギリスのコミュニケーション専門家であるピーター・ブル氏は、政治家が記者の質問をかわす方法を35種類に分類しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-13T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8fadaef38792",
+    "title": "2026年夏開始の新作アニメ一覧",
+    "url": "https://gigazine.net/news/20260613-anime-2026summer/",
+    "summary_original": "放送・配信中のアニメが終わり、入れ替わりに新たな作品が始まる時期がやってきました。2026年夏(2026年6月～2026年9月ごろ)に始まるアニメの数は約75本で、近年の傾向から外れることなく多め。1話2分～5分程度のショートアニメも含まれているとはいえ、PVをチェックするだけでも相当な時間を要します。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-13T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9266ffb11510",
+    "title": "Snapdragon 8 Elite Gen 5を搭載する「Xperia 1 VIII」のベンチマーク結果まとめ、ソニー・Xperiaシリーズのフラッグシップモデルの性能はどれほどか？",
+    "url": "https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/",
+    "summary_original": "ソニーのスマートフォン「Xperia」シリーズのフラッグシップモデルとなる「Xperia 1 VIII」が6月11日に登場しました。Xperia 1 VIIIはQualcommが展開するスマートフォン向けの最上位プロセッサ「Snapdragon 8 Elite Gen 5」をSoCに採用し、スペックもハイエンドスマートフォンクラスになっているとのことで、ベンチマークアプリを使ってその性能を測定してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-12T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "473ad1b8154b",
+    "title": "Claude Fable 5は指示されなくてもブラウザまで開いてバグを追う「容赦なく積極的」なAI",
+    "url": "https://gigazine.net/news/20260612-fable-is-relentlessly-proactive/",
+    "summary_original": "Anthropicの新しいAIモデル「Claude Fable 5」について、開発者のサイモン・ウィリソン氏が「容赦なく積極的」と表現するほど自律的に動いたデバッグ事例を報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-12T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2480d6ffc411",
+    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
+    "url": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
+    "summary_original": "We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern.\nThe post Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard appeared first o...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/06/jk1.jpeg",
+    "published": "2026-06-12T21:04:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d4a3c23e0eb8",
+    "title": "Claude MaxとChatGPT Proは月額200ドルなのにそれぞれ約8000ドルと約1万4000ドル相当のトークンが使えるとの指摘",
+    "url": "https://gigazine.net/news/20260612-anthropic-openai-subscription-margin/",
+    "summary_original": "Anthropicは「Claude Max」プラン、OpenAIは「ChatGPT Pro」プランを月額200ドル(約3万2000円)で提供しています。各社の最上位プランになるため非常に高価格ですが、その一方で支払額をはるかに上回るトークンを得られるので「非常にお得」との指摘が行われています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-12T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8e16264f67e5",
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "summary_original": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+    "thumbnail": "",
+    "published": "2026-06-12T20:38:09+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2220d9e56c4d",
+    "title": "AnthropicとNEC、金融8社とAI活用で連携　三井住友FG、大和証券など",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+    "summary_original": "開示可能な範囲で各社が業務に関する知見を持ち寄り、業界の枠を超えた協働体制を築く。",
+    "thumbnail": "",
+    "published": "2026-06-12T20:20:12+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ead81c101920",
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "summary_original": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "thumbnail": "",
+    "published": "2026-06-12T20:04:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6e9cc34dd8c5",
+    "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+    "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+    "summary_original": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-1152x648.jpg",
+    "published": "2026-06-12T19:26:47+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "2a0c46444290",
+    "title": "Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds",
+    "url": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/",
+    "summary_original": "Anthropic surveyed nearly 52,000 Americans about their hopes and fears around AI. Sixty-four percent fear job losses, and 56 percent worry about losing the ability to think for themselves. Daily AI users are far less concerned. Still, most people reject AI in their own workplace, even for tasks they think it can handle.\nThe article Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_head_pattern.png",
+    "published": "2026-06-12T18:40:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ac49e7db99e3",
+    "title": "Mistral is rumored to be raising €3B at €20B valuation",
+    "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "summary_original": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+    "thumbnail": "",
+    "published": "2026-06-12T17:38:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1398160e36cd",
+    "title": "OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent",
+    "url": "https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/",
+    "summary_original": "OpenAI now lets Codex users bank their rate-limit resets and trigger them manually instead of watching them expire on a fixed schedule. If you hit your usage cap mid-session, you can cash in a saved reset right away instead of waiting. Users on the Go, Plus, Pro, and Business plans each get one free reset to start. Plus and Pro users can also invite friends to unlock extra resets.\nThe article OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent appeared f...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png",
+    "published": "2026-06-12T17:34:23+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e857530f4e0b",
+    "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance",
+    "url": "https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/",
+    "summary_original": "Claude Fable 5 tops the Artificial Analysis Intelligence Index with 64.9 points and sets records in five of ten benchmarks. But the gain over Opus 4.8 is just 5.7 percent at double the token price. Safety filters with fallback routing push costs even higher.\nThe article Anthropic&#039;s Claude Fable 5 costs twice as much for 5.7 percent more performance appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_anthropic_money-scaled.png",
+    "published": "2026-06-12T17:10:34+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "aff183af0f1e",
+    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+    "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+    "summary_original": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-06-12T16:23:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "446830a5c044",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-12T15:56:10+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "244c1c844ed0",
+    "title": "It’s hot IPO summer, and the MANGOS are ripe",
+    "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+    "summary_original": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-06-12T15:50:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f6c89e3e9a5c",
+    "title": "Coinbase for Agents: Automating portfolio trading with AI",
+    "url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+    "summary_original": "Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios. Individuals frequently employ these models to evaluate market developments or research investment opportunities. These software tools possess the capacity for complex [&#8230;]\nThe post Coinbase for Agents: Automating portfolio trading with AI appeared fir...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-06-12T15:34:23+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "dcb1a4eea6c7",
+    "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters",
+    "url": "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/",
+    "summary_original": "Within days of each other, Google and OpenAI separately exposed operations allegedly originating in China that use AI for fraud and covert influence campaigns. Both target US infrastructure and political debates.\nThe article Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/PRC-AI-Information-Warfare.png",
+    "published": "2026-06-12T14:10:02+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b70fc5788ec8",
+    "title": "Mistral AI seeks 3 billion euros to fund its European AI push",
+    "url": "https://the-decoder.com/mistral-ai-seeks-3-billion-euros-to-fund-its-european-ai-push/",
+    "summary_original": "French AI startup Mistral AI is negotiating a new funding round of around 3 billion euros at a valuation of approximately 20 billion euros.\nThe article Mistral AI seeks 3 billion euros to fund its European AI push appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg",
+    "published": "2026-06-12T13:48:31+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e6b759845198",
+    "title": "Siri is good now??",
+    "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+    "summary_original": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VST_0612_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-12T13:17:04-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c37d1277ffc1",
+    "title": "「今、Codexのレート制限を解除したい」を解決？　“付与したリセット権の貯蓄”可能に　有料ユーザー向け",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/",
+    "summary_original": "米OpenAIは、AIコーディング支援ツール「Codex」で、付与したレート制限のリセット権をユーザーの望むタイミングで使える機能を追加すると発表した。",
+    "thumbnail": "",
+    "published": "2026-06-12T12:42:02+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ae65ff682b91",
+    "title": "Elon Musk is the world&#8217;s first trillionaire",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+    "summary_original": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-12T12:24:39-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2ad84e39a253",
+    "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+    "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/AIGaming_Full_1.jpg?w=2186",
+    "published": "2026-06-12T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cae5931a58ab",
+    "title": "「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略”　日本市場をどう開拓？",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "summary_original": "近年激化する人型ロボットの開発競争の中で、注目を集める中国Unitree Robotics。事業戦略や日本市場での展望を担当者に聞いた。",
+    "thumbnail": "",
+    "published": "2026-06-12T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "065d4c89aa7d",
+    "title": "データセンター建設に足りないのは「発電」ではなく「送電」　AI需要で電力消費26％増、Gartner予想",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
+    "summary_original": "Gartnerは世界のデータセンターの電力消費が2026年に26％増の565TWhに達すると予測。日本では発電能力の不足ではなく、送電設備の整備遅れがデータセンター建設の足かせになっていると指摘した。",
+    "thumbnail": "",
+    "published": "2026-06-12T10:50:17+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "60d55ee8121f",
+    "title": "SpaceX’s massive IPO: all the latest news",
+    "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+    "summary_original": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.  He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268591_SPaceX_IPO_AKrales_0072.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-12T10:35:48-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2e1e6f85787c",
+    "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+    "summary_original": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-12T10:03:39-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "31e268b2c07a",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "summary_original": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "thumbnail": "",
+    "published": "2026-06-12T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "64620bfbdc43",
+    "title": "You do your own time",
+    "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+    "summary_original": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the screwdriver she’d&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-12T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0e0be58dd58c",
+    "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
+    "url": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+    "summary_original": "Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs a 300-sub-agent swarm, drives your logged-in browser via WebBridge, and schedules background jobs.\nThe post Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-12T09:37:30+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3553f6a4a210",
+    "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+    "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+    "summary_original": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But&#8230;",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png",
+    "published": "2026-06-12T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1930a634f4d7",
+    "title": "Inside interoception: The hidden sense of how you feel inside",
+    "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+    "summary_original": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-12T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "edf0f955f95a",
+    "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
+    "url": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+    "summary_original": "Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about an order of magnitude.\nThe post Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-1.05.59-AM-1.png",
+    "published": "2026-06-12T08:06:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7f341e344f76",
+    "title": "A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet on Medical CT Volumes",
+    "url": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-monai-for-end-to-end-3d-spleen-segmentation-using-unet-on-medical-ct-volumes/",
+    "summary_original": "In this tutorial, we build an end-to-end 3D medical image segmentation pipeline using MONAI to segment the spleen on the Medical Segmentation Decathlon Task09 dataset. We work with volumetric CT scans, apply medical imaging transformations such as orientation alignment, voxel-spacing normalization, intensity windowing, foreground cropping, and patch-based sampling, and then train a 3D UNet model [&#8230;]\nThe post A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet ...",
+    "thumbnail": "",
+    "published": "2026-06-12T07:10:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3edb6f540991",
+    "title": "“AIが電力使いすぎ問題”　「電力不足」懸念で、発電能力より深いボトルネックとは",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/12/news029.html",
+    "summary_original": "ガートナージャパンが「電力供給の遅れがデータセンター建設に影響を与えている」と指摘した。しかし、ボトルネックは発電能力ではないという。課題はどこにあるのか。",
+    "thumbnail": "",
+    "published": "2026-06-12T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f1c8e5bce4ab",
+    "title": "Siri won’t be your AI girlfriend",
+    "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "summary_original": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-12T03:00:31-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e5e9bd931104",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "summary_original": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "thumbnail": "",
+    "published": "2026-06-12T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3649d8283d00",
+    "title": "Perplexity Moves Deep Research Into Computer, Routing Research Subtasks Across 20+ Frontier Models For Reports, Decks, And Dashboards",
+    "url": "https://www.marktechpost.com/2026/06/11/perplexity-moves-deep-research-into-computer-routing-research-subtasks-across-20-frontier-models-for-reports-decks-and-dashboards/",
+    "summary_original": "Deep Research now lives inside Perplexity Computer, breaking hard questions into subtasks and routing across 20+ frontier models.\nThe post Perplexity Moves Deep Research Into Computer, Routing Research Subtasks Across 20+ Frontier Models For Reports, Decks, And Dashboards appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-11T22:21:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2e52d71156ea",
+    "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+    "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_SpaceTourism_final.jpg?fit=2128,1196",
+    "published": "2026-06-11T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
