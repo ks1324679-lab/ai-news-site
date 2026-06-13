@@ -1,0 +1,342 @@
+[
+  {
+    "id": "2149290c64f5",
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "summary_original": "Once again, AI proves to be an unreliable source of information about AI.",
+    "thumbnail": "",
+    "published": "2026-06-13T20:42:31+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "32e10b564627",
+    "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
+    "url": "https://gigazine.net/news/20260613-kdp-pre-orders/",
+    "summary_original": "GIGAZINEがマンガや作品集などをリリースするために使用しているAmazonのKindleダイレクト・パブリッシング(KDP)では、本を「予約注文用に設定」という機能を使うことで、「本のストアを開設して予約注文できるが発売日まで本をダウンロードできない」といった設定が可能です。新しい作品をリリースする際に「予約注文用に設定」でトラブルが発生したところ、「1年間予約注文用の設定が不可」という状態になり、Amazonに問い合わせて解除されるまでの経緯をまとめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-13T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0308281aa0fc",
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "summary_original": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "thumbnail": "",
+    "published": "2026-06-13T19:11:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "12d7d5712927",
+    "title": "無料でローカルで動きデバイス間で同期可能な自分だけのObsidianを作ってメモや知識をため込んで整理できる「Files.md」、オープンソースでセルフホストも可能",
+    "url": "https://gigazine.net/news/20260613-files-md/",
+    "summary_original": "Obsidianのようなノートアプリを使い込むほどプラグインや自動化ワークフローの管理が増え、ノート整理自体が目的になってしまうことがあります。機能を意図的に絞り込み、ブラウザだけで動作しPWAとして無料で使えるうえ、クラウドストレージやセルフホストサーバーを通じたデバイス間同期にも対応したオープンソースの「Files.md」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-13T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "258e5ef30730",
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "summary_original": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-13T17:39:26-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a8837daf51a9",
+    "title": "How to Build a QwenPaw Agent Workspace with Custom Skills, Model Providers, Console Access, and Streaming API Testing",
+    "url": "https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/",
+    "summary_original": "In this tutorial, we implement a QwenPaw workflow that provides a practical environment for building and testing an agent-powered assistant. We install and initialize QwenPaw, configure its working directory, set up authentication, connect optional model providers via Colab secrets, and create a structured workspace with custom skills and local knowledge files. We also launch the [&#8230;]\nThe post How to Build a QwenPaw Agent Workspace with Custom Skills, Model Providers, Console Access, and St...",
+    "thumbnail": "",
+    "published": "2026-06-13T17:27:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "748265de56e1",
+    "title": "OpenAI faces investigation from state attorneys general",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "summary_original": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "thumbnail": "",
+    "published": "2026-06-13T16:47:18+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "47e96e7921ce",
+    "title": "Steamの運営元Valveが1日で13トンのVRヘッドセットを輸入、間もなく発売のSteam Frameの初期出荷分か",
+    "url": "https://gigazine.net/news/20260613-valve-imported-13-tons-vr-headsets/",
+    "summary_original": "ゲーム配信プラットフォームのSteamを運営するValveは、スタンドアローン型のVRヘッドセットである「Steam Frame」を2026年夏に発売予定です。このSteam Frameが、アメリカ国内に輸入されているとテクノロジーメディアのThe Vergeが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-13T13:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "19288575b6fd",
+    "title": "インライン3Dグラフィックスを備えたGPUレンダリングのターミナルエミュレータ「Ratty」、回転するネズミのカーソル付き",
+    "url": "https://gigazine.net/news/20260613-ratty/",
+    "summary_original": "Rattyはインライン3DグラフィックスによるGPUレンダリングをサポートするターミナルエミュレータです。フリー・オープンソースソフトウェアを扱うニュースサイトのIt's FOSSが「馬鹿げているけど滅茶苦茶楽しい」と評したアプリと聞いて気になったので調べてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-13T12:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4f7d976e8bb5",
+    "title": "Anthropicがアメリカ政府の指示で「Claude Fable 5」と「Claude Mythos 5」の提供を停止",
+    "url": "https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/",
+    "summary_original": "Anthropicが「Claude Mythos 5」および「Claude Fable 5」の提供を停止しました。Anthropicは「アメリカ政府の国家安全保障当局による指示」が原因であると説明しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-13T11:28:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "afd35541230b",
+    "title": "Anthropic、「Mythos 5」「Fable 5」の提供を一時停止　米政府指示を受け",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/13/2000000087/",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-13T11:10:26+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6d46a1bc01fb",
+    "title": "「Claude Fable 5」「Mythos 5」全面停止　米政府の指令により　Anthropicは早期復旧を宣言",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+    "summary_original": "米Anthropicは6月12日、最上位AIモデル「Claude Fable 5」「Claude Mythos 5」の提供を全ユーザーで停止すると発表した。米政府が安全保障を理由に、外国籍者のアクセス全面停止を命じる輸出規制指令を出したため。同社は指令に従う一方「誤解だ」として早期の復旧を目指すとしている。他のモデルへの影響はない。",
+    "thumbnail": "",
+    "published": "2026-06-13T10:50:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bfce27fa007c",
+    "title": "最新AI「Fable 5」でYouTube動画作ってみた　想像以上の出来に驚愕、ただし大きな弱点も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news113.html",
+    "summary_original": "SNSも“動画隆盛”な昨今。AIを動画制作に活用する例も多いが、最新AI「Fable 5」だとどんなものができるだろうか。早速試してみた。",
+    "thumbnail": "",
+    "published": "2026-06-13T10:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9b106dc66a19",
+    "title": "My yard is dying, so I made an app for that",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+    "summary_original": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-13T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "bc7fc883d0fe",
+    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+    "summary_original": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-13T08:55:49-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f5bc3210f2ea",
+    "title": "Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order",
+    "url": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
+    "summary_original": "shutdown followed a US government export control directive citing national security authorities. All other Anthropic models, including Opus 4.8, remain available.\nThe post Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-13T08:15:18+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d2ba0669e3fe",
+    "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+    "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+    "summary_original": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-13T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "770ccfe0beda",
+    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "summary_original": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-13T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dd24cd605bb3",
+    "title": "トヨタが抜かれる日――キオクシア首位奪取、2005年「時価総額トップ10」を振り返る",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/13/news019.html",
+    "summary_original": "2026年6月8日～12日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+    "thumbnail": "",
+    "published": "2026-06-13T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "33cd71a9c55d",
+    "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
+    "url": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
+    "summary_original": "Moonshot AI has open-sourced Kimi K2.7-Code under a Modified MIT license. It is a coding-focused, agentic model built on Kimi K2.6, with a 256K context window and roughly 30% lower reasoning-token usage. Moonshot reports gains over K2.6 on six benchmarks, including +21.8% on Kimi Code Bench v2. The model is available via the Kimi API and Kimi Code.\nThe post Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6 appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-13T04:57:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "09924b25ccc2",
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "summary_original": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+    "thumbnail": "",
+    "published": "2026-06-13T04:14:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ef7cc33c2e35",
+    "title": "A Coding Implementation on Spatial Graph Neural Networks for Urban Function Inference Using city2graph, OSMnx, and PyTorch Geometric",
+    "url": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/",
+    "summary_original": "We build an end-to-end spatial graph learning pipeline using city2graph. We collect urban POI and street network data from OpenStreetMap, with a synthetic fallback for reliability. We engineer spatial features, construct several proximity graph families, and compare how each represents the same urban environment. We then build heterogeneous and homogeneous graphs, convert them to PyTorch Geometric, and train a GraphSAGE model to predict POI categories from spatial structure.\nThe post A Coding Im...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-06-13T02:47:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "debd8a7ac5d0",
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "summary_original": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+    "thumbnail": "",
+    "published": "2026-06-13T02:26:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2480d6ffc411",
+    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
+    "url": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
+    "summary_original": "We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern.\nThe post Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard appeared first o...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/06/jk1.jpeg",
+    "published": "2026-06-12T21:04:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2220d9e56c4d",
+    "title": "AnthropicとNEC、金融8社とAI活用で連携　三井住友FG、大和証券など",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+    "summary_original": "開示可能な範囲で各社が業務に関する知見を持ち寄り、業界の枠を超えた協働体制を築く。",
+    "thumbnail": "",
+    "published": "2026-06-12T20:20:12+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6e9cc34dd8c5",
+    "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+    "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+    "summary_original": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-1152x648.jpg",
+    "published": "2026-06-12T19:26:47+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "446830a5c044",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-12T15:56:10+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "f6c89e3e9a5c",
+    "title": "Coinbase for Agents: Automating portfolio trading with AI",
+    "url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+    "summary_original": "Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios. Individuals frequently employ these models to evaluate market developments or research investment opportunities. These software tools possess the capacity for complex [&#8230;]\nThe post Coinbase for Agents: Automating portfolio trading with AI appeared fir...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-06-12T15:34:23+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "2ad84e39a253",
+    "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+    "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/AIGaming_Full_1.jpg?w=2186",
+    "published": "2026-06-12T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "31e268b2c07a",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "summary_original": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "thumbnail": "",
+    "published": "2026-06-12T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "64620bfbdc43",
+    "title": "You do your own time",
+    "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+    "summary_original": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the screwdriver she’d&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-12T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3553f6a4a210",
+    "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+    "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+    "summary_original": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But&#8230;",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png",
+    "published": "2026-06-12T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1930a634f4d7",
+    "title": "Inside interoception: The hidden sense of how you feel inside",
+    "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+    "summary_original": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-12T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e5e9bd931104",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "summary_original": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "thumbnail": "",
+    "published": "2026-06-12T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
