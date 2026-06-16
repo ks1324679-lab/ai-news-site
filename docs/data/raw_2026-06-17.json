@@ -1,0 +1,342 @@
+[
+  {
+    "id": "b27854ef0f79",
+    "title": "セルフ給油、実はスタッフが手動で許可していた!?　コスモ石油の「AI監視」は消えゆくガソリンスタンドを救うか",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/17/news012.html",
+    "summary_original": "従来のセルフ式ガソリンスタンドでは、利用者が給油ノズルを手にした後も、スタッフが安全を確認した上で給油を許可している。この監視業務をAIで支援する取り組みが動き出した。コスモ石油マーケティングとELEMENTSは、AIが給油許可を判断する監視システムを共同開発。背景には、人手不足やサービスステーション数の減少といった業界課題がある。AIはガソリンスタンドの現場をどう変えるのか。",
+    "thumbnail": "",
+    "published": "2026-06-17T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "967fb4667eec",
+    "title": "月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ　ただし危うさも",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/17/news020.html",
+    "summary_original": "自分が作ったシチュエーションで“推し”と会話できるAIチャットアプリ「Zeta」（ゼタ）が人気だ。App StoreやGoogle Playのエンターテインメントランキングでも連日上位にランクインしており、各ストアページによればダウンロード数は130万回を突破。1月には月間の売り上げが1億2000万円を超えたという。",
+    "thumbnail": "",
+    "published": "2026-06-17T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e2963f4b5601",
+    "title": "日常的なコーディング作業でClaudeやGPTからローカルAIモデルに置き換えた事例まとめ",
+    "url": "https://gigazine.net/news/20260617-replace-caude-gpt-with-local-model/",
+    "summary_original": "ソーシャルニュースサイトのHacker Newsで、日常的なコーディング作業のメインツールとしてClaudeやGPTなどのクラウドAIからローカルAIモデルに置き換えた人がいるのかを尋ねるAsk HN投稿が注目を集めています。コメント欄を見ると完全な置き換えに成功した例はまだ限定的である一方、プライバシーやコスト、利用制限の回避を理由にローカルAIモデルを実用している事例が複数報告されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-17T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ef6395ebde7c",
+    "title": "東芝の組み込み向け量子インスパイアード技術が進化、高速化と安定性を両立",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/17/news062.html",
+    "summary_original": "東芝は、刻々と状況が変化する現実環境において、組み合わせ最適化問題を高速かつ安定して解くことができる「量子インスパイアード最適化フレームワーク」を開発した。",
+    "thumbnail": "",
+    "published": "2026-06-17T06:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "eef927eaaecf",
+    "title": "ヴァイキング最初期の銀貨はイスラム圏から来た銀を混ぜて作られていた可能性がある",
+    "url": "https://gigazine.net/news/20260617-viking-islamic-silver-coins/",
+    "summary_original": "ヴァイキングは略奪者として語られることが多い一方で、ヨーロッパ各地やその外側まで広がる交易にも深く関わっていました。デンマークで見つかったヴァイキング時代初期の銀貨266枚についてデンマーク・オーフス大学やデンマーク国立博物館などの研究チームが化学組成と鉛同位体を分析したところ、スカンジナビアで作られた最初期の銀貨に、西ヨーロッパ由来の銀だけでなくイスラム圏の「ディルハム銀貨」に由来する銀が使われていた可能性が示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-17T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c05025eb5349",
+    "title": "生成AI×自動運転で注目のTesla・Waymo・NVIDIA　各社が目指す「フィジカルAI」は何が違うのか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news007.html",
+    "summary_original": "日本政府が戦略的強化分野に掲げる「フィジカルAI」――その社会実装の最前線の一つが自動運転システムだ。熾烈な開発競争が繰り広げられている中、生成AIの進化は各社の競争にどのような変化をもたらしているのか。Tesla、Waymo、NVIDIAの最新動向を整理する。",
+    "thumbnail": "",
+    "published": "2026-06-17T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b1749c0c37bc",
+    "title": "【Pythonで学ぶデータ分析】母平均と母標準偏差をベイズ推定する ～ シュークリームの重さは100gと異なるか？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news001.html",
+    "summary_original": "ある喫茶店のシュークリームの重さを例に、ベイズ統計で「平均」や「ばらつき」をどう推定するのか、さらに基準値と違いがあるかどうかをどう確かめるのかを解説します。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編の第3回です。",
+    "thumbnail": "",
+    "published": "2026-06-17T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "764633a79e9e",
+    "title": "力こそパワーな筋肉駆動の手回し式AIマシン「CrankGPT」が登場、負荷の高いAI処理ほど多くの筋力を求められる仕様",
+    "url": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/",
+    "summary_original": "ChatGPTなどの主流のAIサービスは大規模な電力を消費するAIデータセンターで処理が実行されており、ローカルAIも「消費電力の大きなGPUをゴリゴリ回す」というイメージがあります。そんな時流に反して登場したAIデバイスが「CrankGPT」で、手回し式発電によって電力を賄いつつ音声会話AIをローカル実行することができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-16T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e9ed648d3b34",
+    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "summary_original": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+    "thumbnail": "",
+    "published": "2026-06-16T22:34:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f079545d0a19",
+    "title": "HPE tempts VMware users, partners with year of free virtualization software",
+    "url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+    "summary_original": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-1152x648.jpg",
+    "published": "2026-06-16T22:11:15+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "bde08a0c5b29",
+    "title": "EPUBファイルに何も問題がないのにKoboで非対応となるのはAdobeが原因だった",
+    "url": "https://gigazine.net/news/20260616-epub-kobo-adobe/",
+    "summary_original": "新しい本を電子書籍ファイルフォーマットのEPUBで公開したところ、楽天の電子書籍リーダー・Koboでのみ「破損している」と報告があったため調査した結果、KoboではなくAdobeのソフトウェアに問題があったという経緯とトラブルの詳細について、ライターのアンドレ・クライン氏がまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-16T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fe354927e5cc",
+    "title": "テクノロジー業界のリーダーたちが「魅力的なオタク」から「嫌な金持ち」へと変貌を遂げた経緯とは？",
+    "url": "https://gigazine.net/news/20260616-nerds-technology-industry-leader-terrifying-overlord/",
+    "summary_original": "近年は積極的にSNSで発信したり、ポッドキャストに出演したりするテクノロジー企業の創業者や幹部が増えていますが、中には世間一般の感覚とずれた発言をして炎上するケースもあります。テクノロジー系ブロガーのMr. Marketが、テクノロジー業界のリーダーたちが「魅力的なオタク」から「嫌な金持ち」に変貌してしまった理由についてまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-16T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "89266766ba22",
+    "title": "Exclusive eBook: How AI is becoming the next military advisor",
+    "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "summary_original": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O&#8217;Donnell Choose which file format to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/1.png?w=2000",
+    "published": "2026-06-16T20:35:02+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ff6d444e10ee",
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "summary_original": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "thumbnail": "",
+    "published": "2026-06-16T20:11:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "15059a461358",
+    "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
+    "url": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/",
+    "summary_original": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable. The move fits a broader pattern in the industry.\nThe article Microsoft&#039;s Copilot Cowork moves to usage-based billing and may tap DeepSeek appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_plain.png",
+    "published": "2026-06-16T19:32:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "04ab97535b8c",
+    "title": "Berlin court rules Google's AI Overviews are just a new search format, not original content",
+    "url": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/",
+    "summary_original": "A Berlin court has ruled that Google's AI-generated summaries are just a \"new search result format\" and that Google has no \"decisive influence\" over the content. A perfume company had sued because AI search displayed its brand names alongside cheaper knockoffs and linked to their websites. The ruling partly contradicts a recent Munich decision that held Google directly liable for false AI responses, though the two cases are quite different.\nThe article Berlin court rules Google&#039;s AI Overvie...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/03/justitia_legal_law_generated_in_neural_network.png",
+    "published": "2026-06-16T18:19:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4a500f4a83d6",
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "summary_original": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+    "thumbnail": "",
+    "published": "2026-06-16T18:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "78fc4b6ad1a2",
+    "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "summary_original": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+    "thumbnail": "",
+    "published": "2026-06-16T16:49:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d516edde44df",
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "summary_original": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "thumbnail": "",
+    "published": "2026-06-16T15:53:12+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "72b2b4b59adb",
+    "title": "SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic",
+    "url": "https://the-decoder.com/spacex-bets-60-billion-on-cursor-to-catch-openai-and-anthropic/",
+    "summary_original": "Just two trading days after its IPO, Elon Musk's SpaceX is buying AI coding startup Anysphere. The deal is meant to help the struggling xAI division catch up with Anthropic and OpenAI.\nThe article SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/cursors-xai-spacex.png",
+    "published": "2026-06-16T15:16:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f9b0a4b04bbe",
+    "title": "DOJ invokes national security to defend xAI's unpermitted gas turbines in NAACP lawsuit",
+    "url": "https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit/",
+    "summary_original": "US Justice Department calls xAI's chatbot Grok essential to military operations, defending its controversial gas turbines.\nThe article DOJ invokes national security to defend xAI&#039;s unpermitted gas turbines in NAACP lawsuit appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/SpaceX-IPO.png",
+    "published": "2026-06-16T13:23:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "523864fa9812",
+    "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+    "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+    "summary_original": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-16T13:04:05-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7f081a435295",
+    "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+    "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+    "summary_original": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the new chip at [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/snapdragonreality.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-16T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "82251555c7f7",
+    "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+    "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/10/ND22_altruism_ELON_thumb.jpeg?w=1821",
+    "published": "2026-06-16T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "01183e0faf80",
+    "title": "How easily can Russian propaganda fool AI models? A new benchmark finds out",
+    "url": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/",
+    "summary_original": "The Institute of the Estonian Language has released a benchmark measuring how susceptible AI language models are to Russian propaganda.\nThe article How easily can Russian propaganda fool AI models? A new benchmark finds out appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/09/Abstract-Media-Illustration-GPT-4o.jpg",
+    "published": "2026-06-16T11:28:13+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "98586e1b1098",
+    "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+    "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "summary_original": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+    "published": "2026-06-16T11:15:46+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a0c826c444f1",
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "summary_original": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/26-05-27-MIT-TECH-01-Interior-1-FIN-cmyk_1.jpg?w=1425",
+    "published": "2026-06-16T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "07a96b56158c",
+    "title": "SpaceX is officially buying Cursor for $60 billion",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+    "summary_original": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpected: SpaceX announced [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-16T07:41:31-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "031fe56c38cf",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "url": "https://openai.com/index/deployment-simulation",
+    "summary_original": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "thumbnail": "",
+    "published": "2026-06-16T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "1d7ab4db7ef5",
+    "title": "Inside the fight over Claude Mythos 5",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+    "summary_original": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-15T23:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2e6677ef75d7",
+    "title": "Why do South Koreans love AI so much?",
+    "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-15T18:46:08+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "67377d6541c6",
+    "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+    "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+    "summary_original": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg",
+    "published": "2026-06-15T17:55:46+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "6e38437152ee",
+    "title": "Facebook’s new AI Mode search gets its info from public posts",
+    "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+    "summary_original": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-15T17:15:08-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5e6df51377ac",
+    "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+    "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+    "summary_original": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-15T15:12:28+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
