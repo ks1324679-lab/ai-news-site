@@ -1,0 +1,402 @@
+[
+  {
+    "id": "68969e2f7c28",
+    "title": "かんぽ生命、AIで営業支援　“郵便局での一言”拾って保険提案へ　寸劇で分かる活用例",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/18/news019.html",
+    "summary_original": "1700万人の顧客を抱えるかんぽ生命保険が、営業フローにAIエージェントを組み込んだ。商談準備に奔走する現場がどう変わるのか、デモンストレーションの様子を紹介する。",
+    "thumbnail": "",
+    "published": "2026-06-18T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "743d2cd12995",
+    "title": "「歯磨き」で院内感染のリスクを劇的に減らすことができるとの研究結果",
+    "url": "https://gigazine.net/news/20260618-brushing-teeth-hospital-reduce-pneumonia/",
+    "summary_original": "歯磨きによって口腔(こうこう)衛生を保つことは虫歯や歯周病を防ぐだけでなく、糖尿病リスクの減少や健康寿命の増進にも役立つ可能性があります。オーストラリアの病院で行われた実験では、入院患者が歯磨きをすることで「院内感染のリスク」を劇的に減らすことができる可能性が示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-18T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "99fb2b1d8d9f",
+    "title": "Anthropic、デザインツール「Claude Design」を強化　Codeとの双方向連携やCanvaなどへの出力をサポート",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
+    "summary_original": "Anthropicは、デザイン制作ツール「Claude Design」のβ機能を大幅に強化した。複数のデザインシステムを取り込んでプロジェクト横断で維持できるようになったほか、「Claude Code」とのシームレスな双方向連携を実現。AdobeやCanvaをはじめとする外部ツールへの書き出しコネクタも大幅に拡充した。",
+    "thumbnail": "",
+    "published": "2026-06-18T06:25:34+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "27f57b41a987",
+    "title": "「がっかり」した時に増える脳内物質が習慣を断ち切る鍵になるかもしれないとの研究結果",
+    "url": "https://gigazine.net/news/20260618-acetylcholine-break-habit/",
+    "summary_original": "「これまでのやり方ではうまくいかない」と分かっても、なかなかやめられずに同じ行動を繰り返してしまうことがあります。こういった行動について沖縄科学技術大学院大学(OIST)の研究チームがマウスを使った実験を行ったところ、これまでとは別の行動に切り替える能力に神経伝達物質のアセチルコリンが重要な役割を果たしていることが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-18T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7623506e802f",
+    "title": "無料でウェブページの変化を自動検知できる「changedetection.io」をDockerでセットアップして実際に監視してみた",
+    "url": "https://gigazine.net/news/20260617-changedetection-io-setup/",
+    "summary_original": "無料でセルフホストできるウェブページ変更検知ツール「changedetection.io」をDockerで起動し、実際に監視対象を登録して変更前後の差分を表示してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-17T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c966702716ff",
+    "title": "Windows 11の「Microsoftアカウント」を使わせる圧が強くてユーザーから不満の声",
+    "url": "https://gigazine.net/news/20260617-windows-11-microsoft-account/",
+    "summary_original": "Windows 11はセットアップ時にインターネット接続とMicrosoftアカウントへのログインを求められます。Microsoft製アプリケーションやサービスを連携して利用している人にとっては、Microsoftアカウントは便利な存在かもしれませんが、単にWindowsにログインするだけでローカルではないMicrosoftアカウントへのログインを求められるのは心外だと、ユーザーの不満が渦巻いています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-17T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "06de8f4f2f6d",
+    "title": "AIの普及は自己啓発本を駆逐してしまったのか？AI時代に作家はどうすればいいのか？",
+    "url": "https://gigazine.net/news/20260617-ai-killed-self-help-nonfiction-book/",
+    "summary_original": "自己啓発本はビジネスや日常生活に役立つさまざまなアドバイスやヒント、目的に向けた方法論や思考法などを記した書籍であり、世界中の人々に読まれてベストセラーとなったものも多くあります。邦訳もされたベストセラー『「週４時間」だけ働く。』『巨神のツール 俺の生存戦略』シリーズなどの著者であるティモシー・フェリス氏が、「AIの普及は自己啓発本を駆逐してしまったのか？」という問いについて記しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-17T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3daf2dc5e48c",
+    "title": "Roelof Botha joins SpaceX’s board of directors",
+    "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "summary_original": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+    "thumbnail": "",
+    "published": "2026-06-17T20:32:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "358e207ac3c7",
+    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "summary_original": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+    "thumbnail": "",
+    "published": "2026-06-17T20:24:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3d1666c95475",
+    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "summary_original": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-06-17T20:17:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cfd72d92bffb",
+    "title": "Massive breach spills credentials for thousands of sensitive networks",
+    "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+    "summary_original": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-06-17T19:54:31+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c767b5e1d460",
+    "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+    "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+    "summary_original": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg",
+    "published": "2026-06-17T19:43:13+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "9ef08ab1d787",
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "summary_original": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+    "thumbnail": "",
+    "published": "2026-06-17T19:01:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "663ba7d15d15",
+    "title": "Microsoft researcher builds a working neural network out of goats in Age of Empires II to critique AI science",
+    "url": "https://the-decoder.com/microsoft-researcher-builds-a-working-neural-network-out-of-goats-in-age-of-empires-ii-to-critique-ai-science/",
+    "summary_original": "A Microsoft researcher built a working neural network out of goats, bridges, and ice ramps in the Age of Empires II map editor. What looks like a joke is a pointed critique of AI research methods. His analysis of 315 papers found that more than half already assume language models have human-like traits before the experiment even starts. Replace the chat interface with wandering goats, and the math doesn't change, but the feeling that you're talking to someone does.\nThe article Microsoft research...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/age-of-empires-llm-like-attributes-nano-banana-pro.jpg",
+    "published": "2026-06-17T18:43:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1d907aaa2f0e",
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "summary_original": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+    "thumbnail": "",
+    "published": "2026-06-17T18:30:56+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3ad073d8cb02",
+    "title": "Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models",
+    "url": "https://the-decoder.com/amazon-nvidia-and-amd-bet-310-million-on-ai-startup-building-3d-world-models/",
+    "summary_original": "Amazon, Nvidia, and AMD are putting $310 million into world model startup Odyssey ML, now valued at $1.45 billion. CIA-linked fund IQT and Google chief scientist Jeff Dean are also backing the round. World models are shaping up to be the next big AI bet after pure language models.\nThe article Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/09/Binary-World-Globe_simple_compose_GPT-4o.jpg",
+    "published": "2026-06-17T18:21:23+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "31b5e358e3e7",
+    "title": "Cursor、Gitホスティング「Origin」発表　SpaceXによる買収発表直後に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000100/",
+    "summary_original": "「GitHub」に対抗する狙いがありそうだ。",
+    "thumbnail": "",
+    "published": "2026-06-17T17:51:12+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8b2d013a0637",
+    "title": "\"Dangerous\" AI models are coming no matter what",
+    "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "summary_original": "AI models with advanced hacking capabilities will soon be the norm.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg",
+    "published": "2026-06-17T17:50:46+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "837d7f77ef10",
+    "title": "SpaceX、AIコーディング「Cursor」を9.6兆円で買収　「近く大幅な改善」へ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000096/",
+    "summary_original": "Corsorは公式Xで、「近く大幅な改善が行われる予定だ」と述べた。",
+    "thumbnail": "",
+    "published": "2026-06-17T17:44:24+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c290f1e13d7d",
+    "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons",
+    "url": "https://the-decoder.com/zhipu-ais-glm-5-2-closes-in-on-closed-source-leaders-in-coding-marathons/",
+    "summary_original": "Chinese AI lab Zhipu AI releases GLM-5.2 with a stable 1-million-token context under the MIT license. On FrontierSWE, a benchmark for hours-long coding tasks, the open-source model trails Anthropic's Claude Opus 4.8 by just one percentage point. On reasoning, it still falls well behind closed-source rivals.\nThe article Zhipu AI&#039;s GLM-5.2 closes in on closed-source leaders in coding marathons appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
+    "published": "2026-06-17T17:30:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "925367d47be0",
+    "title": "OpenAI創業者、巨大モデルのアップデート作業は「大きな苦痛だった」――月イチ更新を可能にした体制とデータの重要性",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000099/",
+    "summary_original": "Databricksの年次イベントにOpenAI共同創業者のグレッグ・ブロックマン氏が登壇。AIモデル開発の難しさと、その土台となる「データ」の重要性を語った。",
+    "thumbnail": "",
+    "published": "2026-06-17T16:43:26+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4630c466154f",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-17T15:26:44+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "04f0a1e646d7",
+    "title": "Nvidia research shows robots that train themselves through AI coding agents",
+    "url": "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents/",
+    "summary_original": "Researchers from Nvidia, Carnegie Mellon University, and UC Berkeley are using AI coding agents to teach robots dexterous grasping in the real world. A fleet of eight robots hits up to 99 percent success on tricky tasks.\nThe article Nvidia research shows robots that train themselves through AI coding agents appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/Nvidia-ENPIRE-title.png",
+    "published": "2026-06-17T14:55:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b03f8cd58c33",
+    "title": "OpenAI researchers want to predict how often AI models will fail before launch",
+    "url": "https://the-decoder.com/openai-researchers-want-to-predict-how-often-ai-models-will-fail-before-launch/",
+    "summary_original": "OpenAI researchers propose a method for predicting how often a new AI model will make mistakes after release. It could fill gaps left by standard safety testing.\nThe article OpenAI researchers want to predict how often AI models will fail before launch appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+    "published": "2026-06-17T14:30:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "df07fe6f5184",
+    "title": "Anthropic got hit by export rules nobody understands",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+    "summary_original": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. \"To my [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-17T14:28:50-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d57f9d01d74a",
+    "title": "Two-thirds of Americans think AI is advancing too quickly",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+    "summary_original": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-17T13:20:24-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "df5a82361f10",
+    "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+    "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+    "summary_original": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com. Back [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282033342.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-17T12:27:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "19873404397e",
+    "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
+    "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
+    "summary_original": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to help people [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/image-3-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-17T12:13:34-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "049cb7f55b5d",
+    "title": "The Download: a reality check for geoengineering and the science of interoception",
+    "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/02/T1042.png?w=2234",
+    "published": "2026-06-17T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ba1da3c3a07b",
+    "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+    "url": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+    "summary_original": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/computer-power-button-1000x648.jpg",
+    "published": "2026-06-17T11:15:17+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f8bb7a9443cc",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-17T10:18:05+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "80c1a32658b0",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "summary_original": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "thumbnail": "",
+    "published": "2026-06-17T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "23fda529d131",
+    "title": "AI search grounded in Facebook posts? What could go wrong?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+    "summary_original": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03787_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-17T09:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d36e8bce9456",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-17T09:01:25+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "db9922117603",
+    "title": "Entrepreneurs in Nairobi make the case for going solar",
+    "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+    "summary_original": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have helped. A couple of years ago, a panel cost about&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/map-nairobi.jpg?w=2000",
+    "published": "2026-06-17T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8ee7ec35dcf5",
+    "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+    "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+    "summary_original": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you can see the curvature of the Earth.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/David-Keith-1.jpg?w=1494",
+    "published": "2026-06-17T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "916e534ab8d5",
+    "title": "Introducing LifeSciBench",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "summary_original": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "thumbnail": "",
+    "published": "2026-06-17T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "4dd2073282fe",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-17T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "f079545d0a19",
+    "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+    "url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+    "summary_original": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-1152x648.jpg",
+    "published": "2026-06-16T22:11:15+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "89266766ba22",
+    "title": "Exclusive eBook: How AI is becoming the next military advisor",
+    "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "summary_original": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories written by James O&#8217;Donnel by James O&#8217;Donnell&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/1.png?w=2000",
+    "published": "2026-06-16T20:35:02+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
