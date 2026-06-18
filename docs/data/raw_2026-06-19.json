@@ -1,0 +1,402 @@
+[
+  {
+    "id": "7ff5d75da962",
+    "title": "工数「76％」削減　味の素グループが「経理AIエージェント」導入で先陣を切れたワケ",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/19/news033.html",
+    "summary_original": "経理人材の不足が深刻化する一方で、経理パーソンが担う業務の幅は急速に広がっている。その解決策として期待されるのがAI活用だ。しかし、誤りが許されない経理業務では導入への慎重論も根強い。そんな中、味の素グループの財務・経理業務を担う味の素フィナンシャル・ソリューションズは、経費精算の承認業務をAIが自律的に実施する経理AIエージェントの運用を開始した。",
+    "thumbnail": "",
+    "published": "2026-06-19T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b051f3f60abe",
+    "title": "「待ちの営業」はもう限界　ホンダがAIエージェントで挑む、商機を逃さない「濃い商談」の創出",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/19/news064.html",
+    "summary_original": "顧客の購買行動が変化する中、ホンダが新車販売にAIエージェントを導入した。“濃い商談”を支援し、すでに成約も生まれているという。販売現場の変化を追う。",
+    "thumbnail": "",
+    "published": "2026-06-19T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "384d69b8833b",
+    "title": "AIで要らなくなったSaaS、要るSaaSは、どれ？　日本の「SaaS is dead」の実態",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news056.html",
+    "summary_original": "エイトレッドが「AI時代に生き残るSaaSの条件に関する実態調査」の結果を公表。8割がSaaS見直しの必要性を実感する一方、AI代替の困難さや導入失敗の要因などが示された。",
+    "thumbnail": "",
+    "published": "2026-06-19T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bc1235854cec",
+    "title": "高級セレクトショップ「バーニーズ」が新品と中古の二刀流　富裕層の「初めての中古購入」を狙うワケ",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/19/news024.html",
+    "summary_original": "原材料高騰や為替の乱高下に苦しむアパレル業界で、高級セレクトショップの雄「バーニーズ」が下した決断は、高級リユース市場への本格参入だった。「街の中古店には行かない」という富裕層の心理を突き、新品とユーズドを同じフロアで融合させる「二刀流」戦略の全貌とは。既存ビジネスとのカニバリを「皆無」と一蹴し、客単価向上や顧客の若返りを実現するロジカルなポートフォリオ経営の勝算を、ペニー・ルオ社長に聞く。",
+    "thumbnail": "",
+    "published": "2026-06-19T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1e31dba51454",
+    "title": "AI需要の高まりでTSMCの生産能力が限界へ、Google・NVIDIA・AMD・テスラなどはSamsungを代替パートナーとして検討中",
+    "url": "https://gigazine.net/news/20260619-samsung-foundry-booming-tsmc-alternatives/",
+    "summary_original": "AIブームのあおりを受けて半導体需要が世界的に急増する中で、世界最大の半導体ファウンドリであるTSMCの生産能力が限界に達しつつあります。そこでGoogleやNVIDIA、テスラといった大手企業が韓国のSamsungを代替パートナーとして検討していると報じられました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-19T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1c66b7e6b582",
+    "title": "話題の「Claude Mythos」登場で変わるセキュリティ　AIエージェント時代の防衛策",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news009.html",
+    "summary_original": "AIによる攻撃が、月単位から時間単位で現実化する可能性が高まっている。最新AIモデルの登場で脆弱性発見の能力が広がる一方、企業ではAI利用のルールや管理体制が追い付いていない。AIエージェント時代に求められる新たな防衛策とは何か。",
+    "thumbnail": "",
+    "published": "2026-06-19T06:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "29e9674810fb",
+    "title": "宇宙人が地球を訪れない「3つの理由」とは？",
+    "url": "https://gigazine.net/news/20260619-aliens-not-visiting-us/",
+    "summary_original": "広大な宇宙のどこかには地球外生命体が存在していると考える人は多い一方で、「これまで地球に宇宙人が現れていない」ことを高度な知的文明を持つ生命体が地球外に存在していない理由として主張する人もいます。その説に対し、ニューサウスウェールズ大学シドニー校で科学コミュニケーションおよび宇宙生物学を研究するキャロル・オリバー教授は、「宇宙人が存在するとしても、宇宙人が地球を訪れない理由が3つある」と解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-19T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c7f03eb380cc",
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "summary_original": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+    "thumbnail": "",
+    "published": "2026-06-18T21:20:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0a30ed8406a1",
+    "title": "アメリカの科学界はトランプ大統領の政策で大混乱状態に陥っている",
+    "url": "https://gigazine.net/news/20260618-us-science-chaos/",
+    "summary_original": "2025年、ドナルド・トランプ大統領が政府効率化省(DOGE)を通じた大規模な予算削減を実行したことで、NASAといった科学系機関に大混乱が生じました。一体何が起こったのか、科学ジャーナリストのアダム・ロジャース氏が解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-18T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8fd795d8c6da",
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "summary_original": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+    "thumbnail": "",
+    "published": "2026-06-18T20:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "110b556d366f",
+    "title": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+    "url": "https://gigazine.net/news/20260618-ai-brand-visibility-research/",
+    "summary_original": "大手企業やメディア向けに特化したエンタープライズ対応のCMSおよびホスティングプラットフォーム・WordPress VIPがAI時代のブランド可視性とウェブ体験に関する調査レポート「Future of the Web 2026: Chapter 1」を公開しました。このレポートは、AI時代のブランド可視性とウェブ体験をテーマにしたものです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-18T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2446e599d34e",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "summary_original": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "thumbnail": "",
+    "published": "2026-06-18T19:59:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a628c0f8d3b5",
+    "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+    "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+    "summary_original": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-1152x648.jpg",
+    "published": "2026-06-18T19:41:35+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "9a77d061e1f0",
+    "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says",
+    "url": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/",
+    "summary_original": "OpenAI has upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant. In the company's own comparative tests, the model now outscores answers written by doctors in accuracy, clarity, and completeness. The error rate for health-related statements has dropped by 71 percent, according to OpenAI.\nThe article ChatGPT&#039;s new health upgrade beats doctor-written answers, OpenAI says appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+    "published": "2026-06-18T19:17:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "211492e36f97",
+    "title": "Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions",
+    "url": "https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/",
+    "summary_original": "Claude Code can now turn work results into interactive web pages called \"artifacts\" and share them with your team. The pages pull from the full session context, update automatically when something changes, and keep a version history.\nThe article Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/claude_code_artifcats-scaled.png",
+    "published": "2026-06-18T19:02:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1b1c4acac4e9",
+    "title": "Appleは2027年春に第2世代iPhone Airを発売か、超広角カメラを追加した背面デュアルカメラ搭載＆バッテリー駆動時間も向上か",
+    "url": "https://gigazine.net/news/20260618-iphone-air-2/",
+    "summary_original": "2025年9月にAppleが発売した超薄型iPhoneである「iPhone Air」は、巧みな部品配置により薄型設計を実現していますが、需要がほぼゼロであるため生産量を大幅に削減することが報じられました。そんなiPhone Airの第2世代モデルに関する情報を、Bloombergが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-18T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "46de4974e986",
+    "title": "Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis",
+    "url": "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/",
+    "summary_original": "SK Telecom had access to Anthropic's AI model Claude Mythos through the company's partner program Project Glasswing until the White House stepped in. US officials saw ties between the South Korean conglomerate and China.\nThe article Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
+    "published": "2026-06-18T18:54:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0a368702d056",
+    "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "summary_original": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+    "thumbnail": "",
+    "published": "2026-06-18T18:51:46+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5748f9c6e6a8",
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "summary_original": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "thumbnail": "",
+    "published": "2026-06-18T18:22:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "63333d90a8a4",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-18T18:13:13+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "1280df0338d6",
+    "title": "Google Deepmind treats its own AI agents like rogue employees with office keys",
+    "url": "https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/",
+    "summary_original": "Google Deepmind treats its own AI agents as potential insider threats. The company's new \"AI Control Roadmap\" ties security measures to measurable AI capabilities, and an analysis of one million coding tasks shows most problems stem from overzealous agents, not malicious intent. Deepmind warns the window for global security standards is closing fast.\nThe article Google Deepmind treats its own AI agents like rogue employees with office keys appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/deepmind_agent_framework.png",
+    "published": "2026-06-18T18:07:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c2ccfa8440be",
+    "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+    "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+    "summary_original": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg",
+    "published": "2026-06-18T17:42:18+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a55ebd412e31",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "summary_original": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "thumbnail": "",
+    "published": "2026-06-18T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "27a5d8c50a7a",
+    "title": "AI systems rival doctors in new Nature studies, but one result suggests the tech won't age well",
+    "url": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well/",
+    "summary_original": "Two new studies published in Nature show that specialized AI systems diagnose diseases and make treatment decisions as well as physicians in simulated patient cases, sometimes even better. Both systems run on base models that are already outdated.\nThe article AI systems rival doctors in new Nature studies, but one result suggests the tech won&#039;t age well appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/chatgpt_health.png",
+    "published": "2026-06-18T14:37:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3d684ebde5de",
+    "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+    "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/08/SO22_techgender-01SC.jpeg?w=3000",
+    "published": "2026-06-18T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cffdb8f6c88a",
+    "title": "Amazon employees say they’re facing termination for backing data center limits",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+    "summary_original": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-18T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ad2ec02b5ba7",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "summary_original": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "thumbnail": "",
+    "published": "2026-06-18T11:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "cab0921cfdea",
+    "title": "Who decides when AI is too dangerous?",
+    "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+    "summary_original": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.&#160; [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-18T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a828121842cb",
+    "title": "Geoengineering still faces major practical challenges",
+    "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+    "summary_original": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicated, entirely unsolved puzzle. Some&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-18T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c4a5a14ca477",
+    "title": "Photoshop and Premiere now have AI assistants",
+    "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+    "summary_original": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-18T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b7c74be4353f",
+    "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+    "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+    "summary_original": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-18T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "125b40f286ef",
+    "title": "The search for dark matter has been blown wide open",
+    "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+    "summary_original": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought invisible substance whose gravity has sculpted&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GettyImages-184384453_FINAL.png?w=2000",
+    "published": "2026-06-18T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "796b3536965e",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "summary_original": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "thumbnail": "",
+    "published": "2026-06-18T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "a84ffebb319e",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-18T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "91c11face685",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-18T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "6bb412ed386a",
+    "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+    "summary_original": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-17T23:12:31-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "cfd72d92bffb",
+    "title": "Massive breach spills credentials for thousands of sensitive networks",
+    "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+    "summary_original": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-06-17T19:54:31+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c767b5e1d460",
+    "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+    "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+    "summary_original": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg",
+    "published": "2026-06-17T19:43:13+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "8b2d013a0637",
+    "title": "\"Dangerous\" AI models are coming no matter what",
+    "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "summary_original": "AI models with advanced hacking capabilities will soon be the norm.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg",
+    "published": "2026-06-17T17:50:46+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "4630c466154f",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-17T15:26:44+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
