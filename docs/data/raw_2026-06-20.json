@@ -1,0 +1,402 @@
+[
+  {
+    "id": "a79049f42205",
+    "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」2026年モデルに追加された新機能や初のカラーモデルのメモ書きを使ってみた",
+    "url": "https://gigazine.net/news/20260620-kindle-scribe-writing/",
+    "summary_original": "2026年6月10日に発売した手書きメモ可能な電子ペーパー搭載デバイス「Kindle Scribe」の新型モデルは、カラー表示に対応した「Kindle Scribe Colorsoft」がラインナップされて色付きのメモができるようになったほか、書き心地や視差が改善されています。そんなKindle Scribeのメモ書き機能を新機能も合わせて使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-20T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ed03ac010323",
+    "title": "その人の「名前」がAIモデルの中でどれほど強く重み付けされているのかがわかる「IN THE WEIGHTS」",
+    "url": "https://gigazine.net/news/20260619-intheweights-llm-weights-name/",
+    "summary_original": "大規模言語モデルのトレーニングでは、より正確な出力結果を得るために入力データの重要度を調整する「重み付け」が行われます。「IN THE WEIGHTS」は歴史上の偉人や芸能人、スポーツ選手などさまざまな人物の「名前」が、AIモデルの中でどれほど強く重み付けされているのかがわかるサービスです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-19T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "07bbd8a16da0",
+    "title": "FIFAワールドカップ2026の公式ボール「トリオンダ」の空力特性を日本の研究チームが徹底検証した結果は？",
+    "url": "https://gigazine.net/news/20260619-world-cup-ball-trionda/",
+    "summary_original": "4年に1度のサッカーの祭典であるFIFAワールドカップでは、いくつかの厳格なルールが存在します。ピッチサイズは厳格に規定されており、オフサイドは旗で示され、審判は笛を吹いて試合終了を知らせなければいけません。しかし、試合で使用されるボールは大会ごとに変更されており、FIFAワールドカップ2026ではアディダスの「トリオンダ」が採用されています。そんなトリオンダの空力特性を科学的に検証した論文が発表されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-19T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "82b4d6541efd",
+    "title": "アメリカのエネルギー当局がデータセンターへの電力供給を加速するよう電力会社に指示",
+    "url": "https://gigazine.net/news/20260619-us-ferc-energy-order/",
+    "summary_original": "アメリカの連邦エネルギー規制委員会が送電網運営者に対し、データセンターなどの非常に大規模なエネルギー消費施設を迅速に送電網へ接続するための新たなプロトコルを検討するよう命じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-19T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cf053cc48141",
+    "title": "AIに「分からないことを分からないと認める力」は身につくのか？OpenAIが有益な性質を強化学習で定着させる研究結果を公開",
+    "url": "https://gigazine.net/news/20260619-openai-beneficial-rl/",
+    "summary_original": "OpenAIは2026年6月18日、AIに正直さや不確実性を認める謙虚さ、訂正を受け入れる姿勢、公平性などの有益な性質を学習させると訓練に使っていない分野でも望ましい振る舞いが広がり、悪意ある指示にも崩されにくくなるという研究結果を公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-19T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "49850f69397c",
+    "title": "Norway bans generative AI tools in elementary schools to protect kids' basic learning skills",
+    "url": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
+    "summary_original": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary schools will permit it only under supervision. Prime Minister Stoere says children must first \"learn to read, write, and do math.\"\nThe article Norway bans generative AI tools in elementary schools to protect kids&#039; basic learning skills appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/norway_flag.png",
+    "published": "2026-06-19T18:45:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "27cb8b177630",
+    "title": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic",
+    "url": "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/",
+    "summary_original": "Nobel Prize winner John Jumper is leaving Google Deepmind for Anthropic after nearly nine years. Days earlier, Gemini co-lead Noam Shazeer left for OpenAI. Weeks before that, AlphaGo researcher David Silver started his own company. Three of Google's most prominent AI minds, gone within months.\nThe article Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/01/deepmind_logo_wall-2.jpeg",
+    "published": "2026-06-19T17:54:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "25981c9277c6",
+    "title": "Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company",
+    "url": "https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/",
+    "summary_original": "Amazon MGM Studios has dropped \"Artificial,\" the nearly finished OpenAI film directed by Luca Guadagnino with Andrew Garfield as Sam Altman. Amazon struck a $50 billion partnership with OpenAI in February. According to an insider, both Altman and Musk come off poorly in the film. The case raises questions about how business ties in the tech industry can limit creative freedom.\nThe article Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman&#039;s company appeared ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_glitch-2.png",
+    "published": "2026-06-19T17:14:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "10ab3133fb8a",
+    "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
+    "summary_original": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
+    "thumbnail": "",
+    "published": "2026-06-19T17:00:51+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b87b7d4ca50f",
+    "title": "大阪メトロは「月1000件の社内問い合わせを効率化」にAIをどう使った？",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
+    "summary_original": "PKSHA Technologyは、Osaka Metroへの「PKSHA AIヘルプデスク」の導入部署を人事や調達に拡大した。全従業員約5000人の社内問い合わせを一元化し、情報格差の解消や業務効率化、ナレッジの共有資産化を目指す。",
+    "thumbnail": "",
+    "published": "2026-06-19T16:26:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "97b5d5d72872",
+    "title": "GMO傘下、Unitreeの国内正規代理店に　人型ロボの導入から保守まで一気通貫で支援",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/",
+    "summary_original": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
+    "thumbnail": "",
+    "published": "2026-06-19T16:16:24+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d131d924d4b8",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "summary_original": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-06-19T16:08:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "00841429d7c1",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "summary_original": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-06-19T16:01:03+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e35040ffdf08",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "summary_original": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "thumbnail": "",
+    "published": "2026-06-19T15:23:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "925374f4f70a",
+    "title": "More people get news from AI chatbots, but trust remains low",
+    "url": "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/",
+    "summary_original": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click through to the original source.\nThe article More people get news from AI chatbots, but trust remains low appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/ai_news_chatbot.png",
+    "published": "2026-06-19T14:42:25+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7e6d0b47aac2",
+    "title": "画面操作を“録画”→AIが作業代行　Codexに新機能「Record & Replay」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+    "summary_original": "米OpenAIは6月18日、「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。",
+    "thumbnail": "",
+    "published": "2026-06-19T14:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0d45745f806e",
+    "title": "SAP and Google Cloud deploy agentic commerce architecture",
+    "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+    "summary_original": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) [&#8230;]\nThe post SAP and Google Cloud deploy agentic commerce architecture appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-06-19T14:02:20+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c8f6815d37f0",
+    "title": "New benchmark exposes how badly AI struggles with real knowledge work",
+    "url": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
+    "summary_original": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks.\nThe article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/no-persistence-because-of-ai-sidebar-nano-banana-pro-scaled.jpg",
+    "published": "2026-06-19T13:50:55+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1682b57837e4",
+    "title": "Gartnerが警鐘　プライバシー法執行が本格化、CISOは何を見直すべきか？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news077.html",
+    "summary_original": "Gartnerは、2025年に米国の州当局が科したプライバシー法違反の罰金総額が34億2500万ドル（約5380億円）に達したと発表。過去5年間の合計を上回り、執行強化を背景に2028年まで加速する見通しを示した。",
+    "thumbnail": "",
+    "published": "2026-06-19T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "076b29791c7a",
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "summary_original": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+    "thumbnail": "",
+    "published": "2026-06-19T13:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "229a5a6ccdc1",
+    "title": "The Download: AI bottleneck debates, and BCI trials take off",
+    "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2020/12/JF21_intro.jpeg?w=2600",
+    "published": "2026-06-19T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8add01e4aff7",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "summary_original": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-19T10:40:24+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "54704aa7c407",
+    "title": "Liquid AI Introduces LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M: Dense Bi-Encoder and Late-Interaction Models for Fast Multilingual Search Across 11 Languages",
+    "url": "https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/",
+    "summary_original": "Liquid AI's LFM2.5 Retrievers combine a dense bi-encoder and ColBERT late-interaction model for multilingual search on edge devices.\nThe post Liquid AI Introduces LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M: Dense Bi-Encoder and Late-Interaction Models for Fast Multilingual Search Across 11 Languages appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2197.png",
+    "published": "2026-06-19T10:29:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "aca35cefe862",
+    "title": "The film about Sam Altman has been dropped by Amazon MGM",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "summary_original": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-19T10:15:29-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b5ec7ba74474",
+    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+    "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+    "summary_original": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today announced the launch of the updated Cumulo, the U.K.’s only sovereign, AI-first, IT/OT connected SOC platform, designed to help organisations defend [&#8230;]\nThe post e2e-assure introduces Cumulo, the U.K...",
+    "thumbnail": "",
+    "published": "2026-06-19T09:57:55+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "3a1b32087c0f",
+    "title": "The inevitable weakness of metrics",
+    "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+    "summary_original": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/book.nguyen.jpg?w=1316",
+    "published": "2026-06-19T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "183efb0ffed1",
+    "title": "Brain-computer interface trials are taking off",
+    "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+    "summary_original": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-19T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bd33e41be4e5",
+    "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "summary_original": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+    "thumbnail": "",
+    "published": "2026-06-19T07:59:12+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5fbab351a3f1",
+    "title": "Salesforce CodeGen Tutorial: Generate, Validate, and Rerank Python Functions With Unit Tests and Safety Checks",
+    "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/",
+    "summary_original": "We implement an end-to-end workflow for Salesforce CodeGen, loaded from Hugging Face. We move past basic inference by adding function extraction, syntax checking, static safety checks, and unit-test validation. We rerank best-of-N candidates, compose multi-turn program synthesis, and experiment with prompt styles. We finish by visualizing a mini benchmark and exporting the generated artifacts as reusable files.\nThe post Salesforce CodeGen Tutorial: Generate, Validate, and Rerank Python Functions...",
+    "thumbnail": "",
+    "published": "2026-06-19T02:44:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4b49eeba9a48",
+    "title": "Barret Zoph is out at OpenAI again after just five months",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "summary_original": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-19T00:49:33-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "95f3b8c0bab9",
+    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+    "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "summary_original": "Crypto Clipper spreads over USB and communicates over Tor.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
+    "published": "2026-06-18T23:28:52+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "b5c950f5b9df",
+    "title": "Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight",
+    "url": "https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/",
+    "summary_original": "Perplexity has launched Brain, a self-improving memory system for its Computer agent. Instead of remembering the user, Brain remembers the agent's work — what worked, what failed, and what corrections got made. It builds a traceable context graph, reviews it overnight, and reports early gains in correctness, recall, and cost.\nThe post Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent&#8217;s Work and Learns Overnight appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-18T20:26:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a628c0f8d3b5",
+    "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+    "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+    "summary_original": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-1152x648.jpg",
+    "published": "2026-06-18T19:41:35+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "63333d90a8a4",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-18T18:13:13+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c2ccfa8440be",
+    "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+    "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+    "summary_original": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg",
+    "published": "2026-06-18T17:42:18+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a55ebd412e31",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "summary_original": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "thumbnail": "",
+    "published": "2026-06-18T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "32d55aeeaa5f",
+    "title": "Computer vision deployments drive retail productivity gains",
+    "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+    "summary_original": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight Research – in partnership with technology providers Simbe and RELEX Solutions – calculates the exact cost of [&#8230;]\nThe post Computer vision deployments drive retail productivity gains appeared first...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-06-18T15:57:46+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "3d684ebde5de",
+    "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+    "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/08/SO22_techgender-01SC.jpeg?w=3000",
+    "published": "2026-06-18T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cffdb8f6c88a",
+    "title": "Amazon employees say they’re facing termination for backing data center limits",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+    "summary_original": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-18T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ad2ec02b5ba7",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "summary_original": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "thumbnail": "",
+    "published": "2026-06-18T11:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
