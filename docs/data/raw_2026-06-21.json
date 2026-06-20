@@ -1,0 +1,352 @@
+[
+  {
+    "id": "8b665cf1eb9c",
+    "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
+    "url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
+    "summary_original": "Nous Research has added a Blank Slate setup mode to its open-source Hermes Agent. It starts an agent with everything off except provider, model, File Operations, and Terminal. You opt in to the rest.\nThe post Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-20T21:50:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7ddc78b7ede2",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "summary_original": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "thumbnail": "",
+    "published": "2026-06-20T20:32:29+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "094b11455558",
+    "title": "歩きながらブレのない安定した動画を撮影できる小型カメラ「Osmo Pocket 4」でVlogっぽい散歩動画を撮影してみたよレビュー",
+    "url": "https://gigazine.net/news/20260620-osmo-pocket-4-example/",
+    "summary_original": "「Osmo Pocket 4」は2026年4月22日に登場した小型のカメラです。本体をどれだけ動かしてもカメラ部分を水平の安定した状態に保てる「ジンバル」を搭載しているのが大きな特徴で、歩きながらでもブレの少ない動画を撮影することができます。そんなOsmo Pocket 4がGIGAZINE編集部に届いたので実際に外に持ち出してどんな動画を撮影できるのか確かめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-20T20:08:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2a33b18f06cf",
+    "title": "お酒とソフトドリンクを交互に飲むことで二日酔いを回避できるのか？",
+    "url": "https://gigazine.net/news/20260620-zebra-striping-drink-less-hangover/",
+    "summary_original": "飲み会の前には「健康のためにお酒を控えめにしよう」と決心していても、場の雰囲気に流されて2杯、3杯と酒量が増えてしまうのはよくあることです。そんな中、欧米ではアルコール入りのお酒とノンアルコールのソフトドリンクを交互に飲む「zebra striping(ゼブラ飲み)」が、健康志向の人々の間で流行しています。果たしてゼブラ飲みが二日酔いの悪影響を軽減するのかどうかについて、イギリスのリバプール・ジョン・ムーア大学で精神薬理学教授を務めるキャシー・モンゴメリー氏らが解説しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-20T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5cab6cb8b0ba",
+    "title": "In the Weights is your new AI-centric vanity search",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "summary_original": "So ... what's your In the Weights score?",
+    "thumbnail": "",
+    "published": "2026-06-20T19:41:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b82ea5c7cdfc",
+    "title": "カメラが進化しデザインも刷新されたソニー「Xperia 1 VIII」で写真や動画を撮ってきたよ作例まとめ",
+    "url": "https://gigazine.net/news/20260620-sony-xperia-1-viii-camera/",
+    "summary_original": "ソニーが2026年6月11日に発売した「Xperia」シリーズのフラッグシップモデル「Xperia 1 VIII」は「超広角カメラ」「広角カメラ」「望遠カメラ」の3眼構成で、望遠カメラのセンサーサイズが前世代と比較して4倍になっています。そんなXperia 1 VIIIで写真やムービーをいろいろ撮影してきました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-20T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5d3df7635872",
+    "title": "フォルクスワーゲンがGrapheneOSで利用不能に、API変更でサードパーティモジュール全般が機能停止",
+    "url": "https://gigazine.net/news/20260620-volkswagen-grapheneos/",
+    "summary_original": "フォルクスワーゲンは公式アプリと連携することで、走行距離を確認したり乗車前にエアコンをオンにしておいたりと、スマートフォンから便利な操作をすることができるほか、フォルクスワーゲンのAPIを使用することで、充電ソリューションの設定やサードパーティアプリからの車両制御などが可能です。しかし、フォルクスワーゲンがAPIの認証フローを変更したことでサードパーティソフトウェアのほとんどがログイン不可になったほか、セキュリティ特化型OSの「GrapheneOS」でアプリを使用できなくなったとして、ユーザーからの不満が集まっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-20T18:25:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c04d2a1c7a80",
+    "title": "無料でブラウザからSSH・RDP・VNCができる「Pangolin」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260620-pangolin/",
+    "summary_original": "固定IPもポート開放も不要でファイアウォール内のSSH・RDP・VNCをブラウザから直接操作でき、ポートの転送も簡単に設定できるリモートアクセス基盤「Pangolin」が、オープンソースソフトウェアとして公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-20T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b12a0de7e7af",
+    "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
+    "url": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+    "summary_original": "Eurocommerce, the trade association behind Amazon, H&#038;M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake. Zalando alone says 90 percent of the marketing content on its platform is already AI-generated.\nThe article The EU doesn&#039;t really know what a deepfake is, and that&#039;s becoming a problem for retail appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/eu_ai_flag-1.png",
+    "published": "2026-06-20T17:17:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "232b0ce5ea49",
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "summary_original": "Jumper isn't the only big name leaving Google DeepMind.",
+    "thumbnail": "",
+    "published": "2026-06-20T16:39:57+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e4500944fe85",
+    "title": "The Atlantic created a searchable database of the music used to train AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "summary_original": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-20T14:46:48-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "aef6909dccd2",
+    "title": "OpenAI's Codex can now watch you work once and repeat the task forever",
+    "url": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+    "summary_original": "OpenAI has released the \"Record &#038; Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available yet in the EU, the UK, or Switzerland.\nThe article OpenAI&#039;s Codex can now watch you work once and repeat the task forever appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_mouse_cursor.png",
+    "published": "2026-06-20T13:15:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "43a6d0afc41f",
+    "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
+    "url": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+    "summary_original": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure rather than lightweight software. Even if AI succeeds, he sees a problem. The actual business model is to replace entire jobs, with unclear consequences for society.\nThe article NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust appeared fir...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/ai_bear_stock_crash-2.png",
+    "published": "2026-06-20T12:26:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "538ed8b32c4d",
+    "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents",
+    "url": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
+    "summary_original": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 percent of all statements. In a reader study, 74 percent preferred the agent's output over the human original. But against elaborately crafted long-form reports, the agent managed a tie.\nThe article Data2Story turns a CSV file into a verified interactive news article using seven AI ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/data-journalist-agent-nano-banana-pro.jpg",
+    "published": "2026-06-20T09:51:55+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b87b48bd4564",
+    "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
+    "url": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
+    "summary_original": "In this article we look at YaFF, Yandex's open-source zero-copy wire format for the Protobuf ecosystem. We keep the .proto file as the single source of truth, changing only how data sits in memory. We walk through its four layouts — Fixed, Flat, Sparse, and Dynamic — and the benchmark where Flat Layout reads within 1.2× of a raw C++ struct. We also cover where it fits, including the advertising recommendation system reporting 10–20% CPU savings at production scale.\nThe post Yandex Open-Sources Y...",
+    "thumbnail": "",
+    "published": "2026-06-20T09:23:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "aecfe6996e4e",
+    "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+    "url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+    "summary_original": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its predic...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-06-20T09:05:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6df05f2d0592",
+    "title": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
+    "url": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
+    "summary_original": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the web and connected apps, sending alerts only when something actually changes. The previous \"Pulse\" feature is being retired.\nThe article ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+    "published": "2026-06-20T08:44:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5f2ffb504263",
+    "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
+    "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
+    "summary_original": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.49.19-PM-1.png",
+    "published": "2026-06-19T22:51:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d0d9430b3e14",
+    "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "summary_original": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+    "thumbnail": "",
+    "published": "2026-06-19T22:40:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1550cfdd5f92",
+    "title": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
+    "url": "https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/",
+    "summary_original": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.07.21-PM-1.png",
+    "published": "2026-06-19T22:06:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "10ab3133fb8a",
+    "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
+    "summary_original": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
+    "thumbnail": "",
+    "published": "2026-06-19T17:00:51+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b87b7d4ca50f",
+    "title": "大阪メトロは「月1000件の社内問い合わせを効率化」にAIをどう使った？",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
+    "summary_original": "PKSHA Technologyは、Osaka Metroへの「PKSHA AIヘルプデスク」の導入部署を人事や調達に拡大した。全従業員約5000人の社内問い合わせを一元化し、情報格差の解消や業務効率化、ナレッジの共有資産化を目指す。",
+    "thumbnail": "",
+    "published": "2026-06-19T16:26:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "97b5d5d72872",
+    "title": "GMO傘下、Unitreeの国内正規代理店に　人型ロボの導入から保守まで一気通貫で支援",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/",
+    "summary_original": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
+    "thumbnail": "",
+    "published": "2026-06-19T16:16:24+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d131d924d4b8",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "summary_original": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-06-19T16:08:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7e6d0b47aac2",
+    "title": "画面操作を“録画”→AIが作業代行　Codexに新機能「Record & Replay」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+    "summary_original": "米OpenAIは6月18日、「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。",
+    "thumbnail": "",
+    "published": "2026-06-19T14:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0d45745f806e",
+    "title": "SAP and Google Cloud deploy agentic commerce architecture",
+    "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+    "summary_original": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) [&#8230;]\nThe post SAP and Google Cloud deploy agentic commerce architecture appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-06-19T14:02:20+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "1682b57837e4",
+    "title": "Gartnerが警鐘　プライバシー法執行が本格化、CISOは何を見直すべきか？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news077.html",
+    "summary_original": "Gartnerは、2025年に米国の州当局が科したプライバシー法違反の罰金総額が34億2500万ドル（約5380億円）に達したと発表。過去5年間の合計を上回り、執行強化を背景に2028年まで加速する見通しを示した。",
+    "thumbnail": "",
+    "published": "2026-06-19T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "229a5a6ccdc1",
+    "title": "The Download: AI bottleneck debates, and BCI trials take off",
+    "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2020/12/JF21_intro.jpeg?w=2600",
+    "published": "2026-06-19T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8add01e4aff7",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "summary_original": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-19T10:40:24+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "aca35cefe862",
+    "title": "The film about Sam Altman has been dropped by Amazon MGM",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "summary_original": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-19T10:15:29-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b5ec7ba74474",
+    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+    "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+    "summary_original": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today announced the launch of the updated Cumulo, the U.K.’s only sovereign, AI-first, IT/OT connected SOC platform, designed to help organisations defend [&#8230;]\nThe post e2e-assure introduces Cumulo, the U.K...",
+    "thumbnail": "",
+    "published": "2026-06-19T09:57:55+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "3a1b32087c0f",
+    "title": "The inevitable weakness of metrics",
+    "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+    "summary_original": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/book.nguyen.jpg?w=1316",
+    "published": "2026-06-19T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "183efb0ffed1",
+    "title": "Brain-computer interface trials are taking off",
+    "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+    "summary_original": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-19T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4b49eeba9a48",
+    "title": "Barret Zoph is out at OpenAI again after just five months",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "summary_original": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-19T00:49:33-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "95f3b8c0bab9",
+    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+    "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "summary_original": "Crypto Clipper spreads over USB and communicates over Tor.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
+    "published": "2026-06-18T23:28:52+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  }
+]
