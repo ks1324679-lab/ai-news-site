@@ -1,0 +1,242 @@
+[
+  {
+    "id": "779d999aafe1",
+    "title": "チップの動作や脆弱性を研究するためにMITの研究者らが独自OS「Fractal」を開発",
+    "url": "https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/",
+    "summary_original": "セキュリティ研究者がチップの動作原理を調査する場合、多くはWindowsやmacOS、Linuxといった汎用(はんよう)OSを使用しますが、これらは日常的な使用を目的として設計されているため、チップ内部の動作を正確に測定できないことがあります。そこでマサチューセッツ工科大学(MIT)の研究チームが、チップの内部構造を研究するための独自OS「Fractal」を開発しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-22T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2f24cad957c7",
+    "title": "エッジAIと無線リモコンを融合、DMG MORI Digitalが建機操作支援システム",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news021.html",
+    "summary_original": "双葉電子工業とDMG MORI Digitalは、「第8回 国際 建設・測量展（CSPI 2026）」において、エッジAIの画像認識技術と無線リモコンを組み合わせた、建設重機の遠隔操作支援システムを展示した。",
+    "thumbnail": "",
+    "published": "2026-06-22T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0a95579bb7b0",
+    "title": "インテル「シリーズ3」はフィジカルAIでも力を発揮、“ヤマネコ”の実力は？",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news051.html",
+    "summary_original": "インテルがメインストリームPC向け製品「インテル Core シリーズ3 プロセッサー」と、ハンドヘルドゲーミングPC向け製品「インテル Arc G3 プロセッサー」について説明。また、「COMPUTEX TAIPEI 2026」に併せて発表したエッジAI／フィジカルAI向けソリューションも紹介した。",
+    "thumbnail": "",
+    "published": "2026-06-22T06:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7822cb0b90c1",
+    "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか　Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/22/news018.html",
+    "summary_original": "東京都心から北東へおよそ40キロメートルにある千葉県印西市。かつて「千葉ニュータウン」として開発されたこの郊外の街が、いま世界の巨大IT企業にとって“聖地”になっている。",
+    "thumbnail": "",
+    "published": "2026-06-22T06:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "302e54107e58",
+    "title": "カラー電子ペーパーを採用した13.3インチモニター「Modos Flow」、3200×2400の高解像度・60Hzのリフレッシュレートを実現",
+    "url": "https://gigazine.net/news/20260622-modos-flow/",
+    "summary_original": "電子書籍リーダーなどでよく使われている「電子ペーパー」をPC用モニターにも採用し、PC画面を紙のように快適にする「Modos Flow」がクラウドファンディングを実施しており、記事作成時点で目標額の274％となる約48万ドル(約7700万円)を達成するほど注目を集めています。Modos Flowの詳細についてクラウドファンディングサイトのCrowd Supplyで解説されているほか、YouTubeで複数の動画が公開されておりどのような動作をするのか見ることができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-22T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ca113ecb76e2",
+    "title": "ハチミツは運動のパフォーマンス向上に役立つのか？",
+    "url": "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/",
+    "summary_original": "ミツバチが集めた花の蜜であるハチミツは健康食品やエネルギー源として古くから重宝されており、一部のSNSユーザーやインフルエンサーは、ハチミツが運動やスポーツ前のエネルギー源として最適だと主張しています。果たして運動前にハチミツを食べるのがパフォーマンス向上に役立つのかどうかについて、イギリス・エセックス大学の運動科学講師であるヘンリー・チャン氏らが解説しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-21T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a55a5d3b9a93",
+    "title": "無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK",
+    "url": "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
+    "summary_original": "ゲームやAI処理ではGPUのメモリである「VRAM」を酷使します。VRAMに異常が発生しているとGPUの性能を十分に引き出せずにゲームプレイ中にフリーズが発生したりAI処理を正常に実行できなくなったりします。「memtest_vulkan」は自分の使っているGPUのVRAMが故障していないかチェックできる無料ツールで、インストール不要でダブルクリックするだけで使うことが可能。長年使い続けたグラフィックボードの故障チェックや買ったばかりのグラフィックボードの初期不良チェックに便利そうだったので使い方をまとめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-21T22:52:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bfd90ccd1383",
+    "title": "【訃報】Ubisoft共同創業者のクロード・ギユモ氏が飛行機事故のため死去",
+    "url": "https://gigazine.net/news/20260621-claude-guillemot-passed-away/",
+    "summary_original": "『アサシンクリード』シリーズをはじめとしたゲームソフトを開発していることで知られるフランスのゲーム開発会社・Ubisoft(ユービーアイソフト)の共同創業者、クロード・ギユモ氏がフランス西部の飛行場で発生した飛行機の墜落事故のため亡くなりました。69歳でした。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-21T20:52:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a96480a97656",
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "summary_original": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "thumbnail": "",
+    "published": "2026-06-21T15:28:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b893e7b70421",
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "summary_original": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+    "thumbnail": "",
+    "published": "2026-06-21T14:40:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cee6fce3767e",
+    "title": "AI is inflating student grades, and the effect points to outsourced work, not better learning",
+    "url": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
+    "summary_original": "A UC Berkeley study of more than 500,000 grades found that courses heavy on writing and coding saw grades jump after ChatGPT launched. The effect shows up mainly in homework, a sign that AI is replacing student work rather than improving learning.\nThe article AI is inflating student grades, and the effect points to outsourced work, not better learning appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/ai_grades_inflation.png",
+    "published": "2026-06-21T12:01:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dbdc51beea25",
+    "title": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
+    "url": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
+    "summary_original": "At a Stanford talk, Sam Altman defended LLM scaling and hit back at skeptics, saying a whole generation of researchers slowed the field by underestimating what scaling could do. He cited OpenAI's recent disproof of a mathematical conjecture as evidence.\nThe article Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_ceo_sam_altman_at_stanford_talk-1.png",
+    "published": "2026-06-21T09:12:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c21fe39ca8a7",
+    "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
+    "url": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
+    "summary_original": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities. Context builds a knowledge graph from corporate data to give AI agents the business context they need. Both tackle the same problem: agents that write code fast but get things wrong too often.\nThe article AWS says AI agents lack business context and security, launches two services to patch the gaps appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/12/aws_agents_midjourney.png",
+    "published": "2026-06-21T08:25:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0280d2e2eaab",
+    "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
+    "url": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
+    "summary_original": "In this tutorial, we build a complete Crawlee for Python workflow from setup to AI-ready output. We generate a local demo website, then crawl it with BeautifulSoupCrawler, ParselCrawler, and PlaywrightCrawler. We extract titles, metadata, product fields, and JavaScript-rendered cards, and capture full-page screenshots. We then normalize the data, build a link graph, and export JSON, CSV, and RAG-ready JSONL chunks.\nThe post Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, ...",
+    "thumbnail": "",
+    "published": "2026-06-21T06:52:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a7452c7fb41e",
+    "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
+    "url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
+    "summary_original": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step level, proposes variants across prompt, parameter, and chain-structure levels, and validates each through an independent reviewer. In Cisco's evaluation, it beat GEPA on 15 of 18 model-benchmark comparisons. Here's how the optimization loop...",
+    "thumbnail": "",
+    "published": "2026-06-20T23:04:55+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8b665cf1eb9c",
+    "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
+    "url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
+    "summary_original": "Nous Research has added a Blank Slate setup mode to its open-source Hermes Agent. It starts an agent with everything off except provider, model, File Operations, and Terminal. You opt in to the rest.\nThe post Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-20T21:50:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7ddc78b7ede2",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "summary_original": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "thumbnail": "",
+    "published": "2026-06-20T20:32:29+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5cab6cb8b0ba",
+    "title": "In the Weights is your new AI-centric vanity search",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "summary_original": "So ... what's your In the Weights score?",
+    "thumbnail": "",
+    "published": "2026-06-20T19:41:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b12a0de7e7af",
+    "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
+    "url": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+    "summary_original": "Eurocommerce, the trade association behind Amazon, H&#038;M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake. Zalando alone says 90 percent of the marketing content on its platform is already AI-generated.\nThe article The EU doesn&#039;t really know what a deepfake is, and that&#039;s becoming a problem for retail appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/eu_ai_flag-1.png",
+    "published": "2026-06-20T17:17:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "232b0ce5ea49",
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "summary_original": "Jumper isn't the only big name leaving Google DeepMind.",
+    "thumbnail": "",
+    "published": "2026-06-20T16:39:57+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e4500944fe85",
+    "title": "The Atlantic created a searchable database of the music used to train AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "summary_original": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-20T14:46:48-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "aef6909dccd2",
+    "title": "OpenAI's Codex can now watch you work once and repeat the task forever",
+    "url": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+    "summary_original": "OpenAI has released the \"Record &#038; Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available yet in the EU, the UK, or Switzerland.\nThe article OpenAI&#039;s Codex can now watch you work once and repeat the task forever appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_mouse_cursor.png",
+    "published": "2026-06-20T13:15:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b87b48bd4564",
+    "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
+    "url": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
+    "summary_original": "In this article we look at YaFF, Yandex's open-source zero-copy wire format for the Protobuf ecosystem. We keep the .proto file as the single source of truth, changing only how data sits in memory. We walk through its four layouts — Fixed, Flat, Sparse, and Dynamic — and the benchmark where Flat Layout reads within 1.2× of a raw C++ struct. We also cover where it fits, including the advertising recommendation system reporting 10–20% CPU savings at production scale.\nThe post Yandex Open-Sources Y...",
+    "thumbnail": "",
+    "published": "2026-06-20T09:23:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "aecfe6996e4e",
+    "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+    "url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+    "summary_original": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its predic...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-06-20T09:05:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
