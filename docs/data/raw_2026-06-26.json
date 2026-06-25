@@ -1,0 +1,402 @@
+[
+  {
+    "id": "35238a38b94f",
+    "title": "Sakana AIのデイビッド・ハCEOが「日本型AI」について語る",
+    "url": "https://gigazine.net/news/20260626-sakana-ai-david-ha/",
+    "summary_original": "日本発のAIスタートアップSakana AIでCEOを務めるデイビッド・ハ氏がDisrupting Japanのポッドキャストで「日本企業へのAI実装」「巨大モデル競争とは異なる戦略」「日本に合わせたAI開発の考え方」について語りました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-26T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "26cd0e66861a",
+    "title": "リコーが多能工ヒューマノイドを披露、工場ではPoCから導入に向けた実証段階へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/26/news056.html",
+    "summary_original": "リコーは、「AWS Summit Japan 2026」において、フィジカルAI搭載の多能工ヒューマノイドのデモンストレーションを披露した。既に工場内でPoCを始めており、今夏までをめどに多能工ヒューマノイドが一部の工程を担うより実用的な実証を始めたい考えだ。",
+    "thumbnail": "",
+    "published": "2026-06-26T06:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "dd240c991643",
+    "title": "「集中力」を支える脳幹ニューロンが特定される",
+    "url": "https://gigazine.net/news/20260626-brainstem-neurons-focus/",
+    "summary_original": "作業中に周囲の音や動きが気になってしまう時、人間は不要な刺激を無視して重要な情報へ注意を向けようとするものです。ジョンズ・ホプキンス大学のニナド・B・コタリ氏らの研究チームが、こうした「集中力」を支える脳幹のニューロン群をマウス実験で特定したと報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-26T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "61fe0e4252ae",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-26T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "7d96fddd96b0",
+    "title": "カーボンナノチューブ採用サーマルパッド「Carbice Ice Pad」はどれぐらいCPUを冷やす効果があるのか？",
+    "url": "https://gigazine.net/news/20260625-carbice-carbon-nanotube-cpu-cooling/",
+    "summary_original": "カーボンナノチューブ(CNT)を熱伝導材に使うCarbiceの「Ice Pad」はCPUの熱をクーラー側へ移すシート状のサーマルパッドで、一般的なグリスとは異なり、熱や圧力の変化によって接触面になじみ、長期にわたる安定した熱伝達を目指す仕組みを採用しています。高性能グリスや相変化型のサーマルパッドと比べた場合、CPU温度にはどのような差が生じるかについて、ハードウェア系ニュースサイトのLTT LabsがRyzen 9 9950X3Dを用いて検証しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-25T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ddfce773c007",
+    "title": "AI採用ツールは人種差別や組織的な排除につながりやすいことが研究で判明",
+    "url": "https://gigazine.net/news/20260625-ai-hiring-tools-racial-bias/",
+    "summary_original": "実運用環境の採用アルゴリズムに関する初の大規模調査によって、AI採用ツールが候補者を不採用とするときのパターンに懸念すべき傾向があることが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-25T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cdb45673230c",
+    "title": "Nintendo Switch・PS5・Xbox・Steamのコントローラーのボタンを押すのに必要な力にはどれぐらい差があるのか？",
+    "url": "https://gigazine.net/news/20260625-game-controller-force/",
+    "summary_original": "ゲームのコントローラーにはさまざまな種類があり、当然ながらボタンを押すために必要な力も異なります。海外メディアのLTT Labsが実際に計測した結果を共有しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-25T21:50:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b2502c2373e3",
+    "title": "Flashの再来？　Figmaの新機能「Figma Motion」に懐かしいとの声　アニメーション生成するAI機能も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/25/news132.html",
+    "summary_original": "Figmaが発表した新機能「Figma Motion」が、かつてのAdobe Flashを思わせるとSNSで話題だ。タイムラインでキーフレームを打つ操作感が懐かしさを呼んだが、実際に触ると別物との声もみられる。",
+    "thumbnail": "",
+    "published": "2026-06-25T21:05:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7f5ba665e4de",
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "summary_original": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "thumbnail": "",
+    "published": "2026-06-25T20:19:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "47b14e041896",
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "summary_original": "Notion is \"going all in on using agents to run your inbox.\"",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg",
+    "published": "2026-06-25T19:04:57+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "4985c29dd67a",
+    "title": "男性に美人局容疑で3人逮捕　ChatGPTの示談相場示し脅迫か　警視庁",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/25/news129.html",
+    "summary_original": "美人局の手口で、少女とホテルに入った男性から現金を脅し取ったとして、警視庁少年事件課は恐喝の疑いで、東京都練馬区上石神井の職業不詳、斎藤蓮容疑者（22）ら男3人を逮捕、男女2人を書類送検した。斎藤容疑者は黙秘し、4人は容疑を認めている。",
+    "thumbnail": "",
+    "published": "2026-06-25T18:11:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "cfac8b7094d3",
+    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "summary_original": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-25T17:57:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8778afccd777",
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "summary_original": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "thumbnail": "",
+    "published": "2026-06-25T17:38:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0d285534684f",
+    "title": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds",
+    "url": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
+    "summary_original": "DeepReinforce released Ornith-1.0, an open-source coding model family built on Gemma 4 and Qwen 3.5. Instead of a fixed harness, the model learns its own scaffold during reinforcement learning. The 397B flagship reports 82.4 on SWE-Bench Verified, with all weights under the MIT license.\nThe post DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-06-25T17:11:37+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3594ce75e40f",
+    "title": "中国が人型ロボット開発で急成長しているワケ　日本が学ぶべきポイントは？　専門家が解説",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000128/",
+    "summary_original": "なぜ人型ロボットの開発で中国が急成長しているのか。日本が学ぶべきポイントを野村総合研究所の李智慧氏が解説した。",
+    "thumbnail": "",
+    "published": "2026-06-25T17:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "eb1c42e24d9c",
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "summary_original": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "thumbnail": "",
+    "published": "2026-06-25T16:55:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ba304cad7d51",
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "summary_original": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+    "thumbnail": "",
+    "published": "2026-06-25T16:48:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "db313c609ed2",
+    "title": "「教員を生成AIに置き換える考えはない」東京外大が声明　SNSで拡散した懸念にコメント",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/25/news114.html",
+    "summary_original": "東京外大が、「2人体制で運営する小規模語科を1人体制に縮小し、AIに代替させようとしている」との懸念がSNSで広まったことについて、「教員を生成AIに置き換える考えはない」との声明を出した。",
+    "thumbnail": "",
+    "published": "2026-06-25T16:22:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8c2366641dc3",
+    "title": "Which tokens does a hybrid model predict better?",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-25T16:11:42+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "3f71f5a85453",
+    "title": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
+    "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
+    "summary_original": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more often than not. The one outlier: Google's Gemini 3.1 Pro presented both sides 93 percent of the time.\nThe article Most major AI chatbots still lean left on political questions, even &quot;anti-woke&quot; models are no exception appeared first on The...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/political_bias_ai_chatbot.png",
+    "published": "2026-06-25T16:04:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "50960b146d31",
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "summary_original": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+    "thumbnail": "",
+    "published": "2026-06-25T14:55:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "21b4b9b70216",
+    "title": "Repositioning retail for the AI era",
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "summary_original": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-25T14:22:59+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "550b8de21083",
+    "title": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
+    "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
+    "summary_original": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments. Researchers warn about hallucinations.\nThe article Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/AI-natural-disaster-forecast.png",
+    "published": "2026-06-25T14:13:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6dc77e874247",
+    "title": "Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content",
+    "url": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/",
+    "summary_original": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content.\nThe article Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
+    "published": "2026-06-25T13:40:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0b81bf46c6a0",
+    "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+    "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/08/SO21_TR_20210804-personal-0001-thumb.jpg?w=2509",
+    "published": "2026-06-25T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "52aae94f237b",
+    "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
+    "url": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/",
+    "summary_original": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. But the Guild also warns of a paradox: professionally written texts look statistically similar to AI output because language models were trained on exactly that kind of writing.\nThe article Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/ai_text_detection.png",
+    "published": "2026-06-25T11:21:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "baaac91b6082",
+    "title": "Meta employees warn AI moderation rollout is too fast",
+    "url": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/",
+    "summary_original": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year.\nThe article Meta employees warn AI moderation rollout is too fast appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/01/instagram_ai_generated.jpeg",
+    "published": "2026-06-25T10:07:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6367bd9be721",
+    "title": "What Europe’s heat wave means for the power grid",
+    "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+    "summary_original": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.  As the summer ramps up&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-25T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6a7b51bea549",
+    "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+    "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+    "summary_original": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-25T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1d6d9742c4a6",
+    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "summary_original": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-25T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "beb8eaf07e31",
+    "title": "The math behind the OpenAI Jalapeño chip",
+    "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+    "summary_original": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware.&#160; While Nvidia currently commands an estimated 75% profit margin on [&#8230;]\nThe post The math behind the OpenAI Jalapeño chip appeared first on AI...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-06-25T06:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c51a2cdd9a6c",
+    "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
+    "url": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+    "summary_original": "Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.\nThe post Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-10.39.15-PM-1.png",
+    "published": "2026-06-25T05:39:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "101e1ff9a5c2",
+    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+    "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+    "summary_original": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assistant is a central focus of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-25T05:06:19-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "24d4c9543d4c",
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "summary_original": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "thumbnail": "",
+    "published": "2026-06-25T02:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "bc6c0b8b5637",
+    "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+    "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+    "summary_original": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg",
+    "published": "2026-06-24T21:03:34+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "250ed2158682",
+    "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
+    "url": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+    "summary_original": "Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.\nThe post ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-06-24T20:00:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6bcc7cbbb793",
+    "title": "How to Design an OpenHarness Style Agent Runtime with Tools, Memory, Permissions, Skills, and Multi-Agent Coordination",
+    "url": "https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/",
+    "summary_original": "In this tutorial, we build an OpenHarness style agent harness from scratch to see how a practical agent system works. We recreate the core building blocks: tool use, typed tool schemas, permissions, lifecycle hooks, memory, skills, context compaction, retry logic, cost tracking, and multi-agent coordination. We expose the full control flow instead of treating the framework as a black box. We keep everything runnable so we can experiment without API keys or extra infrastructure.\nThe post How to D...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f510.png",
+    "published": "2026-06-24T19:08:36+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8b2159025d9f",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-24T16:00:13+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "618f67acd3fe",
+    "title": "Congresswoman denies staff used AI to write defense funding amendment",
+    "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+    "summary_original": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-24T15:36:46-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4bfd31e826e6",
+    "title": "Europe’s extreme heat is shutting down power plants",
+    "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+    "summary_original": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-24T15:25:28+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
