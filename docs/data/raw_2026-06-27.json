@@ -1,0 +1,352 @@
+[
+  {
+    "id": "2179f7c3559d",
+    "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+    "summary_original": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ、まずは信頼できる少数のパートナー向けの限定プレビューから始める。",
+    "thumbnail": "",
+    "published": "2026-06-27T04:56:10+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "af31a303ae08",
+    "title": "作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！",
+    "url": "https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/",
+    "summary_original": "GIGAZINEの記事を電子化した書籍を対象に「2026年5月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-27T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ecaa2f89e3eb",
+    "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？",
+    "url": "https://gigazine.net/news/20260626-china-anthropic-api/",
+    "summary_original": "Anthropicは中国をClaudeの提供地域から除外していますが、中国では海外のAPIプロキシ「中转站」を介し、ClaudeやClaude Codeを公式価格の約10％で利用できるグレー市場が広がっていると報告されています。利用者は個人開発者や学生、企業、再販業者に及び、この市場は単なるアクセス回避策にとどまらず、データ収集や不正取引とも結び付く供給網を形成しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-26T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d117036b47d3",
+    "title": "無料で「Half-Life 2」をブラウザでプレイできるようにした非公式移植版「web hl2」",
+    "url": "https://gigazine.net/news/20260626-half-life-2-web-h12/",
+    "summary_original": "Valveが開発したシューティングゲーム「Half-Life 2」が非公式にブラウザへ移植されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-26T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "98a4b0814be3",
+    "title": "火山灰に埋もれて炭化した古代ローマの巻物を広げることなく1巻丸ごと解読することに成功",
+    "url": "https://gigazine.net/news/20260626-vesuvius-challenge-carbonised-herculaneum-scroll/",
+    "summary_original": "西暦79年、イタリア・ナポリ近郊にあるヴェスヴィオ火山の噴火により、ポンペイやヘルクラネウムといった古代ローマの都市が壊滅しました。そんなヘルクラネウムの遺跡から発掘された黒焦げになった古代ローマの巻物を、物理的に広げることなく1巻丸ごと解読に成功したと報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-26T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f9c0cbd38e55",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "summary_original": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "thumbnail": "",
+    "published": "2026-06-26T18:32:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7391776c07ec",
+    "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+    "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
+    "summary_original": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it.\nThe article OpenAI&#039;s GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
+    "published": "2026-06-26T18:30:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "aea0b75b5039",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "summary_original": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "thumbnail": "",
+    "published": "2026-06-26T18:19:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6885b3e95fdd",
+    "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？　「プロダクトの差別化」の要点",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
+    "summary_original": "生成AIの普及は製品の没個性化や、個人の生産性向上によるチームの分断という課題を生んでいる。米Figmaはカンファレンスで、AI出力を人間が微調整する「素材」として扱う手法を提示。自社ルールを組織全体で共有する仕組みを実装した。個人の暗黙知を資産化する取り組みは、現場の属人化を防ぐだけでなく、無駄なAIコストを最大30％削減し価値創造を支えるものだ。",
+    "thumbnail": "",
+    "published": "2026-06-26T18:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "30ba8e524968",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "summary_original": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-06-26T17:43:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1f5c34e6562c",
+    "title": "An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run",
+    "url": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
+    "summary_original": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-line toolkit in just 14 hours. But every model tested still fails on the most complex tasks.\nThe article An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/llm_code_generation.png",
+    "published": "2026-06-26T17:24:27+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d295ec6c7f14",
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "summary_original": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "thumbnail": "",
+    "published": "2026-06-26T16:24:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e1caef11903c",
+    "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
+    "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
+    "summary_original": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\"\nThe article AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_head_pattern.png",
+    "published": "2026-06-26T15:09:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b0101abc6db7",
+    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "summary_original": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-06-26T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fb6de91bf1a9",
+    "title": "防衛省は“認知戦”にどう挑む　ウクライナ脅かすAIフェイク、偽アカウントへの対応は　分析資料を公開",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
+    "summary_original": "防衛省は6月26日、「防衛力変革推進本部」での議論に関する資料を公表した。偽情報で相手の判断をゆさぶる「認知戦」への対応方針として、戦略的な情報発信機能やAI活用、情報関連機能の強化を打ち出した。",
+    "thumbnail": "",
+    "published": "2026-06-26T13:35:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "522a607f3975",
+    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "summary_original": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-26T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7bb65fa3725b",
+    "title": "「OpenAIはAzureだけ」の時代が終了　「GPT-5.5」「Codex」をAWSで利用するメリットは何か",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
+    "summary_original": "OpenAIとAmazon Web Services（AWS）が戦略的パートナーシップを拡大した。OpenAIのモデル、コーディングエージェント「Codex」、マネージドエージェントを、企業がAWS環境で利用できるようにする。",
+    "thumbnail": "",
+    "published": "2026-06-26T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3a344cfa1f05",
+    "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
+    "url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/",
+    "summary_original": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO. SoftBank, one of OpenAI's biggest backers, lost 13 percent in a single day.\nThe article Altman won&#039;t go public for less than $1 trillion, so OpenAI&#039;s IPO may slip to 2027 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_altman_2.png",
+    "published": "2026-06-26T12:43:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9ae9fea2130b",
+    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MJ21_Data_archaeology_spreads-Maxomatic-FIN_01.jpg?w=3000",
+    "published": "2026-06-26T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "184affccd6b0",
+    "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
+    "url": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/",
+    "summary_original": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock.\nThe article Anthropic doesn&#039;t need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/Anthropic-Claude-Worker-1.png",
+    "published": "2026-06-26T11:18:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "eb1c6f85a0b1",
+    "title": "Amazon Bedrockのトークン処理量、26年1Qだけで過去累計超え　AWSが目指す、AIのための「信頼できるインフラ」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/26/2000000131/",
+    "summary_original": "Amazon Bedrockのトークン処理量が2026年第1四半期だけで過去の累計を上回ったという。「AWS Summit Japan 2026」の基調講演では、AI推論が最大の負荷となる時代の「信頼できるインフラ」の必要性が訴えられた。",
+    "thumbnail": "",
+    "published": "2026-06-26T11:00:17+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3f864cb93a38",
+    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "summary_original": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-26T10:07:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7843b9ea14bc",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "summary_original": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "thumbnail": "",
+    "published": "2026-06-26T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "fb9c2910d33e",
+    "title": "YouTube・X(旧Twitter)・TikTok・Instagramなど1000超のサービスからオリジナル画質のまま動画をダウンロードできる「VideoProc Converter AI」を使ってみた",
+    "url": "https://gigazine.net/news/20260626-videoproc-converter-ai/",
+    "summary_original": "YouTube・ニコニコ動画・Huluといった動画配信サイトだけでなく、X(旧Twitter)・TikTok・InstagramといったSNSからも動画をダウンロードできるのが「VideoProc Converter AI」です。対応サイトの数は1000超、簡単操作で高品質な動画をダウンロードすることができるということで、実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-26T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e24e3fb017cf",
+    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+    "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+    "summary_original": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-26T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "61fe0e4252ae",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-26T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "47b14e041896",
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "summary_original": "Notion is \"going all in on using agents to run your inbox.\"",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg",
+    "published": "2026-06-25T19:04:57+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "cfac8b7094d3",
+    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "summary_original": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-25T17:57:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8c2366641dc3",
+    "title": "Which tokens does a hybrid model predict better?",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-25T16:11:42+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "21b4b9b70216",
+    "title": "Repositioning retail for the AI era",
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "summary_original": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-25T14:22:59+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0b81bf46c6a0",
+    "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+    "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/08/SO21_TR_20210804-personal-0001-thumb.jpg?w=2509",
+    "published": "2026-06-25T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6367bd9be721",
+    "title": "What Europe’s heat wave means for the power grid",
+    "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+    "summary_original": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.  As the summer ramps up&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-25T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1d6d9742c4a6",
+    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "summary_original": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-25T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "101e1ff9a5c2",
+    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+    "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+    "summary_original": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assistant is a central focus of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-25T05:06:19-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "24d4c9543d4c",
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "summary_original": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "thumbnail": "",
+    "published": "2026-06-25T02:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
