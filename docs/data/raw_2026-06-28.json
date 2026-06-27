@@ -1,0 +1,292 @@
+[
+  {
+    "id": "13ca35b646cb",
+    "title": "無料で創作に生かせる3Dポーズ作成ツール「SetPose」",
+    "url": "https://gigazine.net/news/20260627-setpose-3d/",
+    "summary_original": "無料＆ログイン不要で3Dデッサン人形を動かして自由なポーズを付けることができるサイト「SetPose」では、体のパーツごとにドラッグするだけで簡単にポーズを作って創作に生かすことができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-27T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "81c360008f98",
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "summary_original": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+    "thumbnail": "",
+    "published": "2026-06-27T20:42:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d37f40ba87ba",
+    "title": "合体ロボットアニメ『獣王無神ダンデヴァイン』ティザーPV公開、グッドスマイルカンパニー創業25周年プロジェクト「合体神シリーズ」第1弾作品",
+    "url": "https://gigazine.net/news/20260627-dandivine/",
+    "summary_original": "フィギュアメーカー・グッドスマイルカンパニーの創業25周年プロジェクト「合体神シリーズ」の第1弾作品となるTVアニメ『獣王無神ダンデヴァイン』のティザーPVが公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-27T20:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "42192c6f427e",
+    "title": "無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現",
+    "url": "https://gigazine.net/news/20260627-hister/",
+    "summary_original": "「数カ月前に読んだはずの記事を探そうとしても、キーワードが曖昧で検索エンジンやブラウザ履歴から目的のページを見つけにくい」というケースがあります。メタ検索エンジンsearxの作者が新たに開発した「Hister」は、ChromeやFirefoxで開いたWebページをセルフホスト環境に保存し、自分専用の検索インデックスを作成できる無料のオープンソース検索エンジンです。セマンティック検索やMCP連携にも対応しており、訪問済みページだけでなくローカルファイルもまとめて扱えます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-27T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "91fe288e31c9",
+    "title": "無料でセルフホスト型のChatGPTやClaudeっぽいローカルAIワークスペースが実現できる「Odysseus」、ファイルアップロード・モデルダウンロード・ウェブ検索・メール/カレンダー連携が可能",
+    "url": "https://gigazine.net/news/20260627-odysseus/",
+    "summary_original": "Odysseusはチャット・エージェント・ディープリサーチ・ドキュメント・メール・メモ・カレンダー・ローカルモデルワークフローに対応したセルフホスト型のAIワークスペースです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-27T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "96daab63a2b9",
+    "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
+    "url": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+    "summary_original": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns. The Pentagon and NSA still need to sign off.\nThe article Anthropic&#039;s Fable 5 could return within days as Trump administration prepares to lift restrictions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
+    "published": "2026-06-27T17:03:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1facd80fd98c",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "summary_original": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "thumbnail": "",
+    "published": "2026-06-27T16:45:09+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4d8abeb59375",
+    "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
+    "url": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+    "summary_original": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 to 90 percent of their work. Early-career workers worry the most, while the heaviest users are the most optimistic about their career prospects.\nThe article Half of Claude users say AI can already handle half their work according to Anthropic survey appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
+    "published": "2026-06-27T15:28:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "299a59cd3d90",
+    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "summary_original": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-27T14:39:32-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d032b792729f",
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "summary_original": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "thumbnail": "",
+    "published": "2026-06-27T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1d3eef7b5f4d",
+    "title": "J.P. Morgan sees a pile of red flags in the AI market",
+    "url": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+    "summary_original": "J.P. Morgan warns that there are \"signs of investor exuberance\" in AI markets. Just 42 AI companies in the S&#038;P 500 account for 65 to 80 percent of the index's total profits. The semiconductor rally is flashing technical patterns last seen during the dotcom bubble, and leveraged chip ETFs have quintupled their market influence since early 2024. The bank sees multiple layers of concentration risk across markets, infrastructure, and the economy.\nThe article J.P. Morgan sees a pile of red flags...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
+    "published": "2026-06-27T13:22:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "87572c3a8388",
+    "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
+    "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
+    "summary_original": "Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts. Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative. That the very companies driving the disruption are bankrolling the response will likely raise questions about independence.\nThe article The companies most likely to automate your job are now funding a $1 billion program to retrain you appeared first on The Decode...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/Raise-Us.png",
+    "published": "2026-06-27T12:25:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ff0ab769122f",
+    "title": "超音波を使ってエスプレッソを抽出すると一体どんな効果があるのか？",
+    "url": "https://gigazine.net/news/20260627-ultrasound-espresso-machine/",
+    "summary_original": "高周波の超音波を使ってエスプレッソを抽出する手法を、ニュー・サウス・ウェールズ大学の上級講師であるフランシスコ・トルヒーリョ氏の率いる研究チームが開発しました。従来のエスプレッソマシンと比べ、同じ飲料濃度での消費エネルギーを約75％削減できる可能性が示されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-27T12:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4209c1889e4c",
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "summary_original": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+    "thumbnail": "",
+    "published": "2026-06-27T12:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "eaf3877d5533",
+    "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ　米政府が許可",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+    "summary_original": "米Anthropicは6月26日（現地時間）、12日から提供を一時停止していたAIモデル「Claude Mythos 5」について、米国の一部組織に限定して再提供を始めると発表した。米政府から許可を得たという。",
+    "thumbnail": "",
+    "published": "2026-06-27T11:07:50+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b21c1da764d2",
+    "title": "Anthropic gets US approval to bring back Claude Mythos 5",
+    "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
+    "summary_original": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the return of Fable 5, with no timeline set.\nThe article Anthropic gets US approval to bring back Claude Mythos 5 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png",
+    "published": "2026-06-27T09:43:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d3cecd4bbd6e",
+    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+    "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+    "summary_original": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-27T09:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1c5a72ba21ea",
+    "title": "東電出資に意欲　孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
+    "summary_original": "ソフトバンクグループ株主総会で、会長兼社長の孫正義氏が、将来的な目標として「純資産価値1000兆円」の展望を語った。AIインフラの最大のボトルネックである「電力確保」を巡り、子会社のソフトバンクが東京電力の次期オーナー候補に名乗りを上げている事実にも言及した。最先端データセンターを日本へ呼び戻そうとするインフラ戦略に迫る。",
+    "thumbnail": "",
+    "published": "2026-06-27T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e9031636c346",
+    "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
+    "summary_original": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+    "thumbnail": "",
+    "published": "2026-06-27T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2179f7c3559d",
+    "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+    "summary_original": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ、まずは信頼できる少数のパートナー向けの限定プレビューから始める。",
+    "thumbnail": "",
+    "published": "2026-06-27T04:56:10+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b18057ca1428",
+    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "summary_original": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "thumbnail": "",
+    "published": "2026-06-27T01:01:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "59859df9563e",
+    "title": "Anthropic&#8217;s Mythos 5 is back",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "summary_original": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-26T20:33:44-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6885b3e95fdd",
+    "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？　「プロダクトの差別化」の要点",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
+    "summary_original": "生成AIの普及は製品の没個性化や、個人の生産性向上によるチームの分断という課題を生んでいる。米Figmaはカンファレンスで、AI出力を人間が微調整する「素材」として扱う手法を提示。自社ルールを組織全体で共有する仕組みを実装した。個人の暗黙知を資産化する取り組みは、現場の属人化を防ぐだけでなく、無駄なAIコストを最大30％削減し価値創造を支えるものだ。",
+    "thumbnail": "",
+    "published": "2026-06-26T18:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "522a607f3975",
+    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "summary_original": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-26T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9ae9fea2130b",
+    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MJ21_Data_archaeology_spreads-Maxomatic-FIN_01.jpg?w=3000",
+    "published": "2026-06-26T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3f864cb93a38",
+    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "summary_original": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-26T10:07:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7843b9ea14bc",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "summary_original": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "thumbnail": "",
+    "published": "2026-06-26T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "e24e3fb017cf",
+    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+    "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+    "summary_original": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-26T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "61fe0e4252ae",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-26T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
