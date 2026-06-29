@@ -1,0 +1,312 @@
+[
+  {
+    "id": "f2e1a94911b8",
+    "title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減",
+    "url": "https://gigazine.net/news/20260630-wayfinder/",
+    "summary_original": "短い文章の要約や誤字修正は手元の小さなAIに任せ、複雑な推論や長いコードの解析は高性能なクラウドAIに送るという判断を自動化するオープンソースツール「Wayfinder Router」がGitHubで公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-30T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f2ee735e0fe7",
+    "title": "ルネサスが2035年の売上高3倍増も視野に、AIで3段階の成長を目指す",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news081.html",
+    "summary_original": "ルネサス エレクトロニクスが同社の概況や事業方針などについて説明。足元で半導体市場の拡大をけん引するAIに焦点を当てた事業展開を強化し、AIインフラ、フィジカルAIとSDV、「Intelligence at the Edge」の3段階で優位なポジションを構築し成長を目指す。",
+    "thumbnail": "",
+    "published": "2026-06-30T06:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f49275d4f6c7",
+    "title": "日本の「完璧主義」から脱却し中国ヒューマノイドにどう立ち向かうか",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news059.html",
+    "summary_original": "ハードウェアと市場が先行して急拡大する一方で、自律制御を担う基盤モデルの領域にはいまだ乗り越えるべき壁が多い。後編となる本稿では、オープンソース化で社会実装を急ぐ中国プレイヤーの動向を解説。圧倒的なスピードで独走する中国に対し、日本が目指すべき生存戦略を提示する。",
+    "thumbnail": "",
+    "published": "2026-06-30T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "31ce822c104c",
+    "title": "安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時の注意点とは？",
+    "url": "https://gigazine.net/news/20260630-frozen-canned-fruit-veg-tips/",
+    "summary_original": "果物や野菜が健康に良いことは広く知られていますが、生鮮食品を買い続けるにはコストや保存期間の問題があります。そこで、安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時に何に注意すべきなのかについて、オーストラリアのスウィンバーン工科大学で栄養学の上級講師を務めるマーガレット・マレー氏が解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-30T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f38c89f2d70d",
+    "title": "サッカーの才能の宝庫ブラジルでは動画を分析して選手のスカウトを行うAIスカウトアプリが普及しつつある",
+    "url": "https://gigazine.net/news/20260629-brazil-next-big-soccer-star-scouted-ai/",
+    "summary_original": "他のスポーツと比べてデータ活用やテクノロジーの導入で後れを取ってきたサッカーですが、近年は半自動オフサイドテクノロジーを含むさまざまなテクノロジーがAIで管理されていたり、戦術に関するアドバイスが行えるAIまで登場していたりします。そんなサッカー界において才能の宝庫として知られるブラジルでは、動画などを自動分析して選手を評価するAIスカウトアプリが普及しつつあるとThe New York Timesが報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-29T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3edba4543c68",
+    "title": "ストレスを感じると血液にどのような科学的変化が生じるのか？",
+    "url": "https://gigazine.net/news/20260629-what-happens-blood-stressed/",
+    "summary_original": "ストレスや不安はあくまで精神的なものと捉えられがちですが、近年の研究では心と体が密接に結びついており、精神状態の変化が身体機能や健康にさまざまな科学的影響を及ぼしていることがわかっています。イギリスのサウスウェールズ大学で人間生理学上級講師を務めるルイス・フォール氏らの研究チームは、ストレスを感じると血液に生じる生化学的な変化を、実験を通じて明らかにしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-29T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2d492b855b15",
+    "title": "自作の量子乱数生成器を使った占いアプリ「A Quantum Magic 8-Ball」",
+    "url": "https://gigazine.net/news/20260629-a-quantum-magic-8-ball/",
+    "summary_original": "研究者でエンジニアのデビッド・ノエル・ン氏が「光子がどちらの検出器に届くか」という量子測定の結果を利用して乱数を生成する装置を自作し、その乱数で占いの回答を選ぶウェブアプリ「A Quantum Magic 8-Ball」を作成しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-29T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6e26addce97b",
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "summary_original": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+    "thumbnail": "",
+    "published": "2026-06-29T20:12:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a4fc79ea8f5a",
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "summary_original": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+    "thumbnail": "",
+    "published": "2026-06-29T18:10:26+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cb6836702442",
+    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "summary_original": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+    "thumbnail": "",
+    "published": "2026-06-29T18:07:48+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "796ca81ddedd",
+    "title": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in",
+    "url": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/",
+    "summary_original": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use. Starting next year, Amazon will pay by tokens processed rather than compute hours, which could push costs up sharply. The company is also exploring alternatives like OpenAI.\nThe article Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/09/amazon_anthropic-e1695638185191.png",
+    "published": "2026-06-29T18:05:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7eccecbfa902",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-29T18:02:48+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "70b9fae892c6",
+    "title": "AI agents are not your “coworkers”",
+    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-29T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0ec42dfd8ccf",
+    "title": "EU seeks AI independence as Austria proposes luring Anthropic to Europe",
+    "url": "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/",
+    "summary_original": "Austria's State Secretary for Digitalization, Alexander Pröll, is calling on the European Commission to explore bringing Anthropic to Europe. He's responding to the U.S. ban on advanced AI models from OpenAI and Anthropic for foreign users. The initiative is likely unrealistic, though. And the alternative floating in the background, Chinese AI models, would just trade one dependency for another.\nThe article EU seeks AI independence as Austria proposes luring Anthropic to Europe appeared first on...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/usa_china_eu.png",
+    "published": "2026-06-29T17:58:42+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "917b29e0a7c1",
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "summary_original": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+    "thumbnail": "",
+    "published": "2026-06-29T17:39:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f954e68bcb48",
+    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "summary_original": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+    "thumbnail": "",
+    "published": "2026-06-29T17:03:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "abfa1535dd98",
+    "title": "「ヤフコメまとめ」開始　ヤフコメの論点、AIがグラフで可視化",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/29/news114.html",
+    "summary_original": "OpenAIのAPIを活用し、ユーザーが投稿したコメントの論点を生成AIが分類し、グラフ化する。",
+    "thumbnail": "",
+    "published": "2026-06-29T16:32:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7b80e13e6704",
+    "title": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
+    "url": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/",
+    "summary_original": "Meta is restricting its engineers' use of Anthropic's Claude and OpenAI's Codex to prevent output from these AI tools from being incorporated into its own training data.\nThe article Meta restricts use of Claude Code and Codex to keep rival AI out of its training data appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Code-Agent-Harness-Nano-Banana-Pro.jpg",
+    "published": "2026-06-29T15:47:43+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6e0dbec31b28",
+    "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+    "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+    "summary_original": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-29T15:47:35-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b92a3012902c",
+    "title": "Deloitte tells its own consultants: AI is coming for the billable hour",
+    "url": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/",
+    "summary_original": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is toast,\" one consultant summed up the message. McKinsey and BCG are already searching for alternative revenue models.\nThe article Deloitte tells its own consultants: AI is coming for the billable hour appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/07/office_building_gptfied.png",
+    "published": "2026-06-29T15:14:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d4377941c232",
+    "title": "OpenAI is teasing new hardware… for Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "summary_original": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-29T14:52:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "90763c99a9ca",
+    "title": "Agent confidence on the technical frontier",
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "summary_original": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Report-2026-cover.png",
+    "published": "2026-06-29T14:44:01+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3b6b6819140c",
+    "title": "AIエージェントの投資優先順位、どう決める？　Gartnerが「投資スコア」の作り方を公開",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news068.html",
+    "summary_original": "業務におけるAIエージェントの投資優先順位をどう決めればよいか。業務・業種別のAIエージェントはどう進化していくか。ガートナージャパンの著名アナリストである亦賀忠明氏のWebセミナーから探る。",
+    "thumbnail": "",
+    "published": "2026-06-29T13:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f35e578ab2dc",
+    "title": "「AI活用が単発質問の企業は大敗」　楽天にコストと遅延の30％低下も達成させた、AIエージェント運用の勝ち筋",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news061.html",
+    "summary_original": "Anthropicは、先進的な企業がどのようにAIエージェントを活用して業務を変革しているかを紹介するガイド「Building AI agents for the enterprise」を公開した。",
+    "thumbnail": "",
+    "published": "2026-06-29T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "37b02d42428b",
+    "title": "The US military used AI to pick thousands of targets but missed a note saying one was a school",
+    "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/",
+    "summary_original": "The probe into a missile strike on an Iranian school exposes serious gaps in the US military's targeting infrastructure. AI is supposed to close them.\nThe article The US military used AI to pick thousands of targets but missed a note saying one was a school appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy.png",
+    "published": "2026-06-29T12:30:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "664c8715096e",
+    "title": "The Download: metric weaknesses and AI elephant warnings",
+    "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1159500434.jpg?w=3000",
+    "published": "2026-06-29T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bc0bf62a89e2",
+    "title": "Lawmakers want to ban AI companies from selling your health data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+    "summary_original": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-29T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "df49518d3b94",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "summary_original": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "thumbnail": "",
+    "published": "2026-06-29T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "4cd6d8f79d5e",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "summary_original": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-28T17:42:51-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "178c1d5ae377",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "summary_original": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "thumbnail": "",
+    "published": "2026-06-28T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "863beb6b5eb1",
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "summary_original": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-28T16:27:36-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
