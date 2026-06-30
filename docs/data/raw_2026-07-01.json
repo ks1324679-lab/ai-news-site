@@ -1,0 +1,402 @@
+[
+  {
+    "id": "2a5807fba228",
+    "title": "お金を扱うソフトウェアで「1円のズレ」も起こさないための設計原則をまとめた「Fintech Engineering Handbook」とは？",
+    "url": "https://gigazine.net/news/20260701-fintech-engineering-handbook/",
+    "summary_original": "お金に関する処理においては、お金を二重に動かさず、端数を勝手に消さず、後から説明できる形で記録する必要があります。お金を扱うソフトウェアの設計原則をまとめた「Fintech Engineering Handbook」は、フィンテック分野で使われる重要な考え方を整理したハンドブックです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-01T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "acf34b743fd4",
+    "title": "【Pythonで学ぶデータ分析】母平均のベイズ推定と予測サンプルの作成 ～ 規格外製品の廃棄コストを見積もる",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/01/news008.html",
+    "summary_original": "「不良品で幾ら損する？」をベイズ統計で見積もってみましょう。製品のサイズを測ったデータから、平均やばらつきを推定し、さらに「これから作る製品が規格外になる確率」までをPythonを使って予測します。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編の第4回です。",
+    "thumbnail": "",
+    "published": "2026-07-01T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4d4b9b2a7bb4",
+    "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る",
+    "url": "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
+    "summary_original": "中国のAI企業であるZ.aiが2026年6月に発表したオープンウェイトのAIモデル「GLM-5.2」が、脆弱(ぜいじゃく)性の検出精度を測定するベンチマークにおいて、AnthropicのClaude Codeを上回ったと報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-30T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cc3389286e70",
+    "title": "人口ゼロの孤島から送られたDMCA申請により記事がGoogleのインデックスから削除される",
+    "url": "https://gigazine.net/news/20260630-pollen-google-dmca/",
+    "summary_original": "Googleは著作権侵害の可能性のあるコンテンツを検索結果に表示しないように取り組んでおり、デジタルミレニアム著作権法(DMCA)にもとづく削除申請を受け付けています。イベント企業・Pollenの経営破綻を調査した記事が、虚偽とみられる著作権侵害の申し立てによってGoogle検索から削除される事態が発生し、著者は「GoogleのDMCA申請システムは簡単に悪用できる」と批判しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-30T22:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "be61e7a52c81",
+    "title": "OpenClaw is finally available on Android and iOS",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "summary_original": "The free open source agentic program is finally invading your phone.",
+    "thumbnail": "",
+    "published": "2026-06-30T21:53:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "78c501247f18",
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "summary_original": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-30T21:50:04+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cbf9b0b569fb",
+    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
+    "url": "https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
+    "summary_original": "Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.\nThe post Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-2.15.57-PM-1.png",
+    "published": "2026-06-30T21:37:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d9d8a529eca7",
+    "title": "VPNサービス・Mullvadの共同創業者がスウェーデンの極右政党「オレブロ党」に資金提供、運営資金の70％以上を寄付で支えている実態が明らかに",
+    "url": "https://gigazine.net/news/20260630-mullvad-orebropartiet/",
+    "summary_original": "VPNサービス企業・Mullvadの共同創業者Daniel Berntsson氏が、スウェーデンで厳格な移民制限と移民の本国送還を掲げるオレブロ党へ2025年に500万スウェーデンクローナ(約8300万円)を寄付していたことが分かりました。寄付額は同党の年間収入の72％に当たり、同党の国政進出を支える資金の大半を1人の支援者が担ったことになります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-30T21:34:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "db04ba7c54af",
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "summary_original": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+    "thumbnail": "",
+    "published": "2026-06-30T20:33:48+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fdfe27002820",
+    "title": "New attack provides one more reason why AI browsers are a bad idea",
+    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "summary_original": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg",
+    "published": "2026-06-30T20:03:14+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "d1f09dafc27a",
+    "title": "日本のIPO件数はわずか18件で15年ぶりの低水準を記録、日本にAI・データセンター・半導体関連のスタートアップが不足していることが一因",
+    "url": "https://gigazine.net/news/20260630-japan-ipo-fall-15-year-low/",
+    "summary_original": "日本の新規公開株(IPO)の件数が15年ぶりの低水準を記録したと、経済メディアのFinancial Timesが報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-06-30T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2df2bbb449dc",
+    "title": "農水省の“クソダサ”ポスター話題　「AIよりよっぽど良い」の声も　担当者に狙いを聞いた",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/30/news158.html",
+    "summary_original": "農林水産省の公式Xアカウントが6月29日に投稿した「佃煮の日」のポスターが、良い意味で「ダサい」と話題だ。農水省広報室の担当者はITmedia NEWSの取材に応じ、デザインの狙いやSNSの投稿体制について語った。",
+    "thumbnail": "",
+    "published": "2026-06-30T19:55:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9e47277c200d",
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "summary_original": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+    "thumbnail": "",
+    "published": "2026-06-30T19:02:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "36c0617affbd",
+    "title": "AIロボット1000万台導入へ、2040年までに　赤澤経産相が語る「勝ち筋」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000144/",
+    "summary_original": "赤澤亮正経済産業大臣は6月30日の記者会見で、2040年までにAIを活用したロボットを国内に約1000万台導入する目標を掲げた。18分野での社会実装を進める。",
+    "thumbnail": "",
+    "published": "2026-06-30T18:49:15+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "623e337cec36",
+    "title": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
+    "url": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/",
+    "summary_original": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618. Anthropic is also quick to point out that the model scores far below the models the US government currently has blocked when it comes to cybersecurity tasks, a likely deliberate signal given the ongoing debate.\nThe article Anthropic&#039;s new Claude Sonnet 5 closes the gap to the pricier Opus model...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/sonnet_5-2880x1620-1-scaled.webp",
+    "published": "2026-06-30T18:46:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9d697f00fb6c",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-30T18:32:50+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "ffde7cf4c112",
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "summary_original": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+    "thumbnail": "",
+    "published": "2026-06-30T18:13:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0b321e9fdc03",
+    "title": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
+    "url": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/",
+    "summary_original": "Anthropic released Claude Science, an AI workbench for researchers. More than 60 preconfigured skills cover fields like genomics and computational chemistry, and a verification agent automatically checks citations and calculations. The app runs locally or on HPC clusters, so sensitive data never has to leave a lab's own infrastructure.\nThe article Anthropic launches Claude Science, an AI workspace built specifically for researchers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/claude_science_logo.png",
+    "published": "2026-06-30T18:03:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "302f40558b94",
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "summary_original": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+    "thumbnail": "",
+    "published": "2026-06-30T18:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bf18f2de5f26",
+    "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half",
+    "url": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/",
+    "summary_original": "According to a report by The Information, OpenAI has cut inference costs for its AI models by more than half. The company applied the optimizations to ChatGPT, where the number of Nvidia GPUs needed dropped to just a few hundred at times.\nThe article OpenAI reportedly cut response costs for guest ChatGPT users by more than half appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+    "published": "2026-06-30T17:43:27+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "790e38572d63",
+    "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+    "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+    "summary_original": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Speakers: Mary Beth Griggs, science editor and Jessica&#8230;",
+    "thumbnail": "",
+    "published": "2026-06-30T17:36:48+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d3a6caf97324",
+    "title": "国産LLM「Sarashina3」登場　高品質データ、独自検証で日本語能力を強化　ソフトバンク傘下",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000143/",
+    "summary_original": "ソフトバンク傘下のSB Intuitionsは、国産LLM「Sarashina」の最新版「Sarashina3シリーズ」の提供を開始。高品質なデータセットや独自の出力結果検証などで日本語能力を強化した。",
+    "thumbnail": "",
+    "published": "2026-06-30T17:33:29+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1efe0e0ee708",
+    "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
+    "url": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/",
+    "summary_original": "Google adds two new generative AI models. Nano Banana 2 Lite generates images in four seconds at $0.034 a pop. Gemini Omni Flash brings video generation and editing via text prompts to the API for the first time. Google recommends chaining both models to go from a quick image to an animated video.\nThe article Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png",
+    "published": "2026-06-30T17:17:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b3e961df619d",
+    "title": "スクエニ「AI駆動型品質チェックプラットフォーム」開発へ、国が補助金　バンナムやnoteも採択",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000142/",
+    "summary_original": "スクウェア・エニックスの他、バンダイナムコエンターテインメント、NTT西日本、noteなどが採択された。",
+    "thumbnail": "",
+    "published": "2026-06-30T16:43:55+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ee6c50661691",
+    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "summary_original": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-30T15:24:51-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "19614fd54245",
+    "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia",
+    "url": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/",
+    "summary_original": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required.\nThe article Meituan&#039;s LongCat-2.0 shows China can train massive AI models without Nvidia appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/09/midjourney_china_ai_chi_illustration.png",
+    "published": "2026-06-30T15:23:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4a099067bc26",
+    "title": "Why Specialization Is Inevitable",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-30T14:39:11+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "cda80fe152fa",
+    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+    "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "summary_original": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. Deadline [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-30T13:19:15-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ecf57bff995b",
+    "title": "The Download: AI “coworkers” and stratospheric internet",
+    "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/02/GettyImages-183068979.jpeg?w=3000",
+    "published": "2026-06-30T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "76712e6d8486",
+    "title": "Agriculture is ready for AI, but its data isn’t",
+    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "summary_original": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?w=2309",
+    "published": "2026-06-30T12:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0460f8f816b6",
+    "title": "Libby will filter out AI content, kind of",
+    "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+    "summary_original": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-30T11:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "cdfa1091f4b0",
+    "title": "Building tech in the world’s secret R&D hub",
+    "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+    "summary_original": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GZA-Big-Tech-Map-MIIT-Review_with-Focus-Lense.png",
+    "published": "2026-06-30T10:23:30+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a0bd493debdd",
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "summary_original": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "thumbnail": "",
+    "published": "2026-06-30T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7195551038fb",
+    "title": "Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy",
+    "url": "https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/",
+    "summary_original": "Meta AI releases Brain2Qwerty v2, a non-invasive MEG brain-to-text pipeline reaching 61% word accuracy with open training code.\nThe post Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-06-30T08:13:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c6680161de80",
+    "title": "Meet the lawyer who beat Elon Musk — twice",
+    "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+    "summary_original": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-30T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "fce36a9d8e02",
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "summary_original": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "thumbnail": "",
+    "published": "2026-06-30T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3abd2cd235af",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "summary_original": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "thumbnail": "",
+    "published": "2026-06-30T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "e25563234204",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-30T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0f13ff903f58",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-06-30T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "57061f8dd55c",
+    "title": "OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway",
+    "url": "https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/",
+    "summary_original": "OpenClaw's iOS and Android apps are companion nodes, not standalone chatbots. Each phone pairs to a self-hosted Gateway over WebSocket. This adds device hardware — camera, location, voice, and Canvas — to a local-first AI agent. Here is the architecture, the capabilities, and the trade-offs for builders.\nThe post OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-06-29T23:41:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
