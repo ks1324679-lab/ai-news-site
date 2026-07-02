@@ -1,0 +1,312 @@
+[
+  {
+    "id": "fb6df052c99a",
+    "title": "国際宇宙ステーションの空気漏れで宇宙飛行士5人が一時退避、老朽化が進む中でいつまで使い続けられるのか？",
+    "url": "https://gigazine.net/news/20260703-iss-air-leak-habitable/",
+    "summary_original": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-03T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e2740ee5f2fb",
+    "title": "ソフトウェアエンジニアの仕事は「ループを書くこと」になる　内側ループと外側ループ（ハーネス）入門",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html",
+    "summary_original": "AIコーディングにおける「ループ」には、エージェントが回す内側ループと、ハーネスが回す外側ループの2種類がある。両者の違いと外側ループがもたらす課題を、アルミン・ロナッハー氏の記事に沿って初心者向けに解説し、その「記憶」の扱いについての筆者の考えも添える。",
+    "thumbnail": "",
+    "published": "2026-07-03T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "996299f8acf7",
+    "title": "GLM-5.2の開発元による中国製AIエージェントアプリ「ZCode」、AnthropicやOpenAIのAIモデルも活用可能",
+    "url": "https://gigazine.net/news/20260702-zcode-ai-agent/",
+    "summary_original": "中国企業のZ.aiはClaude Opus 4.8などの高性能クローズドモデルに匹敵する性能のAIモデルをオープンモデルとして公開しており、API経由でのAIサービスも展開しています。そんなZ.aiはClaude CodeやCodexに似たAIエージェントアプリ「ZCode」もリリースしています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-02T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "420a1c6e66d8",
+    "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
+    "url": "https://gigazine.net/news/20260702-godot-ban-ai/",
+    "summary_original": "「Slay the Spire 2」や「Brotato」などのゲームを支えるオープンソースのゲームエンジン「Godot」が、AIで生成した大量のプルリクエストに悩まされていることを理由に、今後は自律型AIエージェントやバイブコーディングによるプルリクエストを受け付けないという判断を下しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-02T20:40:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f4b450829600",
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "summary_original": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+    "thumbnail": "",
+    "published": "2026-07-02T20:11:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7ebbab2284b9",
+    "title": "Belkinの「Nintendo Switch 2用USB-C to USB-Cケーブル60W」は本当にNintendo Switch 2をより速く充電できるのか？",
+    "url": "https://gigazine.net/news/20260702-belkin-cable-charge-nintendo-switch-2-faster/",
+    "summary_original": "チャンネル登録者数1690万人超の人気ガジェットレビューチャンネルであるLinus Tech Tipsが立ち上げた研究開発ラボ・LTT Labsが、スマートフォン向けの充電機器などで知られるBelkinが販売している「Nintendo Switch 2用USB-C to USB-Cケーブル60W」は、本当にNintendo Switch 2を急速充電できるのか調査しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-02T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cd32aa676afe",
+    "title": "Newly discovered PamStealer isn't your typical macOS malware",
+    "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+    "summary_original": "The discovery underscores the increased effort being poured into Mac infostealers.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg",
+    "published": "2026-07-02T19:38:57+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "3536d43b2c70",
+    "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
+    "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
+    "summary_original": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positioning itself as a platform-neutral alternative to OpenAI and Anthropic, which push their own models through their own deployment companies.\nThe article Microsoft launches $2.5 billion &quot;Frontier Company&quot; to embed 6,000 AI engineers inside en...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/microsoft_logo.png",
+    "published": "2026-07-02T19:18:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6ffa8d405c66",
+    "title": "2026年7月2日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260702-headline/",
+    "summary_original": "ケンタッキーフライドチキンで、2026年7月8日(水)から「レッドホットチキン」と「グリーンホットウィング」が発売されます。「レッドホットチキン」は夏定番の辛口チキン。ハラペーニョの爽やかな香りと辛さがクセになる「グリーンホットチキン」は、手羽元を使用した「グリーンホットウィング」として復活します。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-02T19:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a37f0922b867",
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "summary_original": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "thumbnail": "",
+    "published": "2026-07-02T18:44:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bb53a1477cfb",
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "summary_original": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+    "thumbnail": "",
+    "published": "2026-07-02T18:31:09+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8738b211efe6",
+    "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters",
+    "url": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/",
+    "summary_original": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers. After OpenAI's \"Jalapeño,\" yet another major AI company is pushing into chip development to cut infrastructure costs.\nThe article Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_ai_chip.png",
+    "published": "2026-07-02T17:30:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "eaaff97213a4",
+    "title": "人型ロボットが工場で稼働する様子を6日間生配信、作業成功率99.99％をうたう　中国メーカー",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/02/2000000153/",
+    "summary_original": "中国の人型ロボット開発企業AGIBOTは、実際のタブレット量産ラインで複数の人型ロボットを6日間連続で動かす様子をライブ配信した。延べ64時間で1万7625個のタブレット生産に貢献し、作業成功率は99.99％だったという。",
+    "thumbnail": "",
+    "published": "2026-07-02T16:56:29+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "00b195c4e8c4",
+    "title": "復活した「Fable 5」　米政府からのオーダーに対して、Anthropicはどう対策したのか",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+    "summary_original": "米AnthropicのAIモデル「Claude Fable 5」が世界的にサービスを再開した。Anthropicは復活に向けてどういった経緯と対策を行ったのか、モデル再開にあわせて詳細を公開した。",
+    "thumbnail": "",
+    "published": "2026-07-02T16:40:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8a7173ff9126",
+    "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
+    "url": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
+    "summary_original": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples. Guidelines can even hold the models back because they're \"more imaginative\" than what they're given. Instead of strict rules, Anthropic now steers through context.\nThe article Anthropic says it cut 80 percent of Claude Code&#039;s system prompt because Fable 5 models &quot;want a smaller system prompt&quot; appeared first on The Deco...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_ai_conference_talk_shihipar.png",
+    "published": "2026-07-02T16:20:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "47a875ddb175",
+    "title": "Achieving operational excellence with AI",
+    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "summary_original": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MIT_TP2_2026_V9_Cover.png?w=1555",
+    "published": "2026-07-02T15:37:08+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "638b856bf5e4",
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "summary_original": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+    "thumbnail": "",
+    "published": "2026-07-02T15:20:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "24ea91717028",
+    "title": "国内大手ロボットメーカー3社が協力、「フィジカルAI」向けデータセット構築へ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/02/2000000152/",
+    "summary_original": "川崎重工業は、ロボットメーカー大手のファナックや安川電機などと協力し、「フィジカルAI」向けのデータセットを構築すると発表した。「GENIAC」の公募に採択された。",
+    "thumbnail": "",
+    "published": "2026-07-02T14:15:42+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "86d262543960",
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "summary_original": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+    "thumbnail": "",
+    "published": "2026-07-02T13:53:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "38b3ec999c43",
+    "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business",
+    "url": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/",
+    "summary_original": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market.\nThe article Nvidia is bankrolling AI startups to loosen Big Tech&#039;s grip on its chip business appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+    "published": "2026-07-02T13:00:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5b73ee02854d",
+    "title": "「賢さよりツール連携力が重要」　Microsoftが実験的な小型AIエージェント基盤を公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
+    "summary_original": "MicrosoftのAI研究チームであるMicrosoft Research AI Frontiersは、小型モデル向けに最適化したエージェント基盤「MagenticLite」を公開した。「エージェント能力は知識量ではなくツール統合と実行ハーネスで決まる」という仮説に基づき構成されており、小型モデルでも実用的なエージェント性能を引き出すという。",
+    "thumbnail": "",
+    "published": "2026-07-02T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "76da70e4f32f",
+    "title": "Teaching AI to run with the turbines",
+    "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "summary_original": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-02T12:51:44+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f627697009d7",
+    "title": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+    "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+    "summary_original": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more than quadrupled.\nThe article AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/Remote-labor-index-bench-title.png",
+    "published": "2026-07-02T12:37:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0c578b2b9174",
+    "title": "The Download: a startup has a solution for AI’s groupthink problem",
+    "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?fit=2128,1196",
+    "published": "2026-07-02T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bc90409800c8",
+    "title": "Why California’s carbon manure math doesn’t add up",
+    "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+    "summary_original": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-02T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3afaca491ac0",
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "summary_original": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-02T06:23:27-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e441f4af03c8",
+    "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+    "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+    "summary_original": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg",
+    "published": "2026-07-01T21:21:21+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "b7a1a19f77c0",
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "summary_original": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-01T14:35:16+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "474d4e312b75",
+    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "summary_original": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-01T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "11d5ccf1d825",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-01T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "b13e4677f113",
+    "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+    "summary_original": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-06-30T20:03:55-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
