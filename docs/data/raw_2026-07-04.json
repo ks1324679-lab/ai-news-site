@@ -1,0 +1,362 @@
+[
+  {
+    "id": "7dafc188b3d4",
+    "title": "エベレストの有名遺体「グリーンブーツ」の身元がDNA鑑定により判明、回収ミッションも実施へ",
+    "url": "https://gigazine.net/news/20260703-everest-green-boots/",
+    "summary_original": "エベレスト北側から山頂を目指すと必ず通過する目印になっている、標高8500mの洞窟にある遺体「グリーンブーツ」の身元が、DNA鑑定によってインドチベット国境警察(ITBP)の登山隊員だったドルジェ・モルップ氏だったことが確認されました。インド当局は、モルップ氏の遺体を回収するミッションを検討しているとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-03T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0bbce791d0a9",
+    "title": "「国家安全保障にまつわる機密情報が悪用される懸念」からスペイン政府がデータ分析大手のPalantir Technologiesをブラックリストに登録",
+    "url": "https://gigazine.net/news/20260703-spain-orders-blacklist-us-tech-giant-palantir/",
+    "summary_original": "機密扱いの国家安全保障情報が悪用される懸念が高まっているとして、スペイン政府はアメリカのデータ分析大手であるPalantir Technologiesと公的機関・国営企業・民間企業が取引することを止めるよう指示を出したことが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-03T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "373ef5d7cc70",
+    "title": "Designing a Schema-Guided Invoice Intelligence Pipeline with lift-pdf for Accounts-Payable Extraction, Validation, and Ledger Generation",
+    "url": "https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/",
+    "summary_original": "In this tutorial, we build an end-to-end accounts-payable extraction pipeline with lift-pdf, using synthetic invoice PDFs as controlled test documents and a structured JSON schema as the target output format. Instead of treating invoice parsing as a simple OCR task, we frame it as schema-guided document understanding: we generate realistic invoices, define fields such as [&#8230;]\nThe post Designing a Schema-Guided Invoice Intelligence Pipeline with lift-pdf for Accounts-Payable Extraction, Vali...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f389.png",
+    "published": "2026-07-03T21:25:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "eeb0f69b3cf9",
+    "title": "The only AI glossary you’ll need this year",
+    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary_original": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "thumbnail": "",
+    "published": "2026-07-03T21:20:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a59fe9f2b414",
+    "title": "独立した複数のサーバーで動画を管理する分散型動画配信プラットフォーム「PeerTube」、ActivityPub対応＆サーバーを介さずP2Pで動画配信も可能",
+    "url": "https://gigazine.net/news/20260703-peertube/",
+    "summary_original": "AGPL-3.0ライセンスのオープンソースソフトウェアとして開発されている「PeerTube」はYouTubeやニコニコ動画のように特定の企業が動画と利用者を一元管理するのではなく、独立した複数のサーバーがつながって動画を配信する分散型の動画プラットフォームです。利用者が動画の公開先となるインスタンスを選べるほか、サーバー間で投稿やアカウント情報を連携できるフェデレーション型の仕組みがPeerTubeの大きな特徴です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-03T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2160c0dec7e5",
+    "title": "Android開発者認証は「保護を装った脅威」だとF-Droidが主張",
+    "url": "https://gigazine.net/news/20260703-android-developer-verification-malware-f-droid/",
+    "summary_original": "Androidのアプリ開発者にGoogleへの個人情報登録を求め、登録しない開発者のアプリをこれまで以上にインストールしにくくするセキュリティ対策「開発者認証」が間もなく始まります。この対策で大打撃を受けるアプリ配布サイト「F-Droid」が、「保護を装った脅威」だとこの制度を批判しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-03T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "825a4ee162a3",
+    "title": "Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー",
+    "url": "https://gigazine.net/news/20260703-steam-machine-appearance/",
+    "summary_original": "「Steam Machine」はSteam OSを搭載したSteam公式ゲーミングPCです。PlayStationやXBOXと違ってLinuxベースのOSを搭載しており、Steamライブラリ上のゲームをプレイできるだけでなくLinuxマシンとして使うことも可能です。かなり面白そうなデバイスだったので発売と同時に購入。2026年7月1日にGIGAZINE編集部に届いたので開封して外観を詳しくチェックしてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-03T19:37:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5c9fd2f1577c",
+    "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
+    "url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+    "summary_original": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extra fee.\nThe article Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_copilot_logo-2.png",
+    "published": "2026-07-03T19:24:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f5e18ba468be",
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "summary_original": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "thumbnail": "",
+    "published": "2026-07-03T18:43:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3869c17fc3af",
+    "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+    "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+    "summary_original": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-03T17:34:37+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d75f6aa9d416",
+    "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific",
+    "url": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+    "summary_original": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through VPNs and overseas subsidiaries. Alibaba, meanwhile, has banned its own employees from using the tool after hidden code was found that could identify Chinese users.\nThe article Claude Code&#039;s complicated China problem involves bans on both sides of the Pacific appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+    "published": "2026-07-03T17:11:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "87b744546d20",
+    "title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
+    "url": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+    "summary_original": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record. The surge lines up with the launch of AI-powered bug-hunting programs.\nThe article Security vulnerability reports have exploded since AI models started hunting for bugs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity-kraken-1.png",
+    "published": "2026-07-03T16:49:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ee01338cd8d0",
+    "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
+    "url": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+    "summary_original": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engineering tasks, success rates jumped about 25 percent when the token budget was increased tenfold. Newer models benefit the most. Depending on the token budget, actual progress at the frontier is about 60 percent steeper than previous measurements suggested, according to AISI.\nThe article UK&#039;s AI...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/test_time_compute_illustration-2.png",
+    "published": "2026-07-03T16:14:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0d507592feb6",
+    "title": "3万円で「Yahoo!ニュース」にPR掲載　プレスリリースをAIで「ニュース風記事」に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
+    "summary_original": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
+    "thumbnail": "",
+    "published": "2026-07-03T15:44:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a2714d932a2a",
+    "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿　7月8日以降の「早期復活目指す」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+    "summary_original": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
+    "thumbnail": "",
+    "published": "2026-07-03T15:34:43+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0fdf3e1a98a5",
+    "title": "「Claude Fable 5」の性能が落ちた？　提供停止前後で比べた結果　米AI企業2社がそれぞれ報告",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
+    "summary_original": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
+    "thumbnail": "",
+    "published": "2026-07-03T12:59:30+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b09116812b25",
+    "title": "ゲームエンジン「Godot」AI生成コードを原則禁止へ　レビュアー疲弊「機械と話したくない」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000156/",
+    "summary_original": "新規コントリビューターからAI生成のプルリクが急増する一方、審査するレビュアーの数は変わらず、負担が限界に達したという。人間同士のやりとりで、AI生成の文章を使うことも禁止する。",
+    "thumbnail": "",
+    "published": "2026-07-03T12:22:21+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e9cb2d76faa3",
+    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+    "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/20250621_MTTR_UAP_SH01_FS_395.jpg?w=3000",
+    "published": "2026-07-03T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e0c46c2ab574",
+    "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
+    "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
+    "summary_original": "Bridgewater and Thinking Machines Lab—the startup from former OpenAI CTO Mira Murati—have fine-tuned a Qwen3-235B model for financial tasks. According to their own testing, the model hits 84.7 percent accuracy, beating Gemini, Claude, and GPT at roughly one-fourteenth of the cost. The numbers haven't been verified by anyone outside the two companies, though.\nThe article GPT and Claude failed Bridgewater&#039;s finance tests because the right answers were never public appeared first on The Decode...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/Hesitant_AI_Robot_Arm_Before_Money_and_Servers.png",
+    "published": "2026-07-03T11:16:42+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "089b44489a78",
+    "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」　ザッカーバーグ氏、社内集会で発言",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
+    "summary_original": "MetaはAI向けの巨額投資や組織改編でAIエージェント開発の加速を図ったが、ザッカーバーグCEOによれば、それらの取り組みはまだ実を結んでいないようだ。",
+    "thumbnail": "",
+    "published": "2026-07-03T11:01:17+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "edad82dcc6d1",
+    "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
+    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+    "summary_original": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collaboration. The agreement gives Takeda access to Insilico’s Pharma.AI platform, which supports biological target [&#8230;]\nThe post Takeda signs US$600M AI drug discovery deal with Insilico appeared first on A...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-07-03T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "a77a7282a377",
+    "title": "Anthropic wants to develop its own drugs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "summary_original": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-03T09:56:52-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "21fa08f8f90b",
+    "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+    "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+    "summary_original": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-03T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f3bac651121f",
+    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+    "summary_original": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-03T07:49:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "aa4dcc71f6e6",
+    "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
+    "url": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
+    "summary_original": "WebBrain is a free, MIT-licensed AI browser agent for Chrome and Firefox. It reads pages, extracts data, and automates multi-step tasks through Ask and Act modes. Run it on local models like llama.cpp or Ollama for privacy, or connect any cloud API.\nThe post Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+    "published": "2026-07-03T05:55:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "415e3aa90a64",
+    "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder",
+    "url": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
+    "summary_original": "Interfaze open-sourced diffusion-gemma-asr-small, a multilingual ASR model that transcribes via diffusion, not autoregression. It adds audio to Google's frozen DiffusionGemma using a ~42M-parameter adapter. One adapter covers six languages, with transcription cost set by denoising steps, not transcript length.\nThe post Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma&#8217;s Parallel Denoising Decoder appeared first on Ma...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-07-03T03:24:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bbb33a2166fa",
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "summary_original": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+    "thumbnail": "",
+    "published": "2026-07-02T23:38:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "68b00be0c7f4",
+    "title": "RAG-Anything Tutorial: Build a Multimodal Retrieval Pipeline for Text, Tables, Equations, and Images in Colab",
+    "url": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/",
+    "summary_original": "In this tutorial, we build a RAG-Anything workflow to explore how multimodal retrieval works across text, tables, equations, and images. We prepare a Colab environment, enter our OpenAI API key at runtime, and generate a synthetic report with a chart and PDF. We convert that content into RAG-Anything's direct content_list format and insert it into the retrieval system. We then configure OpenAI chat, vision, and embedding functions and test naive, local, global, and hybrid modes.\nThe post RAG-Any...",
+    "thumbnail": "",
+    "published": "2026-07-02T21:38:34+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f05fefd861da",
+    "title": "Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+    "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/",
+    "summary_original": "Alibaba's Page Agent runs as client-side JavaScript inside the webpage. It reads the live DOM as text, then clicks and types from natural-language commands. No screenshots, no multimodal model, and no backend rewrite are required.\nThe post Meet Alibaba&#8217;s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-02T20:51:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f4b450829600",
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "summary_original": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+    "thumbnail": "",
+    "published": "2026-07-02T20:11:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cd32aa676afe",
+    "title": "Newly discovered PamStealer isn't your typical macOS malware",
+    "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+    "summary_original": "The discovery underscores the increased effort being poured into Mac infostealers.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg",
+    "published": "2026-07-02T19:38:57+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a37f0922b867",
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "summary_original": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "thumbnail": "",
+    "published": "2026-07-02T18:44:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "47a875ddb175",
+    "title": "Achieving operational excellence with AI",
+    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "summary_original": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MIT_TP2_2026_V9_Cover.png?w=1555",
+    "published": "2026-07-02T15:37:08+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0e087038166e",
+    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+    "summary_original": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital agents using natural language to execute end-to-end research workflows. This system connects natively to [&#8230;]\nThe post NVIDIA BioNeMo accelerates Anthropic Claude Science appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-07-02T14:38:01+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "76da70e4f32f",
+    "title": "Teaching AI to run with the turbines",
+    "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "summary_original": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-02T12:51:44+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3afaca491ac0",
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "summary_original": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-02T06:23:27-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
