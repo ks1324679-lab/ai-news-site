@@ -1,0 +1,252 @@
+[
+  {
+    "id": "c02343afa777",
+    "title": "銀行の窓口係を減らしたのはATMではなくiPhoneだったという指摘",
+    "url": "https://gigazine.net/news/20260705-atm-iphone-bank-tellers/",
+    "summary_original": "AIが人間の仕事を奪うのかどうかを考える際、「ATMは銀行の窓口係の仕事を奪うと思われたが、実際には窓口係の雇用は減らなかった」という例が挙げられることがあります。しかしライターのデイヴィッド・オクス氏は、銀行の窓口係の雇用を大きく減らしたのはATMではなく、iPhoneとそれによって広がったモバイルバンキングだったと指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-05T22:45:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "816491491b4c",
+    "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
+    "url": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
+    "summary_original": "Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token. It pairs a native 1-million-token context, built on LongCat Sparse Attention, with training and serving run end-to-end on domestic AI ASIC superpods. Here is the architecture, the vendor-reported benchmarks, the API access path, and what remains unverified.\nThe post Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCa...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-05-at-2.23.44-PM-1.png",
+    "published": "2026-07-05T21:25:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2525874d7947",
+    "title": "FIFAワールドカップ2026の開催で予測市場・KalshiやPolymarketの取引額が急増し過去最高を記録",
+    "url": "https://gigazine.net/news/20260705-fifa-world-cup-2026-boosts-prediction-market-volumes/",
+    "summary_original": "2026年6月12日から7月20日までの期間、アメリカ・カナダ・メキシコの3カ国でFIFAワールドカップ2026が開催されています。4年に1度のサッカーの祭典により、2026年6月の予測市場の取引量は過去最高を記録したと、CNBCが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-05T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1b903b85a460",
+    "title": "カシオ計算機のヒアリングアシストイヤホン「earU ER-100」は周囲の音とデジタル補正音声が違和感なく融合して相手の声や音楽が自然に聞こえる",
+    "url": "https://gigazine.net/news/20260705-casio-earu-er-100-usage/",
+    "summary_original": "時計や電子楽器のメーカーで知られるカシオ計算機から、ヒアリングアシストイヤホン「earU ER-100」が2026年5月28日に登場しました。earU ER-100は電子楽器などで培ったデジタル音声制御技術「カフステクノロジー」を活用し、自然な形で人の声を聞き取りやすくする耳穴開放(オープンイヤー)型のワイヤレスイヤホンで、専用アプリを使うことで細かく調整することも可能とのこと。カシオ計算機から借りた実機を使って確かめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-05T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "59a4cb290e50",
+    "title": "無料でスマホ・デスクトップPC・ターミナルからありとあらゆるコーディングAIエージェントを一気にまとめて管理しコントロールする「Paseo」、セルフホスト可能でオープンソース",
+    "url": "https://gigazine.net/news/20260705-paseo/",
+    "summary_original": "開発ツールとしてコーディング用AIエージェントを利用し外部からも作業を続けたい場合、外部から自PCへの接続設定が面倒であったり、リモート接続の画面共有だと動作が遅かったりと、簡単にリモート操作ができる環境は用意するのが難しいものです。簡単に外部接続の設定ができ、スマホ・デスクトップPC・ターミナルなどからClaude Code・Codex・OpenCodeなどCLI型のコーディングAIエージェントをまとめて管理しコントロールする「Paseo」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-05T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0600934a9010",
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "summary_original": "These may be the last days of Amazon’s Mechanical Turk.",
+    "thumbnail": "",
+    "published": "2026-07-05T17:43:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e5175223c528",
+    "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
+    "url": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
+    "summary_original": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command &#038; Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes. The full source code is on GitHub.\nThe article Claude Code and Fable 5 ported the 2003 PC game Command &#038; Conquer to native iOS in &quot;a few hours&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/cc5_fable_5_ios_port.png",
+    "published": "2026-07-05T15:58:56+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f442e7b1c000",
+    "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
+    "url": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
+    "summary_original": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes. It currently holds the top spot on the most important OCR benchmark.\nThe article Baidu&#039;s &quot;Unlimited OCR&quot; processes dozens of document pages in one pass by treating memory like human forgetting appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/baidu-ocr-machine-nano-banana-pro.jpg",
+    "published": "2026-07-05T15:25:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "fd180c503cca",
+    "title": "2050年の渋谷を舞台にした近未来SFアニメ『レベルロボチカ』ティザーPV公開、総監督：大沼心＆シリーズ構成：吉上亮＆テーマ・挿入歌：梶浦由記らメインスタッフ情報も解禁",
+    "url": "https://gigazine.net/news/20260705-rebel-robotica/",
+    "summary_original": "あらゆる人間に快適で幸福な人生が約束されて“幸福度”世界一となった2050年の渋谷を舞台に描かれる近未来SFアニメ『レベルロボチカ』のティザーPVとティザービジュアルが公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-05T14:40:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "aa96382d15f0",
+    "title": "マイクロン、AI需要で広島工場増強へ起工式　1.5兆円投資",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
+    "summary_original": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
+    "thumbnail": "",
+    "published": "2026-07-05T11:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2554dfac2ab7",
+    "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
+    "url": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/",
+    "summary_original": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition. The trend highlights a growing education gap in the AI era, where traditional schools are struggling to adopt the technology, which may do more harm than good if used without the right skills.\nThe article AI private schools sell wealthy US families on personalized learning over traditional education appe...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/alpha_school.png",
+    "published": "2026-07-05T10:45:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c597736af88d",
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "summary_original": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-05T10:23:11-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8440a78562b0",
+    "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
+    "url": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
+    "summary_original": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors. The concern is valid, but Mistral can't really compete with frontier models from OpenAI or Anthropic on performance and is betting heavily on EU sovereignty as its strategic edge.\nThe article Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your busin...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_europe.png",
+    "published": "2026-07-05T10:22:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a719d3715e2d",
+    "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
+    "url": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
+    "summary_original": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company. But behind the scenes, studios are quietly using the tool on a \"don't ask, don't tell\" basis, says Simpsons animation producer Joel Kuwahara.\nThe article Hollywood wants Seedance banned and reportedly also wants to keep using it appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/bytedance_seedance.png",
+    "published": "2026-07-05T09:02:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d334b07e4a7c",
+    "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
+    "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
+    "summary_original": "LlamaIndex’s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SDK 6 (ToolLoopAgent), Prisma, and WorkOS.\nThe post LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c4.png",
+    "published": "2026-07-05T07:50:19+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "47eac4f3b83c",
+    "title": "Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026",
+    "url": "https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/",
+    "summary_original": "Most enterprise data still sits inside PDFs, scans, and slide decks. Large language models and agents cannot use that data until it becomes structured JSON. Open-source document extraction has become the standard way to do that conversion on your own hardware. Two different problems hide under the phrase &#8216;PDF to JSON.&#8217; The first is schema-driven [&#8230;]\nThe post Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026 appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-05T03:02:08+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "93a10a7cec74",
+    "title": "Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents",
+    "url": "https://www.marktechpost.com/2026/07/04/qwens-former-lead-on-what-hybrid-thinking-got-wrong-and-why-he-now-backs-agents/",
+    "summary_original": "Junyang Lin, the former technical lead of Alibaba's Qwen, walked through the model family in a talk \"towards a generalist model / agent,\" then expanded it in an essay. We read both for practitioners: Qwen3 hybrid thinking modes and dynamic thinking budgets, where the merge fell short, the shift from reasoning thinking to agentic thinking, why agentic RL infrastructure is harder, and where reward hacking bites.\nThe post Qwen&#8217;s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now B...",
+    "thumbnail": "https://www.youtube.com/embed/b0xlsQ_6wUQ",
+    "published": "2026-07-05T02:31:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4aeb7d2c2c24",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "summary_original": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "thumbnail": "",
+    "published": "2026-07-04T20:55:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "81db9c8e2dbc",
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "summary_original": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "thumbnail": "",
+    "published": "2026-07-04T18:00:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ffdf2d6e4cd4",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "summary_original": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "thumbnail": "",
+    "published": "2026-07-04T16:32:08+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8b0c7c8c3119",
+    "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
+    "url": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
+    "summary_original": "Anthropic released Claude Science in beta on June 30, 2026. The app runs on existing Claude models. A coordinating agent delegates to domain specialists, a reviewer agent flags and corrects citations and numbers, and every figure ships with its exact code, environment, and full message history. It manages compute across local machines, HPC over SSH, and Modal, and connects to 60+ databases plus NVIDIA BioNeMo skills.\nThe post Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for...",
+    "thumbnail": "",
+    "published": "2026-07-04T16:21:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a00e4ef27862",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "summary_original": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "thumbnail": "",
+    "published": "2026-07-04T15:51:32+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f87cfe76151d",
+    "title": "The fanfiction community is at war with AI — and itself",
+    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "summary_original": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-04T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d1ad329e962c",
+    "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」　中国に対して開発競争「大幅リード」を強調",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
+    "summary_original": "トランプ米大統領がCNBCのインタビューで、AI規制について「ガードレールは必要だが、介入はできるだけ少なくしたい」と述べ、規制最小限の路線を改めて示した。",
+    "thumbnail": "",
+    "published": "2026-07-04T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7b0f83e2e8e9",
+    "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
+    "summary_original": "2026年6月29日～7月3日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+    "thumbnail": "",
+    "published": "2026-07-04T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  }
+]
