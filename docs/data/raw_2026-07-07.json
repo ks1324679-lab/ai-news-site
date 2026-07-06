@@ -1,0 +1,362 @@
+[
+  {
+    "id": "64af45eccedc",
+    "title": "中国がEVで成功してもジェットエンジンで苦戦する理由とは？",
+    "url": "https://gigazine.net/news/20260707-china-jet-engine-industrial-policy/",
+    "summary_original": "中国はEVやバッテリー、再生可能エネルギー、自動車や家電などで使われる「レガシーチップ」の分野で急速に存在感を高める一方で、民間航空機や軍用機に使われるジェットエンジンではアメリカやヨーロッパのメーカーと同等の水準に達するまで苦戦が続いています。政治経済や国家の政策実行能力について論じるニュースレター「The Tanzimat Diaries」の筆者であるアーカシュ・ジャピ氏が、中国のジェットエンジン開発から見える産業政策の限界について論じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-07T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4ba613d7bd6b",
+    "title": "動画ダウンローダー「yt-dlp」のインストール手順まとめ、wingetコマンドでサクッとインストール可能",
+    "url": "https://gigazine.net/news/20260707-yt-dlp-python/",
+    "summary_original": "「yt-dlp」はYouTubeなどの動画配信サイトからコンテンツをダウンロードできるコマンドラインツールです。Microsoft公式パッケージ管理ツールの「WinGet」を使うとコマンド一発でインストールできるので、インストール手順を改めてまとめておきます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-07T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6a01dda96599",
+    "title": "AIコーディングの「ループ」4種類を完全入門　Anthropic公式が分かりやすく整理して解説",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news014.html",
+    "summary_original": "Anthropicが、Claude Codeにおける「ループ」を4種類に整理して解説した。AIコーディングで何をAIに任せ、どこで止めるべきかを、初心者にも分かるようにかみ砕き、筆者なりの視点も添えて紹介する。",
+    "thumbnail": "",
+    "published": "2026-07-07T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1a41bc54e37b",
+    "title": "「250万超AIエージェント作成」の裏で同時多発する課題を回し切ったIT部門の運用術",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news007.html",
+    "summary_original": "ソフトバンクは、生成AIサービスを数万人規模で全社展開しましたが、その裏側では従来のSaaS導入とは異なる課題が同時多発的に発生しました。それを支えたのは、切り分け・情報整理・関係者調整・粘り強い説明といったIT部門の基礎力と現場の経験です。この事例は、生成AI時代の企業ITが「整ったものを入れる」から「未整備なものを運用で成立させる」仕事に変化していることを示しています。",
+    "thumbnail": "",
+    "published": "2026-07-07T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d798ac5f5ede",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-07T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c59db88d2115",
+    "title": "Steam公式ゲーミングPC「Steam Machine」用の電子ペーパー式情報表示ディスプレイがオープンソース化されて誰でも作成可能に",
+    "url": "https://gigazine.net/news/20260706-steam-machine-inkterface/",
+    "summary_original": "2026年6月23日に発売されたSteam公式ゲーミングPC「Steam Machine」はフロントパネルを交換することが可能です。交換用パネルの一部として未発売の電子ペーパー式情報表示ディスプレイの存在が明らかになっているのですが、この電子ペーパー式情報表示ディスプレイが「Inkterface」という名称でオープンソース化されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-06T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "adc8825c1975",
+    "title": "Metaの新AI「Watermelon」はOpenAIのGPT-5.5に匹敵する性能で近日登場",
+    "url": "https://gigazine.net/news/20260706-meta-watermelon/",
+    "summary_original": "Metaの最高AI責任者であるアレクサンドル・ワン氏が、MetaのAIモデル・Muse Sparkがまもなくアップデートされ、コーディングやエージェント機能が向上する予定であることを明らかにしました。AIモデルの名称自体は変わりませんが、内部コードではAvocadoからWatermelonのアップデートになるとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-06T22:25:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "91648b1fe4b5",
+    "title": "YouTube StudioのAI機能で非公開動画の情報が漏れる可能性が指摘される",
+    "url": "https://gigazine.net/news/20260706-youtube-ask-studio-leak/",
+    "summary_original": "YouTube StudioのAI機能「Ask Studio」を悪用するとコメント欄に仕込まれた指示を通じて非公開動画のタイトルなどを外部に送信させられる可能性がある、とセキュリティ研究者のjavoriuski氏が報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-06T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b96d9864f868",
+    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "summary_original": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+    "thumbnail": "",
+    "published": "2026-07-06T19:49:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0f64c66e0db7",
+    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "summary_original": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+    "thumbnail": "",
+    "published": "2026-07-06T19:01:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0e1b5478a743",
+    "title": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
+    "url": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+    "summary_original": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once. Starting September 15, 2026, Training and Agent bots will be blocked by default on ad-supported pages.\nThe article Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/cloudflare_logo_wall-2.png",
+    "published": "2026-07-06T18:54:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "393c27b821e2",
+    "title": "パランティアCEOがOpenAIやAnthropicを批判　「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
+    "summary_original": "Palantirのアレックス・カープCEOがCNBCのインタビューで、OpenAIのサム・アルトマンCEOやAnthropicのダリオ・アモデイCEOの名前を挙げつつ、フロンティアモデル提供企業が顧客のデータを使って競争優位性を確保する業界の現状を批判した。対抗して打ち出したのがNVIDIAとの提携だ。",
+    "thumbnail": "",
+    "published": "2026-07-06T18:50:54+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1fae758ade94",
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "summary_original": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "thumbnail": "",
+    "published": "2026-07-06T18:35:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "aa9d714e8f04",
+    "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+    "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
+    "summary_original": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks. New customers get a free five-day trial with up to 5 million tokens per day, and subscribers receive about 1.5 times more token quota through July 2026.\nThe article Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/Zhipu-AI-Logo-Wall-Pattern-GPT-4o.jpg",
+    "published": "2026-07-06T18:28:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4f195e1fb4eb",
+    "title": "Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size",
+    "url": "https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/",
+    "summary_original": "Tencent has released Hy3, an open-source language model with 295 billion parameters built on a mixture-of-experts architecture. Only 21 billion parameters are active at any given time. Tencent says Hy3 matches models two to five times its size while cutting its hallucination rate in half to 5.4 percent.\nThe article Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/tencent_logo_wakk.png.png",
+    "published": "2026-07-06T18:03:15+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e930f63d2b61",
+    "title": "Your family’s $300 stake in OpenAI",
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-06T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1104265b4ffd",
+    "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
+    "url": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/",
+    "summary_original": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a median stay of just seven weeks. Competition is fiercer now, but the capability gains between models are shrinking.\nThe article GPT-4&#039;s dominance lasted a year while today&#039;s top models barely survive seven weeks at the top appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/03/openai_gpt-4_visual-e1678820006678.jpg",
+    "published": "2026-07-06T17:14:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "88a9e7b84587",
+    "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+    "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "summary_original": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+    "thumbnail": "",
+    "published": "2026-07-06T17:04:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c1ca34fb2fe4",
+    "title": "「AIはもう十分賢い」　活用のボトルネックは「モデル性能」から「評価」へ　米データ基盤開発企業のAI研究者に聞く",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000160/",
+    "summary_original": "AIの進化は学習データや計算資源の不足で止まるのか。米DatabricksのチーフAIサイエンティスト、ジョナサン・フランクル氏は「モデルはもう十分賢い」と語り、真のボトルネックは「AIを評価すること」にあると指摘する。",
+    "thumbnail": "",
+    "published": "2026-07-06T16:40:18+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "507388fe73ce",
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+    "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "summary_original": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+    "thumbnail": "",
+    "published": "2026-07-06T15:32:43+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3dd55d889219",
+    "title": "PRX Part 4: Our Data Strategy",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-06T15:30:55+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "bc3c5f5267e7",
+    "title": "目が不自由な人の歩行をAIが音声で支援、歩行補助デバイス開発へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/06/news086.html",
+    "summary_original": "サフラテクノは、AI画像認識技術で障害物を検知する歩行支援デバイスの試作機を開発している。独自の電力最適化技術により、6時間以上の連続駆動と軽量設計の両立を目指す。",
+    "thumbnail": "",
+    "published": "2026-07-06T15:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c83f72877e1f",
+    "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+    "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT_EmotionalSupportAI_FINAL_01.jpg?fit=2128,1196",
+    "published": "2026-07-06T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bfa8a488bd2a",
+    "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
+    "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
+    "summary_original": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value. The more powerful Rubin Ultra variant has also been canceled. The setbacks could give AMD and Google an opening to compete.\nThe article Nvidia&#039;s Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+    "published": "2026-07-06T12:30:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6f224168a338",
+    "title": "I spy",
+    "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+    "summary_original": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-06T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dcc5b105e5c8",
+    "title": "China’s AI companion rules: what Beijing is really going after",
+    "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+    "summary_original": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it consistent from one session to [&#8230;]\nThe post China&#8217;s AI companion rules: what Beijing is really going after appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-07-06T11:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "888e231d9b41",
+    "title": "Microsoft is laying off 4,800 employees",
+    "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+    "summary_original": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-06T09:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "166d1efeb218",
+    "title": "South Korea’s hottest new bachelors are chip workers",
+    "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+    "summary_original": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-06T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d1d6a9bb7f24",
+    "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes",
+    "url": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
+    "summary_original": "Sakana AI has added Sakana Translate to Sakana Chat. It runs on the Namazu model series. The tool translates bidirectionally across Japanese, English, and Chinese. Three modes ship together: Translate, Proofread, and Ask. This article breaks down each mode, the XCOMET-XL benchmark, and practical use cases.\nThe post Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-05-at-10.22.26-PM-1.png",
+    "published": "2026-07-06T05:35:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "072cc3222ea7",
+    "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
+    "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
+    "summary_original": "Synthetic Sciences has released OpenScience, an Apache-2.0 AI workbench for scientific research. It works with any frontier or open-weight model, using your own API keys. It runs the full loop across machine learning, biology, physics, and chemistry. It ships 250+ editable skills and queryable scientific databases, and it runs on your own infrastructure.\nThe post Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemi...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-07-06T05:07:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3c1ed44a149a",
+    "title": "Training Gemma-3 for Structured Mathematical Reasoning with Tunix GRPO, LoRA Adapters, and GSM8K Rewards",
+    "url": "https://www.marktechpost.com/2026/07/05/training-gemma-3-for-structured-mathematical-reasoning-with-tunix-grpo-lora-adapters-and-gsm8k-rewards/",
+    "summary_original": "We build an end-to-end GRPO training workflow that teaches Gemma-3 to reason through GSM8K math problems. We prepare the environment, authenticate with Hugging Face, load Gemma-3, and wrap examples into a reasoning-plus-answer prompt format. We define reward functions for format adherence and numeric correctness, then attach LoRA adapters to keep training lightweight. We evaluate a baseline, run GRPO to improve the policy through group-sampled generations, and optionally export the merged model....",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-07-06T04:26:58+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "76d9e5a5ebbd",
+    "title": "🤗 Kernels: Major Updates",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-06T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "816491491b4c",
+    "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
+    "url": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
+    "summary_original": "Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token. It pairs a native 1-million-token context, built on LongCat Sparse Attention, with training and serving run end-to-end on domestic AI ASIC superpods. Here is the architecture, the vendor-reported benchmarks, the API access path, and what remains unverified.\nThe post Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCa...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-05-at-2.23.44-PM-1.png",
+    "published": "2026-07-05T21:25:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f4dfdde345c5",
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "summary_original": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-05T18:30:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c597736af88d",
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "summary_original": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-05T10:23:11-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d334b07e4a7c",
+    "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
+    "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
+    "summary_original": "LlamaIndex’s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SDK 6 (ToolLoopAgent), Prisma, and WorkOS.\nThe post LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c4.png",
+    "published": "2026-07-05T07:50:19+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
