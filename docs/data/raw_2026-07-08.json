@@ -1,0 +1,402 @@
+[
+  {
+    "id": "af563e8b9bd4",
+    "title": "AI導入で利益率が上がるまでには市場の想定よりも長期間かかる可能性がある",
+    "url": "https://gigazine.net/news/20260708-ai-roi-runway-long/",
+    "summary_original": "AIへの投資によって企業の利益がすぐに伸びるとは限らず、テクノロジー分野以外では投資対効果(ROI)が表れるまでに長い時間がかかる可能性があると、アポロ・グローバル・マネジメントのチーフエコノミストであるトーステン・スロック氏が指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-08T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3dc6dff0d393",
+    "title": "無料でWord・Excel・PowerPointをあらゆるAIエージェントに完全制御させることができる「OfficeCLI」",
+    "url": "https://gigazine.net/news/20260708-officecli/",
+    "summary_original": "AIエージェントでWord・Excel・PowerPointファイルを読み取り、編集・自動化するためのCLIが「OfficeCLI」です。オープンソースで開発されており、無料で誰でもインストールして利用することができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-08T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b9e9cff3e40d",
+    "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
+    "summary_original": "生成AIやAIエージェントを全社展開する際、企業はセキュリティやガバナンス、性能といった課題に直面しがちです。ソフトバンクは「全社で1人100エージェント」構想の実現に向けて、AI利用の入り口となる共通基盤「Cloud Proxy」を内製しました。その設計思想や性能強化の取り組み、自動化による迅速なスケールアウト、マルチLLM対応など、Cloud Proxyを支える設計思想と運用の工夫を紹介します。",
+    "thumbnail": "",
+    "published": "2026-07-08T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "07e028501d40",
+    "title": "「Claude Fable 5」のサブスク提供、延長　12日（太平洋標準時）まで　日本時間では13日午後",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000167/",
+    "summary_original": "米Anthropicは7月7日（現地時間）、AIモデル「Claude Fable 5」を有料サブスクリプションから利用できる期間を、7月12日午後11時59分（太平洋標準時）まで延長すると発表した。日本時間では13日午後3時59分までとなる。",
+    "thumbnail": "",
+    "published": "2026-07-08T03:16:14+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "64842f2657d6",
+    "title": "わずか5MBのAIモデルをウェブサイトに組み込んでユーザーにローカル操作させられる「ternlight」が登場、ウェブサイトにAIを活用した検索機能などを追加可能",
+    "url": "https://gigazine.net/news/20260707-ternlight-webassembly-embeddings/",
+    "summary_original": "「ternlight」はウェブサイトに軽量な埋め込みモデルを組み込めるパッケージです。埋め込みモデルのサイズは5～7MBで、ウェブサイト訪問者は自分のCPUで埋め込みモデルを実行することができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-07T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3ddcf25b1602",
+    "title": "AMDのAI開発キット「Ryzen AI Halo」レビューがさっそく登場、約64万円で128GBの超大容量ユニファイドメモリ＆Zen 5CPU＆Radeon 8060S GPUを搭載した強力ミニワークステーション",
+    "url": "https://gigazine.net/news/20260707-amd-ryzen-ai-halo/",
+    "summary_original": "2026年1月に開催されたコンピューター見本市・CES 2026におけるAMDの基調講演で、リファレンス用のAI開発者向けミニPC「AMD Ryzen AI Halo」が発表され、同年7月10日(金)に順次出荷が始まります。Ryzen AI Haloは16コア32スレッドのZen 5CPU・40基のCU(演算ユニット)を持つRadeon 8060S GPU・XDNA 2 NPUを1つのチップに統合した強力なAPUと128GBの超大容量LPDDR5Xユニファイドメモリを搭載し、競合となるNVIDIAのミニワークステーション「DGX Spark」やAppleのMac Studio等に対抗するアプライアンスとして設計されています。そんなRyzen AI Haloのレビューを、海外テック系メディアのLTT Labsが公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-07T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "830b87f8c5bf",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-07T21:15:33+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "ac26af5ade46",
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "summary_original": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+    "thumbnail": "",
+    "published": "2026-07-07T20:04:32+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6d46c33e5722",
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "summary_original": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+    "thumbnail": "",
+    "published": "2026-07-07T19:58:20+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0a5053c71615",
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "summary_original": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+    "thumbnail": "",
+    "published": "2026-07-07T19:28:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2810642bac04",
+    "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+    "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+    "summary_original": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them. AI chief Mustafa Suleyman wants to \"ultimately eliminate\" the cost of external models. For Copilot customers, that could mean less performance for the same price.\nThe article Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_coopilot.png",
+    "published": "2026-07-07T18:35:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b891b4c245cf",
+    "title": "三菱UFJ半沢淳一社長「企業の資金ニーズに対応」　個人向け「エムット」でAI活用も",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/07/news149.html",
+    "summary_original": "三菱UFJフィナンシャル・グループ（MUFG）の半沢淳一社長が産経新聞のインタビューに応じ、日銀の利上げで「金利のある世界」が本格化する中、企業の資金需要を取り込むため、事業戦略の提案力を高める考えを示した。",
+    "thumbnail": "",
+    "published": "2026-07-07T17:58:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0dfea62f802b",
+    "title": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems",
+    "url": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
+    "summary_original": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech. The 2-billion-parameter model is available on Hugging Face under the Apache 2.0 license.\nThe article Cohere Transcribe Arabic is an open-source model built for Arabic&#039;s toughest transcription problems appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/06/cohere_logo.png",
+    "published": "2026-07-07T17:54:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "475a1a61f5c5",
+    "title": "「AIが引用するドメイン」不動の首位は……",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/07/news148.html",
+    "summary_original": "2位には前回5位のnote.comが浮上した。前回2位のWikipedia（ja.wikipedia.org）は3位に後退した。",
+    "thumbnail": "",
+    "published": "2026-07-07T17:32:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fc07a28fc892",
+    "title": "【Fable 5に聞いてみた】サブスク終了後の効果的な使い方は？　トークン節約法は？　本人インタビュー",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000166/",
+    "summary_original": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は「従量課金制移行後にFable 5を効果的に使う方法」について聞いてみた。",
+    "thumbnail": "",
+    "published": "2026-07-07T17:05:24+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3b2c63482eb0",
+    "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+    "url": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+    "summary_original": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the background even when the laptop is closed and pings users on their phone when it needs a decision. The move blurs the line between Chat and Cowork even further.\nThe article Anthropic&#039;s Claude Cowork AI agent is now available on mobile and web appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/antropic_logo_chat_cowork-2.png",
+    "published": "2026-07-07T17:04:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "43d5fa5e1e01",
+    "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
+    "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
+    "summary_original": "Liquid AI released Antidoom, an open-source method that targets doom loops in reasoning models. A doom loop repeats a span until the context window is exhausted. Antidoom finds the token that starts the loop and retrains only that position using Final Token Preference Optimization (FTPO). On LFM2.5-2.6B, doom-loop rates fell from 10.2% to 1.4%; on Qwen3.5-4B, from 22.9% to 1%. Generation, detection, and the FTPO trainer are open source.\nThe post Liquid AI Open-Sources Antidoom: A Final Token Pre...",
+    "thumbnail": "",
+    "published": "2026-07-07T16:50:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "041d3e03c54a",
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "summary_original": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-07T16:31:58-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ffc63549d918",
+    "title": "Claude Cowork expands to mobile and web",
+    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "summary_original": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+    "thumbnail": "",
+    "published": "2026-07-07T16:27:18+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6ec677dfeb90",
+    "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
+    "url": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
+    "summary_original": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected. The move means both superpowers now treat AI as a strategic asset. For Europe, the convenient shortcut of relying on cheap Chinese open-source models could close much faster than expected.\nThe article China eyes export curbs on its top AI models, and Europe is caught in the middle appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/Europe-AI-Race-in-the-Middle.png",
+    "published": "2026-07-07T16:13:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "37a75100de70",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-07T15:20:06+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "6317aab9ad04",
+    "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
+    "url": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/",
+    "summary_original": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens. The working memory reveals that Claude recognizes contrived test scenarios before producing its first word. When the researchers disable those cues, Claude actually resorts to blackmail in some runs. A model trained on reward hacking shows words like \"fake\" and \"fraud\" in J-Space during normal coding tasks, ev...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/anthropic_claude_memory.png",
+    "published": "2026-07-07T14:46:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e8547c388b9f",
+    "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+    "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+    "summary_original": "Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI medicine past early safety evaluations into late-stage efficacy validation. IPF destroys respiratory capacity through severe lung tissue scarring. Patients [&#8230;]\nThe post Insilico Medicine advances AI drug for IPF to Phase III trials appeared firs...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-07-07T14:00:06+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "d05c6e7f5617",
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "summary_original": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-07T13:46:59-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0e5ebf4a584e",
+    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT-Tech-Review_Evo-Genetics_thumb.jpg?w=2978",
+    "published": "2026-07-07T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e2c62726c581",
+    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "summary_original": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+    "thumbnail": "",
+    "published": "2026-07-07T12:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "34dc6f6de3b4",
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "summary_original": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617.jpg",
+    "published": "2026-07-07T11:10:52+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a03b6b84cc7d",
+    "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+    "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+    "summary_original": "L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane, president of L’Oreal’s consumer products division, telling Reuters that the technology helps the company predict how molecules [&#8230;]\nThe post L’Oreal, Mondelez, and Nestle use AI to speed product development appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-07-07T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "b11b6e4d107e",
+    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+    "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+    "summary_original": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-017_bddae2.jpg?w=2667",
+    "published": "2026-07-07T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c4d5624322a5",
+    "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+    "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+    "summary_original": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-07T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dd063856a38b",
+    "title": "コードレスで家中どこでも使え連続70時間運転＆スマホで遠隔操作＆静音で夜でも気にならない「SwitchBot スマートサーキュレーター2 Pro」を使ってみた",
+    "url": "https://gigazine.net/news/20260707-switchbot-smart-circulator-2-pro/",
+    "summary_original": "夏の暑さや湿気が気になる季節、エアコンの冷気を部屋全体へ行き渡らせたり、部屋干しの洗濯物に風を当てて乾きやすくしたりするには、空気を効率よく循環させるサーキュレーターが役立ちます。SWITCHBOT株式会社の「SwitchBot スマートサーキュレーター2 Pro」は最長約70時間コードレスで使えるバッテリー内蔵のサーキュレーターで、キッチンや脱衣所、寝室、ペットのいる場所など、空気のこもりやニオイ、ホコリが気になる場所へ気軽に持ち運べるのが特徴。約30畳対応のパワフルな送風性能に加え、左右90度・上下90度の自動首振りにより、部屋全体の空気を効率よく循環させることができるので、梅雨時の部屋干しから夏の冷房効率向上、さらには冬の暖房の循環まで季節を問わず活用できます。加えてイオン発生機能、プレフィルター、アロマケースも備えるほか、睡眠時にも気になりにくい静音設計を採用し、スマートホームとも連携できます。そんなSwitchBot スマートサーキュレーター2 Proを実際に使ってみました。 Amazon.co.jp: SwitchBot: サーキュレータ―SwitchBot スマートサーキ...",
+    "thumbnail": "",
+    "published": "2026-07-07T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1621fb11b0ec",
+    "title": "Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
+    "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/",
+    "summary_original": "Tencent's Hy team released Hy3, a 295B Mixture-of-Experts (MoE) model that activates only 21B parameters per token. It ships under Apache 2.0 with a 256K context window, targeting reasoning, agentic, and long-context tasks. Hy3 reports 78.0 on SWE-Bench Verified and lower hallucination rates, and is free to try on OpenRouter through July 21, 2026.\nThe post Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-10.56.27-PM-1.png",
+    "published": "2026-07-07T05:59:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a99a122065f5",
+    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
+    "url": "https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/",
+    "summary_original": "OpenAI added two Realtime models to its API. GPT-Realtime-2.1-mini is a mini reasoning model for voice, priced like the earlier gpt-realtime-mini. OpenAI also cut p95 latency by at least 25% through improved caching. Here is what changed, how pricing compares, and how to connect over WebRTC.\nThe post OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a1.png",
+    "published": "2026-07-07T04:35:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2ab09cf497e2",
+    "title": "Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS",
+    "url": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/",
+    "summary_original": "In this tutorial, we build an autonomous AI co-scientist for EGFR C797S inhibitor discovery. We resolve the target through ChEMBL and UniProt, then mine IC50 records into a clean pIC50 dataset. We use RDKit to standardize molecules, compute Morgan fingerprints, and train a scaffold-split Random Forest QSAR model. We interpret potency drivers with SHAP, then recombine BRICS fragments to generate and rank novel candidates.\nThe post Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR...",
+    "thumbnail": "",
+    "published": "2026-07-07T01:43:28+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "241bab22568e",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "summary_original": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "thumbnail": "",
+    "published": "2026-07-07T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "38da928fb2b9",
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-07T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "d798ac5f5ede",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-07T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "e930f63d2b61",
+    "title": "Your family’s $300 stake in OpenAI",
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-06T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3dd55d889219",
+    "title": "PRX Part 4: Our Data Strategy",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-06T15:30:55+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c83f72877e1f",
+    "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+    "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT_EmotionalSupportAI_FINAL_01.jpg?fit=2128,1196",
+    "published": "2026-07-06T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
