@@ -1,0 +1,402 @@
+[
+  {
+    "id": "2beea04b6b2f",
+    "title": "無料でYouTubeの動画やチャンネルが消えたときのために保存しておける「PreserveTube」",
+    "url": "https://gigazine.net/news/20260710-preservetube-youtube/",
+    "summary_original": "「PreserveTube」は無料で使えるYouTubeのアーカイブサービスで、急に動画やチャンネルが削除された場合でも動画を見たり情報を参照したりできるように、URLを入力するだけで簡単にYouTubeの動画やチャンネルをアーカイブ化することができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-10T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e9f2dce5358a",
+    "title": "FBIとGoogleがスマートテレビなど200万台超を乗っ取ったボットネット「NetNut」を摘発",
+    "url": "https://gigazine.net/news/20260710-fbi-google-netnut-botnet-smart-tv/",
+    "summary_original": "FBIとGoogleが、スマートテレビなど200万台超の消費者向けデバイスを組み込んでいたとされるレジデンシャルプロキシネットワーク「NetNut」を摘発・妨害しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-10T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "53fd3eaeb889",
+    "title": "1万9000人が利用するソフトバンクの「全社RAG基盤」　構築の泥臭い舞台裏",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/10/news002.html",
+    "summary_original": "AI活用で激突する「現場の利便性」v.s.「会社の安全性」。RAGの乱立に直面したソフトバンクが、ガバナンスをシステムに組み込み、数万時間相当の業務削減効果（社内の試算による）を達成した「全社RAG基盤」構築の舞台裏と、そこから得られた気付きを共有します。",
+    "thumbnail": "",
+    "published": "2026-07-10T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a3bc43fd2d02",
+    "title": "デスクトップ版ChatGPT大幅刷新　AIエージェント「Codex」統合、「ChatGPT Work」に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
+    "summary_original": "米OpenAIが、チャットAIサービス「ChatGPT」とAIコーディングエージェント「Codex」を統合した「ChatGPT Work」を発表した。「GPT-5.6」シリーズを搭載する。最終成果物を指定するだけで、あいまいな状況にも適応しながら最小限の指示で洗練されたアウトプットを生成できるという。Webアプリ、スマートフォンアプリ、デスクトップアプリの3種類を提供するが、特にデスクトップアプリはChatGPTの従来のデスクトップアプリとCodexのデスクトップアプリを統合した形になる。",
+    "thumbnail": "",
+    "published": "2026-07-10T04:36:50+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "eb2fa5e9cf60",
+    "title": "An AI agent startup just let its agent run its $100 million fundraise",
+    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "summary_original": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+    "thumbnail": "",
+    "published": "2026-07-09T22:08:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3579a3be1f32",
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "summary_original": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+    "thumbnail": "",
+    "published": "2026-07-09T22:03:54+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "21c1026b8180",
+    "title": "EVE Onlineのゲームエンジン「Carbon」がオープンソース化、開発者が理由を解説",
+    "url": "https://gigazine.net/news/20260709-eve-online-carbon-engine-open-source/",
+    "summary_original": "2003年に発売された老舗MMORPGの「EVE Online」で利用されているゲームエンジンの「Carbon」が、オープンソース化します。Carbonの開発元であるFenris Creationsが、その理由を説明しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-09T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7a9493a91071",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "summary_original": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+    "thumbnail": "",
+    "published": "2026-07-09T21:57:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3420787aec5e",
+    "title": "Can AI answer the $3 trillion question?",
+    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "summary_original": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+    "thumbnail": "",
+    "published": "2026-07-09T21:47:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "63accbb7dca3",
+    "title": "山手線の各駅の発車メロディ・ドア開閉音・車内アナウンスを延々ループ再生し続ける「Yamanote.fun」",
+    "url": "https://gigazine.net/news/20260709-yamanote-fun/",
+    "summary_original": "東京都心部を周回する山手線では、駅ごとにさまざまな発車メロディが設定されています。「Yamanote.fun」は、山手線各駅の発車メロディやドアの開閉音、列車の走行音、停車駅のアナウンスなどを延々とループ再生できるウェブサイトです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-09T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "57aa4074b595",
+    "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
+    "url": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
+    "summary_original": "OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 per 1M tokens, Terra is $2.50/$15, and Luna is $1/$6. Sol sets the Artificial Analysis Coding Agent Index at 80, 2.8 points above Claude Fable 5, and reaches 62.6% on OSWorld 2.0 using 85% fewer output tokens than Opus 4.8. The substantive developer change is Programmatic Tool Calling, which runs model-written JavaScript in an isolated V8 runtime to orchestrate tools without ret...",
+    "thumbnail": "",
+    "published": "2026-07-09T20:45:42+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7ea44db32d3b",
+    "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+    "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+    "summary_original": "Broadcom accuses Allstate of dodging VMware audits.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279315069-1024x648.jpg",
+    "published": "2026-07-09T20:28:55+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a90a0d3e9300",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "summary_original": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-20.29.29.png?w=180",
+    "published": "2026-07-09T20:22:28+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c45da9cfab30",
+    "title": "三菱自動車が「国産人型ロボ」量産へ　2027年に「月1000台の製造体制」　東大発スタートアップと協業",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000177/",
+    "summary_original": "三菱自動車工業は、東京大学発のロボット開発スタートアップHighlandersと「国産人型ロボット」の開発に関して協業すると発表した。",
+    "thumbnail": "",
+    "published": "2026-07-09T20:22:14+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ef98b558080d",
+    "title": "Grok 4.5・GPT-5.5・Claude Opus 4.8／Fable 5に同じアプリを作らせてレイテンシとコストを測定した結果、勝ったAIはどれか？",
+    "url": "https://gigazine.net/news/20260709-grok-gpt-claude-build-apps/",
+    "summary_original": "2026年7月8日に発表されたGrok 4.5について、SpaceXAIは「コーディングとエージェント作業のためにCursorと並行してトレーニングされた」と、これまでで最も賢いモデルだとアピールしています。そこでAI企業のTryAIが、Grok 4.5・GPT-5.5・Claude Opus 4.8・Claude Fable 5に同じプロンプトからアプリを開発させ、そのレイテンシとコストを測定した結果をまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-09T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "aca1fb615a00",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "summary_original": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+    "thumbnail": "",
+    "published": "2026-07-09T19:40:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5cd2332d7da1",
+    "title": "Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput",
+    "url": "https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/",
+    "summary_original": "NVIDIA has released Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super. Iterative Puzzle alternates hardware-aware structural compression with short knowledge distillation recovery phases. The model drops from 120.7B total / 12.8B active parameters to 75.3B / 9.3B. On a single 8xB200 node it delivers 2.03x Super's total throughput at 100 tok/s per user. On one H100, 1M-token concurrency rises from 1 request to 8.\nThe post Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hy...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.25.52-AM-1.png",
+    "published": "2026-07-09T19:31:25+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ddc19360e7dd",
+    "title": "The ChatGPT browser is already dead",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+    "summary_original": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-09T16:34:05-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c20f5ab39e98",
+    "title": "AI活用、最大のボトルネックは「経営層」か　トップ不使用の企業、85.7％が「方針・体制なし」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000176/",
+    "summary_original": "ラクスルが中小企業を対象に実施したAI活用の実態調査で、経営層がAIを全く使わない企業の85.7％は活用の方針も推進体制もないと分かった。経営層の姿勢がAI格差を左右する構図が浮かんだ。",
+    "thumbnail": "",
+    "published": "2026-07-09T16:18:06+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "02d5110a61b4",
+    "title": "Google will now tell you if an ad was made with AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+    "summary_original": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-09T16:11:38-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6f0cc7a81fbe",
+    "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+    "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+    "summary_original": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically, initial data gathering and screening phases took over six months per iteration, yielding a low five percent success rate. Crucial [&#8230;]\nThe post AWS GraphRAG deployment cuts drug research cycles by 87% appeared first on AI N...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-07-09T15:43:09+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "361fce8f0f97",
+    "title": "NEC、Claudeを活用した「全自動」マーケティングサービス開始　3年で売上100億円目指す",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000175/",
+    "summary_original": "NECは、消費者の購買データから商品企画や販促プラン作成の「完全自動化」をうたうサービスの提供を開始した。AnthropicのAI「Claude」などを活用した。3年間で累計100億円の売り上げを目指す。",
+    "thumbnail": "",
+    "published": "2026-07-09T15:11:35+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5744fb497d4b",
+    "title": "Microsoft’s patch Tuesdays are about to get bigger",
+    "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+    "summary_original": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even amateurs, have increasingly been using AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-09T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7f68bb355a3f",
+    "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+    "summary_original": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the best model we have ever produced.\" To celebrate, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-09T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a9ac60dc9fcf",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "summary_original": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "thumbnail": "",
+    "published": "2026-07-09T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c3749aa35f8d",
+    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+    "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/Photomontage-1.jpg?w=3000",
+    "published": "2026-07-09T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3c49fcee3574",
+    "title": "Meta says its new AI model is ready to compete on coding",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+    "summary_original": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-09T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "10a73f0831bf",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "summary_original": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "thumbnail": "",
+    "published": "2026-07-09T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0453af9ffcc0",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "summary_original": "Details about the OpenAI Bio Bounty program",
+    "thumbnail": "",
+    "published": "2026-07-09T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6e3eba7a17b3",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "url": "https://openai.com/index/gpt-5-6",
+    "summary_original": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "thumbnail": "",
+    "published": "2026-07-09T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "4e52bcd448d0",
+    "title": "NHS AI blood test could reduce invasive womb cancer checks",
+    "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+    "summary_original": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing heavy bleeding. About 10,000 women are diagnosed with womb [&#8230;]\nThe post NHS AI blood test could reduce invasive womb cancer checks appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-07-09T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "178dc9863659",
+    "title": "Four nuclear reactors hit a big milestone in the US",
+    "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+    "summary_original": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-09T08:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0a81a56c51f2",
+    "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
+    "url": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
+    "summary_original": "Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterate on it, deploy it, and more. \nThe post Google AI Studio Adds Import from GitHub to Build a Deployable App appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-09T07:58:06+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d9c3aef52cde",
+    "title": "Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling",
+    "url": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/",
+    "summary_original": "Datalab&#8217;s Lift is a focused document extraction tool with a specific promise: give it a PDF or image plus a JSON Schema, and it returns schema-shaped JSON directly. Instead of converting a document to Markdown first and then asking another model to extract fields, Lift reads rendered page images and attempts to emit the final [&#8230;]\nThe post Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling appeared first on MarkTechPo...",
+    "thumbnail": "",
+    "published": "2026-07-09T07:50:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "58aeb63bc8cf",
+    "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation",
+    "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/",
+    "summary_original": "Ant Group's Robbyant has released LingBot-VLA 2.0, an Apache-2.0 vision-language-action model for cross-embodiment robot manipulation. The 6B checkpoint is pretrained on roughly 60,000 hours of data, spanning 50,000 hours of robot trajectories across 20 robot configurations and 10,000 hours of egocentric human video. It maps every embodiment into a single 55-dimensional canonical action space, covering arms, dexterous hands, waists, heads, and mobile bases. A token-level, auxiliary-loss-free Mix...",
+    "thumbnail": "",
+    "published": "2026-07-09T00:45:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d7ac7d2c33e1",
+    "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+    "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+    "summary_original": "Both vulnerabilities allow untrusted users to gain root privileges.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-07-08T19:01:19+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f53e778082ba",
+    "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+    "url": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+    "summary_original": "But the devices could \"easily be reflashed.\"",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238063763-1152x648-1783530792.jpg",
+    "published": "2026-07-08T18:10:16+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "dad44939bb24",
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-08T17:16:05+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "df693c770abf",
+    "title": "EmTech AI 2026: The Rise of the AI Platform",
+    "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-08T16:26:10+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "34adf3bd6731",
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "summary_original": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "thumbnail": "",
+    "published": "2026-07-08T13:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
