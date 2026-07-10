@@ -1,0 +1,382 @@
+[
+  {
+    "id": "61280fa47135",
+    "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
+    "url": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
+    "summary_original": "Cloudflare Tunnelを使うことで、ルーターのポート開放などの設定不要で、ローカルPC上で動いているサービスをCloudflare経由で公開できます。Tunnelを設定しただけの状態では誰でもアクセスできてしまうので、今回はCloudflare Tunnelで公開したURLに対して、Cloudflare Accessによる認証を追加してみることにしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-10T23:15:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4a23671e6feb",
+    "title": "「うるう秒」は2026年12月末も挿入されず、最後の「うるう秒」から10年",
+    "url": "https://gigazine.net/news/20260710-no-leap-second-at-2026/",
+    "summary_original": "世界時の決定などに関わる国際機関の国際地球回転・基準系事業(IERS)が、天文時間と原子時間のずれ修正を目的として例年6月末と12月末に行うかどうかが検討される「うるう秒」の挿入を、2026年12月末も行わないことを決定しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-10T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "03ad32e64a62",
+    "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
+    "summary_original": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
+    "thumbnail": "",
+    "published": "2026-07-10T21:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "82a8cbfc418a",
+    "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
+    "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+    "summary_original": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the \"automated researcher\" is within reach.\nThe article OpenAI&#039;s GPT-5.6 Sol autonomously post-trained the smaller Luna model with a &quot;fairly underspecified prompt&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/gpt_56_sol.png",
+    "published": "2026-07-10T21:12:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "80b272bb4140",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "summary_original": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "thumbnail": "",
+    "published": "2026-07-10T21:00:29+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "875965758236",
+    "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
+    "url": "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
+    "summary_original": "クラウドストレージサービスプロバイダーのBackblazeは、自社のデータセンターでHGST・Seagate・東芝・WDCといったメーカーの合計34万台を超えるHDDを運用しています。そんなBackblazeが、2026年第1四半期版のHDD故障率レポートを公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-10T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a0c27bd76fad",
+    "title": "トランプモバイルのスマホ「T1」実機テストでベンチマーク・バッテリー・画面輝度などの計測結果が明らかに",
+    "url": "https://gigazine.net/news/20260710-t1-test/",
+    "summary_original": "トランプ・オーガナイゼーションが立ち上げた携帯電話事業「トランプ・モバイル」から登場した最初のスマートフォン「T1」を詳しく調査する記事が公開されました。以前の調査でT1はほぼ「HTC U24 Pro」であることが明らかになっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-10T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c835ffd5cd3d",
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "summary_original": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-07-10T19:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f646f48da537",
+    "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
+    "url": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
+    "summary_original": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and only scaling up when needed.\nThe article OpenAI staffer maps out which of GPT-5.6 Sol&#039;s five reasoning levels fits which task complexity appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-2.png",
+    "published": "2026-07-10T17:52:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "82c4cd266998",
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "summary_original": "Apple has sued OpenAI, alleging that former employees that now work for the AI company have stolen Apple's trade secrets \"for the benefit of OpenAI.\" In its complaint, Apple alleges that it has uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple,\" and it names IO Products [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-10T17:36:51-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2e6f798b14e7",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "summary_original": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "thumbnail": "",
+    "published": "2026-07-10T17:17:12+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8aea51744a5e",
+    "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal",
+    "url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
+    "summary_original": "Tencent is in talks to buy a majority stake in AI agent startup Manus at the same $2 billion valuation, according to the Financial Times, after Beijing blocked Meta's acquisition. Tencent sees overlap with its own agent plans, including for WeChat. U.S. firm Benchmark is not expected to take part.\nThe article Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/manus_tencent_meta.png",
+    "published": "2026-07-10T16:48:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "85f76f848a4b",
+    "title": "「まるで人間」　OpenAIの新モデル「GPT-Live」のトーク力が話題　間を空けずに考えながら会話できる",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+    "summary_original": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
+    "thumbnail": "",
+    "published": "2026-07-10T16:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b474cd3a97d5",
+    "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加　複雑な作業を「より効率的に処理」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
+    "summary_original": "米Microsoftは、Microsoft 365のAI機能「Microsoft 365 Copilot」に、米OpenAIの最新のAIモデル「GPT-5.6」シリーズを追加すると発表した。WordやExcel、PowerPointなどで順次展開する。",
+    "thumbnail": "",
+    "published": "2026-07-10T16:16:10+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c4ac912fdc8d",
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "summary_original": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-07-10T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1c334e461dca",
+    "title": "「生成AIをもう手放せない人」が約6割　逆に“使わなくなったもの”1位は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/10/news056.html",
+    "summary_original": "ICT総研の調査では、生成AIサービスが使えなくなると困ると答えた人は約6割に上った。生成AIサービスが日常的なツールとして定着する一方で、利用頻度が減ったものもあるという。それは何なのか。",
+    "thumbnail": "",
+    "published": "2026-07-10T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "94b0740d4452",
+    "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
+    "url": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
+    "summary_original": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar. Atlas joins a growing list of scrapped OpenAI products.\nThe article OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_atlas.png",
+    "published": "2026-07-10T12:19:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "158957794ce6",
+    "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
+    "url": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
+    "summary_original": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact. Warsh views AI as a \"significant disinflationary force,\" but Andreessen's firm Andreessen Horowitz is heavily invested in AI companies, raising conflict-of-interest questions.\nThe article The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/Office-Work-AI-scaled.jpg",
+    "published": "2026-07-10T12:18:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "924ef0874ff0",
+    "title": "OpenAI、Codexと「ChatGPT Work」の利用制限リセット　競合Claudeとリセット合戦に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000181/",
+    "summary_original": "Anthropicは同日、OpenAIの制限リセットに先立ち、Claudeの利用制限をリセットしていた。",
+    "thumbnail": "",
+    "published": "2026-07-10T12:13:22+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8e9121e5dcc9",
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/PigeonIntoMissile.edit_.jpg?w=3000",
+    "published": "2026-07-10T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "25a8c727f0cd",
+    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "summary_original": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-10T09:45:02-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "25b3108dc09f",
+    "title": "Would you host part of an AI data center in your home?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "summary_original": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-10T09:20:25-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9830a2528784",
+    "title": "衝撃展開でスタートしたTVアニメ『サンダー３』ノンクレジットOP＆ED映像公開に合わせて第1話情報おさらい",
+    "url": "https://gigazine.net/news/20260710-thunder-3/",
+    "summary_original": "仲良しの中学生トリオ・ぴょんたろうたち「スモール３」が迷子になった幼い妹を探しに出たところから始まる一大活劇アニメ『サンダー３』が、2026年7月8日(水)からフジテレビ「＋Ultra」ほかにて放送スタートとなりました。初回からさっそく、主人公たちがもう1つの世界・マルチバースに迷い込むという衝撃の展開を見せています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-10T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c41b81cc6994",
+    "title": "Sperm donors need limits, says a European fertility group",
+    "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "summary_original": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-10T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "31630fbac8b6",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "summary_original": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "thumbnail": "",
+    "published": "2026-07-10T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "9ac461d004e9",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "summary_original": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "thumbnail": "",
+    "published": "2026-07-10T00:16:54+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ec381c2ce49c",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-10T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "ca9130131aee",
+    "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+    "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+    "summary_original": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+    "published": "2026-07-09T20:52:55+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "7ea44db32d3b",
+    "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+    "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+    "summary_original": "Broadcom accuses Allstate of dodging VMware audits.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279315069-1024x648.jpg",
+    "published": "2026-07-09T20:28:55+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a90a0d3e9300",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "summary_original": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-20.29.29.png?w=180",
+    "published": "2026-07-09T20:22:28+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b34ecec603e3",
+    "title": "Microsoft’s carbon emissions went up 25 percent last year",
+    "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+    "summary_original": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-09T20:04:13-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "aa665a1ba2a0",
+    "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+    "summary_original": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-09T19:24:04-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a9ac60dc9fcf",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "summary_original": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "thumbnail": "",
+    "published": "2026-07-09T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c3749aa35f8d",
+    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+    "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/Photomontage-1.jpg?w=3000",
+    "published": "2026-07-09T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6e3eba7a17b3",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "url": "https://openai.com/index/gpt-5-6",
+    "summary_original": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "thumbnail": "",
+    "published": "2026-07-09T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "10a73f0831bf",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "summary_original": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "thumbnail": "",
+    "published": "2026-07-09T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0453af9ffcc0",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "summary_original": "Details about the OpenAI Bio Bounty program",
+    "thumbnail": "",
+    "published": "2026-07-09T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "178dc9863659",
+    "title": "Four nuclear reactors hit a big milestone in the US",
+    "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+    "summary_original": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-09T08:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
