@@ -1,0 +1,342 @@
+[
+  {
+    "id": "09d9f8bb8641",
+    "title": "第一子が娘の父親は男女平等に肯定的な傾向が強いことが日本の研究で判明",
+    "url": "https://gigazine.net/news/20260714-first-daughter-effect-japan/",
+    "summary_original": "政治的な価値観は親から子への一方向だけでなく、子どもから親へも伝わる可能性があります。早稲田大学政治経済学術院の尾野嘉邦教授とマカオ大学政府行政学部の千葉大奈准教授が日本の大規模社会調査を用いて、第一子の性別と父親のジェンダー平等意識や政策への支持との関係を分析しました。研究結果は2026年6月12日付で学術誌「Public Opinion Quarterly」に掲載されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-14T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5195b33cbf48",
+    "title": "中学校でのスマホ禁止ルールは生徒の生活の質や健康状態を大幅に改善することはないとの研究結果",
+    "url": "https://gigazine.net/news/20260713-school-smartphone-bans-mental-health/",
+    "summary_original": "各国では学校でのスマートフォン使用を禁止する動きが強まっており、これにより生徒の集中力やメンタルヘルスが改善すると期待されています。ところが新たな研究では、中学校におけるスマートフォン禁止ルールは、生徒の生活の質や健康状態に大きな影響をもたらさないとの結果が示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-13T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3f3aca68e70e",
+    "title": "超音波を使って声を発することなく会話ができるシステムが開発される",
+    "url": "https://gigazine.net/news/20260713-silent-speech-with-ultrasound/",
+    "summary_original": "AI研究開発企業のAlephが、超音波で舌の動きを観測し、声を出さずに発話した内容を文章へ変換するシステムを開発しました。約50時間分のデータで学習させた初期試作ながら、自由な語彙を含む発話を単語誤り率15.6％で認識できたと報告されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-13T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3917d3b170f3",
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "summary_original": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+    "thumbnail": "",
+    "published": "2026-07-13T20:59:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a718f3dedf8a",
+    "title": "脳に電気刺激を与える治療法がわずか10日間でうつ病治療に著しい効果をもたらしたとの研究結果",
+    "url": "https://gigazine.net/news/20260713-brain-zapping-improves-depression-10-days/",
+    "summary_original": "「脳に電気刺激を与える」と聞くとぎょっとするかもしれませんが、パーキンソン病やうつ病、強迫性障害といった疾患に対し、脳に磁気を利用して電気刺激を与える治療法が実際に行われています。新たな臨床試験では、脳に電気刺激を与える治療法がわずか10日間でうつ病(大うつ病性障害)の治療に大きな効果をもたらすことが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-13T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e9ec23954400",
+    "title": "イスラム過激派組織ボコ・ハラムがAIを使って爆発物の設計や武器の修理を行っていたことが判明",
+    "url": "https://gigazine.net/news/20260713-terrorist-group-use-ai/",
+    "summary_original": "ナイジェリアを拠点に活動するイスラム過激派組織「ボコ・ハラム」が、AIに爆発物の作り方や敵を攻撃する方法について尋ねていたことが分かりました。AIを利用したテロ計画がもたらす脅威について業界関係者は懸念しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-13T19:05:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8aa1f2304e3c",
+    "title": "Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Graph Planning, and Tool Routing for Video Editing Tasks",
+    "url": "https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/",
+    "summary_original": "In this tutorial, we reconstruct the VideoAgent workflow as a runnable, API-key-free multi-agent pipeline. We build an intent parser, an agent library, a tool router, a graph planner, and a textual-gradient optimizer that repairs the execution graph. We wire these planning components to FFmpeg, Whisper transcription, scene detection, keyframe sampling, captioning, cross-modal indexing, and beat-synced editing. By the end, we have a system that answers questions about a video, summarizes it, and ...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-07-13T18:30:30+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "25a33f9e5281",
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "summary_original": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+    "thumbnail": "",
+    "published": "2026-07-13T18:22:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "50ee0b4631ad",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-13T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ea30bf753a47",
+    "title": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+    "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/",
+    "summary_original": "OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints. The core advice is simple: describe the result you want, not the steps to get there. It's the first time OpenAI covers both Chat and Codex in a single framework.\nThe article OpenAI&#039;s new prompting guide tells users to stop overthinking and start with the result appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
+    "published": "2026-07-13T17:47:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c0b352c36c1e",
+    "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+    "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "summary_original": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+    "thumbnail": "",
+    "published": "2026-07-13T17:28:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "17cf5ff6a40c",
+    "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own",
+    "url": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/",
+    "summary_original": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto. He calls current deep learning methods \"weak and inefficient\" and wants to build AI agents that learn continuously from their environment.\nThe article Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/oak_lab_logo.png",
+    "published": "2026-07-13T17:15:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "795b5c34bb1b",
+    "title": "Siri AI is already changing how I use my iPhone",
+    "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+    "summary_original": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-13T16:43:20-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0e7e142d3d4e",
+    "title": "Should AI help you get away with killing your spouse?",
+    "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "summary_original": "What does a world of total user-aligned AI actually look like?",
+    "thumbnail": "",
+    "published": "2026-07-13T16:31:23+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fe3fa95ad03c",
+    "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast",
+    "url": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/",
+    "summary_original": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement. The AI transformation could surpass the Industrial Revolution but unfold in a fraction of the time. The paper doesn't propose concrete measures, and studies so far have found no significant AI-driven effects on the labor market.\nThe article Nobel laureates and AI leaders warn the window to prepare for AI&#03...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/ai_knowledge_work_jobs-1.png",
+    "published": "2026-07-13T16:00:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cda1dfeab597",
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "summary_original": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+    "thumbnail": "",
+    "published": "2026-07-13T15:34:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d9517d92e497",
+    "title": "Now, defenders are embracing the prompt injection, too",
+    "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "summary_original": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
+    "published": "2026-07-13T15:06:34+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "baa5683efa5c",
+    "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
+    "url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/",
+    "summary_original": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control their own learning infrastructure. Microsoft, of course, sells exactly that.\nThe article Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else&#039;s data appeared f...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_datacenter.png",
+    "published": "2026-07-13T14:28:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "fbe277444065",
+    "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ　公開から1年足らずで",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
+    "summary_original": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
+    "thumbnail": "",
+    "published": "2026-07-13T14:20:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "992454fe6924",
+    "title": "GMOグループ、AI時代に「エンジニア含む組織体制見直し」　熊谷代表が「AI変革最高責任者」に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news093.html",
+    "summary_original": "熊谷正寿代表が「グループCAIO」に。「エンジニアを含む組織体制を見直し、AIナイズされた組織へと変革する」",
+    "thumbnail": "",
+    "published": "2026-07-13T14:02:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ccaec44d1350",
+    "title": "Claude、利用制限を全リセット　競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+    "summary_original": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
+    "thumbnail": "",
+    "published": "2026-07-13T13:27:45+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f4f6cff77542",
+    "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可　国内AIベンチャーAIdeaLab",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
+    "summary_original": "AI開発企業のAIdeaLabは、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）を公開した。ライセンスは商用利用もできる「Apache-2.0」。",
+    "thumbnail": "",
+    "published": "2026-07-13T13:17:01+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "72b44b971496",
+    "title": "「ChatGPT Work」「Codex」の5時間制限枠を一時解除　「GPT-5.6 Sol」の処理効率も改良へ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000186/",
+    "summary_original": "米OpenAIは、デスクトップ向けAIツール「ChatGPT Work」や、付随するAIコーディングエージェント「Codex」に設定されている5時間の利用制限枠を一時的に解除すると発表した。",
+    "thumbnail": "",
+    "published": "2026-07-13T13:06:08+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1a0cc6df9f96",
+    "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+    "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "summary_original": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-13T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9b905ecd94cb",
+    "title": "The Download: a donor conception cap and world models for AI",
+    "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/COLOMBIA-6.edit_.jpg?w=3000",
+    "published": "2026-07-13T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ac82ff3dcf1e",
+    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "summary_original": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.\nThe article German AI consortium...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
+    "published": "2026-07-13T11:41:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b52f45f24505",
+    "title": "AI agent crawlers now need permission. Here’s how to get it",
+    "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+    "summary_original": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;announced&#160;the change on July 1, and most of the coverage since then has focused on Google. The more useful part [&#8230;]\nThe post AI agent crawlers now need permission. Here&#8217;s how to get it appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-07-13T11:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "1718314d0170",
+    "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
+    "url": "https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/",
+    "summary_original": "Agentic LLMs keep failing the same way because they lack specific, reusable capabilities. Stanford's TRACE diagnoses those gaps from an agent's own trajectories, synthesizes one verifiable training environment per capability, trains a LoRA adapter for each, and routes tokens across experts—improving τ²-Bench by +15.3 points and reaching 73.2% Pass@1 on SWE-bench Verified.\nThe post Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failu...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f512.png",
+    "published": "2026-07-13T08:45:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "67810eda4329",
+    "title": "Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations",
+    "url": "https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/",
+    "summary_original": "Prime Intellect launched verifiers 0.2.0, previewing a rewritten \"v1\" core under the verifiers.v1 namespace. It splits an environment into a taskset (what), a harness (how), and a runtime (where), with an interception server that proxies requests and records training-ready traces. Any taskset runs under any compatible harness, with full prime-rl training support at launch.\nThe post Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Eva...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-07-13T07:40:18+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b395493f3c08",
+    "title": "Waze is getting a bunch of new AI-powered features",
+    "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+    "summary_original": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-13T05:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d4554956a292",
+    "title": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes",
+    "url": "https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/",
+    "summary_original": "NeuroVFM is a generalist neuroimaging foundation model from the University of Michigan, trained on 5.24M clinical MRI and CT volumes. Its Vol-JEPA base extends I-JEPA and V-JEPA to volumetric medical imaging, learning brain anatomy and pathology without radiology-report labels.\nThe post Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-07-13T00:35:36+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "94ea0b8e28a8",
+    "title": "Guide to Loop Engineering: How ‘autoresearch’ and ‘Bilevel Autoresearch’ Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
+    "url": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
+    "summary_original": "Most people still use AI like a 2015 search box. You type, you read, you type again. A newer pattern replaces that manual back-and-forth with a loop. This guide explains loop engineering using two verified artifacts. The sources are Andrej Karpathy&#8217;s autoresearch repository and the Bilevel Autoresearch paper. The framing follows a write-up by @0xCodila. [&#8230;]\nThe post Guide to Loop Engineering: How &#8216;autoresearch&#8217; and &#8216;Bilevel Autoresearch&#8217; Turn AI Agents Into Au...",
+    "thumbnail": "",
+    "published": "2026-07-12T20:07:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "dd4ae4b81f35",
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "summary_original": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smart [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-12T16:10:19-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8f4dc6d90b88",
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "summary_original": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-12T12:27:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
