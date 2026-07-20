@@ -1,0 +1,332 @@
+[
+  {
+    "id": "4dbf2bb83ed8",
+    "title": "フランス賭博規制庁が予測市場・Polymarketへのアクセスを遮断",
+    "url": "https://gigazine.net/news/20260720-france-block-polymarket/",
+    "summary_original": "フランス賭博規制庁(ANJ)がどんな題材でも賭け事の対象になって実質的な賭場となっている予測市場プラットフォーム「Polymarket」へのアクセスを遮断したと発表しました。ANJは以前からPolymarketについて規制対象かどうか調査を行っていました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-20T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a355592746d5",
+    "title": "仕事のスケジュールが不確実な労働者は幸福度が低い傾向にあるという研究結果",
+    "url": "https://gigazine.net/news/20260720-unstable-work-schedule-happiness/",
+    "summary_original": "勤務時刻が直前まで決まらない労働者の生活全体の幸福度は、規則的な勤務時刻の労働者よりも低い傾向にあるとアメリカ・ペンシルベニア州立大学などの研究チームが報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-20T22:15:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "20d9bcdf5693",
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "summary_original": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+    "thumbnail": "",
+    "published": "2026-07-20T21:21:15+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "67da95f7c69f",
+    "title": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages",
+    "url": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
+    "summary_original": "Alibaba&#8217;s Tongyi Lab has released Qwen-Audio-3.0-TTS, a production-oriented text-to-speech (TTS) system. The model ships in two variants from the same lineage. Flash targets real-time interaction. Plus targets high-quality generation. Both are delivered as hosted models through Alibaba Cloud Model Studio, not as downloadable weights. The release focuses on four things developers hit in production: broader [&#8230;]\nThe post Alibaba&#8217;s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted T...",
+    "thumbnail": "",
+    "published": "2026-07-20T21:14:19+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9afbcd831bf6",
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "summary_original": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-07-20T20:50:40+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "180974706d82",
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "summary_original": "X says the rebuilt version of its Android app is now available globally.",
+    "thumbnail": "",
+    "published": "2026-07-20T19:37:39+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7eab661b9a59",
+    "title": "OpenAI is scared of open-weight models. Should the US be?",
+    "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "summary_original": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+    "thumbnail": "",
+    "published": "2026-07-20T19:33:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "25d79dc10165",
+    "title": "単語を並び替えて簡単な英単語を作る無料ゲーム「18 Words」",
+    "url": "https://gigazine.net/news/20260720-18-words/",
+    "summary_original": "「18 Words」はブラウザから無料で遊べるゲームで、4～8個のアルファベットを並び替えて英単語を見つけ出すゲームです。使われている単語は中学英語くらいの簡単なもののため、毎日変わる問題に誰でも気軽に挑戦できます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-20T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "aa2345813d33",
+    "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+    "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+    "summary_original": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI inference costs and could give the company a price advantage over OpenAI and Anthropic.\nThe article Google&#039;s &quot;Frozen v2&quot; chip reportedly bakes Gemini&#039;s architecture directly into silicon for efficiency gains appeared fi...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-2.png",
+    "published": "2026-07-20T18:08:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9d9ab32a92b9",
+    "title": "WordPress.comの「Studio Code」ベータ版がデスクトップ版で無料利用可能なので試しに使ってみたレビュー",
+    "url": "https://gigazine.net/news/20260720-studio-code/",
+    "summary_original": "ローカル環境でWordPressサイトを作成し、完成したページを一時公開して共有できる無料のデスクトップアプリが「WordPress Studio」です。このWordPress Studioに「WordPress専用のAIコーディングCLIツール『Studio Code』ベータ版」が統合され、デスクトップアプリ上のチャットからページの作成やテーマ・プラグインの操作ができるということで、実際に使って機能を確認してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-20T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "61d13d198506",
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-20T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "36b8813db81a",
+    "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+    "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+    "summary_original": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length feature next.\nThe article District 9 director Neill Blomkamp releases first short film made entirely with AI video generation appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/NIGHTBORNE-—-A-Neill-Blomkamp-Sci-Fi-Film.-Fully-AI-4K-10-40-screenshot-scaled.png",
+    "published": "2026-07-20T17:32:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3353d192712a",
+    "title": "SpaceX in your index fund, explained",
+    "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+    "summary_original": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-20T17:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "acfd19c29a60",
+    "title": "ナンバー検知のミスで盗難車の誤検知が大量発生しロス市警がシステム開発企業との契約を終了、試乗レビュー中に盗難車と間違えられる事態も",
+    "url": "https://gigazine.net/news/20260720-automatic-license-plate-reader-system/",
+    "summary_original": "アメリカではFlock Safetyという企業のナンバープレート自動読みとりシステム(ALPR)が配備されています。新たに、ロサンゼルス市警察が誤検知の多さを理由にFlock Safetyとの契約を終了したことが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-20T16:46:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cc7e03f547e8",
+    "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
+    "url": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
+    "summary_original": "Microsoft is expanding Azure's AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's GPU systems in the second half of 2026. A public GitHub profile suggests Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power.\nThe article Nvidia&#039;s grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logo_wall_blue.png",
+    "published": "2026-07-20T16:44:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "86f2663fd4b6",
+    "title": "Introducing Cosmos 3 Edge",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-20T15:58:51+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "af832c75a2ac",
+    "title": "Adobe camera app’s new feature will critique your photos using AI",
+    "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+    "summary_original": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+    "thumbnail": "",
+    "published": "2026-07-20T15:45:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "db986eb8d803",
+    "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
+    "url": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+    "summary_original": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than impose an outright ban, Washington could use soft rules to deter adoption while protecting the market positions of OpenAI, Google, and Anthropic.\nThe article Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/china_vs_usa_race.png",
+    "published": "2026-07-20T14:03:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5cc35cb043bd",
+    "title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+    "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/",
+    "summary_original": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by an agent framework. During forensic analysis, commercial AI models actually got in the way of the defenders because their safety guardrails couldn't tell exploit data from real attacks.\nThe article Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back appeared first ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/hugging_face_security.png",
+    "published": "2026-07-20T12:12:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d3e0bceadbfd",
+    "title": "The Download: AI hiring biases, and weather data sabotage",
+    "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITcarscams.jpg?w=3000",
+    "published": "2026-07-20T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "128f757a1082",
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "summary_original": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-20T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dc5fa4630bd3",
+    "title": "Hugging FaceにAI主導のサイバー攻撃　防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
+    "summary_original": "Hugging Faceは、自律型AIエージェントによる本番インフラへの侵入を検知、対処したと発表した。一部の内部データセットと複数の資格情報への不正アクセスを確認した。ログ解析には当初商用AIを使ったが、安全ガードレールに阻まれたため、最終的にオープンウェイトモデル「GLM 5.2」を自社インフラで実行して解析した。",
+    "thumbnail": "",
+    "published": "2026-07-20T10:08:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "960e35dd4f7d",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "summary_original": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "thumbnail": "",
+    "published": "2026-07-20T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "d6a09501cf0a",
+    "title": "US public health agencies to test OpenAI and Anthropic AI models",
+    "url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+    "summary_original": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, or territorial jurisdictions. The programme is intended to produce [&#8230;]\nThe post US public health agencies to test OpenAI and Anthropic AI models appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-07-20T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "272130dc4b4c",
+    "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
+    "url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+    "summary_original": "Moonshot AI&#8217;s Kimi K3 open-weight model has been read almost entirely through its parameter count since it&#160;launchedon July 16. At 2.8 trillion parameters, it is the largest open-weight model released to date. Model sizes are usually grouped into rough brackets, and 2.8 trillion rounds into what the industry calls the 3T class. A tier no [&#8230;]\nThe post Kimi K3 open-weight model: China&#8217;s biggest AI is a bet on memory, not compute appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-3.41.50-PM-1024x579.png",
+    "published": "2026-07-20T09:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "d213c30d2534",
+    "title": "AI is more likely than humans to form biases when hiring",
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "summary_original": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-20T08:39:01+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c76b3f431789",
+    "title": "China delivers a one-two punch to America’s AI dominance",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "summary_original": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-20T06:16:33-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "401be8004b15",
+    "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
+    "url": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
+    "summary_original": "A community developer fine-tuned OpenBMB's MiniCPM5-1B on Claude Fable 5 traces into a 1B model that runs fully local — a 657MB smallest build, 128K context, and visible reasoning. We verify every spec against the Hugging Face cards, separate what a fine-tune actually inherits from real capability, and flag the licensing question the model card leaves open.\nThe post Someone Fine-Tuned OpenBMB&#8217;s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model appeared first on Mark...",
+    "thumbnail": "",
+    "published": "2026-07-20T01:56:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "20ef73922366",
+    "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared",
+    "url": "https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/",
+    "summary_original": "A single 24GB GPU is the practical floor for serious local inference. This guide compares six open-weight models that fit one card at Q4_K_M. It covers Qwen3.6, Gemma 4, Mistral Small, gpt-oss-20b, and DeepSeek-R1-Distill. Each entry lists VRAM fit, licensing, and the job it does best.\nThe post Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-20T01:18:46+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1d5f89a74ae5",
+    "title": "Feyn AI Releases SQRL, a Text-to-SQL Model Family That Inspects the Database Before Writing a Query",
+    "url": "https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/",
+    "summary_original": "Feyn Labs has released SQRL, a family of text-to-SQL models that inspect a database with read-only probes before committing to a query. The flagship SQRL-35B-A3B reports 70.6% execution accuracy on BIRD Dev, edging Claude Opus 4.6, and distills into self-hostable 4B and 9B checkpoints.\nThe post Feyn AI Releases SQRL, a Text-to-SQL Model Family That Inspects the Database Before Writing a Query appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-19T22:20:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "66f4015fb66b",
+    "title": "Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch",
+    "url": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
+    "summary_original": "Alibaba's Qwen team previewed Qwen3.8-Max-Preview, a 2.4 trillion-parameter multimodal MoE model it calls \"second only to Fable 5.\" The preview is live on Token Plan, Qoder, and QoderWork at 10% of standard pricing. What is not live: any benchmark table, model card, license, per-token price, or active-parameter count. This breakdown separates what Alibaba confirmed from what it only claimed.\nThe post Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot&#82...",
+    "thumbnail": "",
+    "published": "2026-07-19T21:42:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b76bec5ff62b",
+    "title": "I hate that I don’t hate this song made with Suno",
+    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+    "summary_original": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-19T13:35:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b2cdfabb0a34",
+    "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+    "summary_original": "27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。",
+    "thumbnail": "",
+    "published": "2026-07-19T08:40:43+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  }
+]
