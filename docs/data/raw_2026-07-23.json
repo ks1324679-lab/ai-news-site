@@ -1,0 +1,402 @@
+[
+  {
+    "id": "39ff2b5a04a9",
+    "title": "メモリ価格が約8倍に高騰したのはなぜなのか？Samsung・SK hynix・Micronの価格操作疑惑を巡る訴訟が始まる",
+    "url": "https://gigazine.net/news/20260723-dram-price-fixing-lawsuit/",
+    "summary_original": "Samsung Electronics・SK hynix・Micron Technologyの3社が従来型DRAMの供給を協調して制限し、価格を人為的につり上げたとする反トラスト訴訟がアメリカで始まりました。原告側は「AI需要の急増だけではこれだけの価格上昇を説明できない」と主張しており、その鍵となる3社のこれまでの動向をPCハードウェア系メディアのGamers Nexusが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-23T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8463c2c92df2",
+    "title": "AI時代、開発チームの人材は“5つの型”に分かれる　Claude Code開発責任者の見立て",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news015.html",
+    "summary_original": "Claude Code開発責任者のボリス・チャーニー氏が、自身のチームで働く人は「5つの型」に分けられると指摘した。AIで職種の垣根が崩れ始めた今、肩書きではなく働き方で人を捉える新時代の発想を、初心者にも分かるように読み解く。",
+    "thumbnail": "",
+    "published": "2026-07-23T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "31447e74ad9d",
+    "title": "USB早見表、規格ごとの速度・配線・給電能力がひと目でわかる",
+    "url": "https://gigazine.net/news/20260722-usb-cheat-sheet/",
+    "summary_original": "USBケーブルやポートなどに記載されている「USB 2.0」や「USB 3.2」といったUSB規格が何を意味しているのかを理解していないという人も多いはず。USBに関連する用語が何を意味しており、どのように理解すればいいのか、エンジニアのファビエン・サングラード氏がまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-22T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a9590cd07cc6",
+    "title": "TSMCがチップの受託製造価格を最大10％引き上げへ、HPCチップの場合はさらに10％～15％の追加料金",
+    "url": "https://gigazine.net/news/20260722-tsmc-price-hike/",
+    "summary_original": "半導体受託製造の業界最大手・TSMCが、2027年から受託価格を最大で10％引き上げる予定であることを、日経アジアが関係者からの情報として報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-22T22:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "66e5b95c1727",
+    "title": "OpenAIの「次世代AIモデル」についてサム・アルトマンCEOが直々にトランプ政権とアメリカの議員へ説明予定",
+    "url": "https://gigazine.net/news/20260722-openai-brief-us-officials/",
+    "summary_original": "OpenAIの幹部が、同社のサム・アルトマンCEOとアメリカの議会議員が近いうちに会談を行う予定だと語りました。アルトマンCEOは次世代のAIモデルについて政府側に説明する予定です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-22T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "35f08210568b",
+    "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
+    "url": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
+    "summary_original": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specifications, and examining the benchmark taxonomy, execution settings, internet requirements, judging logic, and scoring metadata. We then [&#8230;]\nThe post Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboa...",
+    "thumbnail": "",
+    "published": "2026-07-22T21:53:58+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "dcfaec0ef2bb",
+    "title": "AIモデルは1つに決めない方が安くて高性能、Kimi K3とFable 5の使い分けで最大50倍のコスト効率という実験結果",
+    "url": "https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/",
+    "summary_original": "生成AI基盤を提供するFireworks AIが、オープンモデルの「Kimi K3」とクローズドモデルの「Fable 5」を約1000件のタスクで比較しました。課題ごとに適したモデルを選ぶ方法では正答率が93％に達し、長時間にわたるエージェント型タスクではFable 5単独より最大で約50倍もコスト効率がよくなったとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-22T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "eb195570e729",
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "summary_original": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+    "thumbnail": "",
+    "published": "2026-07-22T20:49:03+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a3b940002dc1",
+    "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+    "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
+    "summary_original": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI training itself. Judge Alsup had previously ruled that AI training on legally obtained books is \"transformative\" and falls under fair use. The settlement is actually a win for AI labs.\nThe article Anthropic&#039;s $1.5B piracy settlement with book authors is a record loss that hands AI labs their big...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_books_lawsuit-1.png",
+    "published": "2026-07-22T19:33:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "298db90fda8b",
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "summary_original": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "thumbnail": "",
+    "published": "2026-07-22T19:11:46+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6a7f08f97575",
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "summary_original": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+    "thumbnail": "",
+    "published": "2026-07-22T18:50:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2eef0e4f7c29",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "summary_original": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+    "thumbnail": "",
+    "published": "2026-07-22T18:13:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e726d7442e64",
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "summary_original": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+    "thumbnail": "",
+    "published": "2026-07-22T17:54:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d02fb8f5db9f",
+    "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
+    "url": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
+    "summary_original": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after Meta and OpenAI as it tries to challenge Nvidia as an AI chip supplier. Critics see these agreements as circular cash flows.\nThe article Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logowall.png",
+    "published": "2026-07-22T16:54:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f76a51228583",
+    "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
+    "url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
+    "summary_original": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institute's infrastructure, triggering a security alert.\nThe article Every frontier AI model tested by Britain&#039;s safety institute tried to cheat on cybersecurity evaluations appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/aisi_logo.png",
+    "published": "2026-07-22T16:41:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ef62f8882555",
+    "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
+    "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
+    "summary_original": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests.\nThe article Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/cisco_logo.png",
+    "published": "2026-07-22T16:28:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "386fd96fbcf3",
+    "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032",
+    "url": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/",
+    "summary_original": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power. The company pledged $80 million for the local community and $71 million in Codex credits for students to counter growing opposition to US data centers that many residents see as resource-hungry but job-poor.\nThe article OpenAI&#039;s &quot;Project Camellia&quot; in Georgia secures a massive 3.2-gigawatt power deal through 2032 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+    "published": "2026-07-22T15:45:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d4288caae5b1",
+    "title": "OpenAIのモデルがサイバー攻撃能力評価中に暴走　テストの答えを求めてHugging Faceに侵入",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000214/",
+    "summary_original": "OpenAIのAIモデルが、サイバー攻撃能力の評価中に隔離環境を突破し、Hugging Faceの本番インフラに侵入していたことが分かった。ベンチマークの解答を入手するため、ゼロデイ脆弱性の悪用や認証情報の窃取を重ねていたという。",
+    "thumbnail": "",
+    "published": "2026-07-22T15:21:19+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "035d1961f883",
+    "title": "無料で身に付くデータサイエンス　延べ23万人が受講、総務省が募集開始",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news024.html",
+    "summary_original": "総務省は、データサイエンスオンライン講座「社会人のためのデータサイエンス入門」をリニューアルし、受講者の募集を開始した。慶應義塾大学の安宅和人教授など12人を講師に迎え、統計データ分析の基本を無料で学べる、社会人や大学生向けの入門講座だ。",
+    "thumbnail": "",
+    "published": "2026-07-22T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4eb3751221ad",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "summary_original": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "thumbnail": "",
+    "published": "2026-07-22T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7c5769317a94",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "summary_original": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "thumbnail": "",
+    "published": "2026-07-22T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "b030bc345017",
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/MIT-TSMC-2-final-thumb.jpg?w=840",
+    "published": "2026-07-22T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1de8660326e5",
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "summary_original": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "thumbnail": "",
+    "published": "2026-07-22T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "4d49634962c3",
+    "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
+    "url": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+    "summary_original": "SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China. In a keynote titled ‘Intelligent Transformation and Symbiosis,’ Yang Fan – the company’s co-founder and president of its Large Device Business Group – laid out what SenseTime describes as a closed loop connecting chip-level technology, ecosystem [&#8230;]\nThe post SenseTime&#8217;s Galaxy Project targets domestic AI chip scale-up appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-07-22T11:21:05+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "afa6e5c0b8eb",
+    "title": "MicrosoftとMistralが戦略的提携を拡大　欧州でのAIインフラ拡張とモデル展開を加速",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
+    "summary_original": "MicrosoftとMistralは戦略的提携を拡大すると発表した。Mistralの最新モデルをMicrosoftの各プラットフォームへ展開するほか、欧州でのGPUインフラ拡張に向けて大規模な投資を行う。クラウドから完全オフラインまで多様な環境に対応し、規制業界での高度なAI導入と自社管理を支援する。",
+    "thumbnail": "",
+    "published": "2026-07-22T10:22:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "91f9fee76e02",
+    "title": "AIを悪用した攻撃、どう対抗する？　EDR導入の“次”にやるべきこと",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/22/news025.html",
+    "summary_original": "ランサムウェアやサプライチェーン攻撃が中堅・中小企業にも及ぶ中、国内のEDR市場は前年度比13.3％増と2桁成長を続ける。中堅・中小企業にも普及する一方で、高度なAIツールを悪用したサイバー攻撃対策にはEDR導入だけでは十分ではない。",
+    "thumbnail": "",
+    "published": "2026-07-22T09:35:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "69d0c928de35",
+    "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM, and Multi-GPU",
+    "url": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
+    "summary_original": "Four open source projects dominate LLM fine-tuning today. Unsloth, Axolotl, TRL, and LLaMA-Factory all wrap the same underlying PyTorch and Hugging Face stack. They diverge on where they spend engineering effort. Unsloth rewrites kernels. Axolotl composes parallelism strategies. TRL defines the trainer APIs the others build on. LLaMA-Factory optimizes for breadth of model coverage and [&#8230;]\nThe post Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM...",
+    "thumbnail": "",
+    "published": "2026-07-22T09:16:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "def4f0c143c3",
+    "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+    "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+    "summary_original": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-22T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d822ef4f614f",
+    "title": "Meta made its own AI detection system. It should have just used Google’s",
+    "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "summary_original": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-22T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b7121dd28617",
+    "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases",
+    "url": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
+    "summary_original": "Cisco Foundation AI has released Antares, a family of small language models trained to pinpoint where known vulnerabilities live inside a codebase. Antares-1B reaches 0.209 File F1 on the new Vulnerability Localization Benchmark, above GLM-5.2 at 753B parameters and Gemini 3 Pro. The untrained Granite 4.0 checkpoints score near zero under the same protocol, so post-training supplies almost all of the capability. A full 500-task sweep runs in roughly 13 minutes on a single H100 for under a dollar...",
+    "thumbnail": "",
+    "published": "2026-07-22T06:27:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "190df8c6e736",
+    "title": "Utility companies promise to spare us from AI’s energy bill",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+    "summary_original": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-22T06:12:13-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1f5d786bd553",
+    "title": "Introducing OpenAI Presence",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "summary_original": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "thumbnail": "",
+    "published": "2026-07-22T05:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5b878e0f0f7e",
+    "title": "Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual",
+    "url": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
+    "summary_original": "Poolside has released Laguna S 2.1, a 118B open-weight Mixture-of-Experts coding model with 8B active parameters per token and a 1M-token context. It matches or beats models several times its size on agentic coding benchmarks, ships under OpenMDW-1.1, and runs on a single NVIDIA DGX Spark.\nThe post Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-22T00:01:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4be8433189bb",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-21T20:00:27+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "8cb5d4d41e54",
+    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+    "summary_original": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-21T18:06:43-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "202a0e7e6bd6",
+    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+    "summary_original": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-21T17:48:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "71f66b17dd4b",
+    "title": "Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built for Agentic Workloads",
+    "url": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
+    "summary_original": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber on July 21, 2026. The Flash tier gets cheaper and more token-efficient, with 3.6 Flash cutting output tokens 17% and dropping its output price to $7.50 per 1M. Flash-Lite runs at 350 tokens/sec, while gated Flash Cyber powers CodeMender for vulnerability finding. The flagship 3.5 Pro remains delayed.\nThe post Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/07/HNwo7c1a8AA5h9d-1.jpeg",
+    "published": "2026-07-21T17:45:08+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9783627bd88c",
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "summary_original": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "thumbnail": "",
+    "published": "2026-07-21T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "629a5fdfb088",
+    "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs",
+    "url": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+    "summary_original": "Google has released Gemini 3.6 Flash and 3.5 Flash-Lite as new workhorses designed to cut latency and token costs for enterprise AI agents. The economics of running autonomous software agents inside a production environment come down to a fixed equation few vendors advertise directly. A model needs to reason through a multi-step task competently, but [&#8230;]\nThe post Google&#8217;s Gemini 3.6 Flash targets enterprise agent token costs appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-07-21T16:06:55+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "479948011bc9",
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+    "summary_original": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-21T15:22:28-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
