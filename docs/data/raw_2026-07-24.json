@@ -1,0 +1,362 @@
+[
+  {
+    "id": "a4296b567109",
+    "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
+    "summary_original": "三井不動産は事業説明会で「産業デベロッパー」への領域拡大を発表した。従来の物流拠点供給にとどまらず、研究開発施設や自動運転対応を進める。データセンター事業には累計6000億円超を投じ、稼働済みの3棟に加え7棟を開発中だ。",
+    "thumbnail": "",
+    "published": "2026-07-24T06:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "77a3daa1bfc9",
+    "title": "単一HTMLファイルでローカル動作するスライド作成ウェブアプリ「Bento/Slides」が登場、共同編集可能＆AIエージェントでの自動操作もスムーズ",
+    "url": "https://gigazine.net/news/20260724-bento-slides-powerpoint-alternative/",
+    "summary_original": "FirefoxやChromeなどのウェブブラウザ上で動作する無料のスライド作成アプリ「Bento/Slides」が登場しました。Bento/Slidesは作成したスライドだけでなく「スライド作成機能そのもの」も含めて単一のHTMLファイルとして保存できるのが特徴で、インターネット接続不要でスライドを作成できます。また、AIエージェントを用いたスライド作成も考慮して設計されているほか、インターネットに接続すれば共同編集機能も使うことができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-24T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2a5f4cb43b7c",
+    "title": "Kimi K3はAIエージェントのベンチマーク「AA-Briefcase」でFable 5に次ぐ2位の成績を達成、しかし実行コストはOpus 4.8よりも高くタスクあたり平均1時間近くかかる",
+    "url": "https://gigazine.net/news/20260723-kimi-k3-artifical-analysis/",
+    "summary_original": "中国のAI企業・Moonshot AIが2026年7月17日に発表した2兆8000億パラメータの大規模モデル・Kimi K3は、一部のベンチマークテストでClaude Fable 5を超える性能を示したとして大きな注目を集めました。生成モデル比較サイトのArtifical Analysisが、Kimi K3のベンチマーク結果を公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-23T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "053aa0d13bd7",
+    "title": "電子書籍リーダーのためのオープンエコシステム「Free Ink」、ソフトウェア・ファームウェア・ハードウェアを開発するオープンソースプロジェクト群",
+    "url": "https://gigazine.net/news/20260723-free-ink-e-readers/",
+    "summary_original": "「Free Ink」は電子書籍リーダーをメーカーに依存せず自由に開発・改造できるようにするためのオープンソースプロジェクト群です。ソフトウェア・ファームウェア・ハードウェアを開発するプロジェクトがそれぞれオープンに公開されているため、誰でも自由に利用・拡張・カスタマイズできます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-23T22:35:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f002f39be93d",
+    "title": "不動産情報をAI改変した場合の情報開示義務付けなどをニューヨーク市長が提言",
+    "url": "https://gigazine.net/news/20260723-nyc-rental-ripoff-report/",
+    "summary_original": "不動産業者が物件写真の生成・加工にAIを使用し混乱を招く事態が発生する中、ニューヨーク市のゾーラン・クワメ・マムダニ市長が賃貸詐欺報告書を発表し、賃貸物件の情報がAIで改変されていた場合に情報を開示することを義務付けるなど23項目の政策措置を示しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-23T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "886cf89677f3",
+    "title": "Rust移行版の「Bun v1.4.0」が正式リリースに先駆けてClaude Codeへ組み込まれていたことが判明",
+    "url": "https://gigazine.net/news/20260723-claude-code-bun-in-rust/",
+    "summary_original": "ソフトウェア開発者のサイモン・ウィリソン氏がAIコーディングツール「Claude Code」の実行ファイルを調べたところ、正式リリース前の「Bun v1.4.0」が組み込まれていることが分かりました。このBun v1.4.0は、従来のZig製コード約53万行をRustへ移植した新バージョンで、一般公開に先立ってClaude Code上で実際に使われていました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-23T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2a9598e40ea5",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "summary_original": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "thumbnail": "",
+    "published": "2026-07-23T20:33:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f081f25fbfa8",
+    "title": "ChatGPT will give you worse health advice if you don't pay",
+    "url": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
+    "summary_original": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful GPT-5.6 Sol model is reserved for premium subscribers, while free users are stuck with the weaker GPT-5.5 Instant.\nThe article ChatGPT will give you worse health advice if you don&#039;t pay appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_health.png",
+    "published": "2026-07-23T19:30:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "72230c694e6c",
+    "title": "「スパイダーロボ」登場　がれきを走破、モノに「触って判断」も　災害現場で活用へ　国内ベンチャー",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000217/",
+    "summary_original": "アトラックラボ（埼玉県入間郡）は、クモの形を模したロボットを開発したと発表した。実際のクモより2本少ない6本の脚を備えており、画像や触覚情報も処理できる。災害現場や危険区域などでの活用を目指す。",
+    "thumbnail": "",
+    "published": "2026-07-23T19:04:48+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0a457876b007",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "summary_original": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "thumbnail": "",
+    "published": "2026-07-23T19:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "83feacd899b0",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "summary_original": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+    "thumbnail": "",
+    "published": "2026-07-23T18:38:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "02b56c033a77",
+    "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
+    "url": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
+    "summary_original": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ahead of market leader Seedance 2.0, though independent results aren't yet available. The company ultimately wants to build a world model and is already testing Flux 3 on robotics tasks.\nThe article Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs appear...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/bfl_flux3_video.png",
+    "published": "2026-07-23T18:03:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "27b0ad299863",
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "summary_original": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device. In an [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-23T17:15:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7280fe4d8d9a",
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "summary_original": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+    "thumbnail": "",
+    "published": "2026-07-23T17:07:35+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f7abdca68b7d",
+    "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+    "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+    "summary_original": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the victim's identity and access rights, bypassed approval requirements through the malicious prompt, and pulled new instructions from the attacker's inbox every five minutes.\nThe article One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes appeared f...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/agent_builder_openai.jpg",
+    "published": "2026-07-23T17:01:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a9cb3adc849d",
+    "title": "OpenAI makes ChatGPT Health available to all US users",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "summary_original": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "thumbnail": "",
+    "published": "2026-07-23T17:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ba66588328d0",
+    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+    "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+    "summary_original": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260722_livercooling_embed1.png?w=840",
+    "published": "2026-07-23T16:58:28+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bfb66a7e99c5",
+    "title": "三菱電機とソニー、AIビジョンセンサーで新会社設立へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news079.html",
+    "summary_original": "三菱電機とソニーセミコンダクタソリューションズは、製造業向けAIビジョンセンサーソリューションを開発する新会社を合弁で設立する。新会社の社名は「Advanced Vision Solutions」で、2026年10月より事業を始める予定。",
+    "thumbnail": "",
+    "published": "2026-07-23T16:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f7a651ced671",
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "summary_original": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-23T15:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "655cdfa99e06",
+    "title": "Patreon is laying off 20 percent of workers",
+    "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "summary_original": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-23T14:20:30-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1d1f4c9db4af",
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "summary_original": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-23T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "fb4765da4389",
+    "title": "Markdownファイルが、AI時代の負債に？　Googleが提案する「ナレッジ標準化」の一手",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
+    "summary_original": "Google Cloudは、AIエージェントが利用するナレッジをMarkdownで標準化するオープンフォーマット「Open Knowledge Format」を公開した。ベンダー非依存で、異なるエージェント間でもナレッジをそのまま共有できる。",
+    "thumbnail": "",
+    "published": "2026-07-23T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f14d36ac24a4",
+    "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
+    "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
+    "summary_original": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions. The compact model beats several much larger rivals in benchmarks. Poolside says it also solved a math problem that had been open since 1975 for under 10 cents.\nThe article Poolside&#039;s Laguna S 2.1 is a small open-weight coding model that punches well abo...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/Poolside-Logo-Wall-generated-image-nano-banana-pro.png",
+    "published": "2026-07-23T12:24:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4851c8c0715d",
+    "title": "The Download: energy transmission and US threats against Chinese AI",
+    "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about&#8230;",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f96c.png",
+    "published": "2026-07-23T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7f188a0c6b4b",
+    "title": "How AI helps scientists design the next generation of medicines",
+    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+    "summary_original": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg",
+    "published": "2026-07-23T12:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4af95f55b0f1",
+    "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
+    "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
+    "summary_original": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and has kicked off an ambitious Gemini 4 training run.\nThe article Google CEO Pichai says Gemini&#039;s next leap depends on building &quot;much larger base models&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+    "published": "2026-07-23T11:19:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c3ec75b6a5b6",
+    "title": "Macアプリ版「Claude Code」がiOSシミュレータと連携　「Computer Use」なしでアプリ操作",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000216/",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-23T10:56:04+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bf8b59fc2dda",
+    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "summary_original": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-23T10:13:35-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "31cc69d5f18c",
+    "title": "The power line that could reshape New York’s grid is hitting snags",
+    "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+    "summary_original": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-23T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b6e63d548020",
+    "title": "Launching Health in ChatGPT",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "summary_original": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "thumbnail": "",
+    "published": "2026-07-23T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "a8b687efdbfa",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-23T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "4eb3751221ad",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "summary_original": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "thumbnail": "",
+    "published": "2026-07-22T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7c5769317a94",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "summary_original": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "thumbnail": "",
+    "published": "2026-07-22T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "b030bc345017",
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/MIT-TSMC-2-final-thumb.jpg?w=840",
+    "published": "2026-07-22T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1de8660326e5",
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "summary_original": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "thumbnail": "",
+    "published": "2026-07-22T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "1f5d786bd553",
+    "title": "Introducing OpenAI Presence",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "summary_original": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "thumbnail": "",
+    "published": "2026-07-22T05:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
