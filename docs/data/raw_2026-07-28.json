@@ -1,0 +1,362 @@
+[
+  {
+    "id": "51d46ce5c158",
+    "title": "夏の日差しだけではビタミンD不足を解消できない可能性がある",
+    "url": "https://gigazine.net/news/20260728-summer-sun-vitamin-d-insufficiency/",
+    "summary_original": "日照時間の短い冬には体内のビタミンD量が低下し、日照時間の長い夏になれば回復すると考えられています。ニューカッスル大学のアリス・ゴダード氏らの研究チームは、ビタミンDが不足している人の割合が季節によってどう変わるのかを調べました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-28T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6689a3f7ee50",
+    "title": "Firefoxがリリースサイクルを4週間から2週間に短縮、準備の整った機能をユーザーに頻繁に届けられるように",
+    "url": "https://gigazine.net/news/20260727-firefox-release-cadence/",
+    "summary_original": "Mozillaのウェブブラウザ・Firefoxは4週間に1回の頻度でメジャーアップデートを配信していますが、2026年9月から、頻度を2週間に1回に早めることになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-27T23:45:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "24e50f4abe5c",
+    "title": "AIのトークン価格を10分の1にできる「プロンプトキャッシュ」の仕組みとは？",
+    "url": "https://gigazine.net/news/20260727-prompt-caching/",
+    "summary_original": "OpenAIのGPTシリーズやAnthropicのClaudeなどの大規模言語モデル(LLM)では、同じプロンプトを繰り返し利用する場合に入力トークンの処理を再利用する「プロンプトキャッシュ」が導入されており、通常の入力トークンと比べて約10分の1の料金で利用できる場合があります。開発者向けサービスを提供するngrokが、プロンプトキャッシュの仕組みを詳しく解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-27T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "52e508a5ec44",
+    "title": "NVIDIAの革ジャンCEOと同じメニューを東京の居酒屋で食べてきたよレポート、時価総額世界一のCEOは一体何を食べたのか？",
+    "url": "https://gigazine.net/news/20260727-nvidia-jensen-huang-izakaya/",
+    "summary_original": "2026年7月15日にNVIDIAのジェンスン・フアンCEOが来日し、東京の居酒屋「やきとん三吉 神田北口店」で食事しました。その際のメニューがそのまま「ご来店記念コース」としてコースメニュー化していたので、実際に予約して食べてきました。時価総額世界一の企業のCEOが一体どんなものを食べたのか、詳しくレポートします。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-27T22:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ffce6d11ed09",
+    "title": "数百隻の自律航行船が貿易・採掘・貨物輸送・拠点の放棄を行う様子を神の視点で観察する宇宙経済シミュレーター「The Space Project」",
+    "url": "https://gigazine.net/news/20260727-the-space-project/",
+    "summary_original": "何百隻もの自律型宇宙船が太陽系の中で航行し独自の経済圏を築き上げる様子を観察できるシミュレーター「The Space Project」が公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-27T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f1637c21f380",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "summary_original": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "thumbnail": "",
+    "published": "2026-07-27T21:17:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bb9255bcb9ec",
+    "title": "Kimi AI and kvcache-ai Open Sources ‘AgentENV’: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3",
+    "url": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
+    "summary_original": "Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.\nThe post Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3 appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-27T20:48:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f6ec309cb073",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "summary_original": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "thumbnail": "",
+    "published": "2026-07-27T20:19:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "141e92ad20da",
+    "title": "NVIDIA、「オープンなAIセキュリティ」掲げる業界連合　Microsoftなど30社超が参加",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/",
+    "summary_original": "米NVIDIAは、AIセキュリティ向けのオープンな技術を開発・共有する業界連合「Open Secure AI Alliance」を設立すると発表した。",
+    "thumbnail": "",
+    "published": "2026-07-27T19:42:07+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c14a0ca6d72c",
+    "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
+    "url": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+    "summary_original": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance, possibly pointing to distillation.\nThe article Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
+    "published": "2026-07-27T19:35:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7e8218a4f00c",
+    "title": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+    "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
+    "summary_original": "OpenAI analyzed over 800,000 work-related ChatGPT messages and found that 43.5 percent of job-specific queries involve tasks from other professions. The company calls this \"task crossover.\" The trend is most pronounced at small businesses, where users increasingly handle specialized work without dedicated experts.\nThe article OpenAI says more workers are using ChatGPT to do other people&#039;s jobs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-2.png",
+    "published": "2026-07-27T19:08:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "da82e781769f",
+    "title": "Z世代に聞く次の流行、「AIイラスト」が1位に　「Claude Code」も上位",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/27/news092.html",
+    "summary_original": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。",
+    "thumbnail": "",
+    "published": "2026-07-27T19:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9115fae96ef1",
+    "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起　AI要約も餌食に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
+    "summary_original": "警視庁は、SNS型投資詐欺グループがWeb検索の仕組みを悪用し、検索結果に肯定的な情報を並べ、AI要約にも「詐欺ではありません」と表示させる手口を確認した。",
+    "thumbnail": "",
+    "published": "2026-07-27T19:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d09382ab4dbe",
+    "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks",
+    "url": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
+    "summary_original": "Microsoft introduces MAI-Cyber-1-Flash, a compact security model that scores 96 percent on the CyberGym benchmark when embedded in its MDASH multi-agent system. Microsoft says costs should drop by 50 percent compared to pure frontier models, since only tough cases get passed to GPT-5.4. For complex reasoning, Microsoft still relies on OpenAI.\nThe article Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks appeared first on The Decod...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png",
+    "published": "2026-07-27T18:50:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "699cca776fc6",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "summary_original": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "thumbnail": "",
+    "published": "2026-07-27T18:32:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1f4b87705fc7",
+    "title": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+    "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
+    "summary_original": "In this tutorial, we build an advanced workflow around Anthropic’s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository’s SKILL.md files into a searchable [&#8230;]\nThe post Designing Skill-Driven Financial Analysis Agents wit...",
+    "thumbnail": "",
+    "published": "2026-07-27T18:08:24+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bd9265e44747",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-27T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c508e3cc5970",
+    "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction",
+    "url": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
+    "summary_original": "The Delhi High Court has handed OpenAI a major win in its copyright fight with news agency ANI. For the first time, a court has classified AI training as private use. ANI undermined its own case by citing articles published after the models were trained. The main trial is still pending.\nThe article Delhi High Court hands OpenAI a win by rejecting major Indian news agency&#039;s copyright injunction appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+    "published": "2026-07-27T17:55:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "999e3252e27a",
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "summary_original": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "thumbnail": "",
+    "published": "2026-07-27T17:28:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e0cbdd2980b8",
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "summary_original": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "thumbnail": "",
+    "published": "2026-07-27T16:45:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7966439dda81",
+    "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
+    "url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+    "summary_original": "Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands — pplx search web and pplx content fetch — and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.\nThe post Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents appeared first on Mark...",
+    "thumbnail": "",
+    "published": "2026-07-27T16:32:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "938cbc19a697",
+    "title": "MIXI、新卒エンジニア向け研修資料＆動画を無料公開　「実践的なAI活用術」を12科目で紹介",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000223/",
+    "summary_original": "MIXIは、2026年度入社の新卒エンジニア向けに実施した技術研修の資料とアーカイブ動画を公開した。全12科目を通じ、業務におけるAIの活用法などを紹介している。",
+    "thumbnail": "",
+    "published": "2026-07-27T15:08:15+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "aa693ec63970",
+    "title": "How lasers could help provide fuel for nuclear reactors",
+    "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+    "summary_original": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-27T14:24:42+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "46c4510634ca",
+    "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明　Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/",
+    "summary_original": "NVIDIAやMicrosoftなどの企業・団体がオープンモデル規制に反対する共同声明を発表。各社CEOが賛同する一方、Anthropic従業員は「CUDAやWindowsのオープンソース化が楽しみだ」と皮肉った。",
+    "thumbnail": "",
+    "published": "2026-07-27T13:40:13+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c1fdca1de801",
+    "title": "Why China is giving away its best AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "summary_original": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-27T12:51:50-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e1fe4e43ea57",
+    "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans",
+    "url": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
+    "summary_original": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture.\nThe article METR introduces a new metric to calculate exactly when AI agents become more expensive than humans appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/METR-Expenditure-Horizon-1.png",
+    "published": "2026-07-27T12:28:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a380c4dc5b68",
+    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+    "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.&#8230;",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f99d.png",
+    "published": "2026-07-27T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "25cc5f27cc6a",
+    "title": "The path to artificial superintelligence",
+    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "summary_original": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png",
+    "published": "2026-07-27T12:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "31a791e8e2a8",
+    "title": "Closing the data loop in AI-driven drug discovery",
+    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "summary_original": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
+    "published": "2026-07-27T11:40:16+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7a04ab0d5258",
+    "title": "How AI is shortening drug discovery timelines in China",
+    "url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+    "summary_original": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Alex Zhavoronkov. The Hong Kong-listed company’s fastest programme reached candidate nomination in nine months, while its typical timeline is about 13 months, Zhavoronkov said. He said [&#8230;]\nThe post How AI is shortening drug discovery timelines in China appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-07-27T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "b24ba3574e2e",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-27T09:32:20+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "ae81dfaed4cb",
+    "title": "America’s AI Investment Boom Is Reshaping the Economy",
+    "url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+    "summary_original": "America&#8217;s AI Investment Boom Is Reshaping the Economy Artificial intelligence has become one of the defining investment stories in the United States, and the numbers continue to grow. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infrastructure, while demand for advanced chips has turned NVIDIA into one of [&#8230;]\nThe post America&#8217;s AI Investment Boom Is Reshaping the Economy appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/image-1.jpeg",
+    "published": "2026-07-27T09:18:53+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "40c3588f70cf",
+    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "summary_original": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-27T08:06:22-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "680c3dc9eb02",
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "summary_original": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "thumbnail": "",
+    "published": "2026-07-27T03:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "927a7f3e957f",
+    "title": "Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction",
+    "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
+    "summary_original": "Black Forest Labs (BFL) has released FLUX 3, a multimodal foundation model that learns from images, videos and audio inside a single architecture. It is also the first FLUX model to ship video, audio and action prediction from one set of weights. The Black Forest Labs (BFL) research team argues that no single modality gives [&#8230;]\nThe post Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-26T17:50:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6a63ae14a87d",
+    "title": "KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments",
+    "url": "https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/",
+    "summary_original": "The KwaiKAT Team at Kuaishou has published the KAT-Coder-V2.5 technical report, arguing that agentic coding capability is bottlenecked by training infrastructure rather than model scale. AutoBuilder raised environment construction success from 16.5% to 57.2%, producing over 100,000 verifiable environments across 12 languages, while a sandbox audit cut RL feedback errors from roughly 16% to below 2%.\nThe post KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifi...",
+    "thumbnail": "",
+    "published": "2026-07-26T10:46:19+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
