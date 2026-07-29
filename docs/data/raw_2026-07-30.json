@@ -1,0 +1,372 @@
+[
+  {
+    "id": "fae2cb8ed878",
+    "title": "ゴキブリには社会的ネットワークから生まれる一種の「集団的記憶」が存在する",
+    "url": "https://gigazine.net/news/20260730-cockroach-collective-memory/",
+    "summary_original": "動物の集団では、個体が情報を覚えていなくても過去の選択が個体同士の相互作用によって維持される場合があります。ベルギー・ブリュッセル自由大学のマリアノ・カルボ・マルティン氏らの研究チームは、明るさの異なる2つの隠れ場所を用いてワモンゴキブリの個体と集団が環境の変化にどう反応するのかを調べました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-30T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "516e97aa5a14",
+    "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
+    "url": "https://gigazine.net/news/20260729-mcpbench/",
+    "summary_original": "各種AIモデルの性能を「仕様に沿ってMCPクライアントやMCPサーバーを構築できるか？」という観点で測定するベンチマークテスト「mcpbench」が登場しました。作者はCloudflareのシニアシステムエンジニアでMCP関連の開発に携わっているMatt Carey氏です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-29T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0ee52d1fc3d0",
+    "title": "「元に戻せない」と考えられていた老化由来のタンパク質損傷を酵素で修復",
+    "url": "https://gigazine.net/news/20260729-reversal-of-protein/",
+    "summary_original": "加齢に伴って人体のタンパク質に蓄積する物質を分解し、元の状態に戻す人工酵素「CMLase」を開発したと、Revel Pharmaceuticalsなどの研究チームが報告しました。高齢者から採取した水晶体や皮膚、動脈の組織を使った実験では、老化に伴う化学的な損傷を大幅に減らすことに成功したとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-29T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0e31e3499c48",
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "summary_original": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "thumbnail": "",
+    "published": "2026-07-29T21:16:39+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7802d42c54c4",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "summary_original": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+    "thumbnail": "",
+    "published": "2026-07-29T21:07:48+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fbbe6565a764",
+    "title": "「パートナーがスマホに夢中だ」と感じている女性は性生活にストレスを覚えやすいとの研究結果",
+    "url": "https://gigazine.net/news/20260729-partner-smartphone-distractions-sexual-distress/",
+    "summary_original": "「恋人や結婚相手がスマートフォンばかりいじっていて、話しかけてもまともに相手をしてくれない」という不満を聞いたことがある人も多いはず。新たな研究では、パートナーがスマートフォンに依存していると感じている女性は、家庭での満足度や性生活に関するストレスが大きいとの結果が示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-29T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "426e4bb83452",
+    "title": "GrapheneOSの緊急コードでデータを抹消し警察を困らせたユーザーのインタビューが公開される",
+    "url": "https://gigazine.net/news/20260729-interview-grapheneos-data-reset-man/",
+    "summary_original": "セキュリティとプライバシー保護に特化したOS「GrapheneOS」の「緊急用のPINまたはパスワードを入力して端末のデータを抹消する」という機能を使って不当な取り調べに抵抗した人物が、海外メディアの404 Mediaのインタビューに応えています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-29T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "101b78fb3cd4",
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "summary_original": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+    "thumbnail": "",
+    "published": "2026-07-29T19:44:49+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b509c20461f2",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "summary_original": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "thumbnail": "",
+    "published": "2026-07-29T18:45:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ec47dc921a30",
+    "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over",
+    "url": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
+    "summary_original": "Google released Lyria 3.5, its new music generation model, and built it into Google Flow Music. The model generates tracks between 30 seconds and 3 minutes long. A new feature called \"Selective Section Painting\" lets users edit specific sections of a track. Google still hasn't shared any details about the training data.\nThe article Google&#039;s Lyria 3.5 music model now lets users edit individual track sections without starting over appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/google_lyria_35.png",
+    "published": "2026-07-29T18:37:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2ef3d49a8641",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "summary_original": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-29T17:58:44+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "9d0c9d3e7245",
+    "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
+    "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/",
+    "summary_original": "Following KPMG, Deloitte, and Ernst &#038; Young, GPTZero has now found fabricated sources and false claims in four PwC Middle East reports. One governance report scored 84 percent AI-generated and promoted a PwC product with unverified customer references. All Big Four firms are now affected by AI hallucinations.\nThe article PwC has allegedly published AI-generated reports containing false or fabricated sources appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/08/chatgpt_office-1.png",
+    "published": "2026-07-29T17:44:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6fd870cebddb",
+    "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents",
+    "url": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/",
+    "summary_original": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human. API prices go up two- to tenfold.\nThe article Pangram says its new AI text detector makes only one mistake per 24,000 documents appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
+    "published": "2026-07-29T17:16:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "89095267772b",
+    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+    "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "summary_original": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-29T17:06:52-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c1357d105a3e",
+    "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」　GPT-5.6 Solの“トークン消費問題”を改善",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+    "summary_original": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+    "thumbnail": "",
+    "published": "2026-07-29T16:29:39+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "739ece2f3cfa",
+    "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+    "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
+    "summary_original": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers. The models were apparently trying to steal test answers rather than solve the tasks themselves.\nThe article OpenAI admits its autonomous AI models also compromised credentials on other platforms during security ev...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_glitchy_blip.png",
+    "published": "2026-07-29T16:26:56+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ab0e6b4aa7aa",
+    "title": "PFN「国産AI」で自衛隊を支援へ　防衛の作戦立案に利用　防衛装備庁の実証実験を受託",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
+    "summary_original": "Preferred Networksは、生成AIで自衛隊を支援するシステムを開発すると発表した。",
+    "thumbnail": "",
+    "published": "2026-07-29T15:38:33+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c037c1f2be4b",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "summary_original": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "thumbnail": "",
+    "published": "2026-07-29T15:35:09+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "68c8dce4daf8",
+    "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+    "summary_original": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-29T14:15:02-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "51663b848e75",
+    "title": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
+    "url": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
+    "summary_original": "The majority of the researchers behind AlphaFold are now working on other projects, and almost a quarter have left Google Deepmind altogether. The restructuring marks a sharp turn away from the strategy that put the lab on the map.\nThe article Deepmind dismantles its AlphaFold team as key authors leave for Anthropic appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/AlphaFold-CASP-Title.jpg",
+    "published": "2026-07-29T13:47:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e901c5ccf0b3",
+    "title": "デジタル庁、AI基盤「源内」を被災自治体などに緊急提供　「平時をはるかに超える業務」対応のため",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
+    "summary_original": "デジタル庁は、政府職員向けの生成AI利用環境「ガバメントAI 源内」を熊本地震の被災自治体や災害対策機関などに緊急提供すると発表した。平時をはるかに超えて集中する災害対応業務を支援する。期間は3週間程度の予定。",
+    "thumbnail": "",
+    "published": "2026-07-29T12:52:12+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b43ed6d2237c",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_AI-Hype_1-2-top.jpg?w=840",
+    "published": "2026-07-29T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ba85896d5185",
+    "title": "Hugging Face、AIエージェント侵入の技術詳細を公開──OpenAIモデルが4.5日で1万7600回の攻撃操作",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000263/",
+    "summary_original": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
+    "thumbnail": "",
+    "published": "2026-07-29T10:29:20+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e787c3a2ddc0",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "summary_original": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "thumbnail": "",
+    "published": "2026-07-29T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8f82b9ac10f3",
+    "title": "MetaのザッカーバーグCEO、WSJ寄稿で「超知能は全員のものであるべき」",
+    "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000259/",
+    "summary_original": "Metaのマーク・ザッカーバーグCEOはWall Street Journalに寄稿し、「superintelligence」（超知能）は特定の機関に集中させず広く分散普及させるべきだと主張した。権力の集中によるリスクや司法の公平性、雇用拡大に触れ、オープンな普及が安全と発展につながると強調。MicrosoftのナデラCEOらも賛意を示した。",
+    "thumbnail": "",
+    "published": "2026-07-29T09:14:46+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b4d3a90f6379",
+    "title": "The AI Hype Index: Unsexy AI",
+    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "summary_original": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-29T08:42:57+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "731f01c1c0e3",
+    "title": "Artists are lawyering up against AI slop, and some are even winning",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+    "summary_original": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-29T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "45adb63cdeb5",
+    "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+    "summary_original": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-29T07:54:29-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4d6431903407",
+    "title": "We’re running out of reasons to ignore AI safety",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+    "summary_original": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-29T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2c718aeef192",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "summary_original": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "thumbnail": "",
+    "published": "2026-07-29T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "043baf57504c",
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "summary_original": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+    "published": "2026-07-28T21:36:39+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "8cc1ba4abc29",
+    "title": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "summary_original": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "thumbnail": "",
+    "published": "2026-07-28T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f57b088c9d04",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-28T16:27:42+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "9a40059e627f",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-28T15:01:45+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c57d8e185498",
+    "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+    "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c9.png",
+    "published": "2026-07-28T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e9c7d242f0b7",
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "summary_original": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-28T09:18:57+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "531f2adf5089",
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "summary_original": "Microsoft says tools cost less than competing ones and outperform them, too.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "published": "2026-07-27T21:56:14+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  }
+]
