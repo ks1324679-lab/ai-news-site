@@ -1,0 +1,402 @@
+[
+  {
+    "id": "6dd4159dd8ee",
+    "title": "脳は「真のマルチタスク」を実現するために再配線できるとの研究結果",
+    "url": "https://gigazine.net/news/20260731-brain-rewire-true-multitasking/",
+    "summary_original": "人間の脳は意識的な判断を必要とする2つの課題に同時並行で取り組む時、複数のタスクを同時処理する「マルチタスク」ではなく、タスク間を素早く切り替えて処理していると考えられてきました。アメリカ・ジョージタウン大学のマキシミリアン・リーゼンフーバー氏や、リーハイ大学のパトリック・コックス氏らの研究チームは、1つの課題を長期間練習した時に脳内の処理経路と同時作業の能力がどう変わるのかを調べました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-31T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "471d7c8c68c5",
+    "title": "オープンソースのRadeonドライバーをWindowsに移植する試みが進行中",
+    "url": "https://gigazine.net/news/20260730-radv-windows/",
+    "summary_original": "オープンソースで開発されているLinux用RadeonドライバーをWindowsに移植する作業が進行しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-30T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ba519fe78d8f",
+    "title": "7000年前の狩猟採集民が食糧源として山の湖に魚を放流して木製のわなで捕獲していたことが判明",
+    "url": "https://gigazine.net/news/20260730-hunter-gatherers-introduced-fish-mountain-lake/",
+    "summary_original": "魚は古くから人間にとって重要な食糧源となっており、世界中のさまざまな狩猟採集民によって捕獲されていました。新たに、7000年前のノルウェーの狩猟採集民が山の上の孤立した湖に魚を運び込み、わなで捕獲していたことが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-30T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "358552aaff9a",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "summary_original": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+    "thumbnail": "",
+    "published": "2026-07-30T20:26:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6dc8beba4990",
+    "title": "Keychronがゲーミングマウス向け初のオープンソースファームウェア「ZGM」を発表、正式公開は2027年に",
+    "url": "https://gigazine.net/news/20260730-keychron-zgm-gaming-mouse/",
+    "summary_original": "キーボードやマウスなどを手がけるKeychronが、ゲーミングマウス向けのオープンソースファームウェア「ZGM」を発表しました。ZGMはリアルタイムOSのZephyr RTOSを基盤とし、低遅延な入力処理やハードウェアに応じた柔軟なカスタマイズを可能にすることを目指しています。正式公開は2027年第1四半期が予定されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-30T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b02910e87419",
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "summary_original": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+    "thumbnail": "",
+    "published": "2026-07-30T19:44:16+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "eae3432ad2fc",
+    "title": "外国製のロボット掃除機やロボット芝刈り機がアメリカで新規販売禁止の対象に",
+    "url": "https://gigazine.net/news/20260730-fcc-robot-vacuums/",
+    "summary_original": "トランプ政権は現地時間の2026年7月28日にアメリカのAI開発を保護するため外国製の新型人型ロボット・四足歩行ロボット・再生可能エネルギー設備・インバーターなどの新規販売禁止を禁止すると発表しました。翌29日にはさらに、ロボット掃除機とロボット芝刈り機も輸入禁止対象に含まれることが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-30T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f41c7307b777",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "summary_original": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "thumbnail": "",
+    "published": "2026-07-30T18:57:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "182abdd62e1e",
+    "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
+    "url": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
+    "summary_original": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient, enabling the cuts. Price pressure from cheap Chinese providers and Microsoft's own MAI models likely played a role too.\nThe article OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+    "published": "2026-07-30T18:46:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "63a0556be766",
+    "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
+    "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
+    "summary_original": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas. Ho is leaving OpenAI to start a company focused on specialized training data and predicts that AI labs will need to spend more than $100 billion on targeted data collection.\nThe article Ex-OpenAI researcher bets $100 billio...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/08/synthetic_data_illustration-2.png",
+    "published": "2026-07-30T18:07:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dc18fde4e6bc",
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "summary_original": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "thumbnail": "",
+    "published": "2026-07-30T18:05:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f3a363f83daa",
+    "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
+    "url": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
+    "summary_original": "Google DeepMind has released Gemini Robotics 2, the intelligence layer for its next generation of robots. The release ships three models: a vision-language-action model for whole body humanoid control, Gemini Robotics ER 2 for embodied reasoning and task orchestration, and an on-device VLA that adapts to new robot bodies in hours. One checkpoint drives Apptronik Apollo 2 and a Franka Duo. Only ER 2 is publicly available.\nThe post Google DeepMind Ships Three Physical AI Models For Whole Body Cont...",
+    "thumbnail": "",
+    "published": "2026-07-30T17:20:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3c7c2d3ef0bd",
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "summary_original": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-30T17:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6d58fc6439c4",
+    "title": "The loss of Situational Awareness",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+    "summary_original": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS522_AGI_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-30T16:46:25-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9327b8297589",
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "summary_original": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "thumbnail": "",
+    "published": "2026-07-30T16:09:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5b55f7bbc64f",
+    "title": "KADOKAWAとはてな、AIで小説執筆を支援　新サービス「RIKU」、テスター募集開始",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000306/",
+    "summary_original": "KADOKAWAとはてなは、AIで小説の執筆を支援するエディタ「RIKU」を発表した。",
+    "thumbnail": "",
+    "published": "2026-07-30T15:58:31+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bac0f01a5321",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-30T15:09:09+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "1231fb90912c",
+    "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能　HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
+    "summary_original": "日本HPと楽天が、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始。70億パラメータの日本語LLM「Rakuten AI 7B」で、オフラインでも要約や翻訳をローカルで実行できる。",
+    "thumbnail": "",
+    "published": "2026-07-30T14:52:01+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0d730ddf1385",
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "summary_original": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-30T14:43:26-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f8e59dc1fba1",
+    "title": "Language models can't spark scientific revolutions, but world models might",
+    "url": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/",
+    "summary_original": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't. They're missing the cognitive mechanism needed to create something truly new.\nThe article Language models can&#039;t spark scientific revolutions, but world models might appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/LLMs-cant-jump-title.png",
+    "published": "2026-07-30T14:01:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6859a1dfdf57",
+    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+    "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "summary_original": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-30T13:18:45-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "79bcb8359da2",
+    "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
+    "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/",
+    "summary_original": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman. MAI-Cyber-1-Flash tops the CyberGym benchmark when embedded in an orchestrator and reportedly costs half as much as Anthropic's Mythos, but it still relies on OpenAI for hard tasks. Competition is shifting from individual models to the orchestration software that routes and manages them.\nThe article Microsoft AI bets on cheap specialist models instead of chasing the...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/mai-microsoft.png",
+    "published": "2026-07-30T13:11:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2c3da59e43fc",
+    "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応　何ができる？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
+    "summary_original": "Microsoftは「Copilot in Excel」の財務部門向け機能を強化した。Microsoftの財務部門が実運用で利用・評価し、財務業務で求められる信頼性を重視して開発された。",
+    "thumbnail": "",
+    "published": "2026-07-30T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "575862ebb944",
+    "title": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+    "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/",
+    "summary_original": "The FCC is blocking imports of new Chinese humanoid robots and robot dogs. But the rule's broad definition also sweeps in Roombas, robotic lawn mowers, and delivery bots.\nThe article FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/China-USA-Robotban-title.png",
+    "published": "2026-07-30T12:47:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c78005d879fd",
+    "title": "「データ品質に問題あり」から「予測精度95％」へ　Umiosは販売計画をどう自動化した？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news023.html",
+    "summary_original": "Umios（旧マルハニチロ）は、年間約4200時間を費やしていた販売計画作成を自動化した。全国の支社で入力の運用ルールがバラバラといった「データの品質」問題をどう解消し、予測精度95％を実現したのか。",
+    "thumbnail": "",
+    "published": "2026-07-30T12:40:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "db87833c9794",
+    "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+    "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+    "summary_original": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Friend launched a new ad [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-30T12:33:32-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "97aec3fde336",
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Helsing_CA-1_Europa_design_study_2.jpg?w=840",
+    "published": "2026-07-30T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "06733eeb5932",
+    "title": "Google、音楽生成AI「Lyria 3.5」発表　ボーカルの表現力を強化、テンポや長さの制御も容易に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000289/",
+    "summary_original": "Googleは、音楽生成モデルの最新版「Lyria 3.5」を発表し、音楽制作プラットフォーム「Google Flow Music」での提供を開始した。音楽性や歌詞の忠実さ、ボーカルの質感向上に加え、テンポや曲長の制御性が強化された。電子透かし技術「SynthID」に対応し、コンテンツの保護にも配慮している。",
+    "thumbnail": "",
+    "published": "2026-07-30T11:35:30+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0ebae200f312",
+    "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
+    "url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+    "summary_original": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement. It contains no release dates, no benchmark figures, no named models. What it does contain is an argument that [&#8230;]\nThe post Zuckerberg details Meta&#8217;s personal AI superintelligence strategy appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-07-30T11:12:11+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "768d31009db0",
+    "title": "How AI is Changing Linux VPS Security for Businesses",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+    "summary_original": "Cybersecurity wasn&#8217;t really something small and mid-sized businesses worried about too much a few years back. That&#8217;s changed fast. Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional. And attacks aren&#8217;t getting any simpler either, which is part of the problem with sticking [&#8230;]\nThe post How AI is Changing Linux VPS Security for Businesses appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-07-30T10:41:02+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "d3ef4a34cd19",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "summary_original": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-30T10:15:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1745c4005508",
+    "title": "Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models",
+    "url": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
+    "summary_original": "Tencent has released AngelSpec, an open-source torch-native framework for training speculative-decoding draft models across six architectures. It introduces DFly, a block-diffusion drafter with hybrid target conditioning and a hidden-correction autoregressive head, and integrates D-cut for runtime-adaptive verification budgeting. On HY3-295B-A21B with TP=8, DFly-8 delivers a 1.98–2.40× speedup over autoregressive decoding across concurrency 4 to 64.\nThe post Tencent Open-Sources AngelSpec: A Uni...",
+    "thumbnail": "",
+    "published": "2026-07-30T10:08:18+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "28f36991d0d0",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "summary_original": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "thumbnail": "",
+    "published": "2026-07-30T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6dad3e2c3c8b",
+    "title": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+    "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
+    "summary_original": "Marktechpost AI has released Token Saver, an open-source MCP extension for Claude Desktop that uses local Hybrid RAG to slash PDF token consumption by up to 99% while ensuring absolute document privacy.\nThe post Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99% appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-9.png",
+    "published": "2026-07-30T07:43:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ef7d0e672816",
+    "title": "Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer",
+    "url": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/",
+    "summary_original": "Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 and dominated developer discussion through June 2026. Graph engineering followed roughly six weeks later. They get used interchangeably. Should they be? The three are not competing techniques. [&#8230;]\nThe post Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer appeared first on MarkT...",
+    "thumbnail": "",
+    "published": "2026-07-30T05:45:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7ff9545400b4",
+    "title": "Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training",
+    "url": "https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/",
+    "summary_original": "Moonshot AI has open-sourced MoonEP, an Expert Parallelism (EP) communication library for distributed Mixture-of-Experts (MoE) workloads. The team announced the release as a library built to make expert-parallel communication more efficient at scale. It ships under an MIT license. MoonEP arrived as part of Kimi K3 Open Day. Alongside the K3 model weights and technical [&#8230;]\nThe post Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training appeared fir...",
+    "thumbnail": "",
+    "published": "2026-07-30T05:28:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "87eb876878a2",
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "summary_original": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+    "published": "2026-07-29T22:07:06+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "2aaefae5d079",
+    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+    "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+    "summary_original": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-29T18:17:38-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2ef3d49a8641",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "summary_original": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-29T17:58:44+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "232de1e55cde",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "summary_original": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "thumbnail": "",
+    "published": "2026-07-29T15:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
