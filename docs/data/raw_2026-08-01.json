@@ -1,0 +1,402 @@
+[
+  {
+    "id": "106c44068673",
+    "title": "メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」",
+    "url": "https://gigazine.net/news/20260731-anthropeum/",
+    "summary_original": "メトロポリタン美術館に所蔵される歴史的な遺物がいつどこで作られたものかを推測するゲーム「Anthropeum」が公開されています。出題される遺物は全部で50万点以上で、日替わりで10問が用意されており、画面上に表示される遺物の見た目を基に制作年代と国・地域を推理する必要があります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-31T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cac48ac2f9f9",
+    "title": "コンパイラ「GCC」の開発チームがAI生成コードの受け入れポリシーを公開、15行以上のAI生成コードは受け入れ拒否",
+    "url": "https://gigazine.net/news/20260731-gcc-ai-policy/",
+    "summary_original": "AIによるコード生成が一般的になりつつありますが、オープンソースプロジェクトでは「AI生成のプルリクエストが大量に送りつけられてメンテナーが疲弊する」という事態も発生しています。新たにオープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームがAI生成コードの受け入れポリシーを公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-31T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ef91c0cf4706",
+    "title": "India is starting to pay for apps, not just download them",
+    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "summary_original": "India's app market generated a record $345 million in Q2.",
+    "thumbnail": "",
+    "published": "2026-07-31T21:07:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "89a6eb5ef495",
+    "title": "TSMCが「準EMIB」と社内で呼ぶ高度なAI半導体パッケージング技術を開発中、IntelのEmbedded Multi-die Interconnect Bridge技術に類似か",
+    "url": "https://gigazine.net/news/20260731-tsmc-quasi-emib/",
+    "summary_original": "世界最大の半導体受託製造企業であるTSMCが、IntelのEMIBが受注量を増やしていることを受け、EMIBの一部を模倣した「準EMIB」と呼ばれる高度な半導体パッケージング技術を開発していることが報じられています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-31T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "244ecbc93d74",
+    "title": "LingBot-Map Tutorial: GPU-Aware Inference and Point Cloud Export",
+    "url": "https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/",
+    "summary_original": "Discover how to implement a streaming 3D reconstruction pipeline using LingBot-Map. From GPU-aware configuration and preprocessing to GCTStream model inference and point cloud generation, this guide walks you through the steps to convert image or video sequences into consistent 3D scenes with exportable PLY and NPZ artifacts.\nThe post LingBot-Map Tutorial: GPU-Aware Inference and Point Cloud Export appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-31T20:27:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a3e7db14449c",
+    "title": "ウクライナのゼレンスキー大統領が「ロシア国内のドローン攻撃にStarlinkを利用させてほしい」とトランプ大統領に要求",
+    "url": "https://gigazine.net/news/20260731-zelensky-trump-starlink-drone-strikes-russia/",
+    "summary_original": "2022年2月に始まったロシアによるウクライナ侵攻は記事作成時点でも続いており、2026年7月下旬に行われたウクライナ各地への爆撃では、少なくとも15人が死亡する事態となっています。そんな中、ウクライナのウォロディミル・ゼレンスキー大統領は7月28日にアメリカのドナルド・トランプ大統領と会談した際に、「衛星インターネットのStarlinkをロシア国内のドローン攻撃に使えるようにしてほしい」と要求していたと報じられました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-31T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cebdf34cbbc8",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "summary_original": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "thumbnail": "",
+    "published": "2026-07-31T19:47:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1231b5607667",
+    "title": "Amazon傘下のロボタクシー「Zoox」が専用車両で初めて商用サービス許可を取得",
+    "url": "https://gigazine.net/news/20260731-amazon-zoox-us-paid-robotaxis/",
+    "summary_original": "複数の都市で無料テストを実施しているAmazon傘下のロボタクシー企業「Zoox」が、米国運輸省国家道路交通安全局(NHTSA)から商用運行の許可を得たことを発表しました。専用車両でサービスを展開している企業が許可を得るのは初の事例で、2年間で最大2500台の展開が可能です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-07-31T19:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bda4a011cf45",
+    "title": "キオクシア、株価3分の1急落は「絶好のタイミング」　過去最高益と8000億円自社株買いで示す自信",
+    "url": "https://www.itmedia.co.jp/business/articles/2607/31/news108.html",
+    "summary_original": "キオクシアHDは、2026年4～6月のNon-GAAP営業利益が1兆3262億円で、直近1年間の営業利益を上回ったと説明した。7～9月の売上収益は、2兆3900億円を見込む。経営幹部からは力強い言葉が続いた。",
+    "thumbnail": "",
+    "published": "2026-07-31T18:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "818c90633d44",
+    "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
+    "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
+    "summary_original": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks.\nThe article Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/Gemini-Robotics-2-brings-whole-body-intelligence-to-robots-0-3-screenshot.png",
+    "published": "2026-07-31T18:25:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ccd87b265588",
+    "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
+    "url": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
+    "summary_original": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks.\nThe article Thinking Machines bets on efficiency over size with its second model, Inkling Small appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+    "published": "2026-07-31T17:41:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "734a51283c78",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "summary_original": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-07-31T17:26:32+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e599a8521a2a",
+    "title": "「9カ月かかる作業を3日に短縮」　IBM、レガシー刷新ワークフローをIBM Bobに追加",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
+    "summary_original": "生成AIによるコード生成が広がる一方で、レガシー環境の刷新はAIの適用が難しい領域だ。IBMは、IBM Bobにレガシー環境向けの専用パッケージを追加することで、同領域における自動化に踏み込む。",
+    "thumbnail": "",
+    "published": "2026-07-31T17:20:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f4a165e0f3c7",
+    "title": "キオクシアQ1、純利益が前年同期比4500％増　株式分割・自社株買いも",
+    "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
+    "summary_original": "キオクシアホールディングス（HD）が7月31日に公開した2027年3月期第1四半期（26年4月1日?6月30日）連結決算は、売上収益が1兆7671億1700万円（前年同期比415.5％増）、営業利益が1兆2700億1700万円（同2728.6％増）、純利益が8421億6500万円（同4506.6％増）と大幅な増収増益だった。AIサーバを巡るNAND需要の拡大が業績をけん引した。",
+    "thumbnail": "",
+    "published": "2026-07-31T17:16:03+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1539977fb106",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "summary_original": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "thumbnail": "",
+    "published": "2026-07-31T16:49:08+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "235077565870",
+    "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
+    "url": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
+    "summary_original": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task.\nThe article New Deepseek Flash model matches OpenAI&#039;s GPT-5.6 Luna at roughly 60 percent lower cost appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+    "published": "2026-07-31T16:39:25+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "53c41a9dc282",
+    "title": "キオクシアQ1決算、純利益は前年比4500％増　AIデータセンター向け需要がけん引",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000335/",
+    "summary_original": "半導体大手のキオクシアホールディングスは、2027年3月期第1四半期決算（26年4月1日?6月30日、国際会計基準）の純利益が8421億6500万円で、前年同期比4506％増だったと発表した。",
+    "thumbnail": "",
+    "published": "2026-07-31T16:33:45+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "02a679ae68f9",
+    "title": "Siri AI could come with a paywall for power users",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "summary_original": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "thumbnail": "",
+    "published": "2026-07-31T16:08:18+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "50bc2e5b702c",
+    "title": "研究者10万人にOpenAI「最上位モデル」無料提供へ　日本でも東大、京大など15大学が対象",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
+    "summary_original": "OpenAIが学術研究者10万人に「ChatGPT」の最上位モデルを無料提供するプログラムを発表した。今夏に1万人から提供を始め、2027年までに10万人規模へ拡大する。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。",
+    "thumbnail": "",
+    "published": "2026-07-31T15:57:22+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8cb331c7339a",
+    "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
+    "url": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/",
+    "summary_original": "The European Commission wants to build up to seven AI gigafactories across Europe, backed by around 30 billion euros in public and private funding. For context, the major U.S. tech companies alone plan to spend more than $600 billion on computing infrastructure this year.\nThe article EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/07/European-Union-Flag-Glitch-GPT-4o.jpg",
+    "published": "2026-07-31T15:28:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a4ce4a17368d",
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "summary_original": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Pompeii_-After.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-31T15:13:29-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5b3393f6cb74",
+    "title": "Advancing responsible AI across Europe",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "summary_original": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "thumbnail": "",
+    "published": "2026-07-31T15:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "ef7e135bdd5a",
+    "title": "Building abundant intelligence",
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "summary_original": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "thumbnail": "",
+    "published": "2026-07-31T15:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "69dd96f680d9",
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "summary_original": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google initially responded to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-31T13:05:46-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a32f3d3705a3",
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "summary_original": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-31T12:36:48-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0abc8a3ebd09",
+    "title": "The Download: Montana’s new experimental drug rules",
+    "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-ota-01.jpg?w=840",
+    "published": "2026-07-31T12:16:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "70f2ccc4ce34",
+    "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+    "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
+    "summary_original": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that infected 15 systems. Another kept attacking after recognizing its target was real. Anthropic calls it an operational error.\nThe article Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_cybersecurity_kraken_arms.png",
+    "published": "2026-07-31T10:57:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a163460cab42",
+    "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+    "url": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+    "summary_original": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios completed...",
+    "thumbnail": "",
+    "published": "2026-07-31T10:32:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c898bed1eb81",
+    "title": "It’s time to panic about AI safety",
+    "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+    "summary_original": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-31T10:03:04-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "fa6e1e31c112",
+    "title": "Anthropic says Claude accidentally hacked real companies too",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "summary_original": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-07-31T09:41:17-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2a133ebca32f",
+    "title": "Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents",
+    "url": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
+    "summary_original": "Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same channels. Three integration paths cover Desktop runtime, relay bridge, and a native gateway platform that preserves Hermes memory, skills, approvals, and cron delivery.\nThe post Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block&#8217;s Open Source Nostr Workspace for Humans and Agents appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-07-31T09:08:13+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f3afcd69fc7d",
+    "title": "Montana’s new “right to try” law can’t come soon enough for some",
+    "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "summary_original": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/family-inset.jpg?w=840",
+    "published": "2026-07-31T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "dc984bc27293",
+    "title": "Univé builds an AI-ready workforce",
+    "url": "https://openai.com/index/unive",
+    "summary_original": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "thumbnail": "",
+    "published": "2026-07-31T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "63b5fb0aed7f",
+    "title": "PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response",
+    "url": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
+    "summary_original": "PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on stream. PolyAI reports sub-300ms responses in live deployments.\nThe post PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fus...",
+    "thumbnail": "",
+    "published": "2026-07-31T05:06:43+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "674f1859ff75",
+    "title": "Building a Policy-Governed Multi-Agent Financial Research Workflow with Omnigent",
+    "url": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/",
+    "summary_original": "In this tutorial, we demonstrate how to build and execute a multi-agent workflow with Omnigent in a secure, isolated Python environment. Learn to integrate live exchange-rate data, implement hierarchical agent delegation for financial text auditing, and apply hard governance policies—such as cost budgets and tool call limits—to your research pipeline directly from Google Colab.\nThe post Building a Policy-Governed Multi-Agent Financial Research Workflow with Omnigent appeared first on MarkTechPos...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "published": "2026-07-31T04:44:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e2b8f86303a2",
+    "title": "Disrupting a Criminal Scam Operation",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "summary_original": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "thumbnail": "",
+    "published": "2026-07-31T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7185ce04d41b",
+    "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+    "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+    "summary_original": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-07-30T20:57:22+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "3c7c2d3ef0bd",
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "summary_original": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
+    "thumbnail": "",
+    "published": "2026-07-30T17:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bac0f01a5321",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-07-30T15:09:09+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "97aec3fde336",
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Helsing_CA-1_Europa_design_study_2.jpg?w=840",
+    "published": "2026-07-30T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
