@@ -1,0 +1,372 @@
+[
+  {
+    "id": "809c8d6a1879",
+    "title": "芝生を効率よく刈れる人とそうでない人の違いはどこにあるのか？",
+    "url": "https://gigazine.net/news/20260806-mow-a-lawn-better/",
+    "summary_original": "データを使ったインタラクティブな記事を公開するウェブメディア「The Pudding」が芝刈りを模した経路選択ゲームを開発し、3万人以上の参加者がどのように効率的なルートを見つけるのかを分析しました。参加者の移動経路や停止時間を記録した結果、最適解にたどり着いた人とそうでない人の行動に差があることがわかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-06T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ec4bede8bcae",
+    "title": "男性ホルモンのテストステロン値は高すぎても低すぎてもうつ病のリスクが高いとの研究結果",
+    "url": "https://gigazine.net/news/20260806-high-low-testosterone-depression/",
+    "summary_original": "男性ホルモンであるテストステロンは、値が低いとうつ病の発症リスクが高いと考えられてきました。しかし、イギリスの大規模な健康データベース「UKバイオバンク」に登録された男性13万3733人を対象とした研究では、テストステロン値が同年代の平均より低い男性だけでなく、平均より高い男性もうつ病の発症リスクが高いことが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-06T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "db37dc2c3455",
+    "title": "Google DeepMindが描く「AGIの次」　超知能に至る4つの経路と6つのボトルネック",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/06/news015.html",
+    "summary_original": "Google DeepMindが、人間並みのAGIが実現した後にAIはどこまで進むのかを整理した論文を公開した。ASI（人工超知能）への4つの経路と6つのボトルネックという枠組みだけを抜き出し、初心者にも分かるように短く読み解く。",
+    "thumbnail": "",
+    "published": "2026-08-06T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b67561e2d242",
+    "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
+    "url": "https://gigazine.net/news/20260805-maple-preview/",
+    "summary_original": "AI研究企業のDeepGroveが軽量かつ高性能なAIモデル「Maple-Preview」を発表しました。Maple-PreviewはiPhoneでも動作するほど小型のモデルで、同じくiPhoneで動作するBonsai 27Bと比べて13倍高速な処理が可能です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-05T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d0a9ebc6e3c2",
+    "title": "アフリカのサイバー犯罪の50％以上にAIが悪用されており欧米諸国にも被害が及んでいるとインターポールが発表",
+    "url": "https://gigazine.net/news/20260805-ai-fuels-half-cybercrime-africa-interpol/",
+    "summary_original": "生成AIツールはさまざまな仕事や学業に役立ちますが、犯罪者にとっても有用なツールとなっています。国際刑事機構(インターポール)が、アフリカ全土で報告されているサイバー犯罪の55％以上にAIが使われており、その脅威は大陸を越えて広がっているとの報告書を発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-05T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "51a909346367",
+    "title": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
+    "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/",
+    "summary_original": "In this tutorial, we build a complete Bayesian marketing mix modeling workflow using Google Meridian. We begin by installing the required libraries, verifying GPU availability, and exploring a geo-level marketing dataset that includes media impressions, spend, controls, promotions, conversions, population, and revenue. We then map the raw columns to Meridian’s data schema, define interpretable ROI-based [&#8230;]\nThe post End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Mea...",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2714.png",
+    "published": "2026-08-05T21:56:03+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f4b59bdfc21b",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "summary_original": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "thumbnail": "",
+    "published": "2026-08-05T21:21:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7e1cbbf9c8b7",
+    "title": "「私たちはどんな色なのか？」を手作業でデータ分析して人間の肌の色を表現する新しい色空間を構築した「Inclusive Color Space」",
+    "url": "https://gigazine.net/news/20260805-inclusive-color-space/",
+    "summary_original": "人物画に色を塗る際に「人間の肌の色」を何色で塗ればいいのか迷うことは多く、また2000年代には差別意識に対する取り組みとしてクレヨンや絵の具などから「肌色」という名前が「うすだいだい」や「ペールオレンジ」などに変更されました。そんな「人間の肌の色」を徹底分析した新しい色空間「Inclusive Color Space(ICS)」と、そこから色を選択できるカラーピッカーが公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-05T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b22e25c1b975",
+    "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
+    "url": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
+    "summary_original": "Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large repositories. Async background agents stay active for the whole session instead of spawning per task. A local append-only event log makes the runtime replay-exact and restart-safe after a crash. Muse Spark 1.2 was co-trained with the harness and trained on long-horizon, repository-scale work.\nThe pos...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-1.07.03-PM-1.png",
+    "published": "2026-08-05T20:07:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1619858f8bfb",
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "summary_original": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "thumbnail": "",
+    "published": "2026-08-05T20:05:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "41dee0fbffe4",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "summary_original": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+    "thumbnail": "",
+    "published": "2026-08-05T19:30:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dfc731b01dec",
+    "title": "「準国産」うたう人型ロボ登場　本体価格は500万円から　目指すは「純国産」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000401/",
+    "summary_original": "AIサービスなどを開発するZEALSは、「準国産」をうたう人型ロボット「D1」を発表した。本体価格は500万円（税別）から。",
+    "thumbnail": "",
+    "published": "2026-08-05T18:47:10+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ca0aef978ae3",
+    "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+    "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/",
+    "summary_original": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop. Former Deepmind CTO Koray Kavukcuoglu will take over as Google races to close the gap with its top AI rivals.\nThe article Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+    "published": "2026-08-05T18:20:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e95593973f3b",
+    "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
+    "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/",
+    "summary_original": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whether a probability-based LLM can match the reliability of its deterministic predecessor for simple everyday commands will be a real test for Google's AI strategy.\nThe article Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS appeared first on ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+    "published": "2026-08-05T17:59:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "38a7ae7f1221",
+    "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
+    "url": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/",
+    "summary_original": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rely on a third party's category system, and the model can run locally.\nThe article Mistral&#039;s open model Shieldstral matches much larger safety models at a fraction of the size appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
+    "published": "2026-08-05T16:35:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c672c190aeba",
+    "title": "AIで\"存在しない脆弱性\"を量産？　「SQLite」の偽CVEが判明　米企業が検証",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000397/",
+    "summary_original": "SQLiteの脆弱性を主張するCVEは実在しなかったと米JFrogが検証結果を公開。AI生成とみられる偽情報がNVDなどに大量登録されていた。同一アカウントが投稿した55件中54件が捏造で、CVE登録プロセスの穴を指摘した。",
+    "thumbnail": "",
+    "published": "2026-08-05T15:56:40+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0108300124fb",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "summary_original": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "thumbnail": "",
+    "published": "2026-08-05T15:56:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "844e872cde08",
+    "title": "Hark previews its browser use agent for completing tasks",
+    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "summary_original": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "thumbnail": "",
+    "published": "2026-08-05T15:46:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "60727746ab75",
+    "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater",
+    "url": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/",
+    "summary_original": "AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, according to Indeed. Overall hiring is falling in knowledge work fields such as marketing and management, but AI-related listings are rising fast. Indeed calls it a \"two-speed labor market.\"\nThe article UK&#039;s job market is splitting in two as AI demand surges while knowledge work postings crater appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/ai_worker.png",
+    "published": "2026-08-05T15:42:52+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ab78e492b47e",
+    "title": "Puzzle Corner",
+    "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+    "summary_original": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-05T14:56:29+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0850e7c841f6",
+    "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
+    "url": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/",
+    "summary_original": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs. Meanwhile, the company's AI segment posted $2.56 billion in Q2 revenue, driven mostly by leasing out its own server capacity.\nThe article SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/SpaceX-IPO.png",
+    "published": "2026-08-05T14:15:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c8273c7a2880",
+    "title": "エージェント型AIは「過度な期待」のピークへ　ガートナー、日本におけるデジタルワークプレースのハイプサイクルを発表",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
+    "summary_original": "ガートナージャパンが日本における未来のデジタル・ワークプレースのハイプ・サイクルを発表。エージェント型AIを「過度な期待」のピークに位置付け、AIエージェントの浸透やシャドーAIのリスク拡大などのトレンドを紹介した。",
+    "thumbnail": "",
+    "published": "2026-08-05T13:40:35+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "346cb945a582",
+    "title": "自社のAI利用は本当に安全？　現場放任に潜む「4大リスク」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/05/news049.html",
+    "summary_original": "サーバーワークスは、AWS環境での生成AI活用に必要なルール整備を支援する「AWS生成AIガイドライン策定サービス」を提供開始した。最短1カ月でルールを整備できるプランも用意する。",
+    "thumbnail": "",
+    "published": "2026-08-05T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2644b57e1ba5",
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "summary_original": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-05T12:57:25-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6c9f4d7e1b1d",
+    "title": "Google just announced a major shakeup of its top AI leadership",
+    "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "summary_original": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-05T12:47:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6142b8b93a9e",
+    "title": "SpaceX is barely Space and mostly X",
+    "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+    "summary_original": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-05T12:35:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ff71d16d359f",
+    "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+    "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/01/vitalist_master.jpg?w=840",
+    "published": "2026-08-05T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a5c4a7a3ae9c",
+    "title": "Reddit is introducing a new moderator: AI",
+    "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+    "summary_original": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-05T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2b5e0acf6593",
+    "title": "Rogue AI agents created fake online identities in another hacking attempt",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+    "summary_original": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-05T11:14:57-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "aae962e8bc38",
+    "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+    "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
+    "summary_original": "NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 — a permissive license covering fine-tuning, derivatives and commercial redistribution. It pairs a 32B Cosmos 3 Super Reasoner backbone with a 2.3B diffusion action decoder, scores 79.2 on LingoQA, and emits trajectories, Chain-of-Causation traces, meta-actions, auto-labels and grounded VQA from a single pass.\nThe post NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action ...",
+    "thumbnail": "",
+    "published": "2026-08-05T08:25:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ec86245c0056",
+    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+    "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "summary_original": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-05T08:06:40+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d84c0fe1c999",
+    "title": "CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams",
+    "url": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/",
+    "summary_original": "CopilotKit has published the Channels SDK, an MIT licensed library that runs an existing AG-UI agent inside Slack and Microsoft Teams. Version 0.5.0 ships five platform adapters and a documented runtime contract. This breakdown covers the verified deployment paths, the baseline requirements, and the one dependency that is easy to miss\nThe post CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/08/image-1.png",
+    "published": "2026-08-05T04:43:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "884f8e03df4d",
+    "title": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing",
+    "url": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
+    "summary_original": "Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline—from rendering and tiling to multimodal embedding and hybrid search—enabling developers to build high-performance, visual document retrieval systems\nThe post Pixel-Native RAG: A Practical Guide to Visual Document Indexing appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-04T22:27:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "899f3cac4020",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "summary_original": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "thumbnail": "",
+    "published": "2026-08-04T19:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "4d42e33f51cb",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-04T13:58:29+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "03bae2513903",
+    "title": "The Download: US robot restrictions and ICE’s DNA grab",
+    "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f491.png",
+    "published": "2026-08-04T12:14:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "26f5b739d7f8",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "summary_original": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "thumbnail": "",
+    "published": "2026-08-04T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
