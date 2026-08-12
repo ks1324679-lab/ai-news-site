@@ -1,0 +1,392 @@
+[
+  {
+    "id": "2e00c1216ae7",
+    "title": "無気力感や抑うつ症状を伴うロングCOVID患者は健康な人よりもドーパミンを放出する神経終末が約18％少ない可能性",
+    "url": "https://gigazine.net/news/20260813-long-covid-dopamine-pet/",
+    "summary_original": "新型コロナウイルスへの感染後、急性期を過ぎても体調不良が長く続く状態は「ロングCOVID」と呼ばれています。カナダの研究チームが無気力感や抑うつ症状を伴うロングCOVID患者の脳をスキャンして調べたところ、ドーパミンを放出する神経終末の状態を示す指標が健康な人より約18％低いことが分かりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-13T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1744fc608e5d",
+    "title": "メルカリが明かす「Claude Code全社展開」「シャドーAI対策」を支える仕組み",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+    "summary_original": "「AIを使わない選択自体がビジネスリスク」と断言するメルカリ。同社は2026年5月、「Claude Code」「Claude Cowork」の全社展開に踏み切った。だが、ローカルファイルの操作やOSコマンドまで実行できる強力なツールの配布は、ガバナンスの課題も伴う。全社のAI活用を支える同社の「仕組み」に迫る。",
+    "thumbnail": "",
+    "published": "2026-08-13T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "310c39f94d0c",
+    "title": "［Python］Polars公式が「全部書き換えるな」と言う理由　pandasからの移行、3戦略",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news008.html",
+    "summary_original": "Polars公式が、pandasからPolarsへの移行戦略を3つに整理した記事を公開した。区間ごとに移す手順を整理しつつ、AIに任せれば片付くのかという疑問についても筆者の見解を述べる。",
+    "thumbnail": "",
+    "published": "2026-08-13T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9fe1236e6823",
+    "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表　10％軽く、1mm薄くしつつ耐久性強化",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
+    "summary_original": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
+    "thumbnail": "",
+    "published": "2026-08-12T23:10:09+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a7053528e3a4",
+    "title": "Google新スマホ「Pixel 11シリーズ」正式発表　「Gemini Intelligence」向けに設計　カメラも強化",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+    "summary_original": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
+    "thumbnail": "",
+    "published": "2026-08-12T23:03:56+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bc9b51dcc6e7",
+    "title": "AIエージェントの「不正なファイル操作」「危険なコード生成」といった問題をReddit投稿から抽出した研究結果",
+    "url": "https://gigazine.net/news/20260812-ai-agent-issue/",
+    "summary_original": "コーディングにAIを活用することは一般的なワークフローとなっていますが、「AIによってファイルが削除された」「AIが不正なコードを生成した」といった問題のある動作も多数報告されています。そんなAIによる危険な行動について、オンライン掲示板のRedditへの投稿を収集して分析した研究結果がプレプリントサーバーのarXivで公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-12T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b98eb46da0e4",
+    "title": "ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に",
+    "url": "https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/",
+    "summary_original": "イギリス海軍の管理下にある海兵隊が使用する無人偵察艇の「K3スカウト」に搭載されていたスパイカメラが、中国に信号を送信していることが明らかになりました。これを受け、イギリス海軍はカメラのインターネット接続機能を無効化しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-12T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a3ab0370bc08",
+    "title": "塩分抜きで唐辛子の辛さを好きなだけ足せるハウスの「唐がらし族＜大辛＞」を使ってみた",
+    "url": "https://gigazine.net/news/20260812-house-chili-peppers-powder/",
+    "summary_original": "複数の唐辛子をブレンドしたハウス食品の辛口スパイス「唐がらし族」が、使用する唐辛子を4種から5種に増やした上で、さらにジョロキアを増量してカプサイシン量を従来に1.8倍に増やした「唐がらし族＜大辛＞」にリニューアルされて2026年8月10日(月)に登場したということなので、どう生まれ変わったのか、いろいろな食べ物と合わせてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-12T20:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0e1a976108c7",
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "summary_original": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "thumbnail": "",
+    "published": "2026-08-12T20:10:40+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "98cd9aa03302",
+    "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+    "summary_original": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
+    "thumbnail": "",
+    "published": "2026-08-12T18:59:59+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0b5cc6d91670",
+    "title": "Scientists just created female clones of male mice",
+    "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "summary_original": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Cloned-mice.jpg",
+    "published": "2026-08-12T18:59:48+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c438dff959bb",
+    "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
+    "url": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
+    "summary_original": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower.\nThe article SpaceXAI&#039;s Grok 4.6 matches OpenAI&#039;s best model and undercuts it on price appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png",
+    "published": "2026-08-12T18:33:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "fedb51cc07b1",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "summary_original": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "thumbnail": "",
+    "published": "2026-08-12T18:19:12+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b77f0ff8e550",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "summary_original": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+    "thumbnail": "",
+    "published": "2026-08-12T17:51:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2fd40c918be8",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "summary_original": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "thumbnail": "",
+    "published": "2026-08-12T17:41:29+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c8124e03ce48",
+    "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
+    "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
+    "summary_original": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy. Their method, called \"Previous-Token Prediction,\" doesn't need access to model weights and works across different models. For companies relying on proprietary system prompts, this could be a serious security risk.\nThe article Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy appeared fir...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/prompt_extracting.png",
+    "published": "2026-08-12T17:32:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "667e84b17d07",
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "summary_original": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+    "thumbnail": "",
+    "published": "2026-08-12T16:57:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "afc23a12a580",
+    "title": "Scaling AI agents with trustworthy data",
+    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "summary_original": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Report-2026-cover.png",
+    "published": "2026-08-12T16:51:57+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d5a54d5944c7",
+    "title": "AI tools for breast cancer detection fall short of radiologists' expectations",
+    "url": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/",
+    "summary_original": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection, but the results fall short of expectations. Only 35 percent report lower recall rates, while 59 percent had expected them. The gap between promise and reality runs through every category measured.\nThe article AI tools for breast cancer detection fall short of radiologists&#039; expectations appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/radiology_AI.png",
+    "published": "2026-08-12T16:24:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1110b810dc4d",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-12T16:14:36+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "efb3047effab",
+    "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+    "url": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
+    "summary_original": "Three data sources tell the same story: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent, and Anthropic grew from 4.3 to 14.9 percent. Similarweb and OpenRouter confirm the trend.\nThe article Google&#039;s Gemini is losing market share to ChatGPT and Claude according to new market data appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+    "published": "2026-08-12T15:50:04+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9fea4b35a86f",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-12T14:00:51+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "90ca4dd17043",
+    "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
+    "url": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
+    "summary_original": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry.\nThe article Legal startup founder Robert Mahari joins Anthropic to lead Claude&#039;s push into law practices appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/07/claude_education.png",
+    "published": "2026-08-12T13:51:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dd46bfe4c4e4",
+    "title": "Twitch streamers can now opt out from training Amazon’s AI",
+    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "summary_original": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-12T13:29:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "aa04d9fec56d",
+    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+    "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/opener_thumb.jpg?w=840",
+    "published": "2026-08-12T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0268aeed91a7",
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "summary_original": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-12T11:52:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8da3243e4c60",
+    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "summary_original": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-12T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2c99e5ba2cdc",
+    "title": "How we picked 35 of the world’s top young scientists and engineers",
+    "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+    "summary_original": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they’re focused on in their work,&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-12T09:08:40+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4361bd4cf51a",
+    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+    "summary_original": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-12T08:09:34-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9ebfb3cbe9d9",
+    "title": "Grok is now an AI ‘teammate’ you can assign work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "summary_original": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-12T07:58:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "143a56c3831e",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "summary_original": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "thumbnail": "",
+    "published": "2026-08-12T06:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8de93a1f4b2a",
+    "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+    "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+    "summary_original": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg",
+    "published": "2026-08-12T00:08:40+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "7b9d1dbb96d8",
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "summary_original": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
+    "published": "2026-08-11T20:59:52+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "ab860a0461b9",
+    "title": "How the “censorship-industrial complex” is changing the internet and US policy",
+    "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+    "summary_original": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&#160; And the reason? R/FIMI, as the office&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-11T17:58:57+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e55e02c2188c",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-11T13:37:10+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "58b1fd78b9ac",
+    "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+    "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+    "summary_original": "Why passkey apps treat Windows differently than other operating systems.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg",
+    "published": "2026-08-11T11:30:08+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "16251d7b149e",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary_original": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "thumbnail": "",
+    "published": "2026-08-11T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "ca8161387cd4",
+    "title": "Daybreak models are now available on AWS",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "summary_original": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "thumbnail": "",
+    "published": "2026-08-11T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6020aec1bae0",
+    "title": "【電子書籍セール50％オフ】Kindle本をまるっと半額にしたサマーセールを開催！【2026年8月16日(日)まで】",
+    "url": "https://gigazine.net/news/20260811-ebook-summer-sale/",
+    "summary_original": "マンガや旅行記などをまるっと半額にした夏のGIGAZINE電子書籍セールを開催します。セール期間はお盆休みが終わる辺りの2026年8月16日(日)までとなっていますので、夏休みで暇という方もイベントや仕事で忙しいという方も、ぜひこの機会に気になる作品をチェックしてみてください。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-11T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  }
+]
