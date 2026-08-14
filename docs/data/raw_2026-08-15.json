@@ -1,0 +1,402 @@
+[
+  {
+    "id": "169a4e53bcde",
+    "title": "「Qwen3.8-27B」ウェイト公開　一部「Opus 4.6 Max」超えか　ライセンスは商用可のApache 2.0",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
+    "summary_original": "中国Alibaba傘下のAlibaba Cloudが、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米Anthropicの「Claude Opus 4.6」の推論エフォート最大（以下、Opus 4.6 Max）を上回るスコアをうたっている。",
+    "thumbnail": "",
+    "published": "2026-08-15T02:26:12+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b7ae43309b99",
+    "title": "白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた",
+    "url": "https://gigazine.net/news/20260814-white-map-strike-47/",
+    "summary_original": "白地図から都道府県を1つはがして引っ張り、弾としてぶつけて他の都道府県のHPを削り連鎖させる「白地図ストライク47」というゲームが公開されていたので、47都道府県全攻略(？)めざしてプレイしてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-14T23:36:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fb32442022bb",
+    "title": "タトゥーやアートメイク用の「滅菌済み」インクの約3分の1が細菌に汚染されている、感染症を引き起こす病原菌も",
+    "url": "https://gigazine.net/news/20260814-tattoo-ink-microbial-contamination/",
+    "summary_original": "針で皮膚に傷を付けてインクを染み込ませるタトゥーは、ファッションや自己表現として広く受け入れられています。また近年は、専用の針で皮膚に色素を埋め込んで眉やアイラインを描く美容目的のアートメイクも盛んです。ところが、アメリカ食品医薬品局(FDA)が259個のタトゥーインクやアートメイク用インク(permanent makeup ink：PMU)を調査したところ、たとえ「滅菌済み」とラベルが貼られているものであっても、約3分の1には細菌が混入していることが判明しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-14T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3ae2e6b44727",
+    "title": "Linuxのデスクトップ利用が1日のうちに22％まで急増したことがCloudflareのデータで明らかに",
+    "url": "https://gigazine.net/news/20260814-linux-desktop-cloudflare/",
+    "summary_original": "Linuxデスクトップからのウェブアクセスが、ある平日に全デスクトップ向けトラフィックの約22％を占めるまで急増していたことがCloudflareのデータから明らかになりました。一般的なOSシェア統計ではLinuxのデスクトップシェアは5％前後とされることが多いため、約22％というシェアは異常に高い数字です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-14T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "08ffce409f39",
+    "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に　Mac版デスクトップアプリで提供",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+    "summary_original": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
+    "thumbnail": "",
+    "published": "2026-08-14T20:33:51+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0b967c8432c9",
+    "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
+    "url": "https://gigazine.net/news/20260814-openai-special-address/",
+    "summary_original": "ChatGPTで知られるOpenAIの社内には、サム・アルトマンCEOや社長のグレッグ・ブロックマン氏など経営陣に直接業務における問題を報告して迅速な解決を求める「friction」というメールアドレスがあると元従業員が明かしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-14T20:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1a6f57033368",
+    "title": "総工費920億円超の海底ケーブルがハリー・ポッターファンの要求でルートを変更",
+    "url": "https://gigazine.net/news/20260814-harry-potter-fans-force-relocation-undersea-cable/",
+    "summary_original": "ハリー・ポッターファンが、作中で登場する屋敷しもべ妖精・ドビーのお墓の下を通る海底ケーブルの敷設計画を聞きつけ、ルート変更を要求し、無事ルート変更を実現することに成功しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-14T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "42265dd89fc3",
+    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "summary_original": "Screen-sharing bug lets remote hackers log in without a password.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
+    "published": "2026-08-14T18:32:14+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "3874b2e5cffe",
+    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "summary_original": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
+    "published": "2026-08-14T17:03:54+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "3cc389ce23d0",
+    "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
+    "url": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
+    "summary_original": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks and natively processes up to 262,000 tokens of context. With this release, Qwen is targeting developers building local and agent-based applications.\nThe article Alibaba&#039;s Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license appeared first on The De...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/qwen_logo-2.png",
+    "published": "2026-08-14T17:01:54+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "57e8da1836be",
+    "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
+    "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+    "summary_original": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files. OpenAI says it's not used for AI training, but memories that feed into chats may still end up as training data.\nThe article OpenAI&#039;s Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/computer_history.png",
+    "published": "2026-08-14T16:43:43+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f82c9b0b4644",
+    "title": "GPT-5.6 Solの「超高速モード」ついに実装　「品質損なわず14倍高速」うたう",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
+    "summary_original": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
+    "thumbnail": "",
+    "published": "2026-08-14T16:32:48+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0e0aa6481012",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "summary_original": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "thumbnail": "",
+    "published": "2026-08-14T16:13:40+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f07d42c202cc",
+    "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
+    "url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
+    "summary_original": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The original authors of unpublished NeurIPS papers rated the results as \"Reject.\" According to the study, conducted with Princeton and the UK AI Security Institute, frontier models can handle the full research engineering process but fall short on research judgment, creative problem-solving, and the ability to abandon failed approaches.\nThe article...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/ai-assisted-science-rejected-papers-nano-banana-pro.jpg",
+    "published": "2026-08-14T16:06:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d0a06ebad8a6",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "summary_original": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-08-14T15:43:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "042796346f67",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "summary_original": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "thumbnail": "",
+    "published": "2026-08-14T14:50:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "30442beeaf4c",
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "summary_original": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
+    "published": "2026-08-14T14:27:14+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "4aff58fd6db0",
+    "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
+    "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
+    "summary_original": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership. Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns inference speed into its own product.\nThe article GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/openai_ultrafast.png",
+    "published": "2026-08-14T14:21:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0fccedf8ea19",
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "summary_original": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "thumbnail": "",
+    "published": "2026-08-14T14:05:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "81e5cc10e8e1",
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "summary_original": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-08-14T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "893e4fe5644e",
+    "title": "Samsung health AI models analyse wearable biosignal data",
+    "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+    "summary_original": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026. Samsung described a future of [&#8230;]\nThe post Samsung health AI models analyse wearable biosignal data appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-08-14T13:30:10+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "fcca288b1b06",
+    "title": "Mark Zuckerberg has an Instagzam",
+    "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "summary_original": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-14T12:54:16-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b8d906c34178",
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "summary_original": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-14T12:39:32-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9ede57eacc41",
+    "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_AI-Hype_2-5-top.jpg?fit=1920,1280",
+    "published": "2026-08-14T12:17:21+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4e325eb27e62",
+    "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
+    "url": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
+    "summary_original": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 percent were merged after human review. Claude Code inventor Boris Cherny sees this as \"early signs of life that this might be possible.\"\nThe article Claude Code now runs daily maintenance on Anthropic&#039;s software with a 46 percent merge rate appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
+    "published": "2026-08-14T11:44:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a49722b6b09c",
+    "title": "Google AI health coach to use Abbott glucose data",
+    "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+    "summary_original": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be integrated into the Google Health app. Users will be able to view glucose trends alongside [&#8230;]\nThe post Google AI health coach to use Abbott glucose data appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-08-14T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "33490605b709",
+    "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も　Anthropicがマルチエージェント実験の結果を公開",
+    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+    "summary_original": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
+    "thumbnail": "",
+    "published": "2026-08-14T09:51:06+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "809a6ceeb0f2",
+    "title": "This scientist is helping build a missing map of childhood",
+    "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "summary_original": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-14T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "19bcbe11240d",
+    "title": "Job titles of the future: Space travel agent",
+    "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "summary_original": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.&#160; The experiences earned him “the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?w=840",
+    "published": "2026-08-14T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1cc51220b4af",
+    "title": "Cloning could be used to save species—or make human “organ sacks”",
+    "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+    "summary_original": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-14T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e21e9951d554",
+    "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+    "url": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+    "summary_original": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks.\nThe post Z.ai Ships GLM-5.3 Without Ret...",
+    "thumbnail": "",
+    "published": "2026-08-14T08:03:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3031db81a793",
+    "title": "南海電鉄「数カ月かかった乗務員計画」が1週間に　「量子コンピュータを疑似再現」で鉄道現場はどう変わる？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
+    "summary_original": "南海電気鉄道と日立製作所は、日立独自技術「CMOSアニーリング」を活用し、鉄道の乗務員・車両の運用計画を自動作成するシステムの構築を始める。熟練者の手作業に依存してきた計画づくりを自動化し、業務負荷の軽減を図る。",
+    "thumbnail": "",
+    "published": "2026-08-14T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "70f39197e820",
+    "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
+    "url": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/",
+    "summary_original": "Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB binary that runs a session in about 28MB of RAM. It leads both Seal-Tools splits while targeting hardware with no GPU and no NPU.\nThe post Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-08-14T05:45:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ae32eded766b",
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "summary_original": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-14T05:21:17-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6c1b82925575",
+    "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
+    "url": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
+    "summary_original": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning to efficient training and inference—enabling the development of specialized small models without excessive resource requirements\nThe post Cr...",
+    "thumbnail": "",
+    "published": "2026-08-14T03:09:45+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ef1921536119",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-14T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "a5a20f629efc",
+    "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+    "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+    "summary_original": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-13T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e25b41ad1a2a",
+    "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+    "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+    "summary_original": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+    "published": "2026-08-13T19:38:58+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "3f33396fd905",
+    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+    "url": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+    "summary_original": "Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more — GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17.0%...",
+    "thumbnail": "",
+    "published": "2026-08-13T17:47:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a202a998008f",
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "summary_original": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-13T17:42:38-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
