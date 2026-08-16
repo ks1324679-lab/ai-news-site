@@ -1,0 +1,212 @@
+[
+  {
+    "id": "95336c5d6065",
+    "title": "自家製ロケットを打ち上げて雷を誘導することはできるのか？",
+    "url": "https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/",
+    "summary_original": "自然の雷がどこに落ちるのかを事前に正確に予測するのは難しく、至近距離で観測する研究も危険かつ困難です。科学・工学系YouTubeチャンネルのElectron Impressionsが、細い導線を引き上げる自家製ロケットや大気の電場を測る装置を開発し、打ち上げ地点付近で雷を誘発する実験を行った結果を公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-17T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c45b81e9a890",
+    "title": "Claude、Codex、Qwen……そのAI用語、どう読む？　読み方クイズ30問",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
+    "summary_original": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。",
+    "thumbnail": "",
+    "published": "2026-08-17T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7430ad56634d",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "summary_original": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "thumbnail": "",
+    "published": "2026-08-16T20:57:04+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "30514dd888ea",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "summary_original": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "thumbnail": "",
+    "published": "2026-08-16T20:32:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "60bb2a82d525",
+    "title": "女性創業者のスタートアップが株式上場や大企業による買収を達成しにくいのはなぜか？",
+    "url": "https://gigazine.net/news/20260816-women-founders-start-ups-exit-less/",
+    "summary_original": "急進的なアイデアを強みに短期間での成長を狙うスタートアップ起業は、株を所有する出資者が資金を回収するための方法として、「株式市場への上場」や「大企業による買収」を狙います。これらは「出口戦略(イグジット)」と呼ばれますが、新たな研究では女性創業者がいるスタートアップはイグジットを達成する可能性が低いことや、女性創業者のデメリットをなくす方法が明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-16T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c278f957ffad",
+    "title": "AI生成テキストの「透かし」が埋め込まれる仕組み",
+    "url": "https://gigazine.net/news/20260816-ai-text-watermarking/",
+    "summary_original": "AIが生成したコンテンツに目印を埋め込んで区別できるようにする「ウォーターマーク」が注目されており、OpenAIが試験的に導入したりAnthropicが導入を発表したりしています。画像と違ってデータを隠すためのピクセルがないテキストにはどのようにウォーターマークを入れるのかという仕組みについて、人間とAIの関係性について調査・研究するNOPEが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-16T19:20:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "29ece23d2b73",
+    "title": "アメリカの航空局が「ゲーマーを航空管制官として採用する」というキャンペーンで2000人以上の採用に成功し目標人数の94％を達成",
+    "url": "https://gigazine.net/news/20260816-gamer-air-traffic-controller/",
+    "summary_original": "アメリカの連邦航空局(FAA)は航空管制官の不足を解消するべく「ゲーマーを対象に求人活動を展開する」というキャンペーンを2026年4月に開始しました。この採用キャンペーンが功を奏して、すでに2000人のゲーマーを採用することに成功しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-16T19:19:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "14332d110bdd",
+    "title": "無料でオープンソースの写真撮影ワークフローアプリ「darktable」、RAW現像も可能",
+    "url": "https://gigazine.net/news/20260816-darktable/",
+    "summary_original": "写真の選別やRAW現像、部分的な色補正からJPEGへの書き出しまでをまとめて行え、被写体を自動選択するAIマスクやAIノイズ除去もPC内で処理できる無料でオープンソースの写真ワークフローアプリ「darktable」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-16T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9eeacf6b78b6",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "summary_original": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "thumbnail": "",
+    "published": "2026-08-16T16:53:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b24034661cf2",
+    "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+    "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+    "summary_original": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas.\nThe article Top mathematicians say LLMs are strong calculators but poor creative thinkers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/neural_network_math-2.png",
+    "published": "2026-08-16T15:31:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c6efd2e9aead",
+    "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+    "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+    "summary_original": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an afterlife. A surgical cut in one place, it turns out, doesn't stay local.\nThe article When AI models aren&#039;t allowed to reflect on themselves, it changes their entire worldview appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/Language-model-human-beliefs.png",
+    "published": "2026-08-16T11:23:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4a493f2763ae",
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "summary_original": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-16T10:56:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "cec81e48847a",
+    "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+    "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+    "summary_original": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a \"burbling sense of responsibility and dread\" that OpenAI isn't doing enough on safety.\nThe article OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups appeared first on The De...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png",
+    "published": "2026-08-16T08:12:52+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1fc865a6bfa5",
+    "title": "Rogue AI aren’t science fiction anymore",
+    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-16T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8af5cb861b6b",
+    "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明　「完全な書き直しなら消える」",
+    "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+    "summary_original": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+    "thumbnail": "",
+    "published": "2026-08-16T07:58:11+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8bd3730a9ae0",
+    "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
+    "url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+    "summary_original": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models.\nThe article Anthropic&#039;s bio-weapons filter was down for nearly a year, exposing 133 million requests appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_bio.png",
+    "published": "2026-08-16T07:20:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3fb8b3b9cfba",
+    "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+    "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+    "summary_original": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task. For agent-based applications, those metrics often tell you more than raw token pricing.\nThe article Optima tackles AI benchmarking&#039;s biggest flaw by letting users test models against their own data appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/Optima.png",
+    "published": "2026-08-16T05:50:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a17d0cbb65ba",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "summary_original": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "thumbnail": "",
+    "published": "2026-08-15T21:29:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "73cbb223a27a",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "summary_original": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "thumbnail": "",
+    "published": "2026-08-15T18:58:39+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "96fdcc1df6bb",
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "summary_original": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-15T16:45:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7bb7c238f855",
+    "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+    "url": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+    "summary_original": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch.\nThe post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3 appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-15T11:28:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
