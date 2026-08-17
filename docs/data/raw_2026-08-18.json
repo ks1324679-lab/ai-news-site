@@ -1,0 +1,362 @@
+[
+  {
+    "id": "7c796f35698e",
+    "title": "絶滅前のサーベルタイガーは近親交配が進み「病気だらけ」だった可能性",
+    "url": "https://gigazine.net/news/20260818-saber-toothed-cat-inbreeding-disease/",
+    "summary_original": "アメリカ・ロサンゼルスのラ・ブレア・タールピットでは20世紀初頭から化石の発掘が行われ、約1万2000年前に絶滅した大きな犬歯を持つサーベルタイガーの一種「スミロドン・ファタリス(スミロドン)」の化石も大量に収集されてきました。スウェーデンのEvidensia Academyに所属するフーゴ・シュメーケル氏らがこれらの化石を調べ、骨に残った病気の痕跡を基に絶滅前の健康状態を分析した結果を報告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-18T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "16f682677f98",
+    "title": "ナンバープレート情報検索について「裁判官署名の令状を取得するのが常識」と電子フロンティア財団が改めて非難",
+    "url": "https://gigazine.net/news/20260817-police-need-to-get-a-warrant-to-search-alpr/",
+    "summary_original": "Flock Safety(Flock)の展開するナンバープレート追跡用の監視カメラネットワークを警察官らが不正利用していた一件について、電子フロンティア財団(EFF)が「そもそも、自動ナンバープレート識別システム(ALPR)の情報を利用する際には裁判官の署名した令状を取得する必要があるというのが常識」と疑問を呈しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-17T23:57:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "47a0d81d3343",
+    "title": "「PoE」好きが1人で作った自由すぎるビルド構築が魅力のローグライトARPG「響き、夢境に(Dream Echo)」をプレイしてみた",
+    "url": "https://gigazine.net/news/20260817-dream-echo/",
+    "summary_original": "ビルドの幅広さが売りのハック＆スラッシュゲーム「Path of Exile(PoE)」の熱心なファンが開発した見下ろし型ローグライトARPGが「響き、夢境に(Dream Echo)」です。敵を倒しながら夢の世界を探索し、道中で手に入る「概念」を自由に組み合わせて自分だけのビルドを構築できるのが特徴で、攻撃やスキル発動などの仕組みそのものを組み替えて戦い方を作り上げられるとのこと。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-17T23:40:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0ec8f5fc68f6",
+    "title": "山火事による大気汚染とPM2.5発生は人為的な大気汚染の減少幅を相殺するほどひどく胎児に悪影響",
+    "url": "https://gigazine.net/news/20260817-wildfire-air-pollution/",
+    "summary_original": "人為的な大気汚染が様々な努力によって抑え込まれる一方で、山火事の増加により、結果的に抑制した分の大気汚染が行われていることが指摘されています。特に、出生前の胎児は早産や後年の疾患などのリスクが高まるとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-17T22:43:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "603da22e2b6e",
+    "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
+    "url": "https://gigazine.net/news/20260817-anthropic-model-2/",
+    "summary_original": "AnthropicがAIに関するリスクレポートを公開しました。その中で、一般公開されている最高性能のモデル「Claude Mythos 5」よりも性能が高い謎のモデルが登場することが話題になっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-17T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "74fdd9bd89c5",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-17T19:46:21+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "dc51f568c245",
+    "title": "What Flock’s defenders are missing",
+    "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-17T19:16:09+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f810c2a5dd94",
+    "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
+    "url": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
+    "summary_original": "MiniMax released MiniMax-Music3, an open-weights text-to-music model. Given lyrics with section tags and a structured caption, it generates a complete song of up to five minutes in a single pass, as 32 kHz, 16-bit stereo WAV. Here is the architecture, the three serving paths, and the license conditions that matter before you ship.\nThe post MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption appeared first on Mark...",
+    "thumbnail": "",
+    "published": "2026-08-17T18:36:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3ce5e666ea20",
+    "title": "Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs",
+    "url": "https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/",
+    "summary_original": "Develop a complete document intelligence pipeline with docTR, integrating OCR, layout analysis, and KIE for production-oriented extraction and searchable PDF creation.\nThe post Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-17T17:52:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "74063e14f4e5",
+    "title": "人型ロボが“人間超え”――助走なしで高さ2mのジャンプ、時速45kmで走行も　中国Unitreeが開発中の新モデルを公開",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000567/",
+    "summary_original": "ロボット開発企業の中国Unitree Roboticsは、開発中の新型ヒューマノイドのデモ動画を公開した。助走なしで高さ2mのジャンプをしたほか、最高で秒速12.66m（時速45.576km）で走る姿を披露した。",
+    "thumbnail": "",
+    "published": "2026-08-17T16:58:35+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "897dfbe77af7",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "summary_original": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "thumbnail": "",
+    "published": "2026-08-17T16:38:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "47e2b9845519",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "summary_original": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "thumbnail": "",
+    "published": "2026-08-17T16:15:12+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "40a9816ea480",
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "summary_original": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "thumbnail": "",
+    "published": "2026-08-17T15:16:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "847aabb3112f",
+    "title": "なぜPFNは「国産AI」をゼロから開発するのか　担当者に聞く“自家製ならではの利点”",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000441/",
+    "summary_original": "「国産」をうたうAIモデルをゼロから開発するPreferred Networks。なぜフルスクラッチにこだわるのか聞いた。",
+    "thumbnail": "",
+    "published": "2026-08-17T15:05:21+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "65fe89a27b65",
+    "title": "AirTag reveals how Amazon destroys rare books for AI training",
+    "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+    "summary_original": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process.\nThe article AirTag reveals how Amazon destroys rare books for AI training appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/Destructive-Book-Training.png",
+    "published": "2026-08-17T14:43:04+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "79807192b562",
+    "title": "Nvidia discloses $21B stake in SpaceX",
+    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "summary_original": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
+    "published": "2026-08-17T14:22:54+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "b53dd2f1460d",
+    "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
+    "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+    "summary_original": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier. According to the Wall Street Journal, nine tech companies now hold around $3 trillion in AI commitments that don't appear on any balance sheet.\nThe article OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
+    "published": "2026-08-17T14:13:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3fdfd91a0627",
+    "title": "「データがない」「スキルがない」「発想が広がらない」　味の素冷凍食品は“3つのない”をどう解消した？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news071.html",
+    "summary_original": "マーケティングにAIを活用することで、どのような課題をどう解消できるのか。キーワードは「AIペルソナ」だ。NECのBestMoveを利用する、味の素冷凍食品の事例から探る。",
+    "thumbnail": "",
+    "published": "2026-08-17T13:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9c141f696414",
+    "title": "AI video market has bounced back from Sora's false start",
+    "url": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
+    "summary_original": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. Netflix already uses AI in 300 of its 1,000 titles, and the startup Higgsfield now carries a $5.4 billion valuation. What was once a tech demo has grown into its own industry, complete with valuations, job titles, and fights over who gets a cut.\nThe article AI video market has bounced back from Sora&#039;s false start appeared first on Th...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/03/sora_balloon_man.png",
+    "published": "2026-08-17T13:29:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "73672096953e",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "summary_original": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+    "thumbnail": "",
+    "published": "2026-08-17T13:10:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7f1dae207039",
+    "title": "「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000564/",
+    "summary_original": "味の素は8月16日、レシピサイト「味の素パーク」の公式Xで14日に投稿した画像について謝罪した。生成AIによる加工のため、商品のラベルや文字の一部が乱れていたという。",
+    "thumbnail": "",
+    "published": "2026-08-17T12:55:19+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8207d686d6cf",
+    "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+    "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/10/IR_14499.jpg",
+    "published": "2026-08-17T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f505cf5dad53",
+    "title": "Anthropic watermarks Claude's output, but critics question the tradeoffs",
+    "url": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/",
+    "summary_original": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable. But critics doubt that word choice stays unaffected, and lawyers are facing new transparency headaches.\nThe article Anthropic watermarks Claude&#039;s output, but critics question the tradeoffs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+    "published": "2026-08-17T11:43:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "569a800c04e1",
+    "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
+    "url": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
+    "summary_original": "DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and provider-agnostic model routing.\nThe post DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-17T09:06:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b1e5b7bc0ace",
+    "title": "How much hydrogen awaits us underground?",
+    "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "summary_original": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-17T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0c3e7b3f060b",
+    "title": "What happens when a kid’s robot best friend dies?",
+    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "summary_original": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
+    "published": "2026-08-17T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "37a27883dede",
+    "title": "Hugging Face分析、中国のオープンモデルが台頭　Qwenは派生モデル15万件超",
+    "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
+    "summary_original": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回り、開発者コミュニティの事実上の基盤モデルになりつつある。",
+    "thumbnail": "",
+    "published": "2026-08-17T08:42:45+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c8d0e7c2e119",
+    "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
+    "url": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/",
+    "summary_original": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on electricity costs and local resources drive most of the conversation.\nThe article AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
+    "published": "2026-08-17T07:58:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dd02c006bef4",
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "summary_original": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-17T06:57:13-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "699d10e1c74c",
+    "title": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "summary_original": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "thumbnail": "",
+    "published": "2026-08-17T05:30:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "a7860c437a7c",
+    "title": "OpenAI joins PORTS-Pike project",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "summary_original": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "thumbnail": "",
+    "published": "2026-08-17T05:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "e5221d6f877f",
+    "title": "New policy ideas for the Intelligence Age",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "summary_original": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "thumbnail": "",
+    "published": "2026-08-17T03:15:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7430ad56634d",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "summary_original": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "thumbnail": "",
+    "published": "2026-08-16T20:57:04+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "eb794a2fd02e",
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "summary_original": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-16T17:32:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4a493f2763ae",
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "summary_original": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-16T10:56:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1fc865a6bfa5",
+    "title": "Rogue AI aren’t science fiction anymore",
+    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-16T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
