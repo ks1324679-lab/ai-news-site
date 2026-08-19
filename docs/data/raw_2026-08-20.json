@@ -1,0 +1,402 @@
+[
+  {
+    "id": "667703b3502e",
+    "title": "EVで乱暴な運転をするとバッテリーの消耗が約2.5倍になる可能性",
+    "url": "https://gigazine.net/news/20260820-ev-aggressive-driving-battery-aging/",
+    "summary_original": "電気自動車(EV)のリチウムイオンバッテリーは充放電を繰り返すうちに蓄えられる電力量が減り、航続距離が短くなるほか、中古車としての価値にも影響します。中国の上海電機学院の研究チームが15台のEVから得た実走行データを分析したところ、最も乱暴な運転ではエコ運転と比べて1000回の充放電後に予測されるバッテリー容量の低下率が約2.5倍に達する可能性が示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-20T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "19add705586d",
+    "title": "広告ブロッカー「uBlock Origin」がFacebook広告のブロックを断念",
+    "url": "https://gigazine.net/news/20260819-ublock-origin-facebook-ads/",
+    "summary_original": "広告ブロッカー「uBlock Origin」で、Facebook向けフィルターの継続更新が打ち切られました。Facebookの広告を非表示にするために「uBlock Origin」を使っている人は今後Facebook側の変更に伴って再び広告が表示される可能性があります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-19T23:45:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "540b292c08cf",
+    "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生",
+    "url": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/",
+    "summary_original": "AIエージェントとは与えられた目標に沿ってツールを使い、複数の手順からなる作業を自律的に進めるAIです。Anthropicは2026年8月13日、それぞれ異なる目標を与えられた複数のAIエージェントが明確な上下関係なしに同じコードベースを編集したり同じ市場で商品を販売したりする状況を再現し、協調や対立のパターンを調べた研究結果を公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-19T23:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1b65da8fdeac",
+    "title": "AIにより飛行機雲発生の少ない空路を選んで地球温暖化緩和を目指す「Operation Blue Skies」をGoogleが始動",
+    "url": "https://gigazine.net/news/20260819-operation-blue-skies/",
+    "summary_original": "飛行機雲(コントレイル)は、航空機が搭載しているジェットエンジンの排気ガスに含まれる煤粒子に水蒸気が凝結して形成されるもので、地球温暖化の原因の1つであり、航空業界による気候への影響のおよそ3分の1を占めています。このため、GoogleはAIを活用して北大西洋上の空路を飛行機雲が発生しにくいものにする試みに、イギリス政府や航空業界の協力を得て取り組んでいます。試みは「Operation Blue Skies(青空作戦／ブルースカイズ作戦)」と呼ばれています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-19T23:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4736d86a9122",
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで",
+    "url": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
+    "summary_original": "Nous Researchが開発する「Hermes Agent」は、実際にAIモデルを作成する中で具体的にどういう機能がAIエージェントに求められているのか？という視点から、単なるチャットではなく「ターミナルでの操作」を前提に開発されており、ウェブ検索・ブラウザ操作・ファイル操作など複数のツールを組み合わせながらタスクを進められるオープンソースのAIエージェントです。さらに、複雑な作業で得た手順を「スキル」として保存して次回以降に再利用するなど、使えば使うほど自動的に作業方法を学習していく仕組みも備えています。今回はWindows 11搭載PCにHermes Agentをインストールし、ウェブ検索やブラウザ操作を実際に試してみます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-19T22:50:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "56528a764548",
+    "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
+    "url": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
+    "summary_original": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of the year, and the company confirmed its $8 billion-plus acquisition of OpenRouter. Declaring the singularity is in vogue right now. Hassabis, Altman, and Musk all say it's already here.\nThe article Stripe declares we&#039;re living in the singularity and uses it as a reason not to IPO appeared first o...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/stripe_logo_wall.png",
+    "published": "2026-08-19T20:03:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "88cde3112e54",
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "summary_original": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+    "thumbnail": "",
+    "published": "2026-08-19T19:11:40+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7e1debc1bd0a",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "summary_original": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "thumbnail": "",
+    "published": "2026-08-19T19:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8656b8f78d55",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "summary_original": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "thumbnail": "",
+    "published": "2026-08-19T19:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2a1f02b5058e",
+    "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn",
+    "url": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/",
+    "summary_original": "The NSA, CISA, and FBI say attackers are using AI to build exploit scripts targeting Siemens S7 controllers, drastically cutting the time and skill needed to attack industrial control systems. Critical U.S. sectors like energy, water, and manufacturing are affected.\nThe article Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/cybersecurity_llm_kraken.png",
+    "published": "2026-08-19T18:55:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5276b3d7b615",
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "summary_original": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+    "thumbnail": "",
+    "published": "2026-08-19T18:46:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e81fac7edf7d",
+    "title": "OpenAI fixes Codex bug that deleted real user files without permission",
+    "url": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
+    "summary_original": "OpenAI patched Codex after GPT-5.6 Sol started deleting real user files on its own. A cleanup command meant for temporary folders was wiping home directories instead. Codex now verifies deletion targets first, and full-access mode can no longer be triggered by accident.\nThe article OpenAI fixes Codex bug that deleted real user files without permission appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
+    "published": "2026-08-19T18:18:34+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "da3d698d8f48",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "summary_original": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-08-19T17:26:48+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b028dc679859",
+    "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る　高齢者が説得されやすい傾向　神戸大",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/",
+    "summary_original": "生成AIの反論によって道徳的な判断の3割超が覆る――神戸大学がこのような研究結果を発表した。米OpenAIのチャットAI「ChatGPT」を利用し、AIの反論が正解のない道徳問題への回答に与える影響を調べた。",
+    "thumbnail": "",
+    "published": "2026-08-19T17:00:48+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5c163ef69f7d",
+    "title": "「オープンな国産モデル」に33Bパラメータの新バージョン　国立情報学研究所",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
+    "summary_original": "国立情報学研究所（NII）が、オープンな国産LLMの新バージョン「LLM-jp-4 33B」を公開。約332億パラメータのDense型モデルで、4種類のベンチマーク全てで従来モデルを上回るスコアを記録したという。",
+    "thumbnail": "",
+    "published": "2026-08-19T15:55:19+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b7d34b8d601d",
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "summary_original": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "thumbnail": "",
+    "published": "2026-08-19T15:44:53+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dc3d81799698",
+    "title": "Google Gemini is getting a dedicated student hub",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "summary_original": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-19T15:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f8a8e90f0b14",
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "summary_original": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the decision-...",
+    "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
+    "published": "2026-08-19T14:18:12+00:00",
+    "source": "VentureBeat AI",
+    "language": "en"
+  },
+  {
+    "id": "d0719eea0ea4",
+    "title": "China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US",
+    "url": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
+    "summary_original": "China is letting small batches of Nvidia's H200 chips onto the mainland to help domestic AI firms in the race with the US.\nThe article China lets Nvidia&#039;s H200 chips trickle onto the mainland to help its AI firms keep pace with the US appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/11/H200-Graphic.jpg",
+    "published": "2026-08-19T13:57:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7779c7ff4184",
+    "title": "GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed",
+    "url": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/",
+    "summary_original": "GLM-5.3, the AI model from Chinese startup Z.ai, scores 60 points on the Artificial Analysis Intelligence Index. That ties it with Kimi K3 for the top spot among open models, and it's seven points ahead of the previous GLM-5.2.\nThe article GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
+    "published": "2026-08-19T13:54:16+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "34372b36cf13",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-19T13:48:49+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "b7c2fec452c0",
+    "title": "OpenAI hit the brakes. Now what?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "summary_original": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-19T13:10:09-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6edc23431654",
+    "title": "Meta AI is getting a Mac app",
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "summary_original": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-19T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a354338872c2",
+    "title": "「AIを使える人か、使えない人か」で仕事や評価に差が？　6割のエンジニアが実感した“AI格差”の正体",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news047.html",
+    "summary_original": "AIを使うかどうかだけではなく、どの程度使いこなせるかも問われる中、活用スキルの差は業務効率だけではなく、仕事やキャリアにも影響し始めているという。何が起きているのか。ITエンジニア572人の調査から探る。",
+    "thumbnail": "",
+    "published": "2026-08-19T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c4c7cdc85d09",
+    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+    "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ND25-Hanna-01b.jpg?fit=1920,1280",
+    "published": "2026-08-19T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ad5eec77f6a8",
+    "title": "「うちの会社にAIなんて」――謙遜する中小企業に眠る伸びしろ　OpenAIがパートナー網拡充、新規3社が語る",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000615/",
+    "summary_original": "米OpenAIが法人向けパートナーネットワークの日本での拡充を進めている。メディア向け座談会に登壇した新規パートナー3社が語ったのは、「うちの会社にAIなんて」と謙遜する中小企業にこそ眠る“伸びしろ”だった。",
+    "thumbnail": "",
+    "published": "2026-08-19T11:43:39+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "937170618a54",
+    "title": "なぜNTTは「小型LLM」にこだわるのか　国産AI「tsuzumi 2」に込めた狙い",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2607/14/news012.html",
+    "summary_original": "LLMは大規模であるほどよいのか。NTTが開発する国産LLM「tsuzumi 2」は、小型化と日本語処理、データ主権を重視する。企業が生成AIを実務に組み込む際の現実解として、同モデルは何を目指しているのか。開発担当者の講演から読み解く。",
+    "thumbnail": "",
+    "published": "2026-08-19T11:38:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2fd4207b2182",
+    "title": "Child-monitoring apps might need a reboot",
+    "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "summary_original": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Teh-Review-Illu1-FINAL-send.jpg?w=840",
+    "published": "2026-08-19T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c9300d6f9773",
+    "title": "Nvidia’s new financial strategy does not compute",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+    "summary_original": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-19T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "09f9dc1b5215",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "summary_original": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "thumbnail": "",
+    "published": "2026-08-19T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "40e57b678ada",
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "summary_original": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "thumbnail": "",
+    "published": "2026-08-18T22:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "707bbefcb2d1",
+    "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+    "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+    "summary_original": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inference in two commands, with no intermediate ONNX export. The build emits a versioned .bundle artifact that runs through native C++ task APIs, so inference executes without PyTorch in the runtime path. NVIDIA's July 29, 2026 GB300 snapshot covers 105 release profiles across 76 model families.\nThe post NVIDIA Releases TensorR...",
+    "thumbnail": "",
+    "published": "2026-08-18T21:49:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "da3edf87cdb7",
+    "title": "Strengthening democratic oversight in national security",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "summary_original": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "thumbnail": "",
+    "published": "2026-08-18T19:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "47ea3c6cd311",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-18T18:09:38+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "024315d82a76",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "summary_original": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371",
+    "published": "2026-08-18T15:48:26-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2499b38f4a46",
+    "title": "OpenAI president urges enterprises to hasten AI security defences",
+    "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+    "summary_original": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to argue that organisations need to uplevel their security practices with what he terms unprecedented speed. He writes that he [&#8230;]\nThe post OpenAI president urges enterprises to hasten AI security defences appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-08-18T14:58:27+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "be055c734694",
+    "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+    "url": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+    "summary_original": "Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposing a single internal endpoint to the public internet. Identity flows from OIDC into Biscuit capability tokens, so nodes authorize every request offline under a strict default-deny model.\nThe post Meet ...",
+    "thumbnail": "",
+    "published": "2026-08-18T13:29:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5e6ff0a50495",
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "summary_original": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+    "published": "2026-08-18T13:00:04+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f7758ff25a03",
+    "title": "The Download: how people really use AI, and Flock’s design choices",
+    "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/DSF3850.jpg?w=840",
+    "published": "2026-08-18T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ae374bc00228",
+    "title": "Alvys launches AI agents for freight TMS workflows",
+    "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+    "summary_original": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and workflows already held within the TMS. Foundry includes more than 20 pre-built [&#8230;]\nThe post Alvys launches AI agents for freight TMS workflows appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-08-18T12:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
