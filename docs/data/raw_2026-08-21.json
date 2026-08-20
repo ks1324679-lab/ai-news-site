@@ -1,0 +1,402 @@
+[
+  {
+    "id": "05c0f1bd61a3",
+    "title": "裁判の提出書類に「原告有利の出力を生成するようAIに指示するテキスト」が隠されていたことが発覚",
+    "url": "https://gigazine.net/news/20260821-hides-prompt-injection-legal-filing-ai/",
+    "summary_original": "生成AIはさまざまな現場で活用されており、法律の現場でも関係者がAIを使って提出書類を要約したり、裁判書類の作成をAIにサポートさせたりしています。そんな中、弁護人に依頼せず自ら本人訴訟を起こしたアメリカの男性が、裁判所への提出書類に「自分に有利な出力を生成するようにAIへ指示するテキスト」を隠していたことが発覚しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-21T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f6418aa59ac6",
+    "title": "GoogleはAI競争に負けたのか　「最強のAI」ではなく「AIの“電力網”」を選ぶ賭け",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/21/news006.html",
+    "summary_original": "GoogleからAI研究の中心人物が相次いで去った。「Geminiは終わった」という見方に対し、「最先端ではなく、AIを社会全体に行き渡らせる“電力網”で勝つ賭けだ」という別の解釈もある。電気の歴史になぞらえながら整理する。",
+    "thumbnail": "",
+    "published": "2026-08-21T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "471b6a0244f8",
+    "title": "プログラマーはどの言語からどの言語へ移住しているのか？JetBrainsが8837人分の回答を分析",
+    "url": "https://gigazine.net/news/20260820-jetbrains-programming-language-migration/",
+    "summary_original": "プログラミング言語の「Kotlin」などを開発するJetBrainsが、8837人の開発者にプログラミング言語の使用実態を質問しました。その結果、開発者が主に使用する言語や、過去1年でどの言語に乗り換えたのかが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-20T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "00aa236e37b3",
+    "title": "AIエージェントを「マウスの動き」で見抜く検知手法が研究されている",
+    "url": "https://gigazine.net/news/20260820-akamai-identify-agent/",
+    "summary_original": "ウェブサイト上で人間の代わりに操作するAIエージェントを「マウスの動き」から見分ける手法をCDNやサイバーセキュリティサービスを提供するAkamaiが研究しています。人間とAIエージェントではマウス操作の回数や間隔に大きな違いがあり、Akamaiは少ない操作データでもAIエージェント特有の振る舞いを判別する仕組みを試作しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-20T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b50f5dbf1bab",
+    "title": "スマホで動く小型AIモデル「LFM2.5」に省メモリ化を施しつつ性能低下を抑えたQAD版が登場",
+    "url": "https://gigazine.net/news/20260820-lfm2-5-qad/",
+    "summary_original": "AI企業のLiquid AIはノートPCやスマートフォンといった低スペックなデバイスでも実行できる小型AIモデルとしてLFM2.5シリーズを展開しています。新たにLFM2.5シリーズに量子化認識蒸留(QAD)という省メモリ化しつつ性能低下を抑える技術を適用したバージョンがオープンモデルとして公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-20T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0e5fabfe4834",
+    "title": "Ok, can we actually cool data centers with our pee?",
+    "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+    "summary_original": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+    "thumbnail": "",
+    "published": "2026-08-20T20:53:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e7ffb0d09aee",
+    "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
+    "url": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
+    "summary_original": "PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR, and ten AI agents shipped in version 2.5.\nThe post Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/08/image-2-1024x573.png",
+    "published": "2026-08-20T19:34:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4e0d0521bb83",
+    "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+    "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+    "summary_original": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Flash to the platform.\nThe article Adobe Firefly adds AI audio tools and Google&#039;s Gemini Omni Flash appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/adobe_logo-1.png",
+    "published": "2026-08-20T19:29:34+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b359671ae1bf",
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "summary_original": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+    "thumbnail": "",
+    "published": "2026-08-20T19:18:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dc3d7ed90c79",
+    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "summary_original": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+    "thumbnail": "",
+    "published": "2026-08-20T19:15:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "aa6fb57a9986",
+    "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
+    "url": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+    "summary_original": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output.\nThe post Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-20T18:53:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "501a92a0a813",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "summary_original": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "thumbnail": "",
+    "published": "2026-08-20T18:20:35+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e6b20702962a",
+    "title": "LLMs could write like humans but post-training guardrails make their text detectable",
+    "url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+    "summary_original": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without these constraints already write with far more variety.\nThe article LLMs could write like humans but post-training guardrails make their text detectable appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
+    "published": "2026-08-20T17:36:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "90eae5e4b71e",
+    "title": "Grok keeps sending gibberish responses to users",
+    "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "summary_original": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+    "thumbnail": "",
+    "published": "2026-08-20T17:32:16+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cdde254e2e69",
+    "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
+    "summary_original": "AI営業電話に迷惑を被ったという声が少なくない。SNSでは迷惑がる声も……。",
+    "thumbnail": "",
+    "published": "2026-08-20T17:10:55+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "60e27419fa42",
+    "title": "「ロボットのChatGPTモーメントが近づいている」　中国UnitreeのCEO、世界ロボット大会で言及",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000656/",
+    "summary_original": "Unitreeのワン・シンシンCEOは世界ロボット大会で、ロボットの「ChatGPTモーメント」が近づいていると発言した。",
+    "thumbnail": "",
+    "published": "2026-08-20T17:08:10+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b1eabc16d142",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-20T16:52:57+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "0a9473d69ecf",
+    "title": "日本精工が「国産人型ロボ」開発を後押し　スタートアップのアトムと協力、アクチュエータの検証など",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000655/",
+    "summary_original": "人型ロボットを開発するスタートアップのアトムは、日本精工（NSK）と国産人型ロボットの開発・実装に向け、戦略的パートナーシップに関する基本合意書を締結したと発表した。",
+    "thumbnail": "",
+    "published": "2026-08-20T16:47:56+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5e86b723ff64",
+    "title": "Debates over AI consciousness are a trap",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "summary_original": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-20T15:42:39+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ecb59f9048f1",
+    "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
+    "url": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
+    "summary_original": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model lead can't be defended. This issue looks at what can.\nThe article Frontier Radar #4: China has caught up, so what&#039;s left of the Western AI lead? appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/AI-Frontier-4-China-scaled.png",
+    "published": "2026-08-20T14:08:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5f36318a4995",
+    "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+    "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+    "summary_original": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Amazon. Reaching that many [&#8230;]\nThe post Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-08-20T14:05:18+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "e6e63ebeeb04",
+    "title": "エイベックス松浦会長、noteの“バズり記事”を「ほぼAI」で作成　「僕の60年分のデータを入れた」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000644/",
+    "summary_original": "エイベックスの松浦勝人会長は、8月13日から「note」に投稿している記事について、ほとんどAIで作成していたと自身のXアカウント（@maxmatsuuratwit）で明かした。",
+    "thumbnail": "",
+    "published": "2026-08-20T13:28:40+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2816275d64dd",
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "summary_original": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
+    "published": "2026-08-20T13:00:35+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "b88f2bd54483",
+    "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
+    "url": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
+    "summary_original": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration.\nThe article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/Generalist-Gen-1.5.jpg",
+    "published": "2026-08-20T12:35:52+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a16f3b00b8ba",
+    "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
+    "url": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
+    "summary_original": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scaling. Sutton's alternative is agents that learn continually from their own experience instead of relying on frozen models.\nThe article KI-Pioneer Sutton calls synthetic data a &quot;big mistake&quot; in the face of an infinitely complex world appeared f...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/Rich-Sutton-Big-World-Hypothesis.png",
+    "published": "2026-08-20T12:14:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4ad78b2d3b31",
+    "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MIT_Opener_final2.jpg?fit=2128,1196",
+    "published": "2026-08-20T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c7fbc3b1617c",
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "summary_original": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-20T11:45:55-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "63a1c4c6a261",
+    "title": "Welcome to the AI crisis in math",
+    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "summary_original": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-20T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "90eae752a6c9",
+    "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+    "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+    "summary_original": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing. OpenRouter supports more than 400 models from over 80 providers, according to Stripe. Rather than requiring [&#8230;]\nThe post Stripe agrees to buy OpenRouter as AI model routing expands appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-08-20T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "20d0e9fe5e74",
+    "title": "The next big thing in hydrogen could be underground",
+    "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    "summary_original": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-20T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "546c18a8a2cd",
+    "title": "Unlocking hidden revenue streams with market models",
+    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "summary_original": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
+    "published": "2026-08-20T09:47:22+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "82055730bb8c",
+    "title": "音声録音＆AI分析で知識をため込んでタスク管理も可能な装着型デバイス「SwitchBot AIマインドクリップ」を使ってみたよレビュー",
+    "url": "https://gigazine.net/news/20260820-switchbot-ai-mindclip/",
+    "summary_original": "日常生活では「買いものリスト」や「仕事のタスク」などのメモとして記録しておきたい事柄が大量に発生しますが、スマートフォンアプリなどを使って手動で記録するのは手間がかかります。2026年8月19日に登場した「SwitchBot AIマインドクリップ」は音声を録音してAIで情報整理できるデバイスで、会話内容や音声メモを録音しておくだけでAIが自動的に内容をまとめてタスクリストや日次レポートを作成してくれるほか、録音データを情報源として使うAIアシスタント機能も搭載しています。そんなSwitchBot AIマインドクリップを実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-20T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e3d7b0428306",
+    "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+    "summary_original": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world&#8217;s first minister of state for artificial intelligence at 27. In the years since, it [&#8230;]\nThe post Agentic AI in government just hit the hard part: deciding what a machine may decide appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-08-20T09:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "f13376a8d8ed",
+    "title": "Support networks aim to help kids through the polycrisis",
+    "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    "summary_original": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Paris-France_Vinci.jpg?w=840",
+    "published": "2026-08-20T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7a15ae8d4753",
+    "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
+    "url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
+    "summary_original": "This tutorial provides an end-to-end workflow for fine-tuning language models using Direct Preference Optimization (DPO). We demonstrate how to audit the Anthropic HH-RLHF dataset for structural and length-based biases, implement a robust training pipeline using TRL and LoRA, and evaluate model performance to ensure genuine preference learning rather than reliance on lexical shortcuts.\nThe post Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anth...",
+    "thumbnail": "",
+    "published": "2026-08-20T08:51:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "90accb9ed72d",
+    "title": "A third of ChatGPT ads appear in irrelevant conversations",
+    "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+    "summary_original": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real ChatGPT conversations between 4 July and 4 August 2026, pairing every ad with the conversation it appeared in, [&#8230;]\nThe post A third of ChatGPT ads appear in irrelevant conversations appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-08-20T08:07:40+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "58939a4222a7",
+    "title": "Slack is launching collaborative vibe-coding channels",
+    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "summary_original": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-20T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9df37d9e2fb4",
+    "title": "AI data centre regulation just got a template that needs no new law",
+    "url": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+    "summary_original": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer&#8217;s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breaking them, and persuade the town that has to live with the building to say [&#8230;]\nThe post AI data centre regulation just got a template that needs no new law appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "published": "2026-08-20T08:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "2e8bfa2782e5",
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "summary_original": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "thumbnail": "",
+    "published": "2026-08-20T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6213ce5ceef3",
+    "title": "How ChatGPT Work helps Stampli move ideas to market",
+    "url": "https://openai.com/index/stampli",
+    "summary_original": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "thumbnail": "",
+    "published": "2026-08-20T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
