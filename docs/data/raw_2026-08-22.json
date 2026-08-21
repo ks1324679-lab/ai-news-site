@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1db91ebb3f9b",
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
+    "url": "https://gigazine.net/news/20260821-hermes-agent-skill/",
+    "summary_original": "前回、AIエージェント「Hermes Agent」をインストールしてGIGAZINEの記事を調査させてみたところ、ブラウザ操作に失敗したり、選んだものとは別の記事を開いてしまったりと試行錯誤しつつも最終的には目的の記事を見つけて内容をまとめることに成功しました。Hermes Agentにはこうして実際に行った作業の手順やトラブルの解決方法を「スキル」として保存し、別のセッションでも再利用できるようにする機能があります。そこで今回は、前回の「GIGAZINEから記事を探して内容をまとめる」という一連の作業を実際にスキル化し、新しいセッションで同じような作業を頼んだ際に前回の経験がどのように生かされるのかを確かめてみます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-21T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "45eb7cfdc09d",
+    "title": "AIの回答をコピペしないでくれと頼む運動「Don’t paste the AI, please.(AIが書いたものをコピペしないでください)」",
+    "url": "https://gigazine.net/news/20260821-dont-paste-the-ai-please/",
+    "summary_original": "ChatGPTなどのAIは、仕組み上、自分が出力した文章の正誤ないしは真偽を確認できません。できているように見えても実際は違うので、最終的には人間がその正確性を確認する必要があります。ところが、この仕組みを知らずにAIが生成した文章をそのままコピペする人間が存在し、そのような文章を受け取った人間にはまずその文章が正しいのかどうかを確認しなければならないという不要な負担が生じています。こうした「AI文章そのままコピペ」をやめてくれと訴える運動が行われています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-21T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "508037fcec9f",
+    "title": "インターネット年齢確認の強化により悪質なアダルトサイトが増加したとPornhubが調査結果を公表、「無料ポルノ」の検索結果上位10件のうち7件が規制に準拠していないサイトだった",
+    "url": "https://gigazine.net/news/20260821-internet-age-checks-boosted-rogue-adult-sites/",
+    "summary_original": "イギリスにはインターネット上のコンテンツから未成年者を守るための「オンライン安全法」に基づく、年齢確認義務が存在します。この年齢確認義務の登場により、より悪質なアダルトサイトが増加していると、大手ポルノサイトのPornhubが報告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-21T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4af5149f16f9",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "summary_original": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "thumbnail": "",
+    "published": "2026-08-21T19:43:39+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1b4e89e5b094",
+    "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+    "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+    "summary_original": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches. Anthropic is also plugging Mythos 5 into partner security products protecting critical infrastructure.\nThe article Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png",
+    "published": "2026-08-21T19:35:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7ef87a95928e",
+    "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
+    "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+    "summary_original": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approaches Opus 4.8 and sometimes beats it.\nThe article Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/deepseek_deepseek_logo.png",
+    "published": "2026-08-21T19:08:27+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ef39352d1a7d",
+    "title": "大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？",
+    "url": "https://gigazine.net/news/20260821-microsd-card-test-3-years/",
+    "summary_original": "microSDカードはゲーム機やカメラなどの重要なデータを保存するために使われているため、どれほどの耐久性があるのかは購入を決める大きなポイントです。テクノロジー愛好家のマット・コール氏が、3年にわたって続けているmicroSDカードの耐久性テストの結果を報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-21T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9fdeac33e543",
+    "title": "2026年8月21日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260821-headline/",
+    "summary_original": "サンライズ50周年記念作品として制作される『装甲騎兵ボトムズ』シリーズ完全新作『装甲騎兵ボトムズ 灰色の魔女』の本予告が公開されました。本作は劇場全2部作となり、第1作は2026年11月20日(金)より全国公開。監督を押井守、原作・監修を髙橋良輔、制作をサンライズ、制作協力をProduction I.Gが担当します。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-21T18:53:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f318c965831e",
+    "title": "SNSのウソ画像、どう見破る？　熊本県庁やテレビ局も頼る“すごい企業”の正体",
+    "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
+    "summary_original": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
+    "thumbnail": "",
+    "published": "2026-08-21T18:31:35+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ac760d65d91b",
+    "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
+    "url": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/",
+    "summary_original": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey. 61 percent are \"strongly opposed.\"\nThe article Data center opposition surged from 42 to 75 percent in just one year, survey finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/data_ceneter_protest.png",
+    "published": "2026-08-21T18:25:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8b3949163172",
+    "title": "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」　note記事作成の“苦労”明かす",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000684/",
+    "summary_original": "「AIで仕事が楽になると思ってたけど、真逆でした」――エイベックスの松浦勝人会長は、自身のXアカウントでこのように投稿した。AIを活用したnoteの記事制作の一端を明かした。",
+    "thumbnail": "",
+    "published": "2026-08-21T17:09:20+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c56b193bddc4",
+    "title": "中国AI「Kimi」が日本進出か　有料プランのプレゼントキャンペーンも　「はじめまして、日本」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000679/",
+    "summary_original": "AIモデル「Kimi」を開発する中国Moonshot AIは、Kimiの日本語版公式X（@KimiAI_Japan）で「今日から、日本での歩みを始める」と投稿した。日本に本格進出するとみられる。",
+    "thumbnail": "",
+    "published": "2026-08-21T15:54:13+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b4f5a0cc7585",
+    "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
+    "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
+    "summary_original": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters.\nThe article US wants to force partner countries to choose between Washington and Beijing in the AI race appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/china_vs_usa_ai_arms_race.png",
+    "published": "2026-08-21T15:18:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2128e60ca793",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "summary_original": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#...",
+    "thumbnail": "",
+    "published": "2026-08-21T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f30a4a32fb60",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "summary_original": "There's about to be a big fight to secure access to space.",
+    "thumbnail": "",
+    "published": "2026-08-21T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ee651d00c0ca",
+    "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+    "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+    "summary_original": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
+    "published": "2026-08-21T13:11:35+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "3cd0cf55d152",
+    "title": "FANZAで「成人向けAIコンテンツ制作サービス」開始　8月24日から先行体験",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000676/",
+    "summary_original": "成人向けECサイト「FANZA」を運営するデジタルコマースが、成人向けAIコンテンツプラットフォーム「FANZAスタジオ」の提供を始める予定だ。8月24日からβ版の先行体験を始める。",
+    "thumbnail": "",
+    "published": "2026-08-21T13:08:48+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7fdd08983a5e",
+    "title": "The Download: threats from space mirrors and credit for AI drugs",
+    "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/SB1-top_3.jpg?fit=3840,2560",
+    "published": "2026-08-21T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "27aaea753258",
+    "title": "「Claudeの使い方」を無料で学べる公式サイト登場　「Code」「Cowork」などサービスごとに解説",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
+    "summary_original": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
+    "thumbnail": "",
+    "published": "2026-08-21T11:26:13+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4fa9883e9740",
+    "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
+    "url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
+    "summary_original": "Waymo built its own chip for its robotaxis, cutting its reliance on Nvidia.\nThe article Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/waymo_press_shot-scaled.jpg",
+    "published": "2026-08-21T11:04:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2be7e5f3f744",
+    "title": "Mother tongue",
+    "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "summary_original": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-21T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "66806890d278",
+    "title": "When AI designs a drug, who gets the credit?",
+    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "summary_original": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-21T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b0b66b952620",
+    "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+    "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+    "summary_original": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-21T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "715aa7b8d8cb",
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "summary_original": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "thumbnail": "",
+    "published": "2026-08-21T00:13:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "31b34c53c278",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-21T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "08dddb48c1bd",
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "summary_original": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "thumbnail": "",
+    "published": "2026-08-20T22:36:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "60d44502cd81",
+    "title": "Google Discover is getting an AI chatbot-tuned feed",
+    "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "summary_original": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-20T17:50:22-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b1eabc16d142",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-20T16:52:57+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "5e86b723ff64",
+    "title": "Debates over AI consciousness are a trap",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "summary_original": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-20T15:42:39+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2816275d64dd",
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "summary_original": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
+    "published": "2026-08-20T13:00:35+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c7fbc3b1617c",
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "summary_original": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-20T11:45:55-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "63a1c4c6a261",
+    "title": "Welcome to the AI crisis in math",
+    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "summary_original": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-20T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "58939a4222a7",
+    "title": "Slack is launching collaborative vibe-coding channels",
+    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "summary_original": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-20T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2e8bfa2782e5",
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "summary_original": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "thumbnail": "",
+    "published": "2026-08-20T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6213ce5ceef3",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "summary_original": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "thumbnail": "",
+    "published": "2026-08-20T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
