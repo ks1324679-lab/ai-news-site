@@ -1,0 +1,232 @@
+[
+  {
+    "id": "3646a34177ac",
+    "title": "経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えるとの研究結果",
+    "url": "https://gigazine.net/news/20260824-good-economy-financial-strain-powerlessness/",
+    "summary_original": "たとえニュースで「景気が好調」と報じられていても実際に自分が生活に困っていれば、世間の景気と自分の暮らしの間に隔たりを感じてしまうのはおかしなことではありません。アメリカのイェール大学とカナダのトロント大学の研究チームが、個人の経済的な苦しさと無力感の関係が「自国の景気をどう評価するか」によって変わるのかを調べました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-24T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "423d75977c7c",
+    "title": "文学賞受賞作が決まる仕組み・アニメ映画『花緑青が明ける日に』監督インタビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年7月版はコレ！",
+    "url": "https://gigazine.net/news/20260824-gigazine-kindle-ranking-2026-07/",
+    "summary_original": "GIGAZINEの記事を電子化した書籍を対象に「2026年7月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-24T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e32e9b697924",
+    "title": "リンゴの味と香りが特濃な「三ツ矢特濃アップルスカッシュ」試飲レビュー",
+    "url": "https://gigazine.net/news/20260823-mitsuya-apple-squash/",
+    "summary_original": "“濃くて、おいしい”を売りにしたアサヒ飲料の三ツ矢・特濃のシリーズに、2026年8月17日(月)から「特濃アップルスカッシュ」が加わったので、買ってきて飲んでみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-23T23:23:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "942f31e1dbd9",
+    "title": "AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260823-langfuse/",
+    "summary_original": "AIエージェントが回答を作る裏側では「LLMに問い合わせる」「検索する」「ツールを実行する」「結果を再びLLMへ渡す」といった処理が連続して行われています。その実行経路を丸ごと記録し、どこで何トークンを使用したのかまでブラウザから追跡できるオープンソースツールでセルフホストが可能な「Langfuse」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-23T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3f2c2abfb017",
+    "title": "ピアノ演奏の続きをAIで自動生成できるアプリ「RollTab」が登場",
+    "url": "https://gigazine.net/news/20260823-transformer-piano/",
+    "summary_original": "人間が演奏したピアノ楽曲の続きをAIで自動生成できるiPhoneアプリ「RollTab」が登場しました。RollTabの開発者であるサイモン・エドワードソン氏がアプリや独自AIモデルの開発プロセスについて解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-23T22:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "be28f1428bf3",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "summary_original": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "thumbnail": "",
+    "published": "2026-08-23T20:01:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "fc3e349b3942",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "summary_original": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "thumbnail": "",
+    "published": "2026-08-23T19:14:08+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1a68c82ec516",
+    "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+    "url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+    "summary_original": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today\nThe post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-23T17:51:56+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d26899ffdb40",
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "summary_original": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+    "thumbnail": "",
+    "published": "2026-08-23T15:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c058daa1dd11",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "summary_original": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "thumbnail": "",
+    "published": "2026-08-23T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ac4721d8551b",
+    "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+    "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+    "summary_original": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When it came to hiring, nearly all models were uncritical.\nThe article An AI boss fired its first employee but only after humans reminded it of its own rules appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/andon-labs-luna.png",
+    "published": "2026-08-23T12:31:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "463c0bade552",
+    "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+    "url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+    "summary_original": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally\nThe post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-23T10:44:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1cb3d0beb52f",
+    "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
+    "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
+    "summary_original": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far more slowly than the raw numbers suggest.\nThe article AI is becoming AI&#039;s biggest customer as agentic token usage jumps 14x on OpenRouter appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/tokenization-2.png",
+    "published": "2026-08-23T10:02:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "716a004b532c",
+    "title": "AI could make scientists do more work less well, not less work better, study argues",
+    "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
+    "summary_original": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones. In two out of three modeled scenarios, the quality of individual publications drops.\nThe article AI could make scientists do more work less well, not less work better, study argues appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/ai-science-flood-nano-banana-pro.jpg",
+    "published": "2026-08-23T09:01:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4da6f17d529b",
+    "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
+    "url": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/",
+    "summary_original": "Nvidia servers with Vera Rubin and Grace Blackwell chips are set to cost about 15 percent more due to an ongoing DRAM shortage from Samsung, SK Hynix, and Micron, Bloomberg reports. The price hikes hit cloud giants like Microsoft, Google, and Meta, which are pouring billions into AI infrastructure while bankrolling the market power of the very supplier they're trying to break free from.\nThe article Memory shortage reportedly drives Nvidia AI server prices up about 15 percent appeared first on Th...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+    "published": "2026-08-23T08:15:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "be1755d3aeaa",
+    "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+    "url": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+    "summary_original": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.\nThe post Building an End-to-End Document Intelligence Pipeline with deepDoctection appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-23T07:51:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "830dd39f634e",
+    "title": "How China's gray market sells Claude tokens at a fraction of the price",
+    "url": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/",
+    "summary_original": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer stations.\" Chinese developers can buy Claude tokens for as little as ten percent of the list price. Analyst Zilan Qian warns that the circumvention infrastructure weakens export controls and Anthropic's own safety systems.\nThe article How China&#039;s gray market sells Claude tokens at a fraction of the price appeared first...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/ai-transfer-station-china-claude-token-proxy.png",
+    "published": "2026-08-23T07:48:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "988168f624f9",
+    "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+    "url": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+    "summary_original": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.\nThe post Vercel Introduces &#8216;Is Agentic&#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&#8217;s 100+ Checks appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-23T07:37:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "da7ed24b1513",
+    "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ　入力20％出力33％安く、11月21日まで",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
+    "summary_original": "OpenAIは、フラグシップモデル「GPT-5.6 Sol」のAPI利用料金を期間限定で最大33％引き下げた。入力4ドル、出力20ドルとするプロモーション価格を少なくとも3カ月間適用し、ChatGPT WorkやCodexのクレジット消費量も削減。利用量や支出上限を追跡・制御できる管理機能も告知している。",
+    "thumbnail": "",
+    "published": "2026-08-23T06:54:23+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d628ff23ff57",
+    "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+    "url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+    "summary_original": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sensit...",
+    "thumbnail": "",
+    "published": "2026-08-22T23:49:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "480d7ab40672",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "summary_original": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "thumbnail": "",
+    "published": "2026-08-22T21:46:56+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "731eb2176663",
+    "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+    "summary_original": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
+    "thumbnail": "",
+    "published": "2026-08-22T07:09:30+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1cd4198d78c9",
+    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "summary_original": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-21T17:25:50-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
