@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ee0507b8ed38",
+    "title": "心臓は発作を起こした後に毛細血管から独自の「バイパス」を作るとの研究結果",
+    "url": "https://gigazine.net/news/20260826-heart-builds-own-bypass-after-attack/",
+    "summary_original": "心臓発作(心筋梗塞)が起きると冠動脈が詰まり、その先の心筋へ酸素や栄養が届かなくなります。中国科学院と香港中文大学の研究チームが、心筋梗塞を起こした心臓では毛細血管から独自の「バイパス」が作られる可能性があると報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-26T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "69d906b71573",
+    "title": "あなたが使うAIの「中身」、実は中国モデルかも　米企業のAPI利用で58％",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
+    "summary_original": "Arena AIのコーディング性能ランキングでは、上位20モデルのうち8つを中国発が占める。AIモデルの中継サービスOpenRouterでも、米企業が中国モデルに流すトークンの比率は58％に達した。利用者からは見えないAIサービスの「中身」で、いま何が起きているのかを追う。",
+    "thumbnail": "",
+    "published": "2026-08-26T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9545dc007db1",
+    "title": "WindowsのペイントやMicrosoftフォトのAI生成画像に電子透かしが埋め込まれていることが判明",
+    "url": "https://gigazine.net/news/20260825-microsoft-embed-invisible-watermarks/",
+    "summary_original": "Windowsのお絵描きアプリ「ペイント」や画像管理アプリ「Microsoftフォト」にはAIを利用した画像生成・編集機能が搭載されています。これらのAI機能を使うと、サーバーからGUID(グローバル一意識別子)が発行されて目に見えない電子透かしとして画像に埋め込まれることがわかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-25T23:42:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b7062c643840",
+    "title": "AIエージェントの「ハーネス」とは？AIモデルを実際に働かせる4つの仕組み",
+    "url": "https://gigazine.net/news/20260825-what-is-harness/",
+    "summary_original": "AIエージェント関連で「ハーネス」という言葉が使われる機会が増えています。AI関連ソフトウェアを開発するEarendilがハーネスについて解説する記事を投稿しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-25T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3e7c8daeedbe",
+    "title": "Anthropicの最上位AIモデル「Claude Fable 5」は企業需要が伸びず苦戦、AI企業のビジネスモデルが覆される可能性も",
+    "url": "https://gigazine.net/news/20260825-anthropic-best-ai-model-struggles/",
+    "summary_original": "AI開発企業のAnthropicは2026年6月、記事作成時点で最上位となるAIモデル「Claude Fable 5」をリリースしました。ところが、Claude Fable 5の利用量は伸び悩んでおり、より大規模で高度なAIモデルを追求するAI開発企業のビジネスモデルを根本的に変える可能性もあると、経済紙のフィナンシャル・タイムズが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-25T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8bda67a56e84",
+    "title": "勝手に電源が切れるようになった「Amazon Fire HD 10」をAIで修理",
+    "url": "https://gigazine.net/news/20260825-fire-hd-10-shutting-down/",
+    "summary_original": "Amazonのタブレット「Amazon Fire HD 10」を2022年に購入し使用していたところ、使用3年目ほどで24時間365日電源に接続しているのに勝手に電源が切れるようになったことに悩まされていた開発者のericpardee氏が、複数のAIを使って端末を修理したプロセスについて解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-25T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "53c0ed505939",
+    "title": "「今からロボットを現場投入できないか？」　増えた日本企業からの問い合わせ　“頭脳”を作る韓国企業が感じた国内の変化",
+    "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000731/",
+    "summary_original": "日本にも拠点を置くRLWRLD（リアルワールド）は、フィジカルAI分野で注目を集める国際企業だ。産業用ロボットの導入もかなり進んでいる日本市場で最近起こった変化について聞いた。",
+    "thumbnail": "",
+    "published": "2026-08-25T19:42:15+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "67c3786e6824",
+    "title": "政府、AI事業者向け「知財保護ルール」策定　対象範囲・運用方針は？",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
+    "summary_original": "政府は、生成AI事業者向けに透明性の確保と知的財産権の保護を促す「プリンシプル・コード」を策定した。",
+    "thumbnail": "",
+    "published": "2026-08-25T19:28:22+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f9fce6eb28cc",
+    "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
+    "url": "https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/",
+    "summary_original": "Perplexity releases Portable Computer, packaging local models, harness, sandbox, and connectors into one system running on NVIDIA DGX Spark.\nThe post Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-25T19:12:19+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5d321e71ab65",
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "summary_original": "The company's new fundraising total now stands at $232 million.",
+    "thumbnail": "",
+    "published": "2026-08-25T19:03:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "71bea2f6bf14",
+    "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
+    "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
+    "summary_original": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators accessed the platform through VPNs from Russia and promoted the fictitious \"International Burke Institute,\" including German-language Telegram content critical of the EU and the German government. The campaign's reach stayed small, but OpenAI warns the infrastructure behind it could have been scaled up over time.\nThe article Russia used ChatGPT...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+    "published": "2026-08-25T18:54:56+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0dc88054741b",
+    "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
+    "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
+    "summary_original": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. \"Usually first generation chips aren't competitive, but OpenAI is beating Nvidia Blackwell and even Rubin,\" SemiAnalysis CEO Dylan Patel said.\nThe article OpenAI&#039;s first custom chip &quot;Jalapeño&quot; reportedly beats Nvidia&#039;s Blackwell and Rubin in inference...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/openai_chip.png",
+    "published": "2026-08-25T18:00:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cc544fa5a27c",
+    "title": "Art and algorithms at Sotheby’s",
+    "url": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
+    "summary_original": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has also worked on such efforts as cataloguing&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-25T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c315b9a7b90f",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "summary_original": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "thumbnail": "",
+    "published": "2026-08-25T17:50:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "77e98c5142e8",
+    "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
+    "url": "https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/",
+    "summary_original": "Training and serving frontier models is now a networking problem as much as a compute problem. Collective operations like all-reduce and all-to-all synchronize thousands of accelerators during training, and the slowest transfer sets the pace for the entire job. Even small amounts of network friction directly strand significant compute capacity. This week, Meta introduced MetaRoCE. [&#8230;]\nThe post Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet appeared fi...",
+    "thumbnail": "",
+    "published": "2026-08-25T17:25:36+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "68c15e2f4f37",
+    "title": "話題のステルスモデル「Ox Alpha」はナニモノか　うわさをまとめてみた",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000748/",
+    "summary_original": "開発元を伏せたまま米OpenRouterで無料公開されたAIモデル「Ox Alpha」が話題だ。一部の開発ツールでは利用シェア1位に。確認できる事実と、中国Z.aiの「GLM」系とみる有力なうわさを整理した。",
+    "thumbnail": "",
+    "published": "2026-08-25T16:50:42+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "15b46df68f1b",
+    "title": "Google launches Gemini for legal work to automate contracts and research",
+    "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
+    "summary_original": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers similar solutions. All providers use the same models as in their other products.\nThe article Google launches Gemini for legal work to automate contracts and research appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_logo.png",
+    "published": "2026-08-25T16:21:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a7b41fe85de1",
+    "title": "シャープ、対話型AIロボ「ポケとも」に新モデル　あえて“全肯定しないキャラ”に　「暇だなー」と話しかけると……",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000747/",
+    "summary_original": "シャープは対話型のAIロボット「ポケとも」の新モデルを発表した。従来のモデルとは性格を変え、あえてユーザーを“全肯定しないキャラクター”にした。",
+    "thumbnail": "",
+    "published": "2026-08-25T15:56:11+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "afa866e58f41",
+    "title": "MIT AI forecasts extreme weather without historical data",
+    "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+    "summary_original": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that have not appeared in a region&#8217;s historical record but remain statistically-possible. Each map also carries estimates of the [&#8230;]\nThe post MIT AI forecasts extreme weather without historical data appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-08-25T15:46:06+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "6ad1fb7a7cca",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-25T15:14:14+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "eb2b72187dea",
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "summary_original": "Lica co-founders are going to work on Gamma's new research team.",
+    "thumbnail": "",
+    "published": "2026-08-25T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6017c27dc638",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "summary_original": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "thumbnail": "",
+    "published": "2026-08-25T14:22:04+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "aa1e23170ed9",
+    "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
+    "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
+    "summary_original": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October.\nThe article Meta&#039;s paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
+    "published": "2026-08-25T13:43:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "944b086394f2",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "summary_original": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "thumbnail": "",
+    "published": "2026-08-25T13:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8a8a990fda86",
+    "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
+    "url": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
+    "summary_original": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, while Cerebras needs only one or two, according to The Register. How well the architecture scales with large MoE models remains an open question.\nThe article Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicat...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/09/NVIDIA-Vera-Rubin-NVL144-with-Tray.jpg",
+    "published": "2026-08-25T12:27:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ff6e4887ee22",
+    "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+    "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?w=840",
+    "published": "2026-08-25T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ba39c4d2772e",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-25T11:39:24+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "bbdb3b4da806",
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "summary_original": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-25T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e94a906454dd",
+    "title": "Welcome to the spiderverse, a world measured through webs",
+    "url": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+    "summary_original": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they see, trap, or otherwise sense—a potentially laborious, costly process that can still leave gaps. But developments over the&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-25T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "dac3a9d1e696",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "summary_original": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/map.jpg?w=840",
+    "published": "2026-08-25T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1c0de2ab3229",
+    "title": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "summary_original": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "thumbnail": "",
+    "published": "2026-08-25T07:05:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "31f9b254385b",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "summary_original": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "thumbnail": "",
+    "published": "2026-08-25T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3a86bbd7f634",
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "summary_original": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-25T05:15:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5bd6315049a1",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "summary_original": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "thumbnail": "",
+    "published": "2026-08-25T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "bbe7f12da309",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "summary_original": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "thumbnail": "",
+    "published": "2026-08-25T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3a9a95697475",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-25T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c54abe3cc6e4",
+    "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
+    "url": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
+    "summary_original": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints ship at 74M, 194M, and 287M parameters, all CPU-runnable. The release adds joint entity-relation decoding, constrained classification, span attributes, and 4,096-word context. Overall macro F1 reaches 56.17 on 16 zero-shot benchmarks.\nThe post Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Informat...",
+    "thumbnail": "",
+    "published": "2026-08-24T22:21:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "94db66a3eaa6",
+    "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+    "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+    "summary_original": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
+    "published": "2026-08-24T19:19:21+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5f1d04b47c3e",
+    "title": "XPENG IRON humanoid robot draws record physical AI funding",
+    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+    "summary_original": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round private capital raise [&#8230;]\nThe post XPENG IRON humanoid robot draws record physical AI funding appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-08-24T15:53:53+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "b11795f5f35f",
+    "title": "How to encourage smarter AI use in the classroom",
+    "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "summary_original": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-24T14:20:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
