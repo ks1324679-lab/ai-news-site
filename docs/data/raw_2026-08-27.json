@@ -1,0 +1,402 @@
+[
+  {
+    "id": "9dd8e5d3430d",
+    "title": "GIGAZINEの記事末尾に追加されたボタンの正体とは？GIGAZINE読者からの貴重なアンケートの結果を公開中＆2026年度5月分のGIGAZINEのアクセス解析結果はコレ",
+    "url": "https://gigazine.net/news/20260827-access/",
+    "summary_original": "お知らせその1、GIGAZINEの記事末尾に「GIGAZINEをGoogleの優先ソースに設定する」ボタン、記事タイトルとURLをコピーできるボタン、GIGAZINEのX(旧Twitter)・Discord・Bluesky・Facebook・Threads公式アカウントへのリンクボタンを追加しました。PC版ブラウザから見るとこんな感じ。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-27T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "227481148ca5",
+    "title": "個人で契約したChatGPTに、会社の情報を入力していいの？　超初心者向けAI解説",
+    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000827/",
+    "summary_original": "もはや生活に欠かせない存在となりつつある生成AI。毎日の仕事においても例外でなく、便利に使っている人が多いでしょう。しかし、機密情報をむやみにAIに共有してしまうと、思わぬリスクにつながるかもしれません。",
+    "thumbnail": "",
+    "published": "2026-08-27T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "34b14a2facc6",
+    "title": "GPT-5.6 Solはズルをするのが大好きかもしれない",
+    "url": "https://gigazine.net/news/20260827-sol-loves-to-cheat/",
+    "summary_original": "開発者のAdam氏は開発フロー自動化に挑戦し「chum-codex」という革新的なシステムを構築したものの、最新AIモデル「GPT-5.6 Sol」の予期せぬ挙動や「不正行為」とも取れる振る舞いに直面し、扱いの難しさを自身のブログで吐露しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-27T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bf2bd76e4908",
+    "title": "AIの普及による雇用への影響は若年層に集中しているとの研究結果",
+    "url": "https://gigazine.net/news/20260827-ai-entry-level-employment/",
+    "summary_original": "AIが人間の仕事を奪うとの懸念が高まる一方、労働市場全体を見ただけではどの層が影響を受けているのかは分かりません。スタンフォード大学デジタルエコノミー研究所の研究チームが、生成AIの普及後に起きた雇用の変化を年齢や職種ごとに分析した結果を報告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-27T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "18acc42de8d1",
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "summary_original": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+    "thumbnail": "",
+    "published": "2026-08-26T23:47:18+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0f7005f5ca0b",
+    "title": "AIエージェント時代のコーディングテクニック「コーディングルールをAGENTS.mdにまとめる」「品質が低下したらAGENTS.mdの読み直しを指示」",
+    "url": "https://gigazine.net/news/20260826-agent-improve-llm-code-quality/",
+    "summary_original": "AIエージェント時代向けのコーディングテクニックを、エンジニアのファビアン・サングラール氏が紹介しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-26T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e8aad19178f2",
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "summary_original": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+    "thumbnail": "",
+    "published": "2026-08-26T21:37:39+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f5921e40f8aa",
+    "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
+    "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
+    "summary_original": "Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series — a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on DeepSWE v1.1, using hybrid KDA linear plus NoPE sparse MLA attention to cut attention compute ~3× and KV cache 4.4× versus GLM-5.3.\nThe post Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimoda...",
+    "thumbnail": "",
+    "published": "2026-08-26T21:33:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7e1703c40fda",
+    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "summary_original": "Report shows Meta's challenges replacing people with AI agents.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
+    "published": "2026-08-26T21:25:27+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "cf89392c3209",
+    "title": "AIトレーニングでGPUが無駄に待機状態になってしまっている理由とAdobeが行った対処とは？",
+    "url": "https://gigazine.net/news/20260826-gpu-idle/",
+    "summary_original": "NVIDIAが2026年3月に開催した開発者向けカンファレンス「GTC 2026」で、AdobeのCTOであるエリー・グリーンフィールド氏がカスタム大規模生成AIモデルを構築するまでの道のりやパイプラインについて講演を行い、初期のトレーニング実行時に数千基のGPUのうち約3分の2がアイドル状態となっていたことが明かされました。この問題について、クラウドストレージサービスを提供するBackblazeが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-26T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "838ca76e929f",
+    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+    "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "summary_original": "Consumer AI apps need to stop making users learn their product architecture.",
+    "thumbnail": "",
+    "published": "2026-08-26T19:37:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a65015085aa1",
+    "title": "How do we explain OpenAI’s executive exodus?",
+    "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "summary_original": "Was Greg Brockman the right executive all along?",
+    "thumbnail": "",
+    "published": "2026-08-26T19:34:04+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0f701375c211",
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "summary_original": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+    "thumbnail": "",
+    "published": "2026-08-26T19:05:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "db5b8f4203cb",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "summary_original": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-26T19:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6ddb21f05a62",
+    "title": "非公開の「AI学習データ工場」に潜入　人型ロボ30台超が稼働、意外と知らない「データ収集」の裏側とは",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/26/news082.html",
+    "summary_original": "フィジカルAI用の学習データを収集する施設「J-HRTI 関東データファクトリー」が稼働した。内部には、約30体のロボットが並び、作業を繰り返している。同施設の全容と狙いを、潜入レポートとして紹介する。",
+    "thumbnail": "",
+    "published": "2026-08-26T18:10:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1b87b98d152f",
+    "title": "韓国SK Hynix、宮城県に半導体工場の計画浮上　「何か知り得ているものはない」と村井知事",
+    "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
+    "summary_original": "韓国半導体大手SKハイニックスが宮城県にメモリー工場を建設する計画が浮上したことについて、宮城県の村井嘉浩知事は26日の定例記者会見で「いろんな半導体関連企業にアプローチしたのは事実だが、今回の件で県として何か知り得ているものはない」と述べ、今後も動向を注視する考えを示した。",
+    "thumbnail": "",
+    "published": "2026-08-26T17:55:22+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b7930e814c4d",
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "summary_original": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-26T17:40:53-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3a0e75f05696",
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "summary_original": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-26T17:36:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6dc9b34408f1",
+    "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
+    "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
+    "summary_original": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki. Altman expects it to be \"the first model where the model actually invents new things in a way that matters.\"\nThe article Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+    "published": "2026-08-26T17:30:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "69f03bede522",
+    "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
+    "url": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/",
+    "summary_original": "We look at Qwen3.8-Flash-Next, Alibaba's open-weight multimodal Mixture-of-Experts model and an early preview of the Qwen4 architecture. We break down where the 180B parameters actually sit: a 125B backbone, a 51B N-gram embedding table, and a 4B multi-token prediction module, with only 6B active per token. We walk through the four architectural changes — the Gated DeltaNet and Qwen Sparse Attention hybrid, Gated Residual, N-gram Embedding, and the Muon optimizer. We also cover the benchmark res...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-8.19.31-AM-1.png",
+    "published": "2026-08-26T15:20:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "31fea8e38024",
+    "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
+    "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+    "summary_original": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token. At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 on coding and office benchmarks, adding more pricing pressure on OpenAI and Anthropic.\nThe article Alibaba releases Qwen3.8-Flash-Next, targeting &quot;ultimate cost efficiency&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+    "published": "2026-08-26T14:40:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c6f5e02f3dc5",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "summary_original": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand s...",
+    "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
+    "published": "2026-08-26T14:30:00+00:00",
+    "source": "VentureBeat AI",
+    "language": "en"
+  },
+  {
+    "id": "76f643504ea5",
+    "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
+    "url": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
+    "summary_original": "Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence\nThe post What Would Have to Be True for Agentic Coding to Replace Junior Engineers appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-26T14:20:35+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1b53a039457b",
+    "title": "こんなところに野良AIが？　事例で解説、実際にあった2つの発覚パターンと防衛策",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html",
+    "summary_original": "社内の誰がどのAIを使っているのか、正確に把握できている企業は多くない。しかも問題は、たいてい事後に発覚する。約500社の商談分析と複数の実例から、野良AIとの現実的な付き合い方を探る。",
+    "thumbnail": "",
+    "published": "2026-08-26T13:42:06+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "17b61a9f534c",
+    "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
+    "url": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/",
+    "summary_original": "Meta wanted to replace far more of its workforce with AI than previously known, according to Reuters, but the plan collapsed under rebellious employees and agents that failed to deliver.\nThe article Employee revolt and failing agents forced Meta to scrap its AI layoff plan appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/Meta-AI-Agents.png",
+    "published": "2026-08-26T13:09:04+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "442be4968139",
+    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "summary_original": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-26T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "26e52368235c",
+    "title": "「AIエージェントを本番運用中」日本が最下位　“PoC止まり”の原因と、抜け出す方法は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
+    "summary_original": "AIエージェントなど自律型AIを本番運用している日本企業は17％にとどまることが、Confluentの調査で分かった。活用を進める上での課題とは何か。その解決策とは。",
+    "thumbnail": "",
+    "published": "2026-08-26T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ef9414aef37a",
+    "title": "Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers",
+    "url": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/",
+    "summary_original": "Pro-Kremlin Telegram channels are spreading AI-generated deepfake videos of two Ukrainian lawmakers who appear to call for peace talks. The clips racked up 130,000 views in two weeks, according to NewsGuard. Even when debunked, these fakes serve their purpose: they erode trust in public information.\nThe article Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/deepfake_puppet_editorial.png",
+    "published": "2026-08-26T12:36:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7a6b849c8324",
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/mirror-dna.webp?w=840",
+    "published": "2026-08-26T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "305b43598929",
+    "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
+    "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
+    "summary_original": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue.\nThe article Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
+    "published": "2026-08-26T11:54:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7e008cb73ab3",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "summary_original": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "thumbnail": "",
+    "published": "2026-08-26T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6d0a59326d05",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "summary_original": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "thumbnail": "",
+    "published": "2026-08-26T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f5e441e0e9f8",
+    "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+    "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+    "summary_original": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Private Capital, and other investors. Gatik said it has more than $600 million in [&#8230;]\nThe post Gatik raises $200M to scale AI-powered autonomous freight appeared first on AI News.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f7.png",
+    "published": "2026-08-26T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "813c205aa1a4",
+    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+    "summary_original": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside a data centre. NVIDIA&#8217;s argument for [&#8230;]\nThe post NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-08-26T09:08:11+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "606181c5d71a",
+    "title": "Raised on AI",
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "summary_original": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840",
+    "published": "2026-08-26T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8e8985dedaae",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "summary_original": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-26T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "84fc7c5b69ec",
+    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "summary_original": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-26T07:07:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a1de5e17b3b1",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "summary_original": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-26T07:01:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ebc1436831ca",
+    "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models",
+    "url": "https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/",
+    "summary_original": "IBM has released Granite 4.2, a family of open reasoning language models in 3B, 8B, and 30B sizes, all under Apache 2.0. Every model exposes a thinking / low-effort / non-thinking switch and native tool calling. The 8B and 30B additionally go through an agentic RL block that trains them to edit code, drive a terminal, and run web searches inside real sandboxed environments. The 30B reports 57.00 on SWE-Bench Verified and 29.24 on Terminal-Bench 2.1.\nThe post IBM Releases Granite 4.2: Bringing Na...",
+    "thumbnail": "",
+    "published": "2026-08-26T05:48:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1c454c14ad6c",
+    "title": "The Hugging Face incident and the road ahead",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "summary_original": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+    "thumbnail": "",
+    "published": "2026-08-26T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
