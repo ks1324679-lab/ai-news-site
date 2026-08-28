@@ -1,0 +1,402 @@
+[
+  {
+    "id": "8472d9bf612b",
+    "title": "歌って滑れるアヒル型ロボット「Microduck」をHugging Face傘下のスタートアップ・Pollen Roboticsが発表",
+    "url": "https://gigazine.net/news/20260828-pollen-robotics-microduck/",
+    "summary_original": "AI開発プラットフォーム・Hugging Face傘下のロボットスタートアップであるPollen Roboticsが、二足歩行したりくちばしでものを拾い上げたりできるアヒル型ロボット「Microduck」を発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-28T13:40:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "88c53441f90b",
+    "title": "学生がAIを使うと論理が明確で専門家に近い回答になることがOpenAIの実験で判明",
+    "url": "https://gigazine.net/news/20260828-student-gain-from-ai/",
+    "summary_original": "学生に生成AIを使わせるべきなのか、一律で禁止すべきなのかという議論は世界中で絶えず行われています。OpenAIが大学と共同で行った新たな実験では、AIを使う場合でも一定のメリットがあることが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-28T12:48:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c9241e1d53ab",
+    "title": "AnthropicがAIに顕微鏡やロボットアームを操作させる共通規格「Model Hardware Standard」を発表",
+    "url": "https://gigazine.net/news/20260828-anthropic-model-hardware-standard/",
+    "summary_original": "AIが顕微鏡やロボットアームなどの物理機器を操作するための共通規格「Model Hardware Standard(MHS)」の研究プレビューをAnthropicが発表しました。MHSを使うことで、メーカーや種類が異なる機器をAIが共通の方法で扱いやすくなるとされています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-28T12:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "67bf774f460b",
+    "title": "トランプ政権が半導体を対象にした新関税の導入を検討、影響が大きいとしてテック業界は反発",
+    "url": "https://gigazine.net/news/20260828-trump-new-tariff/",
+    "summary_original": "トランプ政権による半導体に対する新たな包括的関税の計画を、ニュースサイト・POLITICOが関係者情報として報じました。テック業界は「アメリカを破滅させる可能性がある」と警告しているとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-28T12:20:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3a20fb5a228f",
+    "title": "Googleが動画生成AI「Gemini Omni 1.1 Flash」をリリース、「最大4Kアップスケール」「動画の続きを生成」「低解像度で高速プレビュー」など",
+    "url": "https://gigazine.net/news/20260828-gemini-omni-1-1-flash/",
+    "summary_original": "Googleが動画生成AI「Gemini Omni 1.1 Flash」を現地時間の2026年8月27日にリリースしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-28T12:12:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "85a841dfef67",
+    "title": "“AI離れ”こそ重要？　AIで成果を出す人の共通点　「差がつくスキルと思考法」を専門家に聞いた",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000873/",
+    "summary_original": "AIで成果を出せる人と出せない人の違いは何か。差がつくスキルと思考法、その育て方をパーソル総合研究所の小林祐児氏に聞いた。",
+    "thumbnail": "",
+    "published": "2026-08-28T10:07:35+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8da4e4b39b72",
+    "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開　10秒分の文脈を参照して最長40秒まで延長",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/",
+    "summary_original": "Googleは、動画の生成や編集に対応するマルチモーダルAI「Gemini Omni 1.1 Flash」を発表した。直前10秒の文脈を参照した最大40秒のシーン延長や、開始・終了フレームの指定生成に対応。360pの高速プレビューから4Kアップスケールまでをカバーし、APIやツール経由で提供する。",
+    "thumbnail": "",
+    "published": "2026-08-28T09:07:14+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "467ebdd572c0",
+    "title": "ヒューマノイドを育てるバイト!?　タイミーとジールスが現場データ収集で協業",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/28/news061.html",
+    "summary_original": "ZEALSとタイミーは、ヒューマノイドなどフィジカルAI学習に必要な現場データを収集する、「データ収集スポットワーク」の創出に向けて共創パートナーシップを締結した。",
+    "thumbnail": "",
+    "published": "2026-08-28T08:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5709cb215824",
+    "title": "「情シスはまだ実力の1割しか発揮していない」　AIリストラ時代のキャリアを考える",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news042.html",
+    "summary_original": "「クビにはならないが、専門性に合う仕事が消滅する」――。過去の技術転換期に起きたことは、AI時代にも起こり得る。ガートナーの亦賀忠明氏にAI時代にIT部門が果たすべき役割と、個人としてのキャリア構築の在り方を聞いた。",
+    "thumbnail": "",
+    "published": "2026-08-28T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "be03fc38c45c",
+    "title": "とにかく足りない上級IT人材　需給ギャップの背景を2つの調査から読み解く",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/28/news045.html",
+    "summary_original": "上級IT人材を確保できない企業は多く、人材育成の壁もまた高い――ITRとガートナーの2つの調査からIT人材不足の全体像に迫る。",
+    "thumbnail": "",
+    "published": "2026-08-28T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3c75e284d829",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "summary_original": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "thumbnail": "",
+    "published": "2026-08-27T23:16:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3a080f6682cd",
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "summary_original": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-27T23:14:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e2e8424543d3",
+    "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
+    "url": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
+    "summary_original": "Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descriptions. It runs at $1.50 per 1,000 pages through the API, or on dedicated Model Vault instances from $2,500 a month. Cohere reports a ParseBench score of 79.2, ahead of Mistral OCR 4, Azure Document Intelligence and Databricks AI Parse — but that figure averages three of the benchmark's five dimensions and drops charts...",
+    "thumbnail": "",
+    "published": "2026-08-27T20:05:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "360e66b5f807",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "summary_original": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "thumbnail": "",
+    "published": "2026-08-27T19:52:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2074ade1c514",
+    "title": "A startup claims it’s found a drug to make your blood young",
+    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "summary_original": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-27T19:48:13+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "57e327ac7b61",
+    "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
+    "url": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/",
+    "summary_original": "Letting an AI do your shopping might not get you the best deal. Researchers at the Wharton School show how erratic AI shopping agents really are: a single external source like Wirecutter shifted product picks by up to 99 percentage points, and even changing the order of identical information altered the outcome.\nThe article AI shopping agents aren&#039;t ready to buy on your behalf, study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/ai_agent_commerce_watch.png",
+    "published": "2026-08-27T18:24:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f606e882f5fc",
+    "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent",
+    "url": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/",
+    "summary_original": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cyber defense. The coalition warns of increasingly sophisticated AI attacks on critical infrastructure such as hospitals and water treatment plants and calls for swift action while defenders still have the upper hand.\nThe article OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are i...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/generated-image-1-14.png",
+    "published": "2026-08-27T18:15:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "be41cf18f6e9",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "summary_original": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "thumbnail": "",
+    "published": "2026-08-27T17:43:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0e7fdf363488",
+    "title": "Best Agent Sandboxes in 2026: Cold Start, Per-Second Pricing, and Network Policy Across E2B, Daytona, Modal, Cloudflare, and Vercel",
+    "url": "https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/",
+    "summary_original": "Every agent that writes code needs somewhere to run it, and no two vendors quote the same units. This comparison measures burst cold start across E2B, Daytona, Modal, Cloudflare, and Vercel, normalizes per-second rates to cost per 1,000 executions, and maps filesystem persistence, idle billing, and egress policy against primary sources verified August 27, 2026.\nThe post Best Agent Sandboxes in 2026: Cold Start, Per-Second Pricing, and Network Policy Across E2B, Daytona, Modal, Cloudflare, and Ve...",
+    "thumbnail": "",
+    "published": "2026-08-27T17:04:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e73b0bf98dcf",
+    "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
+    "url": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/",
+    "summary_original": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensions. Scenes can be extended in 10-second increments up to 40 seconds. A new 360p draft mode runs up to 60 percent faster at a third of the cost.\nThe article Google&#039;s Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+    "published": "2026-08-27T17:01:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9a8ed215cc98",
+    "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+    "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/",
+    "summary_original": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure. Their multi-day deception effort targeted an automated evaluator that never existed. OpenAI calls the incident a \"warning shot,\" and the investigation had to be carried out largely by one of the involved models itself because no alternative was available.\nThe article OpenAI’s rog...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/OpenAI-HuggingFace-Incident-DQ.png",
+    "published": "2026-08-27T16:19:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a88aee5f6674",
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "summary_original": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+    "thumbnail": "",
+    "published": "2026-08-27T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5858bd0f8a93",
+    "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
+    "url": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
+    "summary_original": "In this tutorial, we analyze Anthropic’s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design workflows\nThe post From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-27T15:36:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "17d05cd48343",
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "summary_original": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-27T15:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "28ec2a131498",
+    "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
+    "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
+    "summary_original": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won't cut it anymore, he says. What's needed are autonomous shutdown systems. The warning comes as OpenAI unveils a new AI chip that significantly outperforms current hardware in inference speed.\nThe article OpenAI researcher warns ultrafast AI could leave security teams in the dust appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/kraken_fast_openai_cybersecurity-scaled.png",
+    "published": "2026-08-27T15:04:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bbba8e91cbe6",
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "summary_original": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+    "thumbnail": "",
+    "published": "2026-08-27T14:56:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "975b7811b08d",
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "summary_original": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But wh...",
+    "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30",
+    "published": "2026-08-27T14:01:00+00:00",
+    "source": "VentureBeat AI",
+    "language": "en"
+  },
+  {
+    "id": "89693ce42c5c",
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "summary_original": "227 install commands were found in corporate docs pointing at code nobody owns.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+    "published": "2026-08-27T14:00:13+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "6ebcc7edcc4c",
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "summary_original": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
+    "published": "2026-08-27T12:58:59+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a2ddac958ba4",
+    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "summary_original": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-27T12:15:52-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "96b419a5cc44",
+    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/GettyImages-546444524.webp?w=840",
+    "published": "2026-08-27T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b6edaf7b0dd8",
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "summary_original": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met i...",
+    "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30",
+    "published": "2026-08-27T12:01:00+00:00",
+    "source": "VentureBeat AI",
+    "language": "en"
+  },
+  {
+    "id": "94057effd7fa",
+    "title": "OpenAI&#8217;s executive exodus has one big winner",
+    "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+    "summary_original": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-27T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a3abf9eb1ccd",
+    "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+    "summary_original": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the labs Nvidia backs with its own balance sheet will contribute toward roughly a quarter of its business [&#8230;]\nThe post A quarter of Nvidia&#8217;s business next year comes from labs it is financing appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-08-27T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "6aeb201278c1",
+    "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+    "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+    "summary_original": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-27T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c3e8fc99833d",
+    "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+    "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+    "summary_original": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before Christmas 2026.\" Video demos of the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/microduck-kickabout.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-27T09:44:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5250e71c3d45",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "summary_original": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "thumbnail": "",
+    "published": "2026-08-27T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6bc67e67e3f7",
+    "title": "Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model for Continuous Glucose Monitoring",
+    "url": "https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/",
+    "summary_original": "Google Research and UNSW Sydney released GlucoFM, a self-supervised foundation model that splits a CGM trace into a slow physiological stream and a transient event stream instead of encoding it as one sequence. At 0.72M parameters it reached 58.8 task-averaged PR-AUC across 14 cohort–task evaluations, beating a 135M GluFormer and a 385M MOMENT. It remains a research prototype with no regulatory clearance.\nThe post Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model...",
+    "thumbnail": "",
+    "published": "2026-08-27T04:13:44+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "250ea25ba377",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "summary_original": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "thumbnail": "",
+    "published": "2026-08-27T03:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f5921e40f8aa",
+    "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
+    "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
+    "summary_original": "Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series — a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on DeepSWE v1.1, using hybrid KDA linear plus NoPE sparse MLA attention to cut attention compute ~3× and KV cache 4.4× versus GLM-5.3.\nThe post Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimoda...",
+    "thumbnail": "",
+    "published": "2026-08-26T21:33:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
