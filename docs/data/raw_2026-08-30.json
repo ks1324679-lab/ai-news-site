@@ -1,0 +1,302 @@
+[
+  {
+    "id": "e3514d3c08a2",
+    "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
+    "url": "https://gigazine.net/news/20260829-chatto/",
+    "summary_original": "Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動作するほか、メッセージ本文などを暗号化して保存できる「Chatto」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-29T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a7b00ca39aab",
+    "title": "セックスフレンドのメリットとデメリットとは？",
+    "url": "https://gigazine.net/news/20260829-friends-with-benefits-tradeoffs/",
+    "summary_original": "友人関係に性行為が加わるものの恋人としての約束や排他性は持たない「セックスフレンド」の関係は、恋人関係や一夜限りの性行為とは異なる特徴を持ちます。テネシー大学などの研究チームが過去の38件の研究をまとめて分析し、セックスフレンドの関係で見られるメリットとデメリットを報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-29T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d957340d5d81",
+    "title": "「赤いリンゴを心の中で思い浮かべて」と言われても何も視覚化できない「アファンタジア」入門ガイド",
+    "url": "https://gigazine.net/news/20260829-aphantasia-guide/",
+    "summary_original": "目を閉じて想像を膨らませても思い描くことができない特性は「アファンタジア」と呼ばれます。アファンタジアとは実際にどのようなものなのか、「頭の中の風景」という他人が観測できないものをどうやって他人と比較するのかなど、「アファンタジアについて知るための入門ガイド」を世界最大のアファンタジア・コミュニティであるAPHANTASIA NETWORKが公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-29T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0d18d5472b03",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "summary_original": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "thumbnail": "",
+    "published": "2026-08-29T18:41:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6ed486dbead9",
+    "title": "Chromeで小さなJPEG画像が違うように見える理由",
+    "url": "https://gigazine.net/news/20260829-jpg-scaling-chrome/",
+    "summary_original": "ウェブブラウザのChromeで、小さなJPEG画像がなぜか他のブラウザと異なって表示される現象に気づいたことがあるかもしれません。これは単なるバグではなく、Chromeが高度なJPEGデコード最適化処理を採用していることが原因です。アイコンのような小さくシャープな画像で、顕著に表示の違いが見られる場合があります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-29T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "619cf37e65ee",
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "summary_original": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "thumbnail": "",
+    "published": "2026-08-29T17:36:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a47d3d1abfe0",
+    "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
+    "url": "https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/",
+    "summary_original": "OpenAIがAIコーディングツール・Cursorとの提携関係を終了し、モデル提供を2026年11月12日で終えることを明らかにしました。理由はCursorがSpaceXに買収されたことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-29T15:45:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3f6bab34d676",
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "summary_original": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-29T14:19:53-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e9dc0e62a93c",
+    "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+    "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+    "summary_original": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic.\nThe article OpenAI cuts off Cursor after SpaceX acquisition, citing Musk&#039;s history of breaking contracts appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+    "published": "2026-08-29T13:33:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bdcc205a4086",
+    "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
+    "url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+    "summary_original": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before getting fired, the Financial Times reports. AI-related labor disputes are rising fast.\nThe article AI-generated videos are already displacing actors and livestreamers across China&#039;s entertainment industry appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+    "published": "2026-08-29T13:25:56+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e277e4a4618d",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "summary_original": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "thumbnail": "",
+    "published": "2026-08-29T13:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "43a3eddcb49f",
+    "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
+    "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
+    "summary_original": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Larger models benefit more, but smaller models with WikiSkill can match the performance of larger ones without it.\nThe article Google&#039;s WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future p...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/aigent_skills_generation.png",
+    "published": "2026-08-29T12:51:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "163a7d18758b",
+    "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+    "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
+    "summary_original": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows collecting copyrighted content for non-commercial research.\nThe article LAION drops massive open video dataset with 10 million hours of footage for AI...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/08/images_database_ai_generated_data_files_online_storage-1.png",
+    "published": "2026-08-29T09:36:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "27e07010ebb0",
+    "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+    "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+    "summary_original": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversight remains essential for now.\nThe article Anthropic wants to do for physical hardware what its Model Context Protocol did for software appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/mhs-ki-hardware-labore-fabriken.png",
+    "published": "2026-08-29T09:14:30+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "248d3859500d",
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "summary_original": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
+    "published": "2026-08-29T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f3adc6e8ad72",
+    "title": "キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html",
+    "summary_original": "2026年8月24日～28日に公開された記事の中から、MONOist編集部が厳選した今週のニュースをお届けします。",
+    "thumbnail": "",
+    "published": "2026-08-29T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f88a0fcca760",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "summary_original": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "thumbnail": "",
+    "published": "2026-08-28T20:24:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "24c26e96ef00",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "summary_original": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "thumbnail": "",
+    "published": "2026-08-28T19:30:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9ddc4ef4caf4",
+    "title": "チームみらい安野氏「高市総理へのAI家庭教師」を実施　総理が音声入力で作成したのは……",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000919/",
+    "summary_original": "チームみらいの安野貴博党首らは、高市早苗総理大臣にAIについて指導するイベント「高市総理へのAI家庭教師」を首相官邸で実施した。",
+    "thumbnail": "",
+    "published": "2026-08-28T17:53:41+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "78d69f3ba98d",
+    "title": "「国産ヒューマノイド」の作業風景を生配信中、3時間以上経過　「ベルトコンベヤーも自作」　アトム",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000912/",
+    "summary_original": "アトムが人型ロボットの作業風景を生配信している。ベルトコンベヤーで流れてくる荷物を1つずつ手に取り、ラベルが貼られている面を上に向ける作業を実施中。",
+    "thumbnail": "",
+    "published": "2026-08-28T17:11:03+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4c4405df38db",
+    "title": "「半導体はAIが設計、人間は監督に」 次世代EDAへの取り組み",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news088.html",
+    "summary_original": "キーサイト・テクノロジー（以下、キーサイト）は2026年8月26日、エンジニア向けイベント「KDES」にあわせて、「AI時代の次世代半導体設計」をテーマとしたメディアブリーフィングを開催。AIを活用したEDAや光半導体設計、マルチフィジックス対応シミュレーションといった取り組みを紹介した。",
+    "thumbnail": "",
+    "published": "2026-08-28T16:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "76ee4cc6b340",
+    "title": "Hugging Face、あひる型ロボット「Microduck」発表　399ドルで予約開始",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
+    "summary_original": "Pollen Roboticsは、二足歩行ロボット「Microduck」を発表し予約受付を開始した。399ドルで25cmの小型設計。強化学習による動作学習に特化し、SDKやシミュレーターをOSSとして公開する。大型機と異なり家庭や教室で安全に試行錯誤できる「行動するAIのためのプラットフォーム」を目指す。",
+    "thumbnail": "",
+    "published": "2026-08-28T15:09:08+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b623714fb3a8",
+    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Neanderthals_finals-top.jpg?fit=2128,1196",
+    "published": "2026-08-28T12:35:27+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2180dceb2879",
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "summary_original": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-28T12:28:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ed82d3e73840",
+    "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+    "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "summary_original": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg",
+    "published": "2026-08-28T11:15:05+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5cb4d68d3c61",
+    "title": "How to sign up for a virtual power plant—and decide whether you should",
+    "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "summary_original": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-28T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "57a3b900535e",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "summary_original": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "thumbnail": "",
+    "published": "2026-08-28T06:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8a2a589ad996",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "summary_original": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "thumbnail": "",
+    "published": "2026-08-28T02:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5f64da983ca6",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-08-28T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "3a080f6682cd",
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "summary_original": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-27T23:14:06-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
