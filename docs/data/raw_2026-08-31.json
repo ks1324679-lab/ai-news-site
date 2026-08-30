@@ -1,0 +1,242 @@
+[
+  {
+    "id": "f9d24d4ac243",
+    "title": "「AI時代、業務の再設計が必要」　それ、DXの時も言っていましたよね……本当にできる？　日本IBMの答えは",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/31/news016.html",
+    "summary_original": "AIエージェントを導入して成果を出すためには「業務プロセスの再設計」が必要だという。振り返れば、DXの時も同じことを言っていた。日本企業は、今度こそ本当に実現できるのか。日本IBMが見解を語った。",
+    "thumbnail": "",
+    "published": "2026-08-31T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5d640422612e",
+    "title": "AIが生成した“存在しない病名”、研修医の44％が信用　見抜けた医師との差は？　仏大学病院が検証",
+    "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
+    "summary_original": "フランスの大学病院「Lille University Hospital」などに所属する研究者らが発表した論文「Hallucination by proxy in LLM-assisted differential diagnosis」は、大規模言語モデル（LLM）がもっともらしく提示した架空の病名が医師にどのような影響を与えるかを検証した研究報告だ。",
+    "thumbnail": "",
+    "published": "2026-08-31T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "51ca348e3ef3",
+    "title": "人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」",
+    "url": "https://gigazine.net/news/20260831-ai-virtual-executive-team/",
+    "summary_original": "AIを活用して仮想経営幹部チームを作り、8種類の専門エージェントが企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されています。ハーバード大学MBAレベルの知識を持つとうたう上級アドバイザーが、会社の事業内容に合わせてカスタマイズされます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-31T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "458ba9047570",
+    "title": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news057.html",
+    "summary_original": "パナソニック ホールディングス（パナソニックHD）が技術部門の再編を行うと発表。現行のDX・CPS本部を「事業開発本部」に名称変更し、「AI・ロボティクス研究開発本部」を新設する。AI・ロボティクス研究開発本部長には同社 執行役員 グループCAIO（最高AI責任者）の榊原彰氏が就任する。",
+    "thumbnail": "",
+    "published": "2026-08-31T06:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f5224c9fea51",
+    "title": "「世帯収入が低い人ほど独身」の傾向は個人主義的な国で強いとの研究結果",
+    "url": "https://gigazine.net/news/20260831-income-individualism-singlehood/",
+    "summary_original": "独身であるかどうかには、その人の年齢や収入だけでなく暮らしている国の文化も関係している可能性があります。ポーランドのヴロツワフ大学とアダム・ミツキェヴィチ大学の研究チームが59カ国の7万1169人分のデータを調べたところ、世帯収入と独身であるかどうかの関係はその国が個人主義的か集団主義的かによって異なることが判明しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-31T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d99fa4f17b8f",
+    "title": "AIエージェントが人間にとって理解しやすいシンプルなチャート仕様記述から表現力豊かで見栄えの良いグラフを確実に生成できる可視化中間言語「Flint」、50種類のチャートタイプをサポートしVega-Lite・ECharts・Chart.jsなどでレンダリング可能＆MCPサーバーあり",
+    "url": "https://gigazine.net/news/20260830-flint/",
+    "summary_original": "AIにグラフを生成させる場合、データだけでなく軸の範囲やラベル・余白・配色といった細かな指定まで生成させると仕様が長大になります。データが「年月」「利益」「順位」など何を意味するかと作りたいチャートだけを簡潔に指定し、細かな表示設定をコンパイラに任せられる可視化中間言語「Flint」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-30T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "22d7380e73c8",
+    "title": "島中に隠された謎を解きながら世界の真実を手繰り寄せるポイント＆クリックホラー「稗: The Dream Of A Cockspur」をプレイしてみた",
+    "url": "https://gigazine.net/news/20260830-the-dream-of-a-cockspur/",
+    "summary_original": "2026年7月22日にSteamでリリースされたポイント＆クリック型のホラーアドベンチャーゲームが「稗: The Dream Of A Cockspur」です。物語の舞台はとある島で、プレイヤーは島に落下した謎の天体を調査するためにやって来た研究員の1人として、断片的な情報を集めながら謎を解き明かしていくこととなります。ホラー要素があるというだけでなく、「傷付いた動物の描写」や「昆虫などの節足動物(特にクモ)の描写」もあるため、これらの要素が苦手な人は注意が必要です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-30T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4653e46c2054",
+    "title": "劇場版『メダリスト』2027年2月19日公開決定で特報映像公開",
+    "url": "https://gigazine.net/news/20260830-medalist-clip/",
+    "summary_original": "フィギュアスケート全日本ノービス大会に挑む結束いのりとコーチ・明浦路司の挑戦を描く劇場版『メダリスト』の特報映像が公開されました。劇場公開は2027年2月19日(金)です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-30T22:05:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ba8f2da2b12d",
+    "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+    "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+    "summary_original": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団行動の再発リスクに警戒を示している。",
+    "thumbnail": "",
+    "published": "2026-08-30T18:23:12+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d5dafdd78fb6",
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "summary_original": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+    "thumbnail": "",
+    "published": "2026-08-30T16:54:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e4de3653e651",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "summary_original": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "thumbnail": "",
+    "published": "2026-08-30T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7b94c096cafc",
+    "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
+    "url": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
+    "summary_original": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative. Fear of job loss is just one complaint among many. Forced adoption, surveillance, and unrealistic productivity expectations weigh just as heavily.\nThe article AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/chatgpt_office_woman.png",
+    "published": "2026-08-30T13:12:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "45cb6f1654d7",
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "summary_original": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-30T11:35:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ae6b0e68082c",
+    "title": "Inside Meta’s push to put robots to work in data centers",
+    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "summary_original": "The company is testing robots on tasks that can performed by technicians.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+    "published": "2026-08-30T11:03:47+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "ed6bcbfb93f0",
+    "title": "AI agents have no sense of time and are not aware of it",
+    "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
+    "summary_original": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Codex is off by as much as ten times the actual duration. They also rate their own work about 20 percentage points too high. For long, autonomous tasks, that creates a real problem with oversight.\nThe article AI agents have no sense of time and are not aware of it appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/KI-Agents-lost-time.png",
+    "published": "2026-08-30T10:41:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1ea81de14078",
+    "title": "The skills that earn top grades are the ones AI can fake best",
+    "url": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
+    "summary_original": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students. Whether they actually learned anything wasn't tested. Other studies suggest that AI-assisted performance without independent thinking does long-term harm.\nThe article The skills that earn top grades are the ones AI can fake best appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/student-ai-assisted-assignment-illustration.png",
+    "published": "2026-08-30T10:34:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ae03e3a83986",
+    "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
+    "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+    "summary_original": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase. Anthropic promises more control and transparency over usage in return.\nThe article Anthropic&#039;s Claude Code limit change is a raise on paper but a cut in practice appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+    "published": "2026-08-30T09:05:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "96995c590739",
+    "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+    "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
+    "summary_original": "Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission. The plaintiffs call it \"one of the largest and most blatant ongoing thefts of intellectual property in history.\" Just months after paying $1.5 billion to settle with book authors, Anthropic faces another major copyright fight.\nThe article Sony and Warner sue Anthropic over &quot;one of the ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_music.png",
+    "published": "2026-08-30T08:50:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3d50f34ec613",
+    "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
+    "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+    "summary_original": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+    "thumbnail": "",
+    "published": "2026-08-30T08:12:23+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0d18d5472b03",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "summary_original": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "thumbnail": "",
+    "published": "2026-08-29T18:41:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "619cf37e65ee",
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "summary_original": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "thumbnail": "",
+    "published": "2026-08-29T17:36:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3f6bab34d676",
+    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "summary_original": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-29T14:19:53-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e277e4a4618d",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "summary_original": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "thumbnail": "",
+    "published": "2026-08-29T13:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "248d3859500d",
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "summary_original": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
+    "published": "2026-08-29T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
