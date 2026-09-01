@@ -1,0 +1,402 @@
+[
+  {
+    "id": "e4ca7e232d9d",
+    "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表　「監視の難しさ」への懸念も開示",
+    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
+    "summary_original": "Anthropicは新LLM「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。科学研究やコーディング性能が大幅に向上し、一般提供のFableに対し、Mythosは厳格な審査制を採用。System Cardでは高度な推論力に伴うエクスプロイト成功率や監視困難性などのリスクも報告されている。",
+    "thumbnail": "",
+    "published": "2026-09-02T07:23:30+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9b0e9af2cee8",
+    "title": "「AIコーディングで高速開発」が、なぜ企業の弱点に？　開発部門のAIとの付き合い方",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/02/2000001034/",
+    "summary_original": "AIによるコーディングで、開発スピードは飛躍的に高まっている。一方で、その効率化が組織全体の生産性や成果につながるとは限らない。なぜ「速く作れる」のに、企業の弱点になり得るのか。",
+    "thumbnail": "",
+    "published": "2026-09-02T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d955306009d6",
+    "title": "無料で5分間ほぼ世界中のどこにでも電話できる「Playa Phone」",
+    "url": "https://gigazine.net/news/20260902-playaphone/",
+    "summary_original": "アメリカ・ネバダ州の荒野で毎年8月末から9月にかけて、何もない平原に街を作り上げて数万人が共同生活しわずか1週間には街を丸ごと撤去するという巨大イベント「バーニングマン」が開催されます。そんなバーニングマンの期間中、世界中のほぼどこへでも5分間無料で電話をかけることができる電話ボックス「Playa Phone」が設置されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-02T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "98dbd3ffa6a5",
+    "title": "Omarchyで任意のユーザープロセスがルート権限に昇格可能の脆弱性、4.0.1へのアップデートで回避可能",
+    "url": "https://gigazine.net/news/20260902-omarchy-root-creds/",
+    "summary_original": "LinuxディストリビューションのOmarchyのデフォルトDocker設定に、パスワード漏洩やsudo認証なしにroot権限を奪取される可能性のあるセキュリティ上の脆弱性が発見されました。脆弱性を悪用するとユーザーセッション内のほぼ全てのプロセスがroot権限を取得できるため、ホストファイルシステムの任意の部分にアクセスしてroot権限でコードを実行することが可能になります。この脆弱性はバージョン4.0.1で修正済みなのでOmarchyのユーザーは速やかにバージョン4.0.1以降にアップデートすることが推奨されます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-02T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5a17ad068f23",
+    "title": "【Pythonで学ぶデータ分析】相関があるかどうかをベイズ統計で調べる ～ 年齢と原付事故死傷者数に関係はあるのか？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news002.html",
+    "summary_original": "バイクに乗る若い人の運転はどうも危なっかしく感じられることがあります。そこで、手軽に乗れる原付一種（かつての排気量50ccまでのバイク）を対象に、年齢と交通事故死傷者数との間に関係があるかどうかを調べてみたいと思います。つまり、相関のベイズ検定に取り組もうというわけです。『社会人1年生から学ぶやさしいデータ分析』ベイズ統計編の第8回です。",
+    "thumbnail": "",
+    "published": "2026-09-02T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a6c4d5f8283c",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "summary_original": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "thumbnail": "",
+    "published": "2026-09-01T22:08:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "955068052767",
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行",
+    "url": "https://gigazine.net/news/20260901-hermes-agent-cron-automation/",
+    "summary_original": "前回、AIエージェント「Hermes Agent」で「GIGAZINEから記事を探して内容をまとめる」という作業の手順や、途中で発生したトラブルの解決方法を「スキル」として保存してみたところ、新しいセッションでも作成したスキルが自動的に読み込まれ、同じ作業をスムーズに実行できるようになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-01T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c0fa2da8b87b",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-01T21:39:07+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "be7c65afeb75",
+    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "summary_original": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "thumbnail": "",
+    "published": "2026-09-01T21:06:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "407bc3061770",
+    "title": "スマホとライトとAIで隠しカメラを発見する技術が開発される",
+    "url": "https://gigazine.net/news/20260901-sweepled-detecting-hidden-cameras/",
+    "summary_original": "韓国の研究者が、スマートフォンとLEDライトを用いた隠しカメラ検出技術を開発しました。安価なLEDライトをスマートフォンに取り付けて光の反射でカメラを見つけ出します。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-01T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "62b6270ed2a9",
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "summary_original": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "thumbnail": "",
+    "published": "2026-09-01T20:53:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ff896dbcb6d2",
+    "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+    "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+    "summary_original": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt text quality and create transparency problems where contracts ban AI use.\nThe article Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+    "published": "2026-09-01T20:40:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e576141888d3",
+    "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+    "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+    "summary_original": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls.\nThe article Anthropic&#039;s Claude Fable 5.1 promises better coding and research at up to 45 percent less appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/claude_5_series.png",
+    "published": "2026-09-01T20:32:55+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0128337c7dc1",
+    "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
+    "url": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+    "summary_original": "Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available on the Claude API, AWS, Google Cloud, and Microsoft Foundry; Mythos 5.1 remains restricted to vetted organizations under Project Glasswing. Fable 5.1 scores 52.6% on Terminal-Bench-Science 0.1 against 24.7% for Fable 5, ships a 1M token context window, and drops cache reads 75% to $0.25 per million tokens while base pricing holds at $10 and $50. Th...",
+    "thumbnail": "",
+    "published": "2026-09-01T20:30:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bdd225a29eca",
+    "title": "食べ過ぎると命の危険があるヒマラヤの「マッドハニー」が世界中でオンライン販売されている",
+    "url": "https://gigazine.net/news/20260901-stop-heart-mad-honey-sold-online/",
+    "summary_original": "ハチミツは甘くておいしいだけでなく健康にもいい食品として知られており、多くの人々が日常的に食べています。そんなハチミツの中には大さじ数杯ほど食べると心拍数や血圧が急低下し、命の危険すらある種類が存在しており、世界中でオンライン販売されていると専門家が警告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-01T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0b975c1752d0",
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "summary_original": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+    "thumbnail": "",
+    "published": "2026-09-01T19:39:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c609fb541763",
+    "title": "総務省、「AX・新技術戦略室」を新設　AI推進に注力",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
+    "summary_original": "林芳正総務大臣は、9月1日の会見で、総務省に「AX・新技術戦略室」を新設すると発表した。同省におけるAI推進施策の取りまとめや、関係省庁との連携を担う。",
+    "thumbnail": "",
+    "published": "2026-09-01T19:37:56+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1945d1d3243f",
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "summary_original": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-01T19:10:36+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "07189f8e1b73",
+    "title": "Google needs Hollywood more than the studios need AI",
+    "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "summary_original": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-01T18:50:29-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "92c143645779",
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "summary_original": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-01T18:01:36-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "16ca199800c7",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "summary_original": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "thumbnail": "",
+    "published": "2026-09-01T17:35:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4be3ed23a721",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "summary_original": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "thumbnail": "",
+    "published": "2026-09-01T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0c471675d220",
+    "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
+    "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+    "summary_original": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though.\nThe article Google Deepmind&#039;s new chief says frontier AI leadership is the only thing that matters appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+    "published": "2026-09-01T16:49:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "efa072877e6b",
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "summary_original": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-01T16:45:49-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6ca6cbd53744",
+    "title": "“軍事向けChatGPT”導入、米国防総省　「Gemini」「Grok」の計3モデルが利用可能に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/",
+    "summary_original": "米国防総省は、米OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」を導入したと発表した。",
+    "thumbnail": "",
+    "published": "2026-09-01T16:31:21+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6b5bda482bf2",
+    "title": "Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance",
+    "url": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/",
+    "summary_original": "Quantitative research agents that write their own experiments can corrupt the evidence they later learn from. A leaky feature that scores well gets stored as a successful precedent and propagated through later iterations. Prompt-level instructions and reviewer agents do not close this, because author and reviewer share the same blind spots. A team of researchers [&#8230;]\nThe post Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Facto...",
+    "thumbnail": "",
+    "published": "2026-09-01T15:54:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "35aa4d6d86be",
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "summary_original": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-01T15:02:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e3460402ad1d",
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "summary_original": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-01T14:19:26-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dcfcfe164a77",
+    "title": "Making the AI-powered case for legacy modernization",
+    "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "summary_original": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-01T14:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ba722d02f891",
+    "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
+    "url": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/",
+    "summary_original": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back. Google showed the overviews inconsistently and leaned on a small pool of sources, chief among them its own platform YouTube. Whether earlier safeguards against AI answers on election questions still apply, Google left open.\nThe article Google&#039;s election AI Overviews are opaque, rely on few sources...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/AlgorithmWatch-LTW_KI-Ubersicht_Studie_Website_Titelbild-1.webp",
+    "published": "2026-09-01T13:03:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c931d0b3b7db",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "url": "https://openai.com/index/path-to-astra",
+    "summary_original": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "thumbnail": "",
+    "published": "2026-09-01T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "ff5ee6696eaa",
+    "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
+    "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
+    "summary_original": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it.\nThe article Runway&#039;s Solaris is an AI system that generates software interfaces in real time appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/Runway-Solaris-title.png",
+    "published": "2026-09-01T12:53:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c1ca73e96e07",
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT_TR_Uri_Moaz-177-thumb.jpg?w=840",
+    "published": "2026-09-01T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "56641fe02914",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "summary_original": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "thumbnail": "",
+    "published": "2026-09-01T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "9eb16bd4980d",
+    "title": "How engineered microbes could help feed the world’s crops",
+    "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+    "summary_original": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/IMG_9577-2.jpg?w=840",
+    "published": "2026-09-01T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6a0e6e4d6896",
+    "title": "Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio",
+    "url": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/",
+    "summary_original": "Speed and accuracy usually pull against each other in text-to-speech. Gradium AI's new default model reports both: an 81.0% human-rated pass rate on 500 hard sentences across five languages, at 216 ms P50 time-to-first-audio on Coval. The evaluation set is open on Hugging Face under CC BY 4.0.\nThe post Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-01T03:39:05+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0f146bbd840c",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-01T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "05f27f9639d4",
+    "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+    "url": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+    "summary_original": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&#8230;]\nThe post Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-31T23:43:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f173b7f568cb",
+    "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
+    "url": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+    "summary_original": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, howev...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/08/TimesFM31_Architecture-1.png",
+    "published": "2026-08-31T21:20:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e985a8c11fb3",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-31T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
