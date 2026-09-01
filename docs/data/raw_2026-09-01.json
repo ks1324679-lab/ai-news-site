@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b868acb3f652",
+    "title": "iPhoneがAndroidを上回った唯一の年代は？GIGAZINE読者のスマホ利用率を調べてみた",
+    "url": "https://gigazine.net/news/20260901-gigazine-user-smartphone-android-maker/",
+    "summary_original": "スマートフォンは連絡や決済、写真撮影など生活のさまざまな場面で使われており、AndroidとiPhoneのどちらを使うのかや、どのメーカーの端末を選ぶのかにはユーザーごとの好みが表れます。そこで、GIGAZINEが実施した2026年夏のプレゼントアンケートで、GIGAZINE読者が使っているスマートフォンの種類やAndroidスマートフォンのメーカーについて詳しく聞いてみました。なお、設問は自由記述以外全て複数選択可能になっているため、それぞれの割合を合計すると100％を超えます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-01T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7ab54d682ef4",
+    "title": "「ChatGPT」広告、年換算の売上高10億ドルに　開始200日足らずで達成",
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000997/",
+    "summary_original": "OpenAIは、「ChatGPT」上の広告事業「ChatGPT Ads」の年換算売上高が開始200日足らずで10億ドル（約1600億円）に達したと発表した。セルフサービス出稿の提供地域をインドや欧州などに拡大する。上場を控える中、広告を多角化の重要な柱と位置付け、収益源の多様化と急成長をアピールする狙いがある。",
+    "thumbnail": "",
+    "published": "2026-09-01T08:27:31+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "01265e157dc2",
+    "title": "「AIが勝手にやった」は通用しない？　AIエージェントにも“社員証”と“委任状”が要るワケ　今からできる対策も解説",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000000898/",
+    "summary_original": "AIエージェントの業務利用が広がるにつれ、AI向けの「社員証」と「委任状」に注目が集まっている。これらはどのような仕組みで、何を防げるのか。実際の事故や各社の動きを整理し、今からできる対策を解説する。",
+    "thumbnail": "",
+    "published": "2026-09-01T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3c532819137e",
+    "title": "「安いモデルで3回やり直し」と「高いモデルで一発完了」　コストが低いのはどっち？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news018.html",
+    "summary_original": "OpenAIは、AI投資の成果を測る指標として「1ドル当たりの有用なインテリジェンス」を提唱した。購入したシート数や利用者数といった導入状況ではなく、完了した仕事の量と品質、成功したタスク1件当たりのコストで評価する考え方だ。",
+    "thumbnail": "",
+    "published": "2026-09-01T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ac7ebe5fdb70",
+    "title": "三菱ケミカル、半導体向けに「温めると縮む新材料」開発　AI時代の課題に光明、何がすごいのか？",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/01/news039.html",
+    "summary_original": "三菱ケミカルが、半導体パッケージ向けに「温めると縮む新材料」を開発した。AI時代に無視できない「熱問題」を解決できるという。何がすごいのか。",
+    "thumbnail": "",
+    "published": "2026-09-01T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "aee79a37a3d6",
+    "title": "「ChatGPT Work」の仕組みに関する考察",
+    "url": "https://gigazine.net/news/20260901-understanding-chatgpt-work/",
+    "summary_original": "オープンソース開発者のサイモン・ウィリソン氏が、2026年7月に登場した「ChatGPT ワーク」について調査を行い、わかった仕組みについてブログで情報を公開しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-01T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "286e6b28a315",
+    "title": "AI開発はプロンプトからコンテキスト、ハーネスへと向かう　ハーネス成熟度を測る3つのチェックリスト",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news012.html",
+    "summary_original": "「LLMを導入したのに生産性が上がらない」「レビューに追われる」　現場が直面する“限界”に対し、トップランナーたちが口をそろえて語るのが「ハーネスエンジニアリング」だ。先行者が明かす知見・ノウハウからハーネスエンジニアリングの実相に迫る。",
+    "thumbnail": "",
+    "published": "2026-09-01T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f0011f8c6bea",
+    "title": "Xiaomiの新型折りたたみスマホ・Xiaomi 18 FoldがCXMT製LPDDR6メモリを初採用",
+    "url": "https://gigazine.net/news/20260831-xiaomi-18-fold-with-cxmt-lpddr6-memory/",
+    "summary_original": "中国のメモリメーカー大手・CXMTがSNS・微博(Weibo)に公式アカウントを開設し、LPDDR6メモリが量産に入ったことと、小米(Xiaomi)が2026年9月に発売予定の折りたたみスマートフォン・Xiaomi 18 Foldで初めて採用されることを明らかにしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-31T23:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "05f27f9639d4",
+    "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+    "url": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+    "summary_original": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&#8230;]\nThe post Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-08-31T23:43:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b4048e77b184",
+    "title": "AIチャットボットは外国によるプロパガンダの流布をある程度食い止めることが判明",
+    "url": "https://gigazine.net/news/20260831-npr-chatbot-propaganda/",
+    "summary_original": "ロシアなど一部の政府がAIでプロパガンダを生み出して拡散しているのではないかという懸念に対して、アメリカの公共放送局・NPRとオンラインニュースソースの信頼性について評価を行っているNewsGuardが共同検証を行い、人気のAIチャットボットの多くはプロパガンダを鵜呑みにせず反論していることが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-31T23:35:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f173b7f568cb",
+    "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
+    "url": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+    "summary_original": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, howev...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/08/TimesFM31_Architecture-1.png",
+    "published": "2026-08-31T21:20:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ac6746a45c16",
+    "title": "映画『インセプション』の折りたたまれる街のように表示するナビゲーションマップが考案される",
+    "url": "https://gigazine.net/news/20260831-orbify-inception-style-curved-map/",
+    "summary_original": "クリストファー・ノーラン監督の映画『インセプション』には、街の向こう側がめくれ上がって折りたたまれるシーンがあります。そんなインセプションの街のように空間を曲線的に表示するスタイルのナビゲーションマップを、「Orbify」というソフトウェア企業が考案しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-08-31T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "77b770af978c",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "summary_original": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "thumbnail": "",
+    "published": "2026-08-31T20:13:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "72b2e2fa1025",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "summary_original": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "thumbnail": "",
+    "published": "2026-08-31T19:16:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c24cafe65185",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "summary_original": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+    "thumbnail": "",
+    "published": "2026-08-31T18:35:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5ffb9ee1430a",
+    "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
+    "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/",
+    "summary_original": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI companies and hyperscalers could trigger a chain reaction if one major player stumbles. Many countries still lack rules for advanced AI.\nThe article Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
+    "published": "2026-08-31T18:01:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e985a8c11fb3",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+    "thumbnail": "",
+    "published": "2026-08-31T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a3bd6035b085",
+    "title": "Instagram admits users often can't tell AI profiles from real people",
+    "url": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/",
+    "summary_original": "Instagram is replacing its \"AI creator\" tag with a new \"AI-generated profile\" label because users can't tell AI profiles from real people. Singularity, defined by Instagram user competence. Profiles without the label get their reach and recommendations throttled. As recently as late 2024, Meta was still planning a coexistence of AI characters and humans on the platform.\nThe article Instagram admits users often can&#039;t tell AI profiles from real people appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/meta_logo.png",
+    "published": "2026-08-31T17:27:43+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dae4ee4cb78b",
+    "title": "Think twice before installing this device promising free movies",
+    "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+    "summary_original": "In exchange for free stuff, devices make home connections part of a proxy network.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp",
+    "published": "2026-08-31T16:33:38+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "773b325bd3a6",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "summary_original": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+    "thumbnail": "",
+    "published": "2026-08-31T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cba44dc47833",
+    "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
+    "url": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/",
+    "summary_original": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company.\nThe article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/01/openai_chatgpt_werbung-e1768589138614.png",
+    "published": "2026-08-31T15:24:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1ce7f9340fcb",
+    "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
+    "url": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/",
+    "summary_original": "China's top memory maker ChangXin Memory Technologies (CXMT) is producing HBM3E for the first time in small quantities, a fast memory found in many current AI processors.\nThe article China&#039;s CXMT makes its first HBM3E chips, closing the AI memory gap appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/09/ai_chip_china_illustration.png",
+    "published": "2026-08-31T15:17:31+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "70a677766176",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "summary_original": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+    "thumbnail": "",
+    "published": "2026-08-31T15:15:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b88b0082fae3",
+    "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
+    "url": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/",
+    "summary_original": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users. By the end of 2026, OpenAI has to deliver risk assessments, transparency reports, and an ad archive, among other things. Whether the Commission can also demand access to training data is disputed among legal experts.\nThe article ChatGPT now faces stricter EU oversight as a very large search engine appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_mouse_cursor.png",
+    "published": "2026-08-31T14:31:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6eb0d063d6c9",
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "summary_original": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-31T11:34:58-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e4a9103f7f0e",
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "summary_original": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-31T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "8178888de70f",
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "summary_original": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-31T09:27:36-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1a9866cea520",
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "summary_original": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-31T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6489dfdc164c",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "url": "https://openai.com/index/polimill",
+    "summary_original": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "thumbnail": "",
+    "published": "2026-08-31T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "b12272e3bb44",
+    "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
+    "url": "https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/",
+    "summary_original": "The OpenClaw Foundation has released v2026.8.1, which the project calls OpenClaw 2.0: 933 contributors, 569 first-timers, and more than 16,000 pull requests, roughly half of every PR ever merged into the repo. Setup now reuses existing subscriptions, API keys and local models. The rebuilt Control UI cut test-harness startup from about 1.6 seconds to 575 ms. Shared cloud sessions add real multiplayer, though the docs are explicit that they are not a security boundary.\nThe post OpenClaw Releases O...",
+    "thumbnail": "",
+    "published": "2026-08-31T05:04:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7aa1f68e6fa5",
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "summary_original": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "thumbnail": "",
+    "published": "2026-08-31T04:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8d6904b93b88",
+    "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
+    "url": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
+    "summary_original": "Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stopping point. This benchmark works through every layer of the voice stack — LLM, speech-to-text, text-to-speech, and speech-to-speech — using figures verified against primary sources on August 30, 2026, with each number labeled as independently measured, vendor-published, or vendor-measured on its own p...",
+    "thumbnail": "",
+    "published": "2026-08-30T21:24:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a1ecab44719e",
+    "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+    "url": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
+    "summary_original": "Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the policy training on it. It wraps a frozen environment through the standard reset()/step() interface, so tasks and human-built verifiers stay untouched — and an LLM designer, EnvRigger, writes those wrappers automatically against flaws diagnosed in the agent's own rollouts. Across five benchmarks, mined s...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-at-1.22.31-PM.png",
+    "published": "2026-08-30T20:23:46+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "45cb6f1654d7",
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "summary_original": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291175333.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-08-30T11:35:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ae6b0e68082c",
+    "title": "Inside Meta’s push to put robots to work in data centers",
+    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "summary_original": "The company is testing robots on tasks that can performed by technicians.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+    "published": "2026-08-30T11:03:47+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  }
+]
