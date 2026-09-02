@@ -1,0 +1,392 @@
+[
+  {
+    "id": "4cef56e8eda0",
+    "title": "70代会長も動いた　創業108年みそメーカーがGemini利用率86％を達成した「3つの工夫」",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/03/news017.html",
+    "summary_original": "生成AIのアカウントを社員に付与しても使われない――。AIの社内定着は大きな課題だ。長野県のみそメーカー、ハナマルキは「Geminiの利用率が86％」という数字を誇る。導入時の工夫とは。",
+    "thumbnail": "",
+    "published": "2026-09-03T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3045916ee147",
+    "title": "無差別攻撃時代に「AI対AI」で挑む　NECがAnthropicと描く、日本サイバー防衛の「勝ち筋」",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/03/news052.html",
+    "summary_original": "NECの幹部は、AI時代のセキュリティを巡り「AI対AIになる」と述べた。同社は、Anthropicなど米AI企業のフロンティアAIを活用し、対策に挑む。その勝ち筋とは。",
+    "thumbnail": "",
+    "published": "2026-09-03T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3ae039c8b84e",
+    "title": "無料でいろいろなLinuxディストリビューションをブラウザ上でインストールせずに試せる「DistroSea」",
+    "url": "https://gigazine.net/news/20260903-distrosea/",
+    "summary_original": "Linuxには様々なディストリビューションが存在しており、何を使用するかによって使用感は大きく異なります。メジャーなディストリビューションであれば多くの情報に触れることができますが、そうでなければ実際に動作している様子を確認してみる必要があります。「DistroSea」はいろいろなLinuxディストリビューションを実際に起動して試すことのできるサービスであり、インストールせずにブラウザ上で動作させることができるのが特徴です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-03T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e9daaca31850",
+    "title": "史上最も残虐な17世紀ドイツの刑務所「魔女の家」とは？",
+    "url": "https://gigazine.net/news/20260903-bamberg-witch-prison/",
+    "summary_original": "17世紀のドイツ・バンベルクには魔女として告発された人を収容し、拷問によって自白と新たな告発を引き出すための専用刑務所が存在しました。拷問を受けた人が知人の名前を挙げ、その人も逮捕されるという連鎖や、処刑された人の財産が次の魔女裁判を支える仕組みについて、科学系の情報をアニメーション動画で紹介するYouTubeチャンネル「Kurzgesagt」が解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-03T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "05932bc27edd",
+    "title": "茨城県鹿嶋市は「公式Web×Claude」で市民対応をどう変えた？　Claude Codeで内製化も",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news019.html",
+    "summary_original": "限られた職員で行政サービスをどう維持するか――。鹿嶋市は本格的に「生成AI」の活用に乗り出した。まずは公式Webサイトと「Claude」で市民対応業務を改善。「Claude Code」による内製化にも着手している。狙いやその仕組みについて同市に取材した。",
+    "thumbnail": "",
+    "published": "2026-09-03T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ef03c3a5f159",
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "summary_original": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+    "thumbnail": "",
+    "published": "2026-09-02T22:44:56+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7ae55826cb10",
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "summary_original": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "thumbnail": "",
+    "published": "2026-09-02T22:24:09+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f9d0c2dc509d",
+    "title": "イベントやBBQなどで役立つコールマンの「インスタントバイザーシェードⅣ/L DR」を簡単に設営できるか実際にやってみたよレビュー",
+    "url": "https://gigazine.net/news/20260902-coleman-instant-shade/",
+    "summary_original": "GIGAZINEでは地域のお祭りなどのイベントに参加して出店を出すことがあります。「暑さ対策に簡単に設営できるサンシェードが欲しいな」と考えていたところ、日光の透過をブロックする「ダークルームテクノロジー」なる技術を搭載したコールマンの「インスタントバイザーシェードⅣ/L DR」を発見。GIGAZINE編集部の欲しいものリストに登録したところ、心優しい読者が贈ってくれたので、実際に屋外に持ち出して設営手順を確かめてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-02T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3c2654e46c6b",
+    "title": "I rented a car, and within hours, my driver's license was for sale",
+    "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "summary_original": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
+    "published": "2026-09-02T20:32:02+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "373be5400612",
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "summary_original": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "thumbnail": "",
+    "published": "2026-09-02T20:19:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "11ca9b8654dd",
+    "title": "1万3000本以上の映画・ゲーム・アニメ・漫画の「聖地」を地図上に表示する「Movie Scene Map」",
+    "url": "https://gigazine.net/news/20260902-movie-scene-map/",
+    "summary_original": "映画やアニメのファンの中には、撮影地や舞台となった場所を巡る舞台探訪、いわゆる「聖地巡礼」を楽しむ人がおり、自治体側が作品と公式コラボするケースも増えています。「Movie Scene Map」は、そんな映画・ドラマ・ゲーム・アニメ・漫画の撮影地や舞台となった場所を地図上に表示するウェブサイトです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-02T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "00adbd57f4b6",
+    "title": "2026年9月2日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260902-headline/",
+    "summary_original": "大河ドラマ『豊臣兄弟！』での描かれ方が話題になった武将・中川清秀の人物像を史料に基づいて解説する「戦国の猛将・中川清秀ー賤ヶ岳合戦の真実ー」が、大分県竹田市の竹田市歴史文化館で開催されています。観覧は無料で、開館時間は9時～16時30分最終入場。木曜日は閉館です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-02T19:52:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "afe53a91b5a5",
+    "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+    "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+    "summary_original": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by the Trump administration shortly after the report was published.\nThe article US Department of Justice backs fair use for AI training in landmark copyright case appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/token_to_ai_content.png",
+    "published": "2026-09-02T18:24:42+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b567a13a8234",
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "summary_original": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-09-02T17:18:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "eb7ca637d5cd",
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "summary_original": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-09-02T17:09:57+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "821f905323c5",
+    "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
+    "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
+    "summary_original": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its \"working harder\" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite identical token rates.\nThe article Gemini 3.8 Flash is Google&#039;s third budget model in six weeks while frontier models remain MIA appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_flash_fast.png",
+    "published": "2026-09-02T16:59:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6599cfbe05d9",
+    "title": "NEC、AIモデル「ミュトス」をサイバーセキュリティに活用　「Project Glasswing」に参画",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001075/",
+    "summary_original": "NECは、米AnthropicのAIモデル「Claude Mythos Preview」をサイバーセキュリティ業務に活用すると発表した。",
+    "thumbnail": "",
+    "published": "2026-09-02T16:48:34+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "56a0c6d45214",
+    "title": "NEC、先進AI「Claude Mythos」ついに導入　Anthropic主導“セキュリティ防衛連合”で、何ができる？",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
+    "summary_original": "NECが、Anthropicの先進AI「Claude Mythos Preview」を導入すると発表した。Anthropicが主導し、200社以上が参画する“セキュリティ防衛連合”「Project Glasswing」に参画した同社。何ができるようになったのか。",
+    "thumbnail": "",
+    "published": "2026-09-02T16:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "53d98970a69c",
+    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "summary_original": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-02T16:11:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c6dd82bd2860",
+    "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
+    "url": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/",
+    "summary_original": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government.\nThe article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/pentagon_chatgpt_grok.png",
+    "published": "2026-09-02T14:40:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5096563e990b",
+    "title": "Protests against AI data centers play into China's hands, Trump says",
+    "url": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/",
+    "summary_original": "President Trump has pushed back hard against growing opposition to AI data centers across the US.\nThe article Protests against AI data centers play into China&#039;s hands, Trump says appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/konkurrenz_usa_china.png",
+    "published": "2026-09-02T14:23:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6268aa53e0d7",
+    "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
+    "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
+    "summary_original": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought. Problem is, that monitoring already counts as an unreliable mirror of a model's real decisions, and according to a report, Astra's new architecture pushes even more of its thinking into the unreadable. So the safety net might be getting weaker just as the capabilities jump.\nThe article OpenAI calls Astra its most da...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/Astra-Chain-of-Thought.png",
+    "published": "2026-09-02T14:20:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c0e30f013c2a",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "summary_original": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-02T14:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "dda939102732",
+    "title": "Amazon’s AI assistant can now spot fake emails from the company",
+    "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "summary_original": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-02T13:52:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d23fc469a2f7",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-02T13:49:14+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "9b33a0d3e00a",
+    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "summary_original": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-02T12:40:50-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "fb00ea6ebe96",
+    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+    "summary_original": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-02T12:12:25-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "fdfd47cb2716",
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/HyIron-Feb-2025-dji-3.edit_.jpg?w=840",
+    "published": "2026-09-02T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "86623607f60a",
+    "title": "Google is sending MrBeast into the wilderness, armed with AI",
+    "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+    "summary_original": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-02T11:47:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b2d1c21ac298",
+    "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+    "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "summary_original": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
+    "published": "2026-09-02T11:00:43+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c0fa2da8b87b",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-01T21:39:07+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "1945d1d3243f",
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "summary_original": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-01T19:10:36+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4be3ed23a721",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "summary_original": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "thumbnail": "",
+    "published": "2026-09-01T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "dcfcfe164a77",
+    "title": "Making the AI-powered case for legacy modernization",
+    "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "summary_original": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-01T14:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c931d0b3b7db",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "url": "https://openai.com/index/path-to-astra",
+    "summary_original": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "thumbnail": "",
+    "published": "2026-09-01T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c1ca73e96e07",
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT_TR_Uri_Moaz-177-thumb.jpg?w=840",
+    "published": "2026-09-01T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "56641fe02914",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "summary_original": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "thumbnail": "",
+    "published": "2026-09-01T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8e955ff5c005",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "summary_original": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "thumbnail": "",
+    "published": "2026-09-01T01:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0f146bbd840c",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-01T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
