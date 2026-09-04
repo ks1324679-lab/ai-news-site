@@ -1,0 +1,402 @@
+[
+  {
+    "id": "02eb7a6119b2",
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた",
+    "url": "https://gigazine.net/news/20260905-hermes-agent-mail/",
+    "summary_original": "今回はHermes Agentにメールアカウントを設定し、メールを通じてHermes Agentとやりとりできるのかを確認していきます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-05T00:25:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9b609cdb1f50",
+    "title": "超音速で弾を撃ち出せるトレビュシェット(投石機)をDIYした記録",
+    "url": "https://gigazine.net/news/20260904-supersonic-trebuchet/",
+    "summary_original": "YouTuberのトム・スタントン氏がトレビュシェット(投石機)を自力で制作し、超音速で球を打ち出すことに成功した記録を公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-04T21:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e160d21430ae",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "summary_original": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "thumbnail": "",
+    "published": "2026-09-04T21:12:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "db12b19de328",
+    "title": "「人工のビーバーダム」を建設したおかげでギンザケの稚魚の生存率が8％から60％に改善",
+    "url": "https://gigazine.net/news/20260904-artificial-beaver-dams-salmon-populations/",
+    "summary_original": "ビーバーは湿原に生息するげっ歯類であり、野生動物でありながらダムを造ることで知られています。そんなビーバーのダムを人工的に建設することで、川で生まれたギンザケの稚魚の生存率が大幅に向上したと報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-04T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2c7352ff33c5",
+    "title": "テスラがハンドルもペダルもない専用車両「Cybercab」をロボタクシーサービスに投入",
+    "url": "https://gigazine.net/news/20260904-tesla-cybercab/",
+    "summary_original": "テスラのロボタクシー向け専用車両「Cybercab」がテキサス州オースティンでサービスインしたことがわかりました。イーロン・マスク氏は2025年6月のサービスインを予告していましたが、1年遅れたことになります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-04T20:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "74c5acb328d6",
+    "title": "無料の音声編集ソフト「Audacity」のバージョン4.0.0がリリース",
+    "url": "https://gigazine.net/news/20260904-audacity-4/",
+    "summary_original": "無料かつLinux・macOS・Windowsなどの複数のOSで使えるオープンソースの音声編集ソフトウェア「Audacity」のメジャーアップデートとなる「バージョン4.0.0(Audacity 4)」がリリースされました。Audacity 4では、アプリケーションインターフェースがQtで再構築され、新しいクリップ編集モデルをはじめとする多くの利便性向上機能が導入されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-04T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c540530472dc",
+    "title": "Architecting memory and storage in the AI era",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "summary_original": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
+    "published": "2026-09-04T18:39:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7d041f09394d",
+    "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+    "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+    "summary_original": "Broadcom admits it put “too big a focus on VCF.”",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+    "published": "2026-09-04T17:35:02+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c50f60b962fc",
+    "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+    "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
+    "summary_original": "OpenAI's GPT-6 Astra hallucinates less than its predecessor and blocks 99.99 percent of direct prompt injections. But when attacks are hidden inside documents the AI reads, the model still gets cracked in 8.5 percent of scenarios. Claude Opus 5 does better at 4.8 percent. For autonomous AI agents handling real data, those numbers still seem high.\nThe article OpenAI&#039;s GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/11/openai_logo_wall-3.png",
+    "published": "2026-09-04T17:23:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2001b530f711",
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "summary_original": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
+    "published": "2026-09-04T17:18:12+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "eb999a1a327a",
+    "title": "What will Apple’s John Ternus era look like?",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "summary_original": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-09-04T17:18:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "718826050bb2",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "summary_original": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "thumbnail": "",
+    "published": "2026-09-04T16:21:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "08f462902e18",
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "summary_original": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-09-04T16:04:08+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8455d4164fce",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "summary_original": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "thumbnail": "",
+    "published": "2026-09-04T14:47:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "577c72414b69",
+    "title": "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia",
+    "url": "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/",
+    "summary_original": "Deepseek wants to put 160,000 Huawei Ascend-950DT chips into an Inner Mongolia data center for inference only, not training. It would be the largest known Huawei chip cluster. But production bottlenecks mean Huawei probably can't deliver for over a year.\nThe article Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+    "published": "2026-09-04T14:19:14+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9fcc97373950",
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "summary_original": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-04T13:51:35-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "080ddc261011",
+    "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
+    "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
+    "summary_original": "According to an analysis by collusion.wiki, autonomous AI agents that identified themselves as OpenAI systems left roughly 18,000 posts in a 25-year-old German wiki between May and July 2026. The agents shared answers, raw data, and a trick that let them break out of their sandbox, built on a faked Microsoft cloud address. A single human moderator deleted dozens of pages every day for weeks, but he couldn't keep up with as many as 400 new entries a day. According to Reuters, OpenAI had known abo...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/OpenAI-prowiki-hack.png",
+    "published": "2026-09-04T13:24:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ca4a2ff19d40",
+    "title": "従業員が「個人利用のAIサービス」に顧客情報をアップロード　RIZAPが謝罪",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001166/",
+    "summary_original": "パーソナルジムの運営などを手掛けるRIZAPは、同社従業員が個人で利用している外部の生成AIサービスに顧客情報を誤ってアップロードしたと発表した。",
+    "thumbnail": "",
+    "published": "2026-09-04T12:42:38+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3a7b13cd7610",
+    "title": "ChatGPTの利用制限、新モデル「Astra」提供まで“毎日リセット”　有料ユーザー向け",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001165/",
+    "summary_original": "新AIモデル「GPT-6 Astra」を使えるようになるまで、「ChatGPT」の利用制限枠のリセット権を有料ユーザー向けに毎日提供する――米OpenAIのティボ・ソティオ氏は、自身のXアカウントでこのように投稿した。",
+    "thumbnail": "",
+    "published": "2026-09-04T12:25:16+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "53901d2f49d0",
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
+    "published": "2026-09-04T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "38b7d6c16f55",
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "summary_original": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-04T12:05:57-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a8c06f3270de",
+    "title": "RIZAP社員、私用AIに顧客の個人情報入力　氏名や疾患、保険証番号など……同社が謝罪",
+    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
+    "summary_original": "RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたという。",
+    "thumbnail": "",
+    "published": "2026-09-04T11:33:22+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7b25ad6eb403",
+    "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+    "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
+    "summary_original": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1. The biggest surprise comes from ARC-AGI-3, where Astra works more efficiently than the average human for the first time. ARC Prize chief François Chollet doesn't call this proof of AGI, but he does see the progress running \"twice as fast\" as he expected, and he's moving up his AGI forecast.\n...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+    "published": "2026-09-04T11:07:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "543fd0fb80c7",
+    "title": "とにかく「データが足りない」フィジカルAI　AWS支援プログラム採択各社が示す突破口",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001158/",
+    "summary_original": "AWSジャパンが8月31日、総額600万米ドル規模の「フィジカルAI開発支援プログラム」の成果報告会を開催した。登壇した多くの企業が語ったのは「データ不足」の壁。半年間の開発から見えた突破口とは。",
+    "thumbnail": "",
+    "published": "2026-09-04T11:00:43+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "502813c04293",
+    "title": "コードを書くのはAI、人間は何をする？　弥生とビル・ゲイツが示す「開発者の次の仕事」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news017.html",
+    "summary_original": "AIがコードを書き、テストし、レビューまで担う時代が始まった。では、開発者の仕事はどのように変化するのか。仕様書中心の開発を見直した弥生の実践と、ビル・ゲイツ氏の問題提起から、AI時代に人間に残される仕事と、その境界線を考える。",
+    "thumbnail": "",
+    "published": "2026-09-04T10:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a081a11168ff",
+    "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+    "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+    "summary_original": "M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify customer needs, and flag portfolio risks, according to Fast Company. M&#38;T is also examining [&#8230;]\nThe post M&#038;T Bank expands enterprise AI after years of technology overhaul appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-09-04T10:00:00+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c58f9bdfc3e7",
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "summary_original": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-04T09:34:12-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "16db96c97099",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "summary_original": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-04T09:25:19+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "5a21b6934652",
+    "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+    "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+    "summary_original": "Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained [&#8230;]\nThe post 50.5% of Americans Say AI Romance Can Count as Cheating appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-09-04T08:25:12+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5fee79e57e60",
+    "title": "Nvidia wants your home network to work like a mini data center for local AI",
+    "url": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
+    "summary_original": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks.\nThe article Nvidia wants your home network to work like a mini data center for local AI appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+    "published": "2026-09-04T08:06:15+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2c21bf3be6b3",
+    "title": "Instagram’s AI detection is a mess (again)",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "summary_original": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-04T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a1f8e8245fb7",
+    "title": "Why AI food looks like that",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "summary_original": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-04T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3b70536d04ff",
+    "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+    "url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+    "summary_original": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps.\nThe post Google DeepMind&#8217;s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-04T01:21:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "808950d94147",
+    "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+    "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+    "summary_original": "OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what.\nThe post OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a &#8216;Critical&#82...",
+    "thumbnail": "",
+    "published": "2026-09-03T21:16:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "af73a18cac66",
+    "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+    "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+    "summary_original": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
+    "published": "2026-09-03T19:52:06+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "38f0b3d91a35",
+    "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
+    "url": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
+    "summary_original": "Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four [&#8230;]\nThe post Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, ...",
+    "thumbnail": "",
+    "published": "2026-09-03T19:46:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8dedf2e65f3e",
+    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+    "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "summary_original": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg",
+    "published": "2026-09-03T18:58:31+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "8d9ef31eeb73",
+    "title": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
+    "url": "https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/",
+    "summary_original": "Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which rec...",
+    "thumbnail": "",
+    "published": "2026-09-03T18:51:52+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6a6bda6195d8",
+    "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+    "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+    "summary_original": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including owned fleets, couriers, parcel carriers, and other delivery modes, then selects the lowest-cost option that meets the required service level, according to OneRail. The [&#8230;]\nThe post OneRail uses Nvidia AI for real-time last-mile delivery optimisation appeared...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "published": "2026-09-03T16:07:18+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "93d3506cb2c0",
+    "title": "NVIDIA to acquire Hugging Face for $12.93B",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+    "summary_original": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository&#8217;s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for enterprise developers, software engineers, and research institutions globally. Built over the past decade by Clem Delangue, Julien Chaumond, Thomas Wolf, and their [&#8230;]\nThe post NVIDIA to acquire Hugging Face for $12.93B appeared first on AI News.",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-hugging-face-repo-contributions-open-models-data-1024x712.png",
+    "published": "2026-09-03T15:50:31+00:00",
+    "source": "AI News",
+    "language": "en"
+  }
+]
