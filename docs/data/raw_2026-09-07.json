@@ -1,0 +1,262 @@
+[
+  {
+    "id": "41b1210f6542",
+    "title": "コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか",
+    "url": "https://gigazine.net/news/20260907-ai-coding-cost-efficient/",
+    "summary_original": "AIコーディングエージェントを使用する場合に出力の品質と並んで重要視すべきなのは効率であり、作業を迅速かつ効率的に適切なコンテキストで完了することが効率の向上につながります。つまり、個々のインタラクションのトークン数を減らすことよりも、適切な量のコンテキストを活用してタスクを進めることを目標にすべきです。GitHubが、「ツールの呼び出しではなく結果に焦点を当てた最適化」に基づいてCopilot Copilotに施した改善点についてブログを公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-07T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0e42c428faed",
+    "title": "毒にも薬にもなる樹液を持つ「ボトルツリー」とは？",
+    "url": "https://gigazine.net/news/20260907-bottle-tree-poison-medicine/",
+    "summary_original": "インド洋に浮かぶイエメン領のソコトラ島には、地面に巨大なボトルを置いたような幹を持ち、乾燥した岩場で鮮やかなピンク色の花を咲かせる植物があります。「ボトルツリー」と呼ばれるこの植物について、サイエンス系メディアのScienceAlertが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-07T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c940e59365a3",
+    "title": "男女の性欲格差を縮めるには女性の性欲を高めようとするのではなく「快楽格差」を縮めるべきだとの指摘",
+    "url": "https://gigazine.net/news/20260906-women-libido-pleasure-gap/",
+    "summary_original": "女性は男性より性欲が低いと考えられがちですが、性欲の男女差には若い頃の性体験が関係している可能性があると専門家が指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-06T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5666697aead4",
+    "title": "ゲームのプレイ順を引き分けなしで確実に決定できるサイコロ「Go First Dice(先攻ダイス)」とは？",
+    "url": "https://gigazine.net/news/20260906-go-first-dice/",
+    "summary_original": "ボードゲームなどのプレイ順をサイコロで決める場合、同じ数字が出て振り直しになるケースが多く発生します。この問題を避けて確実かつ公平にプレイ順を決められるダイスセットが「Go First Dice(先攻ダイス)」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-06T21:11:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "15808c98cf96",
+    "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+    "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+    "summary_original": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 5...",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-2.06.00-PM.png",
+    "published": "2026-09-06T21:06:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "71ae9d16788a",
+    "title": "豚から腎臓を移植され9カ月生存した事例が登場",
+    "url": "https://gigazine.net/news/20260906-pig-kidney/",
+    "summary_original": "遺伝子を組み換えた豚の臓器を人間に移植する手術は複数の前例があり、腎臓の事例では2カ月にわたり生存した事例が報告されていますが、新たに、豚から腎臓を移植されて9カ月にわたって生存した人の事例が報告されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-06T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3997b3420fb1",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "summary_original": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "thumbnail": "",
+    "published": "2026-09-06T20:47:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2eb657922857",
+    "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+    "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+    "summary_original": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours.\nThe post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on MarkTec...",
+    "thumbnail": "",
+    "published": "2026-09-06T20:25:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f33b1fcaa623",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "summary_original": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "thumbnail": "",
+    "published": "2026-09-06T16:45:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e183e544c7b0",
+    "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+    "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
+    "summary_original": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create an \"echo chamber of one\" that reinforces delusions.\nThe article Chatbots built an &quot;echo chamber of one&quot; and now psychiatry has to decide if &quot;AI psychosis&quot; exists appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/ai_hypnosis_syco.png",
+    "published": "2026-09-06T11:57:12+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ccc43ebd1450",
+    "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
+    "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/",
+    "summary_original": "Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellite data. It produces hourly forecasts at up to five-kilometer resolution, five times more detailed than its predecessor. Google says regions in Africa, Latin America, and the Asia-Pacific that have lacked accurate forecasts should see the biggest gains.\nThe article Google&#039;s WeatherNext 3 ditches physics simulations and learns weather ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/weathernext-3-01-hero.webp",
+    "published": "2026-09-06T10:36:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c23762f8e70d",
+    "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
+    "url": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/",
+    "summary_original": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months.\nThe article OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-2.png",
+    "published": "2026-09-06T10:15:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "46c3f16044a9",
+    "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+    "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/",
+    "summary_original": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids. Google says it was trained only on licensed content.\nThe article Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_logo.png",
+    "published": "2026-09-06T09:56:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6485777b1e47",
+    "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
+    "url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/",
+    "summary_original": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries. According to Artificial Analysis, it delivers the most accurate streaming transcription at the lowest price in the market. Meta sees the model as a building block for personal AI agents that listen in on real conversations through devices like its camera glasses.\nThe article Meta&#039;s new real-t...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/meta_logo.png",
+    "published": "2026-09-06T09:45:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "08d94691e993",
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "summary_original": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "thumbnail": "",
+    "published": "2026-09-06T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "2b36e6dbb8e7",
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "summary_original": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "thumbnail": "",
+    "published": "2026-09-06T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7ffcdce3869c",
+    "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
+    "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+    "summary_original": "OpenAIは、AIエージェントが休眠Wikiを掲示板として悪用した問題について声明を発表し、自社モデルの関与を初めて認めた。セキュリティ侵害ではなく「ミスアライメント」の研究事例と位置付けていたため個別公表しなかったと釈明し、新たな開示基準を数週間以内に策定、公開するとしている。",
+    "thumbnail": "",
+    "published": "2026-09-06T07:35:17+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6e14c88174a9",
+    "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+    "url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+    "summary_original": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB.\nThe post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and...",
+    "thumbnail": "",
+    "published": "2026-09-06T06:11:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0ceb24e10cbb",
+    "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
+    "url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
+    "summary_original": "Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used [&#8230;]\nThe post Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-09-06T03:20:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8a7e0f31a983",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "summary_original": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "thumbnail": "",
+    "published": "2026-09-05T22:49:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "82b1a470656d",
+    "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
+    "url": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
+    "summary_original": "We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer.\nThe post GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-05T19:40:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f774e48a95a8",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "summary_original": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "thumbnail": "",
+    "published": "2026-09-05T19:35:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "669fdcb55695",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "summary_original": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "thumbnail": "",
+    "published": "2026-09-05T18:05:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3f01ddbcf1c5",
+    "title": "「最大45％コスト減」　Anthropicが「Claude Fable 5.1」発表　脆弱性検知にも対応",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
+    "summary_original": "Anthropicは、新AIモデル「Claude Fable 5.1」および「Claude Mythos 5.1」を発表した。キャッシュ読み取り価格の引き下げによりFable 5.1は最大約45％のコスト削減が見込めるとしている。脆弱性検知への対応など、セーフガードも一部変更されたという。",
+    "thumbnail": "",
+    "published": "2026-09-05T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a20f018b4136",
+    "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開",
+    "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+    "summary_original": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
+    "thumbnail": "",
+    "published": "2026-09-05T12:06:58+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b53a6cba2209",
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "summary_original": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-05T07:15:55-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
