@@ -1,0 +1,232 @@
+[
+  {
+    "id": "194de5d3b6eb",
+    "title": "AI創薬候補、6種の「老化時計」で生物学的年齢の低下を示唆",
+    "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001239/",
+    "summary_original": "バイオテクノロジー企業のInsilico Medicineは、生成AIで設計した特発性肺線維症の治療薬候補「レントセルチブ」のデータを再解析した結果を発表した。血中タンパク質から測る6種の「老化時計」すべてで、患者の生物学的年齢が最大約6歳分低下したという。老化への直接的な作用を確認するには更なる検証が必要としている。",
+    "thumbnail": "",
+    "published": "2026-09-08T07:02:55+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "10752e9ef061",
+    "title": "Googleの自動化ツール「Workspace Studio」とは？　他ツールとの違いと活用法",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001168/",
+    "summary_original": "AIに仕事を手伝わせるだけでなく、仕事そのものを自動化するにはどうすればいいのか。Google Workspace Studioを使った4つの実例から、日々の業務を効率化する具体的な方法を紹介する。",
+    "thumbnail": "",
+    "published": "2026-09-08T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a0419ae06dfb",
+    "title": "中国新興自動車メーカーが取り組むAIアーキテクチャ「LBM」は本流となるか",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/08/news009.html",
+    "summary_original": "近年、中国の新興自動車メーカーを中心に、従来の枠組みとは異なる新たなAIアーキテクチャが台頭しつつある。それが「LBM」である。今回は、このLBMが中国の新興自動車メーカーに限定された一過性の技術潮流にとどまるのか、あるいは将来的に多くの自動車メーカーへと波及していくのかを考察してみたい。",
+    "thumbnail": "",
+    "published": "2026-09-08T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "32d1ac77191d",
+    "title": "デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？",
+    "url": "https://gigazine.net/news/20260908-autistici-inventati-case/",
+    "summary_original": "アメリカ財務省外国資産管理局(OFAC)はイタリアのテクノロジー企業である Autistici/Inventati(A/I Collective)を「特別指定グローバルテロリスト(SDGT)」に指定しました。テロ行為の実行犯だけでなくテロ行為を可能にする技術インフラに対してもテロ対策制裁の対象としたことはA/I Collectiveの猛反発を招くとともに、物質的支援の論理を技術インフラに公然かつ強力に適用する初めての事例として意義と影響が注目されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-08T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "26620ec4517f",
+    "title": "AIによる創薬は実際どこまで進んでいるのか？",
+    "url": "https://gigazine.net/news/20260908-ai-drug-discovery-reality/",
+    "summary_original": "AIは膨大な数の化合物から薬になりそうな候補を探し、創薬にかかる時間や費用を大幅に減らす技術として期待されています。しかし、AIを使った研究成果は相次いでいるものの実際に患者へ届く薬の開発につながっているのかは判然としません。AI創薬に詳しい研究者らがこれまでのAI創薬の進展を検討しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-08T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "731eafc53074",
+    "title": "過去最高の89％がアメリカ政府の腐敗が広範囲に及んでいると回答",
+    "url": "https://gigazine.net/news/20260907-us-government-corruption/",
+    "summary_original": "調査会社のギャラップが実施した調査で、アメリカ人の政府に対する印象が過去20年間で最も悪くなっていることが分かりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-07T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f74f46b1329a",
+    "title": "GPT-6 Astraの3Dモデリング性能を示す作例が続々登場、短い指示でBlenderを巧みに操作して3D作品を作れる",
+    "url": "https://gigazine.net/news/20260907-gpt-6-astra-3d-modeling/",
+    "summary_original": "OpenAIの最先端モデル「GPT-6 Astra」が2026年9月3日に登場しました。GPT-6 Astraは3Dモデリングやゲームエンジンの操作に優れていることがアピールされており、インターネット上にはGPT-6 Astraを用いて作成した3D作品の実例が数多く投稿されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-07T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9706dd136d79",
+    "title": "「動物と人間のコミュニケーション」を実現するためにAIを使うことで動物を搾取したり傷つけたりする危険があるとの指摘",
+    "url": "https://gigazine.net/news/20260907-ai-ethical-dilemma-talk-to-animals/",
+    "summary_original": "AIは人間には処理しきれない大量のデータを分析するのが得意なため、さまざまな科学研究に役立てられています。近年ではAIを使って録音された動物の鳴き声を処理し、動物とのコミュニケーションを実現しようとする試みが進んでいますが、この研究分野にAIを持ち込むことが倫理的懸念を引き起こしていると、海外メディアのBloombergが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-07T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a91b380c0f01",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary_original": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "thumbnail": "",
+    "published": "2026-09-07T19:24:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "44f50551ad02",
+    "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+    "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+    "summary_original": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about \"unsustainable silliness\" in the compute buildout, especially from neo-cloud providers.\nThe article Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk appeared first on The ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/01/openai_anthropic-2.jpeg",
+    "published": "2026-09-07T18:12:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bc7535e2f1a0",
+    "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
+    "url": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+    "summary_original": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is \"the worst model we'll ever get.\"\nThe article GPT-6 Astra beat Portal start to finish without human help in under 24 hours appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/gpt6astra_portal.png",
+    "published": "2026-09-07T17:39:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c8192b0fec70",
+    "title": "独自AI搭載の「国産四足歩行ロボ」、デモ動画を公開　東大発スタートアップのHighlanders",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001223/",
+    "summary_original": "ロボット開発企業のHighlandersは、国産をうたう四足歩行ロボット「HLQ EDGE」を発表した。同日に公開したデモ動画では、段差を昇降する姿などを披露した。",
+    "thumbnail": "",
+    "published": "2026-09-07T16:58:42+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "992552f8f3d7",
+    "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+    "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/",
+    "summary_original": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobile apps and desktop clients aren't included.\nThe article ChatGPT claws back web traffic share to 55.5 percent as Gemini&#039;s brief comeback fades appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/05/chatgpt_website_stats.png",
+    "published": "2026-09-07T16:54:12+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e14e1c693eeb",
+    "title": "AI-designed drug appears to turn back the body's biological clock in early trial",
+    "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+    "summary_original": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group. The trial covered just 42 patients and the drug hasn't been tested in healthy people yet.\nThe article AI-designed drug appears to turn back the body&#039;s biological clock in early trial appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/ai_pill_medicine.png",
+    "published": "2026-09-07T16:34:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dfac1724825f",
+    "title": "生成AIの普及だけじゃない　「デザイン業の倒産」が前年同期比166％増になった意外な理由",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/07/news075.html",
+    "summary_original": "グラフィックデザインやインテリアデザインなど「デザイン業」の倒産が急増している。東京商工リサーチの調査によると、2026年上半期に発生したデザイン業の倒産は40件（前年同期比166.6％増）だった。",
+    "thumbnail": "",
+    "published": "2026-09-07T16:03:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "cc61795e7ebd",
+    "title": "How AI wiped out an entire industry in Nairobi",
+    "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+    "summary_original": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students.\nThe article How AI wiped out an entire industry in Nairobi appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+    "published": "2026-09-07T13:18:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "31c68cc130b0",
+    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/07/JUN.MITTR_.Final_.24.06.17.01.A.jpg?fit=1456,818",
+    "published": "2026-09-07T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "24d8a7aef57b",
+    "title": "Supporting independent journalism in Ukraine",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "summary_original": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "thumbnail": "",
+    "published": "2026-09-07T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3997b3420fb1",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "summary_original": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "thumbnail": "",
+    "published": "2026-09-06T20:47:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c6a48e7fbd07",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "summary_original": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-06T19:36:04-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f33b1fcaa623",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "summary_original": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "thumbnail": "",
+    "published": "2026-09-06T16:45:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "08d94691e993",
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "summary_original": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "thumbnail": "",
+    "published": "2026-09-06T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "2b36e6dbb8e7",
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "summary_original": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "thumbnail": "",
+    "published": "2026-09-06T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
