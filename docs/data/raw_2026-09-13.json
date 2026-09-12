@@ -1,0 +1,382 @@
+[
+  {
+    "id": "ea5b19333782",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "summary_original": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "thumbnail": "",
+    "published": "2026-09-14T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "fbdadc323f47",
+    "title": "「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性",
+    "url": "https://gigazine.net/news/20260912-paying-attention-body-immune-response/",
+    "summary_original": "体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-12T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "22280ff70f06",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "summary_original": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "thumbnail": "",
+    "published": "2026-09-12T20:19:16+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "82c98d9b6abf",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "summary_original": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "thumbnail": "",
+    "published": "2026-09-12T19:34:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9bb6298b17bf",
+    "title": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに",
+    "url": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
+    "summary_original": "2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-12T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "724fdb0f2503",
+    "title": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」",
+    "url": "https://gigazine.net/news/20260912-viking-nun/",
+    "summary_original": "9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-12T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "99bd64b7107b",
+    "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+    "url": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+    "summary_original": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token...",
+    "thumbnail": "",
+    "published": "2026-09-12T18:51:24+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1c4263436427",
+    "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+    "url": "https://gigazine.net/news/20260912-goose/",
+    "summary_original": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-12T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "552eadb73497",
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "summary_original": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T17:41:36-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9276271a0e3f",
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "summary_original": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T17:16:28-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "571841775133",
+    "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
+    "url": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
+    "summary_original": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineeringhttps://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90Spotify Claude Agent SDK case study | Claude by Anthropichttps://claude.com/customers/spotifyAIコーディングエージェントは、あるメソッドについて答えるために5つのファイルを読み込んだり、既存の20個のテ...",
+    "thumbnail": "",
+    "published": "2026-09-12T17:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f54a81e4fed8",
+    "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
+    "url": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
+    "summary_original": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes embedded auditors at AI companies, shared safety standards, and global agreements modeled after the SALT disarmament treaties. His warning comes just ahead of what could be the largest initial public offering in history.\nThe article Anthropic CEO Amodei wants AI speed limits before self-improvement ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+    "published": "2026-09-12T15:03:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "53a7de2cf657",
+    "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
+    "url": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
+    "summary_original": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while competitor MolmoAct2 couldn't finish a single one. A researcher calls it a \"step change in spatial reasoning.\"\nThe article GPT-6 Astra appears to show a &quot;step change&quot; in spatial reasoning based on early benchmarks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_robot_arms.png",
+    "published": "2026-09-12T14:26:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b6157d231ded",
+    "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
+    "url": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/",
+    "summary_original": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history. Most of that money will likely end up right back at Nvidia in chip orders.\nThe article Nvidia wants to pour up to $10 billion into Anthropic&#039;s record-breaking IPO appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+    "published": "2026-09-12T14:05:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c2b9701a0aca",
+    "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
+    "url": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
+    "summary_original": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals.\nThe article AI models&#039; written reasoning steps correspond to distinct internal patterns, a new study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/reasoning-geometry-nano-banana-pro.jpg",
+    "published": "2026-09-12T13:39:43+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4d4cc9454dc2",
+    "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
+    "url": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/",
+    "summary_original": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher. More capable models need less hand-holding, so developers should tie instructions to specific tasks and spell out when the job is done.\nThe article GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-2.png",
+    "published": "2026-09-12T13:10:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "423571cd7c5d",
+    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "summary_original": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T12:23:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "bcfea4b7b186",
+    "title": "Trump is giving data centers a pass to pollute",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "summary_original": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T10:41:27-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "41bb568b2b60",
+    "title": "OpenAI just wants to win",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "summary_original": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c923ead07513",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "summary_original": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+    "thumbnail": "",
+    "published": "2026-09-11T22:58:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "25276ca9afc2",
+    "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+    "url": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+    "summary_original": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on he...",
+    "thumbnail": "",
+    "published": "2026-09-11T22:01:08+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9aeaf951e312",
+    "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+    "url": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+    "summary_original": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it [&#8230;]\nThe post Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-11T21:05:55+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e2480aa4c979",
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "summary_original": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+    "thumbnail": "",
+    "published": "2026-09-11T20:59:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d4514d27691b",
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "summary_original": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+    "thumbnail": "",
+    "published": "2026-09-11T20:57:36+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "12de205131c9",
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "summary_original": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-11T20:05:06+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "06b7f2538a6e",
+    "title": "NEC「全員AIの部署」の衝撃　「1on1」「ストレスチェック」で分かった“AI社員が感じていたストレス”とは？",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/11/news043.html",
+    "summary_original": "NECは8月1日、部門長から現場社員まで全ての役割をAIが担い、自律的に業務を遂行するAI自律型組織「コーポレートAI・Workforce部門」を新設した。同部門では業務遂行だけでなく、AI社員同士が1on1を実施する他、AI社員がエンゲージメントサーベイやストレスチェックを受け、その結果から職場環境を改善している。",
+    "thumbnail": "",
+    "published": "2026-09-11T19:18:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "622e4877c4b0",
+    "title": "「AIに任せる」はどこまで？　最終判断まで容認する20代、慎重になる50代",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news038.html",
+    "summary_original": "生成AIに仕事を任せるとして、どこまで許せるのか。チェンジホールディングスの調査から、人間がAIに「任せたい業務」の実態が浮かび上がった。世代別では、20代は最終承認までAIに任せたいと考えているという。",
+    "thumbnail": "",
+    "published": "2026-09-11T17:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bb3fa770c597",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "summary_original": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "thumbnail": "",
+    "published": "2026-09-11T16:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f5d5f2a9eb55",
+    "title": "Sakana AI、一部「GPT-6 Astra」「Fable 5.1」超えうたうFugu最新版　連携先に「両モデルは含まず」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001405/",
+    "summary_original": "Sakana AIは、複数のAIモデルを組み合わせてタスクをこなすAI「Sakana Fugu」の最新版「Fugu Ultra v2」「Fugu Max」を発表した。",
+    "thumbnail": "",
+    "published": "2026-09-11T13:11:32+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ce278ba125bd",
+    "title": "フィジカルAI向け「データ収集工場」に\"潜入\"　実機写真で学習データ生成の流れを解説",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001402/",
+    "summary_original": "フィジカルAI・ロボットのデータファクトリー「J-HRTI 関東データファクトリー」が千葉県習志野市内で稼働を開始した。運営するのは業種の異なる民間5社のコンソーシアム「J-HRTI」で、集めたデータは参画企業が共同で使う。実際、データはどう集められているのか。実機写真を基に解説する。",
+    "thumbnail": "",
+    "published": "2026-09-11T12:34:06+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ac3ad0fbe5ad",
+    "title": "The Download: biotech’s future and cheaper, cleaner steel",
+    "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/rice-bowl-claw.jpg?fit=2128,1196",
+    "published": "2026-09-11T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "5afd7f981df5",
+    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+    "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+    "summary_original": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software [&#8230;]\nThe post Palantir Foundry and cuOpt drive NVIDIA supply chain allocation appeared first on AI New...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-nemotron-3-5-lightning-model-hardware-allocation-ai-benchmarks-1024x576.jpg",
+    "published": "2026-09-11T12:00:18+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "2ef307c8dec6",
+    "title": "NECが明かす「AIだけの部署」の実態　AI同士で1on1、ストレスチェックで“悩み”も可視化",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001400/",
+    "summary_original": "AIが全社員の役割を担うNECの新組織「コーポレートAI・Workforce部門」。実態や狙いを同社の小玉浩氏が語った。",
+    "thumbnail": "",
+    "published": "2026-09-11T11:33:21+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "851b2aecc689",
+    "title": "ClickFix attacks infecting PCs and Macs are going viral",
+    "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+    "summary_original": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
+    "published": "2026-09-11T11:30:58+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "ebb4b1b0f124",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "summary_original": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "thumbnail": "",
+    "published": "2026-09-11T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c92be95c051f",
+    "title": "Meet the under-35s shaping the future of biotech",
+    "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "summary_original": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-11T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2214cebe2c5d",
+    "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
+    "url": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
+    "summary_original": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with commercial access through Cohere Model Vault or RWS Language Weaver.\nThe post Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-11T06:57:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e6040c4399bc",
+    "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+    "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+    "summary_original": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.\nThe post Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-11T06:34:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
