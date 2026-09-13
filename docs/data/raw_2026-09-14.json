@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ce219a5d59aa",
+    "title": "AI技術を“無料で公開”、なぜ？　米IT業界の文化「オープン化」の裏にしたたかな戦略、日本は追随できるか",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
+    "summary_original": "AI分野で「オープン化」が進んでいる。企業はなぜ、自社技術を無料で公開するのか。そこには、AI企業のしたたかな戦略があった。",
+    "thumbnail": "",
+    "published": "2026-09-14T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6bc1c0b240bc",
+    "title": "「Gemini Notebook」になって何が変わった？　NotebookLMからの変更点をおさらい",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/14/2000001421/",
+    "summary_original": "Googleの「Gemini Notebook」が、資料を読むためのAIから、データ分析や成果物の作成までを任せられるツールへと変わりつつある。NotebookLMから何が変わったのか。2026年の主な機能追加と最新動向を整理する。",
+    "thumbnail": "",
+    "published": "2026-09-14T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "838284d86233",
+    "title": "Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由",
+    "url": "https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/",
+    "summary_original": "eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを表明しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-14T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f63f7bae57a3",
+    "title": "幼児が「頭の中だけで言葉を使う」ようになる時期の目安が日本の研究で判明",
+    "url": "https://gigazine.net/news/20260914-children-inner-speech-development/",
+    "summary_original": "声に出さずに頭の中で言葉を使って考え事をしたり自分に語りかけたりすることを「内言」と言います。筑波大学の研究員である大谷康太氏や助教の桑水隆多氏、京都大学大学院の教授である森口佑介氏らの研究チームが、幼児期にこうした内言がどのように発達するのかを「頭の中で数字を数える課題」を使って調べました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-14T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ea5b19333782",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "summary_original": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "thumbnail": "",
+    "published": "2026-09-14T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "fa1f5a81a17d",
+    "title": "女性は他の女性からの反発を避けるため戦略的に謙虚さを装っている可能性",
+    "url": "https://gigazine.net/news/20260913-women-strategically-use-modesty/",
+    "summary_original": "自分の成功をひけらかさず謙虚にいることは一種の美徳とされていますが、謙虚過ぎると自己アピールの機会を逸し、仕事や学業における成功を妨げてしまう可能性もあります。2026年の研究では、女性は他の女性からの反発を避けるため、戦略的に謙虚さを装っている可能性があることが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-13T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ece8cdf7a70a",
+    "title": "動物・植物・細菌・ウイルスの系統をたどれるインタラクティブな生命の樹「Ptree」",
+    "url": "https://gigazine.net/news/20260913-interactive-tree-of-life-ptree/",
+    "summary_original": "生物の分類をクリックしながらたどり、食性や寿命などいろいろな性質を調べられるウェブサイトが「Ptree」です。地球上の生物のつながりを眺められるインタラクティブな生命の樹を実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-13T22:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "681b258b4542",
+    "title": "SNSのせいで海外のスーパーからイワシの缶詰が消えている",
+    "url": "https://gigazine.net/news/20260913-sardines-vanishing/",
+    "summary_original": "SNSの影響でイワシの缶詰が人気を高めており、深刻な海洋環境問題と重なって、スーパーの棚からイワシの缶詰が姿を消しつつあるとアパレルや美容業界のメディアであるCorner of Fifthが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-13T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "385a2a6e08d1",
+    "title": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
+    "url": "https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/",
+    "summary_original": "In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeRF) using JAX, Flax, Optax, and the volume-rendering primitives provided by jax3d. We first construct a synthetic multi-view dataset from an analytic scene containing volumetric geometry and view-dependent radiance, using sample_along_rays and volume_rendering to establish the forward rendering process. We then implement a NeRF [&#8230;]\nThe post Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthe...",
+    "thumbnail": "",
+    "published": "2026-09-13T19:46:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "423bcba40c75",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "summary_original": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "thumbnail": "",
+    "published": "2026-09-13T19:40:15+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "88af90513363",
+    "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
+    "url": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
+    "summary_original": "Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference tied configuration uses 48 encoder and 48 decoder layers, executing 96 logical blocks per token while the state path grows to 48t decoder blocks after t tokens. The design also specifies hardware-aware ...",
+    "thumbnail": "",
+    "published": "2026-09-13T17:02:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6b54256d4afb",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "summary_original": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "thumbnail": "",
+    "published": "2026-09-13T16:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1d273e458a46",
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "summary_original": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-13T15:41:48-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "640d7f5b75ac",
+    "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+    "url": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
+    "summary_original": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music.\nThe article Elevenlabs makes Music v2.5 available via app and API with free and pro tier options appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/elevenlabs_music_25.png",
+    "published": "2026-09-13T13:40:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0ba8780514ec",
+    "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+    "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+    "summary_original": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work.\nThe article Iris-mini and Iris-pro are the strongest open-weight search agents in their class appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/search-agents-allspark-nano-banana-pro.jpg",
+    "published": "2026-09-13T12:58:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1666d825a24f",
+    "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+    "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
+    "summary_original": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people.\nThe article GPT-6 Astra pilots a surveillance drone and runs a business on its own appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_drone_gpt6_astra.png",
+    "published": "2026-09-13T10:52:16+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8ce0f109230f",
+    "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+    "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
+    "summary_original": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good.\nThe article Two-year university study finds banning AI from classrooms leaves students worse off appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/ai-classroom-law-students-nano-banana-pro.jpg",
+    "published": "2026-09-13T09:27:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3efd8426e7e5",
+    "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+    "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
+    "summary_original": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns.\nThe article Altman, Musk, and Hassabis back Amodei&#039;s call to add independent oversight appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/RSI_recursive_self_improvement.png",
+    "published": "2026-09-13T08:53:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d0e6322ed5fa",
+    "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
+    "url": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
+    "summary_original": "Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers.\nThe post AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-13T08:10:51+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4a1b1a043868",
+    "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開　アルトマン氏とマスク氏も賛同",
+    "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+    "summary_original": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
+    "thumbnail": "",
+    "published": "2026-09-13T08:06:11+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a3c7f21b1e25",
+    "title": "「AIコーディングより人を雇う方が安い」時代が来る？　生成AIの予算超過を防ぐトークン浪費対策の全て",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
+    "summary_original": "生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませています。なぜ浪費が起こるのか、その原因と、現場で取り組める対策を5本の記事から探ります。",
+    "thumbnail": "",
+    "published": "2026-09-13T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "29235f456685",
+    "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+    "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/",
+    "summary_original": "A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon Bedrock AgentCore, plus an interactive simulator that shows a 200K window filling up.\nThe post Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks appeared ...",
+    "thumbnail": "",
+    "published": "2026-09-13T05:56:03+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fb5969d5afdc",
+    "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
+    "url": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
+    "summary_original": "This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP\nThe post Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clu...",
+    "thumbnail": "",
+    "published": "2026-09-13T01:42:58+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "22280ff70f06",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "summary_original": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "thumbnail": "",
+    "published": "2026-09-12T20:19:16+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "82c98d9b6abf",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "summary_original": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "thumbnail": "",
+    "published": "2026-09-12T19:34:44+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "552eadb73497",
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "summary_original": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T17:41:36-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9276271a0e3f",
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "summary_original": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T17:16:28-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "423571cd7c5d",
+    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "summary_original": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T12:23:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "bcfea4b7b186",
+    "title": "Trump is giving data centers a pass to pollute",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "summary_original": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-12T10:41:27-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c923ead07513",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "summary_original": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+    "thumbnail": "",
+    "published": "2026-09-11T22:58:17+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  }
+]
