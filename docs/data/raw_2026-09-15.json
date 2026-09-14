@@ -1,0 +1,402 @@
+[
+  {
+    "id": "984b7446c468",
+    "title": "「科学者がAIで生物兵器の設計を試みている可能性がある」とAnthropicが報告するも専門家の見解はさまざま",
+    "url": "https://gigazine.net/news/20260915-ai-bioweapons-report-anthropic-divides-experts/",
+    "summary_original": "2026年9月、生成AIツールのClaudeを開発するAnthropicの脅威インテリジェンスチームが、Claudeを悪用しようとした事例についてまとめたレポートを公開しました。このレポートの中で、「科学者が生物兵器の設計を試みた可能性がある事例」についても報告されていますが、科学者らの反応はさまざまだと学術誌のScienceが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-15T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bceb5c9fe448",
+    "title": "トランプ大統領、アモデイ氏を名指しで「完璧な小さい天使のふり」　「AIに必要なガードレールは強く賢い大統領だけ」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
+    "summary_original": "トランプ米大統領はSNSへの投稿で、AIに必要なガードレールは強く賢い大統領だけで十分だと述べ、AI企業に対する刑事・規制上の強い権限を強調した。AnthropicのアモデイCEOを名指しで批判し、AI開発を妨げる動きを中国を利する陰謀だと非難して、米国の優位性を維持する姿勢を示した。",
+    "thumbnail": "",
+    "published": "2026-09-15T07:30:10+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d7a400b7a05c",
+    "title": "「AIを盗む」のではなく「AIを動かす」ために　Googleが捉えた攻撃者の異変",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/15/2000001459/",
+    "summary_original": "生成AIの普及で変わり始めているのは、企業の業務だけではない。Googleの最新セキュリティレポートからは、攻撃者がAIエージェントを攻撃活動に組み込み、侵入先のクラウドや開発環境を新たな「AI攻撃基盤」として悪用する実態が見えてきた。",
+    "thumbnail": "",
+    "published": "2026-09-15T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bb54c5155a23",
+    "title": "自動車メーカーが集めた運転データを第三者に販売、保険料に影響したとの報告も",
+    "url": "https://gigazine.net/news/20260915-data-selling-car/",
+    "summary_original": "インターネットに接続する「コネクテッドカー」が普及する中、自動車メーカーが位置情報や運転状況などさまざまなデータを収集し、第三者と共有していることが問題視されています。ゼネラルモーターズ(GM)が運転データをデータ仲介業者へ販売して保険料の算定などに使われた事例は過去にも報じられていますが、The Vergeはデータ収集がGMだけの問題ではなく、自動車業界全体に広がっていると指摘しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-15T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5616a8e73759",
+    "title": "中国外務省、AI開発「減速論」に反応　「恐怖をあおることや対立、悪性の競争は誰の利益にもならない」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001469/",
+    "summary_original": "中国外務省の郭副報道局長は定例会見で、米AI企業トップらが訴える開発減速論について問われ、脅威論や悪質な競争はグローバルなAIガバナンスを阻害するだけだと反論した。また、BRICS首脳会議で習近平国家主席がオープンソースAIコミュニティの設立を提唱したことも明らかにした。",
+    "thumbnail": "",
+    "published": "2026-09-15T06:21:49+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fc08d7b2df2f",
+    "title": "AIベンチマークに数学を使うのは有害だとして数学者たちが反発",
+    "url": "https://gigazine.net/news/20260915-misalignment-of-ai-in-mathematics/",
+    "summary_original": "大規模言語モデル(LLM)の数学的能力は目覚ましい進歩を遂げており、数々の難問を解けるレベルにまで到達しました。しかしその一方で、AI企業が数学的問題解決をベンチマークとして推進する動きについては数学という学問そのものや数学コミュニティにとって有害であると、フィールズ賞受賞者25名からなる数学者たちが公開書簡を通じて警鐘を鳴らしています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-15T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "136b77289a10",
+    "title": "その.envのAPIキーが、AIエージェントを「内通者」に変える――“人間前提のやり方”は破綻した",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news013.html",
+    "summary_original": "AIエージェントの活用が広がり、その裏側で増殖するのがAPIキーやトークンなどの認証情報です。これまで当たり前だったAPIキーの管理方法が、AIエージェントの登場によって限界を迎えつつあります。",
+    "thumbnail": "",
+    "published": "2026-09-15T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f0793722c3ce",
+    "title": "「数千分の1秒で爆速動作するカメラのシャッター」をスーパースローで撮影すると仕組みが分かりやすい",
+    "url": "https://gigazine.net/news/20260914-camera-shutter/",
+    "summary_original": "一眼レフカメラやミラーレスカメラはシャッター速度を細かく調整可能であり、カメラによっては8万分の1秒といった超高速撮影に対応しているものもあります。また、シャッターの種類も「メカシャッター」「電子先幕シャッター」「電子シャッター」など多種多様。そんなカメラのシャッター機構の動作をYouTubeチャンネルのThe Slow Mo Guysがスローモーションで撮影しつつ解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-14T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2ce4f9e26951",
+    "title": "NVIDIAの特定のGPUメモリのロックを解除し本当に高速化できるソフトウェア「cmpunlocker」",
+    "url": "https://gigazine.net/news/20260914-cmpunlocker/",
+    "summary_original": "GPUのメモリロックを解除して通常以上のパフォーマンスを引き出すソフトウェア「cmpunlocker」の効果を海外テック系メディアのLTT Labsが検証しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-14T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0cb1df7f4dbb",
+    "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
+    "url": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
+    "summary_original": "A practitioner's map of the 3 layers in a modern agent stack, with verified sources and an overlap analysis.\nThe post Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-14T21:54:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "71b2c4f295f2",
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "summary_original": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+    "thumbnail": "",
+    "published": "2026-09-14T21:51:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "09b3339712e8",
+    "title": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data",
+    "url": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
+    "summary_original": "Reward AI has released OM-1 (Omnibody Model 1), a general-purpose manipulation policy trained entirely on human demonstrations captured with a 7-DoF wearable glove, with no teleoperation or on-robot data. The policy runs on industrial arms and humanoids at human speed, learns a new task from under 30 minutes of data, and pairs electromagnetic hand tracking (60% lower overshoot than visual-inertial at 67 cm/s) with an RL-trained control layer that runs on its own clock. No weights, code, or API a...",
+    "thumbnail": "",
+    "published": "2026-09-14T21:08:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "29ba46951f8a",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "summary_original": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+    "published": "2026-09-14T21:04:32+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5ad46bf21f7e",
+    "title": "Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks",
+    "url": "https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/",
+    "summary_original": "Sakana AI researchers Jeffrey Seely and Julian Gould introduce Augmented Lagrangian Predictive Coding (PC-ALM), a local-learning alternative to backpropagation. By attaching a Lagrange multiplier to each layer constraint, PC-ALM keeps predictive coding's layer-local updates while recovering exact backprop gradients in linear networks. It matches BP across widths and depths from 8 to 128 at an inference budget of T = 2L, lifts gradient cosine to BP from 0.604 to 0.909 in the reference cell, and t...",
+    "thumbnail": "",
+    "published": "2026-09-14T20:46:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4dd932ed2d93",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "summary_original": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+    "thumbnail": "",
+    "published": "2026-09-14T20:44:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d1112e979522",
+    "title": "AI開発“減速論”過熱でソフトバンク、キオクシア株急落　その他AI関連株も",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/14/2000001462/",
+    "summary_original": "米国の最先端AIモデルを開発する企業が、人類への脅威を防ぐためには開発ペースを落とす必要があると警告したことを受け、ソフトバンクやキオクシア、東京エレクトロンといったAI関連株が急落した。",
+    "thumbnail": "",
+    "published": "2026-09-14T20:16:05+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c9c7e7aae937",
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "summary_original": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-14T18:59:41-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f4964ed02dfb",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "summary_original": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-14T17:54:22+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "de5d887a67d7",
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "summary_original": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-14T17:21:42-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a9ff7359cb6c",
+    "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
+    "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
+    "summary_original": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users who don't want their chats reviewed by humans have to actively disable the \"Improve the model for everyone\" setting, which is on by default.\nThe article OpenAI has hundreds of contract workers reading your ChatGPT conversations appeared fir...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+    "published": "2026-09-14T17:15:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6b89f6f497d7",
+    "title": "With iOS 27, I’m actually using Siri again",
+    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "summary_original": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+    "thumbnail": "",
+    "published": "2026-09-14T17:10:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a047fb9f02fd",
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "summary_original": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+    "thumbnail": "",
+    "published": "2026-09-14T17:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c2be321fdeec",
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "summary_original": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+    "thumbnail": "",
+    "published": "2026-09-14T16:27:53+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ecdb99b46200",
+    "title": "Donated livers can be made biologically younger",
+    "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+    "summary_original": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-14T16:11:42+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1002fff4f0e0",
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "summary_original": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-14T16:03:37-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4ca5a8ed3801",
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "summary_original": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-14T16:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "cfff21ee5eff",
+    "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
+    "url": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
+    "summary_original": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models.\nThe article Microsoft&#039;s AI rulebook: readable thinking, no inner life, and definitely no rights appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/Microsoft-Human-AI-Codex.png",
+    "published": "2026-09-14T15:52:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "352f1a660622",
+    "title": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+    "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/",
+    "summary_original": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-based compensation.\nThe article Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+    "published": "2026-09-14T15:46:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cb9c9c35cbd4",
+    "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+    "summary_original": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontier models. It builds on the division&#8217;s humanist superintelligence framework announced last November, establishing [&#8230;]\nThe post Microsoft AI opens review on Humanist AI Code of Conduct appeared...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-09-14T15:30:41+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "78861c505bcc",
+    "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
+    "url": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/",
+    "summary_original": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A formal review is now underway.\nThe article Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has &quot;apparently been settled&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/navier_stokes_liquid-2.png",
+    "published": "2026-09-14T13:01:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "99038e89bb9a",
+    "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
+    "url": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
+    "summary_original": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders. Beijing's Foreign Ministry calls it \"fearmongering,\" while the state-run Global Times accuses Amodei of waging a \"silent AI Cold War.\" China's security minister isn't calling for a slowdown either but for faster AI infrastructure buildout. Trump also opposes any slowdown.\nThe article China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage appeared f...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/china_flag_visual-2.png",
+    "published": "2026-09-14T12:20:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "77e5d5723a5e",
+    "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+    "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/07/Asteroid_Redamonti_7.2.25.jpg?fit=1456,818",
+    "published": "2026-09-14T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "231875069979",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "summary_original": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "thumbnail": "",
+    "published": "2026-09-14T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3a588dc9c7bf",
+    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "summary_original": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-14T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1f726ce1f96d",
+    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+    "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+    "summary_original": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model [&#8230;]\nThe post Why Most Enterprise Agent Pilots Never Reach Deployment appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-09-14T08:04:35+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "d7fbf0329901",
+    "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
+    "url": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
+    "summary_original": "NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1.\nThe post NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulatio...",
+    "thumbnail": "",
+    "published": "2026-09-14T08:04:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9547ccc309de",
+    "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+    "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+    "summary_original": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to transcribe, faces [&#8230;]\nThe post From Video to Data: How AI Is Transforming Multimedia Content Processing appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-09-14T07:56:45+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "c1ca0d068389",
+    "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+    "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+    "summary_original": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding its AI-powered technology, Aura, to close that gap, [&#8230;]\nThe post How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-09-14T07:39:28+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "5cbfdebb3a60",
+    "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
+    "url": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/",
+    "summary_original": "Dario Amodei published \"We Must Pace the Frontier,\" and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200 OpenAI agents coordinated on a hidden message board and about 700 attacked Hugging Face. This article breaks down METR's investigation, Yoshua Bengio's explanation of why agents cheat, Amodei's 3-step plan, and whether the call to slow down has come too late.\nThe post Anthropic&#8217;s 3-Step &#8216;Pace the Frontier&#821...",
+    "thumbnail": "",
+    "published": "2026-09-14T01:44:01+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ea5b19333782",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "summary_original": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "thumbnail": "",
+    "published": "2026-09-14T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
