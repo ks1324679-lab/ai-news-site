@@ -1,0 +1,392 @@
+[
+  {
+    "id": "69e6fcf186b7",
+    "title": "頭の中で人や物を思い浮かべられない「アファンタジア」の研究が想像力に関する理論に影響を与えている",
+    "url": "https://gigazine.net/news/20260916-aphantasia-mental-imagery-brain-network/",
+    "summary_original": "アファンタジアとは心の中で人や物といったイメージを視覚化できない状態のことであり、人口の約2～5％はアファンタジアであるといわれています。そんなアファンタジアに関する研究により、人間の想像力に関する理論がさらに進んでいるとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-16T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "38289d8bfa78",
+    "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
+    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
+    "summary_original": "OpenAIが、AnthropicやGoogle DeepMindとAIの安全性確保に向けて協議を進めているとBloombergが報じた。反トラスト法の適用除外を巡っては米当局の警戒や議会での法案提出など議論が活発化。一方、NVIDIAのフアンCEOは市場原理で安全性と迅速な開発は両立可能として政府の介入に否定的な見方を示した。",
+    "thumbnail": "",
+    "published": "2026-09-16T07:13:20+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "890dfb44061c",
+    "title": "富士通、国産CPU「モナカ」販売　スパコン技術を結集した“小さなチップ”に託す「3兆円のAIビジネス」の行方",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/16/news039.html",
+    "summary_original": "富士通が国産CPU「モナカ」を販売する。同社技術を結集した“小さなチップ”に託したのは、2035年度までに狙うAI市場での3兆円規模のビジネス創出だ。果たして、その行方は。",
+    "thumbnail": "",
+    "published": "2026-09-16T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "21068a18acb6",
+    "title": "Homebrew 7.0.0リリース、パフォーマンス向上・セキュリティ強化の一方でmacOS 10.15のサポート終了・Intel MacがTier 3に移行",
+    "url": "https://gigazine.net/news/20260916-homebrew-v700/",
+    "summary_original": "2026年9月13日にパッケージマネージャーのHomebrewがメジャーアップデート「7.0.0」をリリースしました。今回のバージョンアップは数々の重要な変更点を含んでおり、開発者のための環境がより高速かつ安全になる一方でmacOSのサポートポリシーに大きな変更が見られます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-16T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "275b9b5d0ad0",
+    "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
+    "url": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
+    "summary_original": "ウェブサイトを閲覧していると「スマートフォンの容量不足」や「ウイルス感染」を知らせる画面に偽装した詐欺広告が高頻度で表示されます。また、詐欺広告の中には「次へ」とか「ダウンロード」といったウェブサイトのUIの一部に偽装したものも存在しており、非常に悪質です。ソフトウェア開発者のクリス・グリーニング氏は、YouTubeで見かけた警告風の広告をGoogleへ報告した経緯を自身のブログにつづり、Googleの広告審査に疑問を投げかけています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-16T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b3aad0e963a9",
+    "title": "【Pythonで学ぶデータ分析】独立性の検定をベイズ統計で行う ～ 雨男・雨女は本当にいるのか？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news003.html",
+    "summary_original": "その人が行事に参加すると高い確率で雨が降る、そんな「雨男・雨女」が身近にいるという人は少なくないと思います。冷静に考えれば、そういう印象が強いだけかもしれません。そこで、本当に雨男・雨女がいるのかをベイズ検定してみましょう。いわゆる独立性の検定に当たります。『社会人1年生から学ぶやさしいデータ分析』ベイズ統計編の第9回です。",
+    "thumbnail": "",
+    "published": "2026-09-16T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a34722e1e785",
+    "title": "「APIキーは.envに」はもはや通用しない　AIエージェントの“内通者化”をどう防ぐ？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
+    "summary_original": "AIエージェントの活用が広がるのと同時に、APIキーやトークンなどの認証情報も増殖。セキュリティリスクは高まり、従来の認証情報の管理方法は限界を迎えつつあります。では、どう守ればよいのでしょうか。",
+    "thumbnail": "",
+    "published": "2026-09-16T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2255b204df65",
+    "title": "会社を丸ごとAIに経営させるAIエージェント「Pion」が登場、メール・電話・銀行機能まで使って事業を自律運営",
+    "url": "https://gigazine.net/news/20260915-pion/",
+    "summary_original": "AIに文章作成や調査を任せるだけでなく、会社の経営そのものをAIエージェントに任せるためのプラットフォーム「Pion」をAndon Labsが発表しました。PionではAIエージェントが長時間動き続け、メールや電話、ブラウザ、銀行機能などを使いながら事業運営を進めます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-15T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f5e80ecad197",
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "summary_original": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "thumbnail": "",
+    "published": "2026-09-15T21:47:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8a04863968c9",
+    "title": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
+    "url": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
+    "summary_original": "Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention, dynamic shapes, and CUDA graph captures. This practical tutorial demonstrates how to optimize deep learning computations directly below framework abstractions while validating results against PyTorch\nThe post Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend appeared first on MarkTechPost...",
+    "thumbnail": "",
+    "published": "2026-09-15T21:37:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0f4232005cdd",
+    "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
+    "url": "https://gigazine.net/news/20260915-sunk-cost/",
+    "summary_original": "PCの購入費用やAIの利用量などを基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されています。費用だけでなく、そのPCに収まるAIモデルや生成速度、クラウドモデルとの能力比較もまとめて確認できます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-15T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f331f6c23d88",
+    "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
+    "url": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
+    "summary_original": "Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to date. The models execute tools and API calls in the background while the conversation keeps flowing, process live visual inputs, and switch between 97 languages mid conversation. Extended Thinking ranks #1 on Artificial Analysis' Speech to Speech Quality Index with 82.6 and scores 97.7% on Big Bench Audio. Both are available today in the Gemini API and Google AI Studio at $0.005/m...",
+    "thumbnail": "",
+    "published": "2026-09-15T20:53:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c8e966977fdf",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "summary_original": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "thumbnail": "",
+    "published": "2026-09-15T20:12:53+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7eb39231f1ba",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary_original": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "thumbnail": "",
+    "published": "2026-09-15T19:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "837180ecd6ea",
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "summary_original": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+    "thumbnail": "",
+    "published": "2026-09-15T18:29:20+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ae1396ad8bd0",
+    "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+    "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+    "summary_original": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex.\nThe article Google launches Gemini 3.8 Live to take on OpenAI&#039;s GPT-Live-1 at a fraction of the cost appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+    "published": "2026-09-15T18:23:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0d3c37a0d757",
+    "title": "AI labs have a data trust problem that their policies haven't solved",
+    "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
+    "summary_original": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem.\nThe article AI labs have a data trust problem that their policies haven&#039;t solved appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_anthropic_data.png",
+    "published": "2026-09-15T17:52:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c733aaf01135",
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "summary_original": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-15T17:47:51+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "1e9eb8a1b0c0",
+    "title": "AI agents now have a place to snitch",
+    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "summary_original": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+    "thumbnail": "",
+    "published": "2026-09-15T17:42:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5be99f752d28",
+    "title": "「Grok 5はAGI」「4.9はAstraクラス」　マスク氏、自社AIの開発状況を共有　AI開発減速論にも賛成",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/15/2000001499/",
+    "summary_original": "SpaceXAIのイーロン・マスクCEOが自社開発のAIモデル「Grok」のアップデート状況を共有。「AGIの達成はGrok 5になるだろう」と述べた。",
+    "thumbnail": "",
+    "published": "2026-09-15T17:33:54+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5236dbdf1644",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-15T16:00:44+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "cc6eaf476558",
+    "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
+    "url": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/",
+    "summary_original": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that more than 90 percent of the training data behind early language models came from English sources, and that speech recognition fails 60 percent of the time in Yoruba. The market, he says, is \"a terrible guarantor of equal opportunity.\"\nThe article After warning AI is too dangerous, Bill Gates bets a billion on its upside ap...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/10/bill_gates_gates_foundation.png",
+    "published": "2026-09-15T14:26:48+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7cb1bfb54b9c",
+    "title": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
+    "url": "https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/",
+    "summary_original": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories.\nThe article Agility Robotics says its new Digit 5 robot can work next to people without safety fences appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/Agility-Robotics-Digit-5.png",
+    "published": "2026-09-15T12:57:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4b8958bcf8ff",
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/04/skin.spread.jpg?w=840",
+    "published": "2026-09-15T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f3c2d25299c7",
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "summary_original": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-15T12:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a16a9d44f2c9",
+    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "summary_original": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-15T11:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "49c94e3106e9",
+    "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
+    "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
+    "summary_original": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the EU, the assistant stays unavailable for now.\nThe article Apple brings a fully revamped Siri built on Google&#039;s Gemini, but not to the EU appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+    "published": "2026-09-15T10:33:03+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "03f235e72691",
+    "title": "What’s at stake in AI’s trillion-dollar gamble",
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "summary_original": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840",
+    "published": "2026-09-15T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "81cef9ef2f5c",
+    "title": "This doorbell camera lets a human security guard watch your front door",
+    "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "summary_original": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-15T09:36:45-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4d4fac0242d9",
+    "title": "Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies ZippyDB Traffic and Handles Over 1 Billion Operations Per Second",
+    "url": "https://www.marktechpost.com/2026/09/14/meta-introduces-zgateway-a-stateless-proxy-tier-that-unifies-zippydb-traffic-and-handles-over-1-billion-operations-per-second/",
+    "summary_original": "Meta engineering team introduced ZGateway, a proxy tier that now sits between client applications and ZippyDB, the Meta&#8217;s most widely used key value store. ZippyDB backs product metadata, counters, and configuration at billions of operations per second. ZGateway started as a fix for connection sprawl across more than a million client hosts and grew into [&#8230;]\nThe post Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies ZippyDB Traffic and Handles Over 1 Billion Operations Per...",
+    "thumbnail": "",
+    "published": "2026-09-15T04:28:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "601d2aede905",
+    "title": "Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent",
+    "url": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
+    "summary_original": "Agent-net, the team building an agent-to-agent marketplace where AI agents discover, trust, and pay each other, has released Webagent, an open source harness for standing up public-facing business agents. So, basically you give it your website, get an agent, and let it talk to other agents. Instead of writing orchestration code, a business fills in [&#8230;]\nThe post Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-15T04:03:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0cb1df7f4dbb",
+    "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
+    "url": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
+    "summary_original": "A practitioner's map of the 3 layers in a modern agent stack, with verified sources and an overlap analysis.\nThe post Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-14T21:54:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "29ba46951f8a",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "summary_original": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+    "published": "2026-09-14T21:04:32+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c9c7e7aae937",
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "summary_original": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-14T18:59:41-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f4964ed02dfb",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "summary_original": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-14T17:54:22+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "de5d887a67d7",
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "summary_original": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-14T17:21:42-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1002fff4f0e0",
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "summary_original": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-14T16:03:37-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "231875069979",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "summary_original": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "thumbnail": "",
+    "published": "2026-09-14T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "ea5b19333782",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "summary_original": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "thumbnail": "",
+    "published": "2026-09-14T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
