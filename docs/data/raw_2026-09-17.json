@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ae2d285863d9",
+    "title": "NVIDIAはAIの中央銀行と化している",
+    "url": "https://gigazine.net/news/20260917-nvidia-central-bank-ai/",
+    "summary_original": "AIを支える半導体の多くを供給するのは、アメリカの半導体企業であるNVIDIAです。AIの普及に伴いNVIDIAの時価総額は上昇し続けており、2025年10月には世界で初めて5兆ドル(約780兆円)に到達しています。そんなNVIDIAが「AIの中央銀行と化している」と経済メディアのThe Economistが報じました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-17T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ad48ba09a697",
+    "title": "体が大きすぎて自分で卵を温められない恐竜はどうやって卵を温めていたのか？",
+    "url": "https://gigazine.net/news/20260917-dinosaurs-strategy-kept-eggs-warm/",
+    "summary_original": "古代の地球に生息していた恐竜は爬虫(はちゅう)類や鳥類などと同様に卵生であり、「ふ化する前の卵を抱く恐竜の化石」も見つかっています。新たに、筑波大学の古生物学者である田中康平准教授らの研究チームが、「大きすぎて自分で卵を温められない恐竜」が卵を温める方法に関する研究結果を報告しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-17T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4b80805cf373",
+    "title": "国産汎用ロボットによるフィジカルAIのデータ収集で7社が競う、試作機を披露",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/17/news053.html",
+    "summary_original": "AIRoA（AIロボット協会）は、「フィジカル AI Summit」において、「国産汎用ロボット開発コンペティション」に参加する7社のロボットの試作機を公開した。",
+    "thumbnail": "",
+    "published": "2026-09-17T06:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8fbe1a4d19f6",
+    "title": "Claude Fable 5.1が370年前の未解読暗号「Cyphral Distich」を1日足らずで解読",
+    "url": "https://gigazine.net/news/20260917-fable-solves-cyphral-distich/",
+    "summary_original": "AIモデル「Claude Fable 5.1」が370年以上未解読とされてきた謎の暗号「Cyphral Distich」をわずか1日足らずで解読したというニュースが飛び込んできました。1899年に「Notes and Queries」誌で未解決問題として提示されて以来、「Cyphral Distich」は多くの暗号研究者たちの挑戦を退けてきた難問でした。AIが具体的にどのようにして暗号を解読したかについて、AI研究者のゲビー・ジャフ氏がブログにて語っています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-17T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2a3541c3a9dc",
+    "title": "AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作",
+    "url": "https://gigazine.net/news/20260916-hermes-agent-local-ai-model/",
+    "summary_original": "Hermes Agentでは以前からOllamaやllama.cppなどで起動したローカルAIモデルを利用できましたが、2026年9月上旬のアップデートでHermes Agent自身がllama.cppやモデルのダウンロード・管理まで行う「Local Models」機能が利用可能になりました。今回はLocal Models機能を使ってローカルでAIモデルを実行してみます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-16T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5084536e0a96",
+    "title": "AIで作ったアプリをUIもデータも単一ファイルで持ち運べる無料ツール「Capsule」、クラウド不要で完全オフラインで動作",
+    "url": "https://gigazine.net/news/20260916-capsule/",
+    "summary_original": "アプリの操作画面や画像、保存データを1つのファイルにまとめ、文書のように持ち運べる無料ツール「Capsule」が公開されています。クラウドやアカウント登録を必要とせず、オフラインで利用できることが特徴です。Windows・macOS・Linux向けに提供されており、Android・iOSへの対応も予定されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-16T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9eedbb9bc86c",
+    "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
+    "url": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
+    "summary_original": "Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers.\nThe post Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-16T21:59:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ad0d4d4afaeb",
+    "title": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
+    "url": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
+    "summary_original": "GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans.\nThe post Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-16T21:19:32+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "70dc48d4cb0a",
+    "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+    "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+    "summary_original": "Group plans to be largely out of commission for several weeks.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg",
+    "published": "2026-09-16T21:08:14+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a4f0cae5cc3a",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "summary_original": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "thumbnail": "",
+    "published": "2026-09-16T21:07:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "303e2dc324c9",
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "summary_original": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+    "thumbnail": "",
+    "published": "2026-09-16T20:12:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "429697225fc7",
+    "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+    "url": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+    "summary_original": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks.\nThe article EU president warns AI agents &quot;escaping their environment&quot; are just a preview of what&#039;s coming appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/europe_EU_logo.png",
+    "published": "2026-09-16T19:02:25+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f60a2a4ca838",
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "summary_original": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+    "thumbnail": "",
+    "published": "2026-09-16T18:25:25+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2bf99614662a",
+    "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
+    "url": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/",
+    "summary_original": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029. Apple is considering Nvidia's NVLink Fusion technology to connect the chips. The project could get a boost from OpenAI and Anthropic already buying Mac hardware in bulk for AI workloads.\nThe article Apple is reportedly building an enterprise AI server with its own M8 Ultra chips appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+    "published": "2026-09-16T18:16:27+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d2a6bbd47a2f",
+    "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
+    "url": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/",
+    "summary_original": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the institute tackles questions around safety, governance, and control risks, drawing on experts from the arts, humanities, and policy alongside technologists.\nThe article Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/google_deepmind-scaled.png",
+    "published": "2026-09-16T17:00:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1be7a08560a9",
+    "title": "Our framework for reporting model misalignment",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "summary_original": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "thumbnail": "",
+    "published": "2026-09-16T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "eb823604160e",
+    "title": "Your AI agents can now control your Google Home devices",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "summary_original": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+    "thumbnail": "",
+    "published": "2026-09-16T17:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "efc22ce7bbb0",
+    "title": "北海道、データセンター事業者向けの「お願い」表明　AI向けに立地推進の裏で懸念も",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/16/2000001552/",
+    "summary_original": "北海道は「データセンター立地に関する道の考え」を公開。事業者に対して、脱炭素や省エネなどを実現する技術の積極採用や、建設する地域との「共生」を求めている。",
+    "thumbnail": "",
+    "published": "2026-09-16T16:51:29+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "418dbc769c8c",
+    "title": "The AI data center e-waste problem is huge — and getting bigger",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "summary_original": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than previous studies have [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-16T16:40:46-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ca5f2e882cbc",
+    "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
+    "url": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/",
+    "summary_original": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow. The update also adds Claude Docs and Claude Slides for creating documents and presentations directly in the chat. Pro and Max users get access first.\nThe article Anthropic merges Claude Chat, Cowork, and more into a single product appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+    "published": "2026-09-16T16:31:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b4b0475ed0c8",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "summary_original": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+    "thumbnail": "",
+    "published": "2026-09-16T16:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2c7667f6e80a",
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "summary_original": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "thumbnail": "",
+    "published": "2026-09-16T16:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "48e6c64d3626",
+    "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+    "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
+    "summary_original": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach doesn't protect against mistakes, though. The system only guarantees that it will stick strictly to the preset options.\nThe article Former OpenAI researcher builds an AI model that judges options instead of w...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/TypeSafe-AI.png",
+    "published": "2026-09-16T15:19:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bb25cc83b84b",
+    "title": "Meet a mouse whose brain cortex is made up of human cells",
+    "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "summary_original": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-16T15:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2bd2b9c337d2",
+    "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+    "summary_original": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic&#8217;s January 2026 constitution, a primary training document designed to govern the model&#8217;s values and behaviour. He argued that coaching sequence completion engines to emulate sentience impairs [&#8230;]\nThe post Microsoft AI CEO criticises Anthropic over model ‘rights’ appeared first on AI News...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-09-16T14:47:32+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "59690b794e99",
+    "title": "MetaのザッカーバーグCEO、AIの協調減速論に「各社が自ら動けばいい」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001540/",
+    "summary_original": "MetaのザッカーバーグCEOは、AIの安全性向上について各社が自らの責任とペースで個別に取り組むべきだとの立場を表明した。業界全体の足並みを揃える協調論とは距離を置き、適切なアライメントの確保や外部評価者の導入は市場競争や法的責任を通じて自然に進むとし、権力の分散こそが安全の基礎と訴えた。",
+    "thumbnail": "",
+    "published": "2026-09-16T13:59:40+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f264730b5d7c",
+    "title": "GMOの“有料AIでも東大生なら無料”、なぜ？　同社の回答は",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/15/2000001473/",
+    "summary_original": "GMOインターネットグループのGMO天秤AIは、東京大学発行のメールアドレスを持つ学生にAIを無料提供すると発表。なぜ提供先として東京大学を選んだのか。同社に取材した。",
+    "thumbnail": "",
+    "published": "2026-09-16T13:50:55+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bdc341c04479",
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "summary_original": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-16T13:20:29-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "45384c84a9f2",
+    "title": "Google will now let any AI agent run your smart home",
+    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "summary_original": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-16T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d2e2a131de12",
+    "title": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "summary_original": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "thumbnail": "",
+    "published": "2026-09-16T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c81fa26a50d6",
+    "title": "Building the materials foundation for AI",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "summary_original": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-16T12:47:34+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "25ccc59e06a2",
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+    "summary_original": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-16T12:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "49e7531befe2",
+    "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+    "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/golden-shield-3-top.jpg?fit=19998,746",
+    "published": "2026-09-16T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ddf43229688c",
+    "title": "How to connect AI usage to business value",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "summary_original": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "thumbnail": "",
+    "published": "2026-09-16T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "fd9d0970f976",
+    "title": "Meta、InstagramやFacebook横断の新サブスク「Meta One」発表　AI枠拡大で月額949円から",
+    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001529/",
+    "summary_original": "Metaがサブスク「Meta One」を提供開始した。InstagramやFacebook、WhatsAppを横断し、AI利用枠の拡大や表現機能、ビジネスツールなど50以上の機能を用意。日本でも展開し、バンドルプランは月額949円から。認証バッジを含む事業者向け機能も揃える。",
+    "thumbnail": "",
+    "published": "2026-09-16T11:24:39+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "45890a1118c8",
+    "title": "The sexy AI-powered dating app scams are here",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+    "summary_original": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-16T10:45:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "827397d1d260",
+    "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+    "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+    "summary_original": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following TypeSafe AI&#8217;s release of Jev, a specialised System One Model designed to execute structured probabilistic decisions directly inside production [&#8230;]\nThe post ChatGPT pioneer launches Jev model for programmatic log...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published": "2026-09-16T10:31:09+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "f80091762901",
+    "title": "How workers are unlocking new ways of working",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "summary_original": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "thumbnail": "",
+    "published": "2026-09-16T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f7667f3d3e9d",
+    "title": "Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings",
+    "url": "https://www.marktechpost.com/2026/09/15/prior-labs-releases-tabpfn-3-5-a-tabular-foundation-model-that-beats-the-winning-otto-kaggle-solution-with-default-settings/",
+    "summary_original": "Prior Labs released TabPFN-3.5, a tabular foundation model pretrained only on synthetic data that beats Otto's winning solution.\nThe post Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-16T06:52:18+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "839bf1c8d799",
+    "title": "Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models",
+    "url": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
+    "summary_original": "Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top TabArena Elo among single models, ahead of Google's TabFM and LG's EXAONE Tabular. The code is Apache-2.0, while weights are licensed for non-commercial research.\nThe post Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-16T04:59:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
