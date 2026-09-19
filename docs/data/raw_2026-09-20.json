@@ -1,0 +1,292 @@
+[
+  {
+    "id": "194c7523c48f",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "summary_original": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "thumbnail": "",
+    "published": "2026-09-19T20:39:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3c894b3ceb89",
+    "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
+    "url": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
+    "summary_original": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-19T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c0e5bbea1628",
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "summary_original": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "thumbnail": "",
+    "published": "2026-09-19T19:57:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "67a4fb33c42f",
+    "title": "料理漫画の金字塔が『新 美味しんぼ』として新たなTVアニメ化決定",
+    "url": "https://gigazine.net/news/20260919-new-oishinbo-anime-teaser/",
+    "summary_original": "新聞記者の山岡士郎と栗田ゆう子が社業として「究極のメニュー」作りに挑み、ライバル紙で「至高のメニュー」を監修する海原雄山と対決を繰り広げたり、料理に関連する人々の問題と関わっていく料理漫画『美味しんぼ』が、『新 美味しんぼ』としてTVアニメ化されることになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-19T19:52:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f3e5fa5e8619",
+    "title": "Meta独自のスマートグラス「Meta Glasses」フォトレビュー、本体のデザインからケース・付属品までチェック",
+    "url": "https://gigazine.net/news/20260919-meta-adventurer/",
+    "summary_original": "FaccebookやInstagramを運営するMetaは、スマートグラスやVRヘッドセットの開発も行っています。新たにMetaが大手メガネメーカー・エシロールルックスオティカと共同開発したAI搭載スマートグラス「Meta Glasses」が、日本でも2026年8月26日(水)に登場しました。その実物をMetaから借りることができたので、まずはじっくりその見た目をチェックしてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-19T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f080f66f2e60",
+    "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
+    "url": "https://gigazine.net/news/20260919-opik/",
+    "summary_original": "AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-19T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c67b3655b36c",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "summary_original": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "thumbnail": "",
+    "published": "2026-09-19T17:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "45d620b21da1",
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "summary_original": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-19T16:44:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4fcac3a1d335",
+    "title": "テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる",
+    "url": "https://gigazine.net/news/20260919-text-ai-watermarks/",
+    "summary_original": "2026年8月より欧州連合(EU)でAI法が施行され、EU域内ではAIによって生成されたコンテンツであることを検出可能にする義務が課されるようになり、EU域内で事業を行う大規模言語モデル(LLM)プロバイダーに対してAI生成物であることを示す「ウォーターマーク」の適用が事実上義務付けられるようになりました。しかしながら、テキストに対するAIウォーターマーク技術には技術的な難しさに加えて実効性に関する課題があると言われています。ソフトウェアエンジニアのショーン・グーデッケ氏は自身のブログにて、テキストにウォーターマークを人間に気付かれない形で埋め込むことの困難さと、せっかく埋め込んだウォーターマークが簡単に削除できてしまうことについて解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-19T16:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "031e78fea7f6",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "summary_original": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "thumbnail": "",
+    "published": "2026-09-19T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f48af8241edf",
+    "title": "AI safety conversations have gotten unbelievable",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "summary_original": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "thumbnail": "",
+    "published": "2026-09-19T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5162e39b4010",
+    "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
+    "url": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+    "summary_original": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On audio-video benchmarks, it nearly matches Gemini 3.8 Flash at a fraction of the API cost.\nThe article Qwen3.8-Omni-Flash undercuts Google&#039;s Gemini Flash pricing while matching its multimodal benchmarks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/qwen_logo-2.png",
+    "published": "2026-09-19T14:30:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4a42d19797aa",
+    "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
+    "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
+    "summary_original": "Unity has released official plugins for Claude Code and OpenAI's Codex.\nThe article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/unity-logo-nano-banana-pro.jpg",
+    "published": "2026-09-19T13:31:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e7f57700ebe2",
+    "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
+    "url": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+    "summary_original": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air on a burning stove. None of the three models tested reliably rejected unsafe commands.\nThe article GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/robot_killer_test.png",
+    "published": "2026-09-19T13:28:55+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b33e31220f59",
+    "title": "東京ゲームショウと生成AI　ゲームの祭典で商談見込むベンダーたち",
+    "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+    "summary_original": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
+    "thumbnail": "",
+    "published": "2026-09-19T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "28713f5bdfe9",
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "summary_original": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-19T11:25:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "207285ced5a1",
+    "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+    "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
+    "summary_original": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the search strategy adapts, while the underlying AI model stays unchanged.\nThe article Google Deepmind&#039;s Dream-RSI helps AI agents improve by “dreaming” about past attempts appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/dream-rsi-generated-image-nano-banana-pro.jpg",
+    "published": "2026-09-19T11:08:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5f9fb82a4d88",
+    "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+    "url": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
+    "summary_original": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with submissions and reviews.\nThe article AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/ai_producing_papers.png",
+    "published": "2026-09-19T10:37:04+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0dd3f3fb6a5b",
+    "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "summary_original": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-19T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "437eaa860add",
+    "title": "The AI regulation smackdown isn’t over",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "summary_original": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-19T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6c77cb7d0f75",
+    "title": "パナソニック・サムスン撤退の裏で「中国勢5割」　独IT見本市「IFA」トップが明かす舞台裏",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html",
+    "summary_original": "出展2000社超の過半数が中国勢、そして長年メイン会場の“顔”だったサムスン電子の電撃的な撤退──。欧州最大の家電見本市「IFA」の会場には、中国勢の巨大ブースと50モデルものヒューマノイドなど地殻変動の熱気が渦巻いていた。主役の交代と「脱・家電」シフトが加速する中、IFA運営トップのライフ・リントナーCEOを現地ベルリンで単独直撃。サムスン離脱の本当の理由から、パナソニックがブースを壁で覆った真相など、グローバルハイテク市場の今に迫る。",
+    "thumbnail": "",
+    "published": "2026-09-19T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c66e59ec403c",
+    "title": "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/",
+    "summary_original": "業務規定や商品知識など、金融機関には日々参照する情報が多い。必要な情報を探したり、詳しい職員に確認したりする時間も課題となる。ココペリは、こうした情報検索を生成AIで支援する「SAF」を豊川信用金庫に導入した。",
+    "thumbnail": "",
+    "published": "2026-09-19T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0b78eef74f7c",
+    "title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001614/",
+    "summary_original": "生成AIでスライドや図解を手軽に作れるようになった一方、作成物が増えるほど「どれが何の資料か分からない」「目的の資料を探せない」といった問題が起きやすい。",
+    "thumbnail": "",
+    "published": "2026-09-19T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "db55314239cc",
+    "title": "AI導入は6割、でも8割超が「チャット止まり」　業務自動化まで進まない原因は？",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/",
+    "summary_original": "「AIを導入したが、チャットに使うだけ」。そんな中小企業は少なくない。クラウドワークスの調査では、AI利用企業の8割超がチャット利用にとどまった。業務自動化を阻む原因は何か。",
+    "thumbnail": "",
+    "published": "2026-09-19T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "077d8f6ca8fa",
+    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "summary_original": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-18T17:07:24-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2c98174ba4e9",
+    "title": "The Download: AI’s extinction risk and bioweapons threat",
+    "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MM10211_240711_05211.jpg?w=840",
+    "published": "2026-09-18T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "48d4db25a29d",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "summary_original": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "thumbnail": "",
+    "published": "2026-09-18T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "43991f137a69",
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "summary_original": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-18T11:29:22+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7ebbd7dd21c0",
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "summary_original": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-18T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
