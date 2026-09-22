@@ -1,0 +1,402 @@
+[
+  {
+    "id": "7f7572aa6644",
+    "title": "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
+    "url": "https://gigazine.net/news/20260923-screentime-cognition/",
+    "summary_original": "パソコンやスマートフォンばかり見ていると頭が悪くなってしまうのでは、という話は一般論としてよく言われることです。6歳から9歳までの子どもが成長する様子を8年間追跡した研究では、デジタル機器の画面を見ている時間(スクリーンタイム)が長い子どもほど、むしろ10代の頃に認知機能が高くなるという、通説に反する証拠が示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-23T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ee17e9a2b474",
+    "title": "AWS、SalesforceがAI連携を強化　データ分断をどう解消するか",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/23/2000001663/",
+    "summary_original": "AIエージェントの導入が進む一方、企業には「必要なデータが別のシステムにある」というボトルネックがある。AWSとSalesforceは、データを移動させず、普段使うツールの中でAIを活用できる環境づくりを進める。",
+    "thumbnail": "",
+    "published": "2026-09-23T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "39adafe5fce0",
+    "title": "AIを導入した企業ほど困る「データ基盤問題」　パーソルが3サービスで支援へ",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/23/2000001607/",
+    "summary_original": "生成AIやAIエージェントの導入が進む一方、データの整理不足や権限管理、コスト、老朽化した基盤が活用のボトルネックとなる。パーソルビジネスプロセスデザインは、AIを継続利用するためのデータ基盤を支援する3サービスを開始した。",
+    "thumbnail": "",
+    "published": "2026-09-23T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e762e8ddb055",
+    "title": "Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+    "summary_original": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable 5.1と同等クラスのセーフガードを適用した。",
+    "thumbnail": "",
+    "published": "2026-09-23T06:57:43+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "23cdd1ae5c1f",
+    "title": "携帯可能で低消費電力のアナログガイガーカウンターを自作した記録",
+    "url": "https://gigazine.net/news/20260922-analog-geiger-counter/",
+    "summary_original": "放射線を検出する「ガイガーカウンター」を、シンプルで電力効率も良く持ち運び可能なアナログ式で自作した電子技術者が、その仕組みを解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-22T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "84a303211cd2",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "summary_original": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "thumbnail": "",
+    "published": "2026-09-22T21:56:43+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1cfa098cbee1",
+    "title": "OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説",
+    "url": "https://gigazine.net/news/20260922-openai-storage-habitat/",
+    "summary_original": "OpenAIはChatGPTやCodexといったサービスを展開しており、ユーザー数は2026年7月末時点で10億人に達しています。OpenAIは10億人を超えるユーザーのデータを自社製オンラインストレージシステム「Habitat」で管理しているとのこと。このHabitatの詳細がOpenAIの公式ブログで解説されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-22T21:22:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "991bdfde2b40",
+    "title": "Better prompt caching for GPT-6",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "summary_original": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "thumbnail": "",
+    "published": "2026-09-22T21:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0845b9838234",
+    "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
+    "url": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+    "summary_original": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultaneous launch of Opus 5.5 coming.\nThe article OpenAI&#039;s GPT-6 Sol and Luna cut prices in half but barely move the needle on performance appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpz6_sol_luna.png",
+    "published": "2026-09-22T20:06:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d617c1869a90",
+    "title": "マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」",
+    "url": "https://gigazine.net/news/20260922-open-battery-information/",
+    "summary_original": "Open Battery Information(OBI)はバッテリー管理システム(BMS)によってロックされたリチウムイオンバッテリーの診断と修理を支援するために設計されたオープンソースプロジェクトです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-22T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f5417683ef6a",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "summary_original": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "thumbnail": "",
+    "published": "2026-09-22T20:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "90435c878e92",
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "summary_original": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
+    "published": "2026-09-22T19:45:47+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "94de22a6a4b0",
+    "title": "2026年秋開始の新作アニメ一覧",
+    "url": "https://gigazine.net/news/20260922-anime-2026autumn/",
+    "summary_original": "放送・配信中のアニメが終わり、入れ替わりに新たな作品が始まる時期がやってきました。2026年秋(2026年9月～2026年11月ごろ)に始まるアニメの数は85作品で、特に多めとなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-22T19:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "176f90142d04",
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "summary_original": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "thumbnail": "",
+    "published": "2026-09-22T19:09:11+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c4259d8daf82",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "summary_original": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "thumbnail": "",
+    "published": "2026-09-22T18:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "d5bcb149d513",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "summary_original": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "thumbnail": "",
+    "published": "2026-09-22T18:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "334e1d929632",
+    "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+    "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
+    "summary_original": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.\nThe article Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less &quot;Claudish&quot; writing appeared firs...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png",
+    "published": "2026-09-22T17:11:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1ecac442e828",
+    "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+    "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+    "summary_original": "The English hospitals recovered patient care data only.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-1024x648.jpg",
+    "published": "2026-09-22T16:55:40+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "d0716c4b578f",
+    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "summary_original": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-22T16:52:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d52a24ca5068",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "summary_original": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "thumbnail": "",
+    "published": "2026-09-22T16:30:07+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "36f42d05bbed",
+    "title": "OpenAI calls for international standards on AI that could improve itself",
+    "url": "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/",
+    "summary_original": "OpenAI wants international standards for recursive self-improvement, where AI systems independently build the next generation of AI. Without safeguards, humans could lose control over this process. OpenAI says the US should take the lead on global measurement standards and oversight rules.\nThe article OpenAI calls for international standards on AI that could improve itself appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/Astra-Chain-of-Thought.png",
+    "published": "2026-09-22T15:29:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6e4ebb534498",
+    "title": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
+    "url": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/",
+    "summary_original": "The Biological Computing Co. wants to team up with AWS to sell a text-to-video model that's supposed to run five times faster and 80 percent cheaper thanks to a software layer derived from real nerve cells. The tiny layer adds less than 0.1 percent to the base model, but the startup won't say which model that is.\nThe article A tiny software layer from lab-grown neurons promises faster, cheaper AI video appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/The-Biological-Computing-Co-chip-title.png",
+    "published": "2026-09-22T13:58:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "fbbb2f4877db",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary_original": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-22T13:42:05+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "262004370c29",
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "summary_original": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-22T12:34:08-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3b73af80ba55",
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "summary_original": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-22T12:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "69b662349cd9",
+    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/12/Armada-high-res.jpg?fit=1456,818",
+    "published": "2026-09-22T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c0fa20c79506",
+    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "summary_original": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-22T12:01:10-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "81928ec12dd8",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "summary_original": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "thumbnail": "",
+    "published": "2026-09-22T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "2a43106c1566",
+    "title": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
+    "summary_original": "OpenAIは、数学者が設立した独立組織「AGMAI」と連携し、AIによる数学的成果の評価や公表方法について助言を受けると発表した。社内モデルによる100件以上の未解決問題解決を受けた動きで、急速な成果発表や帰属問題を巡る数学界からの批判に対応する。組織は独立して運営され、他社への助言も行う方針だ。",
+    "thumbnail": "",
+    "published": "2026-09-22T11:49:24+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8a4e26958abf",
+    "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
+    "url": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
+    "summary_original": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company of siphoning off training data from Claude.\nThe article Xiaomi&#039;s affordable flagship AI leads the open models, and Anthropic says Claude helped get it there appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Xiaomi-MiMo-Explore-and-Love-e1774194951718.jpg",
+    "published": "2026-09-22T11:42:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d185f661c7d1",
+    "title": "Don’t be fooled by this summer of AI hype",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "summary_original": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-22T11:04:51+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "441add85292e",
+    "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+    "summary_original": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
+    "thumbnail": "",
+    "published": "2026-09-22T10:51:09+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d25222ba0d0d",
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "summary_original": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-22T07:53:58-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5a9917ede729",
+    "title": "Priorities and principles for effective third party assessments",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "summary_original": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+    "thumbnail": "",
+    "published": "2026-09-22T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "137c5833ddb8",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-22T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "6aa8c26a533f",
+    "title": "Transformers now runs llama.cpp quants",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-22T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c5f86512fa7d",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "url": "https://huggingface.co/blog/omlx",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-22T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "64b9f3c8af56",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "summary_original": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+    "published": "2026-09-21T22:24:38+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5a7c9e86a3ed",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-21T13:44:34+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "06d3f809c0b2",
+    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Duks-Koschitz-and-Robert-Brackett-III.jpg?fit=2128,1196",
+    "published": "2026-09-21T12:20:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
