@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ace8971c9004",
+    "title": "「9.11」追悼企画アート掲載サイトがドキュメンタリー映画の影響で復活",
+    "url": "https://gigazine.net/news/20260924-911-memorial-secret-mall-apartment/",
+    "summary_original": "2001年9月11日に発生したアメリカ同時多発テロ(9.11)の追悼アートをかつて公開していた閉鎖済みのウェブサイトが、Netflixのドキュメンタリーをきっかけに復活するという出来事が起きました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-24T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1f979bfb7335",
+    "title": "初受注まで「1年→5カ月」に短縮　AIで実現する営業の育成改革とは？",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/24/news039.html",
+    "summary_original": "セールスイネーブルメントの取り組みやSFA活用の事例を踏まえつつ、AIを使った強い営業組織の作り方を考えていく。",
+    "thumbnail": "",
+    "published": "2026-09-24T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e2e09686d56c",
+    "title": "「Copilot案件」が急増、1年半で13倍に　フリーランスに求められるニーズの変化",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/24/2000001632/",
+    "summary_original": "生成AIの活用が広がる中、企業のCopilot活用を支える人材への需要が変わり始めている。フリーランスジョブの案件データでは、Copilot関連案件が1年半で約13倍に増加した。",
+    "thumbnail": "",
+    "published": "2026-09-24T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b43f8f88994e",
+    "title": "わずか4Bの小型AIを強化学習したらPostgreSQLより1.81倍高速なクエリプランを生成できたという報告",
+    "url": "https://gigazine.net/news/20260924-qorl/",
+    "summary_original": "データベースにおけるクエリ最適化を小型LLMに肩代わりさせる研究を進めたところ、Postgresのデフォルトクエリプランを上回るパフォーマンスを発揮するクエリプランを生成できたと、バックエンドエンジニアのロハン・バンサル氏によって報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-24T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8ea63809f41a",
+    "title": "自分らしさを損なわずにAIで文章を手直しするための2つのルール",
+    "url": "https://gigazine.net/news/20260924-ai-writing-copyeditor/",
+    "summary_original": "AIに文章の手直しを頼むと、整いすぎた言い回しを提案されたり、原稿を必要以上に褒められたりすることがあります。開発者向けパブリッククラウドのFly.ioで働くセキュリティ研究者・ソフトウェア開発者のトーマス・H・プタチェク氏が、自分らしさを損なわずに大規模言語モデル(LLM)で文章を手直しする方法を自身のブログで説明しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-24T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5703f31e9bad",
+    "title": "Vlogにぴったりな小型カメラ「Osmo Pocket 4」レビュー記事・SF作家のAI論などAmazonで売上トップ10のGIGAZINE記事ランキング2026年8月版はコレ！",
+    "url": "https://gigazine.net/news/20260924-gigazine-kindle-ranking-2026-08/",
+    "summary_original": "GIGAZINEの記事を電子化した書籍を対象に「2026年8月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-24T00:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a9bbbe61b4b3",
+    "title": "Anthropic says its biology lab has already found something big",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "summary_original": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+    "thumbnail": "",
+    "published": "2026-09-23T22:17:39+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "107312abf3f3",
+    "title": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
+    "url": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/",
+    "summary_original": "Google has released Gemini 3.8 Flash TTS and Flash-Lite TTS, 2 new text-to-speech models available now through the Gemini API and Google AI Studio. Flash TTS designs new voices from natural language prompts across 100+ languages. It ranks #1 on Hume AI's Voice Design Benchmark with a score of 71.4. Flash-Lite TTS targets high-volume dubbing and voice agents at lower cost.\nThe post Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design appeared first on MarkTechPos...",
+    "thumbnail": "",
+    "published": "2026-09-23T20:20:12+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d08d308fb5c2",
+    "title": "ウェブカメラに向かって手を振って演奏できる「エア・テルミン」",
+    "url": "https://gigazine.net/news/20260923-air-theremin/",
+    "summary_original": "1920年にロシアの発明家が発明した世界初の電子楽器・テルミンは、楽器本体に直接触れることなく、空間中の手の位置によって音を調節するのが特徴的です。そんなテルミンをスマートフォンやPCのカメラを使って再現したのが「Air Theremin(エア・テルミン)」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-23T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "237e7ef9dd42",
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "summary_original": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+    "thumbnail": "",
+    "published": "2026-09-23T19:31:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8308f4135e02",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-23T18:41:40+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "283ef1eae553",
+    "title": "NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real Time",
+    "url": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
+    "summary_original": "NVIDIA has released Nemotron 3 Diarization, an open-weight speaker diarization model on Hugging Face. It answers one question about any conversation: who spoke when. The 100M-parameter model tracks up to 8 speakers, including when voices overlap. One checkpoint handles both offline recordings and real-time streaming. Is it deployable? Yes. The weights are released under the [&#8230;]\nThe post NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Rea...",
+    "thumbnail": "",
+    "published": "2026-09-23T18:17:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ac003b88ef9a",
+    "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access",
+    "url": "https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/",
+    "summary_original": "ChatGPT Voice now runs on OpenAI's new GPT-6 Astra, Sol, and Luna models and can tap into plugins like email, calendar, and Slack. Users can manage appointments, send emails, or build websites just by talking. The update moves OpenAI closer to the everyday AI assistant Sam Altman has long compared to the one in the sci-fi film \"Her.\"\nThe article ChatGPT Voice gets closer to &quot;Her&quot; with email, calendar, and Slack access appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+    "published": "2026-09-23T17:57:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d727409e85b3",
+    "title": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
+    "url": "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/",
+    "summary_original": "Google is introducing two new text-to-speech models, Gemini 3.8 Flash TTS and Flash-Lite TTS, which support more than 100 languages. Flash TTS can create new voices from text descriptions, and both models let users add stage directions to individual lines and generate two-voice dialogue from a single script. A voice cloning feature can build a voice profile from a 30-second sample.\nThe article Google&#039;s new Flash TTS models let you design AI voices from scratch using text descriptions appear...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_voice_audio.png",
+    "published": "2026-09-23T17:39:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8549157d118a",
+    "title": "A congressional representative just proposed killing America’s border tower program",
+    "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "summary_original": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-23T17:10:11+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3ecdce7d836a",
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "summary_original": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+    "thumbnail": "",
+    "published": "2026-09-23T17:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "55b95be9dcae",
+    "title": "Even Americans who use AI every day are worried about it",
+    "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "summary_original": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+    "thumbnail": "",
+    "published": "2026-09-23T16:49:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4b10a545101d",
+    "title": "YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing",
+    "url": "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/",
+    "summary_original": "YouTube is adding AI tools to its creator studio. A storytelling assistant analyzes scripts and rough cuts, Gemini becomes a chat-based editing assistant for Shorts, and a new live translation feature turns English streams into Spanish.\nThe article YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/youtube_logo_slide.png",
+    "published": "2026-09-23T16:37:43+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cd65d3ae79b3",
+    "title": "Two years of OpenAI Academy",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "summary_original": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "thumbnail": "",
+    "published": "2026-09-23T16:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "ab0b2d96bb33",
+    "title": "YouTube Music gets more conversational with new AI features",
+    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "summary_original": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+    "thumbnail": "",
+    "published": "2026-09-23T15:19:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dd0a4954740f",
+    "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
+    "url": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
+    "summary_original": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a style that sounds like \"overly-dense info dumps\" to humans. Opus 5.5 tries to fix this, but Opus 4.6 remains unmatched as a pure writing model.\nThe article Anthropic engineer explains why Claude&#039;s writing got worse although the model got smarter appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude_design.png",
+    "published": "2026-09-23T15:14:34+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2b824ca594e0",
+    "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+    "summary_original": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04272_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-23T15:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d2631a31dbda",
+    "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing",
+    "url": "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/",
+    "summary_original": "Nscale, the Nvidia-backed AI cloud provider, leaves its most important customer, Bytedance, out of the main prospectus for its planned US IPO.\nThe article Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Datacenter-Remote.png",
+    "published": "2026-09-23T14:44:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "10c165258146",
+    "title": "Data centers are black boxes, but California wants to change that",
+    "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+    "summary_original": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-23T14:22:57-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9652a479122b",
+    "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+    "summary_original": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-23T14:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d97cb0c0478d",
+    "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+    "url": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+    "summary_original": "Deploying randomised AI logistics offers military planners a viable defence against adversarial tracking, allowing U.S. Transportation Command (TRANSCOM) to insulate global distribution networks against contested disruption.&#160; Commercial freight software historically prioritises static scheduling, steady delivery windows, and just-in-time routing to eliminate transit waste. In an operational theatre, however, those fixed cadences expose military transports to [&#8230;]\nThe post U.S. TRANSCOM...",
+    "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/image.png",
+    "published": "2026-09-23T13:13:15+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "7d0f5cd5753d",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "summary_original": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "thumbnail": "",
+    "published": "2026-09-23T13:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5acbae282eb2",
+    "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+    "summary_original": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-23T12:23:05-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3f94f55217dd",
+    "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+    "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/PainChek-Montage-3-edited.jpg",
+    "published": "2026-09-23T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7c9a1180e3e3",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "summary_original": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "thumbnail": "",
+    "published": "2026-09-23T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "32b5509ca9a6",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "summary_original": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "thumbnail": "",
+    "published": "2026-09-23T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "01d0ed630f34",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "summary_original": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "thumbnail": "",
+    "published": "2026-09-23T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "22367b429dcc",
+    "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+    "summary_original": "トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence（SI）」に変更すると表明した。米国の全公文書で採用し、他国にも同調を促す。国際的なAI管理の枠組みを拒否し、地球温暖化論争になぞらえて脅威論を一蹴した上で、成長を支援して開発競争をリードする姿勢を強調した。",
+    "thumbnail": "",
+    "published": "2026-09-23T10:36:07+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8909ad75f4c2",
+    "title": "YouTube is building AI creator tools that do almost everything for them",
+    "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+    "summary_original": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-23T10:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "62fbd0984082",
+    "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+    "summary_original": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+    "thumbnail": "",
+    "published": "2026-09-23T09:12:02+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "edaeeef0c798",
+    "title": "The AI Hype Index: AI loves cheating",
+    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "summary_original": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-23T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "195d2c232c1a",
+    "title": "Smart glasses are already causing havoc in India",
+    "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+    "summary_original": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-23T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a88d6aae0e11",
+    "title": "今押さえたい「半導体」の基礎知識　極小チップが“AI時代の戦略物資”になった、納得の理由",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/23/news004.html",
+    "summary_original": "ニュースでよく聞く「半導体」。「GPUのことね」「AI時代に重要なんでしょ」という認識はあっても、その本質を理解できていますか？　半導体が重要視される理由を基礎から解説します。",
+    "thumbnail": "",
+    "published": "2026-09-23T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "aaae293f0825",
+    "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+    "url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+    "summary_original": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July 2026. Over 800 repositories impersonated AI skills and MCP servers, distributing SmartLoader and [&#8230;]\nThe post AI Agents Are Becoming a New Malware Distribution Channel appeared first on AI News.",
+    "thumbnail": "",
+    "published": "2026-09-23T07:44:17+00:00",
+    "source": "AI News",
+    "language": "en"
+  },
+  {
+    "id": "823ba2546c48",
+    "title": "Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model",
+    "url": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/",
+    "summary_original": "Nokia&#8217;s applied research team has open-sourced AnyJev, a Python library that turns an open LLM into a decision model. It needs no training. It targets a common production job: picking one answer from a fixed set instead of writing a sentence. Is it deployable? Yes, it installs from PyPI, ships under Apache-2.0, and has transformers [&#8230;]\nThe post Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-23T07:09:38+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
