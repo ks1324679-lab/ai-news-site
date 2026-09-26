@@ -1,0 +1,352 @@
+[
+  {
+    "id": "a20faec82be7",
+    "title": "AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」",
+    "url": "https://gigazine.net/news/20260927-digital-camouflage-shirt/",
+    "summary_original": "AI搭載のカメラで監視されることを嫌った人物が、着ている人をAIが人と認識できなくなる特製の迷彩柄シャツを作り上げました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-27T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cbad1908dfea",
+    "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+    "summary_original": "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。",
+    "thumbnail": "",
+    "published": "2026-09-27T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f99863f0b448",
+    "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
+    "url": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
+    "summary_original": "Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds keyterm prompting for up to 50 terms, 5 output modes from 1 model, and streaming with first-token latency under 150 ms. It is available today through Sarvam's API at ₹30 per hour.\nThe post Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-26T21:56:23+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "db474621d18a",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "summary_original": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+    "thumbnail": "",
+    "published": "2026-09-26T21:02:06+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e7a4af963fa7",
+    "title": "1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性",
+    "url": "https://gigazine.net/news/20260926-stepping-pace-lower-risk-death/",
+    "summary_original": "健康のためには「1日1万歩」は歩いた方がいいとよく言われますが、近年の研究では1万歩よりも少ない歩数でも、さまざまな健康効果が得られることが示唆されています。新たな研究では、たとえ1日の歩数が少なくても「歩くペース」を上げることで、死亡リスクが低くなる可能性があると報告されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-26T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c0e859ffc98b",
+    "title": "Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？",
+    "url": "https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/",
+    "summary_original": "Appleはアクティブノイズキャンセリング機能搭載オープンイヤー型ワイヤレスイヤホン「AirPods 5」を2026年9月18日に発売しました。軸スワイプによる音量調整機能搭載・バッテリー強化・ワイヤレス充電対応の充電ケースを備えた上位モデルを実際に注文したので、実際に装着して音楽を聞いたり手元で操作してみたり試してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-26T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ffe654970959",
+    "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
+    "url": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
+    "summary_original": "Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then returns one choice with probabilities. The model runs on a CPU and ships under Apache 2.0. It beat Jev reference values on 3 of 4 pilots but trailed on the 72-label Banking77 test.\nThe post Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f447.png",
+    "published": "2026-09-26T19:50:57+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1750e0d20d7d",
+    "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
+    "url": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
+    "summary_original": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine clearance, and combat. Drones already account for 95 percent of target engagements, he says.\nThe article Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/robot_warfare.png",
+    "published": "2026-09-26T19:10:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b17d9ec30ce8",
+    "title": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
+    "url": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/",
+    "summary_original": "Speaking to 160 IT vice presidents in Las Vegas, tech entrepreneur Azeem Azhar asked who had measurable AI results. Two-thirds raised their hands. Then he asked who had results good enough to interrupt the CEO's summer vacation. Only eight did. Whether that slow pace of progress justifies the massive investments is one of the key questions in the AI bubble debate.\nThe article Two-thirds of IT leaders report AI results, but few would interrupt the CEO&#039;s vacation over them appeared first on T...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/05/money_server_room.png",
+    "published": "2026-09-26T17:27:52+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cc88f6d94993",
+    "title": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+    "summary_original": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+    "thumbnail": "",
+    "published": "2026-09-26T17:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "49efe82d0921",
+    "title": "AI access makes people almost entirely unwilling to say \"I don't know,\" study finds",
+    "url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/",
+    "summary_original": "A study with more than 3,000 participants shows that just having access to AI answers nearly eliminated people's willingness to say \"I don't know.\" In one experiment, it dropped from 44 to 3 percent, even though the AI was almost always wrong. Participants who used AI felt more confident but were correct only about a third as often as those without it.\nThe article AI access makes people almost entirely unwilling to say &quot;I don&#039;t know,&quot; study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/huma_talking_ai.png",
+    "published": "2026-09-26T16:56:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "709fc184a952",
+    "title": "darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」",
+    "url": "https://gigazine.net/news/20260926-ansel/",
+    "summary_original": "RAW画像を編集するソフトには写真の明るさや色の調整・ノイズ除去・レンズの補正などさまざまな機能が搭載されていますが、機能が増えるほど目的の設定項目を探す手間も増えてしまいます。そこで無料でオープンソースのRAW現像ソフト「Ansel」は、「darktable」をベースに機能の整理や操作画面の再設計により、写真編集の作業をわかりやすくすることを目指したソフトウェアです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-26T16:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "974092efe5bb",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "summary_original": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "thumbnail": "",
+    "published": "2026-09-26T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "149992fbbc38",
+    "title": "「iPhone 18 Pro」の絞り羽根搭載カメラの性能を検証するべくいろいろ撮影してみたよレビュー、これまで不可能だった光芒撮影が可能に",
+    "url": "https://gigazine.net/news/20260926-iphone-18-pro-camera-example/",
+    "summary_original": "2026年9月18日に登場した「iPhone 18 Pro」は背面に3個のカメラを搭載しており、メインカメラにはiPhoneシリーズとして初めて物理的な絞り羽根が搭載されました。そんなiPhone 18 Proのカメラ性能を検証するべく、実際にいろいろ撮影してみました。なお、記事内の作例写真は記事用に長辺を800ピクセルにリサイズしており、各作例写真をクリックすると縮小前のオリジナル写真を確認できます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-26T13:48:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cfc4247a8320",
+    "title": "「1週間の開発タスク」でAIの限界を検証　Googleが「Android Bench 2.0」公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
+    "summary_original": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+    "thumbnail": "",
+    "published": "2026-09-26T13:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ff2e233268a7",
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "summary_original": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-26T12:34:59-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ab8e6023ac80",
+    "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+    "url": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
+    "summary_original": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develop the system, though the gains were smaller on other benchmarks.\nThe article Nvidia&#039;s SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/solpi-agent-harness-optimization-nano-banana-pro.jpg",
+    "published": "2026-09-26T10:30:32+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6b3d0c1d2cd0",
+    "title": "「Codex」で1時間にわたる障害→使用量リセットへ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/",
+    "summary_original": "「私たちは再び稼働中で、CodexとChatGPT全体で全有料ユーザーの使用制限をリセットするよ」",
+    "thumbnail": "",
+    "published": "2026-09-26T10:27:56+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3aa3a6348b5a",
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "summary_original": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-26T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b4206a9058d0",
+    "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+    "url": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
+    "summary_original": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent. According to Epoch AI, the speed isn't quite fast enough yet for real-time assembly guidance, but the gap is closing quickly.\nThe article OpenAI&#039;s GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/furniture_assembly_benchmark.png",
+    "published": "2026-09-26T09:44:54+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bc560b82b789",
+    "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
+    "url": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+    "summary_original": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR.\nThe post Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-26T08:04:08+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "647166396fd5",
+    "title": "Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO",
+    "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+    "summary_original": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
+    "thumbnail": "",
+    "published": "2026-09-26T07:48:32+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "81927b48034b",
+    "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
+    "url": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+    "summary_original": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch datasets.\nThe post End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-26T07:22:46+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e0c16d6f1c1d",
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "summary_original": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "thumbnail": "",
+    "published": "2026-09-26T01:08:57+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d3e12b72a4cd",
+    "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
+    "url": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+    "summary_original": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang.\nThe post Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-09-25T23:11:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4dc5a9b388b9",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "summary_original": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+    "thumbnail": "",
+    "published": "2026-09-25T23:11:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9550a58b2b1b",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "summary_original": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "thumbnail": "",
+    "published": "2026-09-25T22:20:47+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3812b1a734e2",
+    "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+    "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+    "summary_original": "Ads appearing all over the Internet are trying to scam people.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
+    "published": "2026-09-25T19:38:59+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "0192a09d7c87",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "url": "https://openai.com/index/proaction",
+    "summary_original": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "thumbnail": "",
+    "published": "2026-09-25T19:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0a72912534ee",
+    "title": "Meta makes the Muse filesystem even more accessible",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "summary_original": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-25T12:49:53-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b0fa98e8b274",
+    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+    "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/brain-ice2.jpg?fit=2128,1196",
+    "published": "2026-09-25T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "548f5a0f314c",
+    "title": "Sony and UMG are suing Suno again",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "summary_original": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-25T11:51:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c01ce16603fc",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "summary_original": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-25T11:39:48-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "b50925bd3c97",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "summary_original": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Altec_Poly_2.jpeg",
+    "published": "2026-09-25T09:16:25+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b02f7376f493",
+    "title": "Young organs may not be a fountain of youth for recipients",
+    "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "summary_original": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-25T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
