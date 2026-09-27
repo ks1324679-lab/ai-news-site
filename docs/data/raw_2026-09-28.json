@@ -1,0 +1,242 @@
+[
+  {
+    "id": "0a94f53fcd8f",
+    "title": "「アサヒ・ニチレイの惨劇」はどう防げた？　米HP幹部が語る“ネット遮断AI”と日本攻略",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/28/news053.html",
+    "summary_original": "アサヒビールやニチレイ、アスクルなど、日本企業を狙うサイバー攻撃が相次いでいる。米HPのマイケル・ボイルSVPに、日本市場における新たなセキュリティ戦略を聞いた。社員の意識向上を支援する「コンサル型営業」への変革や、クラウド非接続で情報漏えいを防ぐエッジAI搭載PC「HP IQ」の投入など、単なるハードウェア販売からの脱却を図る。",
+    "thumbnail": "",
+    "published": "2026-09-28T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d569dc9ca35c",
+    "title": "ロボットを入れれば終わりじゃない　フィジカルAIを現場で動かす企業の役割とは",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001734/",
+    "summary_original": "AIロボットを工場や物流現場に導入しても、それだけで現場が変わるわけではない。システム統合や設備の自動化、導入後の運用・保守など、さまざまな企業の力が必要になる。Listerの分析から、フィジカルAIの実装を支える構造が見えてきた。",
+    "thumbnail": "",
+    "published": "2026-09-28T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d2608364a652",
+    "title": "離職率16.2％から6.7％へ　筑波記念病院がAIで見つけた「職場の見えない課題」",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001765/",
+    "summary_original": "離職防止にAIを活用する医療現場がある。筑波記念病院では、組織分析AIで部署ごとの職場課題を可視化し、具体的な改善策につなげている。看護職員の離職率は2021年度の16.2％から2025年度には6.7％に低下したという。",
+    "thumbnail": "",
+    "published": "2026-09-28T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c684340adec3",
+    "title": "CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開",
+    "url": "https://gigazine.net/news/20260928-damo-radar/",
+    "summary_original": "放射線診断ワークフローにおいて診断時に悪性腫瘍の見落としが発生すると重大な問題に繋がります。「RADAR」はCTスキャンの画像を元に約150種類の腹部疾患を特定できる医療用画像言語モデルであり、Alibaba傘下のDamo Academyがオープンソース化しGitHubで公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-28T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0fe9e32831ee",
+    "title": "安川電機が熟練工の「感覚」をAIロボットで再現、カメラで見ながらアーク溶接",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news049.html",
+    "summary_original": "安川電機は「2026国際ウエルディングショー」において、同社のAI（人工知能）ロボット「MOTOMAN NEXT」による熟練型アーク溶接のデモンストレーションを披露した。",
+    "thumbnail": "",
+    "published": "2026-09-28T06:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c9ee52530603",
+    "title": "トランプ大統領と習主席、AIを「超知能（SI）」と呼ぶことで合意　「米中SI対話」も創設",
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001776/",
+    "summary_original": "米連邦政府は、習近平国家主席の国賓訪問に関するファクトシートを公開した。首脳会談でAIを「超知能（SI）」と呼ぶことで合意し、リスク対応の定期対話や連絡チャネルを創設した。公式晩餐会にはマスク氏やザッカーバーグ氏らIT首脳が集結した。",
+    "thumbnail": "",
+    "published": "2026-09-28T06:38:20+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "648e79a83154",
+    "title": "成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる",
+    "url": "https://gigazine.net/news/20260928-late-adhd-women-hyperfocus/",
+    "summary_original": "「興味のあることには長時間集中できるのに、日常の用事にはなかなか手がつかない」といった集中力の偏りについて本人がどう受け止めるかは、診断を機に変わることがあります。イギリス・ウルバーハンプトン大学のトレーシー・ケリー氏らが、大人になってから注意欠如多動症(ADHD)と診断された女性12人に話を聞いた結果を報告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-28T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e7b3b67c648d",
+    "title": "MicrosoftとQualcommが展開してきた「Copilot+ PC」ブランドが実質的に消滅",
+    "url": "https://gigazine.net/news/20260927-microsoft-copilot-plus-brand-is-dead/",
+    "summary_original": "MicrosoftとQualcommが、特定のシステム要件を満たしたPCを対象として2024年から展開してきた「Copilot+ PC」ブランドが、公式な発表はあいものの実質的に消滅したことが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-27T23:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c77843ffdfa7",
+    "title": "植民地化前のオーストラリアの先住民人口はこれまでの推定の7倍に達していた可能性",
+    "url": "https://gigazine.net/news/20260927-australias-indigenous-population-7-times-larger/",
+    "summary_original": "オーストラリアには数万年前から多様なオーストラリア先住民が住んでいましたが、18世紀後半にヨーロッパ人が本格的な植民地化を始めて以降、その人口は急速に減ってしまいました。新たな研究では、ヨーロッパ人による入植前のオーストラリア先住民の人口は、従来の推定より約7倍も多かった可能性があると報告されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-27T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "920676792664",
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "summary_original": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "thumbnail": "",
+    "published": "2026-09-27T20:34:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ee2957dde3ef",
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "summary_original": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "thumbnail": "",
+    "published": "2026-09-27T19:57:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8156b9511cb2",
+    "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
+    "url": "https://gigazine.net/news/20260927-comfy-router/",
+    "summary_original": "画像生成AIや動画生成AIをPCでローカル実行できるアプリ「ComfyUI」を開発するComfyが、サービスごとの画像・動画生成AIのAPIをまとめて扱えるようにする「Comfy Router」を2026年9月23日にリリースしました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-27T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "14fc67fa9a50",
+    "title": "Engram is a sampler that turns broken AI hallucinations into music",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+    "summary_original": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-27T16:46:36-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "62faa8b88a01",
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "summary_original": "\"AI is the devil and I its maker.\"",
+    "thumbnail": "",
+    "published": "2026-09-27T16:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bf7bd2297554",
+    "title": "AI agents do more of the work in model development, but humans still make the decisions",
+    "url": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
+    "summary_original": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions. A third of the tasks wouldn't have been attempted without AI. The authors warn that more agent activity doesn't mean more autonomy.\nThe article AI agents do more of the work in model development, but humans still make the decisions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/research-tree-nano-banana-pro.jpg",
+    "published": "2026-09-27T15:18:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "113b2d34672f",
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "summary_original": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-27T13:21:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2750bc0bf702",
+    "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+    "url": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+    "summary_original": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The report traces the company's deep ties to the Effective Altruism movement and a Bay Area network of \"doomers\" who've been gaming out doomsday scenarios for over a decade.\nThe article Some Anthropic veterans are reportedly buying remote land in case &quot;AI goes awry&quot; appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+    "published": "2026-09-27T13:03:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f96cebce7474",
+    "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+    "url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/",
+    "summary_original": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation.\nThe article Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+    "published": "2026-09-27T11:01:13+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "811e688d7aa4",
+    "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
+    "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
+    "summary_original": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained control layer, letting the language model call directly into modular skills like grasping and navigating.\nThe article Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/robot_kitchen_astra.png",
+    "published": "2026-09-27T10:59:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e182fa61d8c7",
+    "title": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
+    "url": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/",
+    "summary_original": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are intentionally short-term bets. But Power doesn't see model performance as the biggest problem. Most users don't even know what they can do with AI.\nThe article OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+    "published": "2026-09-27T10:36:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7fbf00bb0a9a",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "summary_original": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "thumbnail": "",
+    "published": "2026-09-27T01:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "db474621d18a",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "summary_original": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+    "thumbnail": "",
+    "published": "2026-09-26T21:02:06+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ff2e233268a7",
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "summary_original": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-26T12:34:59-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3aa3a6348b5a",
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "summary_original": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-26T10:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
