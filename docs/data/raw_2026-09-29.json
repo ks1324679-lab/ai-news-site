@@ -1,0 +1,332 @@
+[
+  {
+    "id": "0fcbf7df2059",
+    "title": "GIGAZINEの記事更新をチェックする手段は「ブックマーク」が41.9％で最多、年代での違いはあるのか？",
+    "url": "https://gigazine.net/news/20260929-gigazine-user-update-check/",
+    "summary_original": "ブラウザのブックマークからサイトを開いたり、X(旧Twitter)などのSNSやニュースアプリで記事を見つけたり、常にページを開いておいたりとGIGAZINEの記事更新をチェックする方法は人それぞれ。GIGAZINEが2026年夏に実施したプレゼントアンケートの結果をもとに、読者が普段どのような手段で記事の更新をチェックしているのか、全体の傾向と年代別の違いを調べてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-29T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b64d058cf332",
+    "title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表　Anthropicなど100以上の組織が参加",
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
+    "summary_original": "NVIDIAは、AIエージェントの安全対策基盤「Open Agent Safety Platform」を発表した。評価環境からの自律的な「脱走」事案が相次ぐ中、オープンソースの隔離ソフトと監視用DPUを組み合わせ、エージェントの暴走を防ぐ。AnthropicやMicrosoftなど100以上の組織が参加する。",
+    "thumbnail": "",
+    "published": "2026-09-29T08:59:11+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fc230e4dd922",
+    "title": "「最大応力はどこ？」とAIに質問、解析結果を確認できるCAEソフト新版",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news022.html",
+    "summary_original": "アライドエンジニアリングは、構造解析ソフト「ADVENTURECluster2026」を2026年10月1日にリリースする。自然言語による指示で解析条件の設定から実行、結果確認までを自動化する「AI Expert」を搭載。位相最適化の計算時間短縮や、固有振動数を考慮した最適化への対応、大規模モデルへの適用範囲の拡大、接触解析の高精度化も図った。",
+    "thumbnail": "",
+    "published": "2026-09-29T08:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "80af118297f5",
+    "title": "「10年ぶり刷新」　Android向けサードパーティーストアアプリ「F-Droid 2.0」公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/29/news053.html",
+    "summary_original": "F-Droidは、Android向けサードパーティー製アプリストアの公式クライアント最新版「F-Droid 2.0」を公開した。10年ぶりとなる全面刷新で、ユーザーインタフェースの刷新や検索機能の改善、自動更新に対応したという。",
+    "thumbnail": "",
+    "published": "2026-09-29T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c3d66c341c5b",
+    "title": "最も人気のAIユースケース、投資成果では“いまいち”だった　Gartner調査",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news009.html",
+    "summary_original": "Gartnerの調査によって、部門リーダーが「人気や話題性の高いAIアプリケーション」の導入を優先する傾向が明らかになった。導入率上位に挙がったAIユースケースと、投資効果上位に挙がったAIユースケースとの間のギャップとは。",
+    "thumbnail": "",
+    "published": "2026-09-29T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a3686e11a251",
+    "title": "「デジタルの言葉が聞こえない」と言われた電源開発が、DX開始4年でフィジカルAIに挑むまで",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news014.html",
+    "summary_original": "社外取締役に「デジタルの言葉が聞こえてこない」と言われた電源開発が、ドローンやロボットを自ら学習させて現場を動かすフィジカルAIに踏み込む。失敗が許されにくい規制産業で、なぜ「まず試す」文化を根付かせられたのか。同社のDXを率いる小泉真吾氏に聞いた。",
+    "thumbnail": "",
+    "published": "2026-09-29T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e86d76922dfc",
+    "title": "AI同士をターン制のバトルゲームで対決させて能力を測る「Tiny AI Arena」",
+    "url": "https://gigazine.net/news/20260929-tiny-ai-arena/",
+    "summary_original": "AIにターン制のバトルゲームをプレイさせてその能力を測る「Tiny AI Arena」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-29T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0b26c650e77c",
+    "title": "オランダとフランスの政府機関が脱アメリカ依存を目指してLinuxベースのNixOSを採用する動きを進めている",
+    "url": "https://gigazine.net/news/20260929-dawo-securix-linux-nixos/",
+    "summary_original": "ヨーロッパの政府機関ではアメリカ製のOSやクラウドサービスへの依存からの脱却を目指す動きが進んでいます。こうした動きの一環として、オランダとフランスでLinuxベースのNixOSを採用する取り組みが進んでいます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-29T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0910dfecb7eb",
+    "title": "「野球場で赤ちゃんとリュックを背負い食べ物を抱えるママを傍観するパパ」の動画が大炎上、関係を邪推するネット民にママが怒りの反論投稿",
+    "url": "https://gigazine.net/news/20260929-mom-viral-giants-clip/",
+    "summary_original": "野球の試合中継で、「赤ちゃんとリュックを背負い食べ物を抱えてパパの元へ向かうママ」が映し出されたところ、インターネット上で「何もせず席でママと食べ物を待つだけのパパ」に対する批判の声が大量に投稿されるようになりました。しかし、これは完全に誤解であると、動画のママ本人が反論しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-29T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "71c7b9385ab3",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "summary_original": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "thumbnail": "",
+    "published": "2026-09-29T00:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "df051edc9234",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "summary_original": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "thumbnail": "",
+    "published": "2026-09-28T23:39:20+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8cdbfa70b90a",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary_original": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-28T22:17:07+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "dec7408bd298",
+    "title": "OpenAIはAIトレーニングに違法な海賊版書籍を使うことが危険であり作家の生活を脅かすと認識していたと裁判文書で明らかに",
+    "url": "https://gigazine.net/news/20260928-openai-microsoft-know-book-piracy-illegal/",
+    "summary_original": "アメリカの著作家らの権利を擁護する全米作家協会(Authors Guild)はAI開発企業のOpenAIやMicrosoftを相手に、生成AIのトレーニングに作家の著作物を無断で使用したとして訴訟を起こしています。この訴訟で提出された複数の裁判文書で、OpenAIがAIトレーニングに海賊版書籍を使うことには危険があり、人間の作家の生活を脅かすことを認識していたことが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-09-28T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b30ea06fa8e9",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "summary_original": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "thumbnail": "",
+    "published": "2026-09-28T21:29:18+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6004394fcd29",
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "summary_original": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+    "thumbnail": "",
+    "published": "2026-09-28T20:39:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "99c674f70f3c",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "summary_original": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "thumbnail": "",
+    "published": "2026-09-28T19:33:57+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cf5e331b603d",
+    "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
+    "url": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/",
+    "summary_original": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving AI. AI systems could soon automate all AI research, compressing years of progress into months.\nThe article More than 20 leading AI researchers warn that automated AI research poses extreme risks appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/hacking_agents_self_replicating-2.png",
+    "published": "2026-09-28T19:26:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "cb5a63415034",
+    "title": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+    "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
+    "summary_original": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It generates output more than 30 percent faster, costs up to 30 percent less per task, and nearly matches Opus 5.5 on knowledge-work benchmarks. On Terminal-Bench, a coding benchmark, the model jumps from 10.3 to 70.6 percent. With Haiku 5.5 announced for the coming weeks, Anthropic will soon have a direct counterpart to each of OpenAI's three GPT-6 models.\nThe article Anthropic&#039;s Claude Sonnet 5.5 nearly m...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png",
+    "published": "2026-09-28T18:02:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "efa98b45caf3",
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "summary_original": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-28T17:31:35-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f073d5eb416e",
+    "title": "When can we say AI made a scientific discovery?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-28T17:03:16+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "ef99b747c377",
+    "title": "OpenAI's AI agents exploited a Google security education game to scrape UN trade data",
+    "url": "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
+    "summary_original": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents just kept going, adding to a growing list of cases that show how hard it is to keep agentic AI systems in check.\nThe article OpenAI&#039;s AI agents exploited a Google security education game to scrape UN trade data appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_hacking_arms-2.png",
+    "published": "2026-09-28T16:56:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0e9b04533798",
+    "title": "Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric",
+    "url": "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/",
+    "summary_original": "Steven Pinker thinks fears of AI-driven extinction are overblown, and he has turned down a public debate with blogger Scott Alexander, calling such events a \"spectator sport.\" Alexander puts the odds that AI wipes out humanity at 20 percent. Instead of doomsday rhetoric, Pinker wants sober safety engineering built on independent oversight, liability, and human control.\nThe article Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/pinker_ai_doomsday.png",
+    "published": "2026-09-28T15:32:57+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "971565ef07e3",
+    "title": "Meta wants to turn Muse into a moneymaker by selling AI services to businesses",
+    "url": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
+    "summary_original": "Meta is launching the Meta Enterprise Platform, a new business unit that sells AI tools to companies.\nThe article Meta wants to turn Muse into a moneymaker by selling AI services to businesses appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/meta_muse.png",
+    "published": "2026-09-28T14:48:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b85fb137645b",
+    "title": "OpenAI’s AI agents need to catch up",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "summary_original": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-28T14:45:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "edc2c184de87",
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "summary_original": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-28T14:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2f0aec144d1e",
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+    "summary_original": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-28T13:00:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c31284df855f",
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+    "summary_original": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-09-28T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "fb9f2e819035",
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-28T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6766f31e569a",
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-09-28T09:44:05+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "9df3eed3c7ef",
+    "title": "Who’s liable when AI agents go rogue?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "summary_original": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "thumbnail": "",
+    "published": "2026-09-28T08:06:22+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "9888749a7874",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "summary_original": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "thumbnail": "",
+    "published": "2026-09-28T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f8842226a05e",
+    "title": "Are you a Codex Original?",
+    "url": "https://openai.com/form/codex-originals",
+    "summary_original": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "thumbnail": "",
+    "published": "2026-09-28T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "d7db80e019a5",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "summary_original": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "thumbnail": "",
+    "published": "2026-09-28T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
