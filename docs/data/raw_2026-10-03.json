@@ -1,0 +1,402 @@
+[
+  {
+    "id": "d4fc701c3cc9",
+    "title": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
+    "url": "https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/",
+    "summary_original": "ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-03T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f4cdab8eb8d8",
+    "title": "アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる",
+    "url": "https://gigazine.net/news/20261003-very-hot-tea-coffee-cancer-risk/",
+    "summary_original": "飲み物にこだわりがあって、しっかり熱くなっていないと飲んだ気がしないと考える人は少なくないはず。紅茶とコーヒーの愛飲者を調べた研究で、熱い飲み物を飲むと食道がんのリスクが増加することが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-03T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7b9720aaa13a",
+    "title": "中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？",
+    "url": "https://gigazine.net/news/20261002-gpu-black-market-in-china/",
+    "summary_original": "アメリカが先端AI半導体の対中輸出を制限する一方、第三国の企業や物流網を通じて中国へ不正に送る事件が相次いでいます。アメリカ当局の摘発では、購入者や最終用途を偽り、大量のGPUやサーバーを調達する手口が明らかになりました。AIの軍事利用を抑えるための規制を、複雑な国際取引の中でどう徹底するかが課題になっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-02T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f8f9945809c1",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "summary_original": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "thumbnail": "",
+    "published": "2026-10-02T21:09:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e4a8603d2562",
+    "title": "無料でカスタマイズ可能SVGパターンをいろいろ作成できる「Book of Shapes」",
+    "url": "https://gigazine.net/news/20261002-book-of-shapes/",
+    "summary_original": "サイトやデザインの背景などに使えるベクター形式のSVGパターン作品集「Book of Shapes」は、さまざまなSVGパターンをカテゴリ別に見ることができるほか、パラメータを調節してカスタマイズした上でポスターを作成することもできます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-02T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6e083e751659",
+    "title": "無料メールアプリ「Thunderbird for iOS」の詳細がついに判明、iPhone・iPad向けにアカウント自動設定やバックグラウンド同期を開発中で数カ月以内のコミュニティテストを目指す",
+    "url": "https://gigazine.net/news/20261002-thunderbird-for-ios/",
+    "summary_original": "無料のメールクライアント「Thunderbird」を開発するThunderbirdチームが2026年10月1日にiPhone・iPad向けの「Thunderbird for iOS」の開発状況を公開しました。メールアカウントの簡単な追加やバックグラウンド同期、メールの閲覧・作成といった開発中の主要機能が明らかになっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-02T20:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e69696ae920f",
+    "title": "AI music generator Suno can now create spoken audio with matching background music",
+    "url": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
+    "summary_original": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories. Suno hasn't said how the model was trained.\nThe article AI music generator Suno can now create spoken audio with matching background music appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/suno_logo_walls-2.png",
+    "published": "2026-10-02T20:07:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6313bf26d732",
+    "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
+    "summary_original": "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した。国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。",
+    "thumbnail": "",
+    "published": "2026-10-02T20:04:32+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bac7d7bb813a",
+    "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+    "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+    "summary_original": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic is pushing toward a $2 trillion valuation and an IPO while security incidents and researcher warnings pile up. Critics warn that treating AI as a moral entity could shield the company from liability when things go wrong...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_religious_meetings.png",
+    "published": "2026-10-02T19:41:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ca751af23b3a",
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "summary_original": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "thumbnail": "",
+    "published": "2026-10-02T19:15:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "085fdf28a1b3",
+    "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
+    "url": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
+    "summary_original": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev. Both models are built on Qwen, licensed under Apache 2.0, and designed to let AI agents make structured decisions without generating text.\nThe article Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/cloudflare_logo_wall-2.png",
+    "published": "2026-10-02T18:19:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c651888416ca",
+    "title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
+    "summary_original": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前2時の実施を予定している。",
+    "thumbnail": "",
+    "published": "2026-10-02T18:19:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6a225a11d9fc",
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "summary_original": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+    "thumbnail": "",
+    "published": "2026-10-02T18:11:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "57c766e0e155",
+    "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+    "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
+    "summary_original": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the cluster and more compute when [&#8230;]\nThe post NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/10/image.jpeg",
+    "published": "2026-10-02T18:04:56+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "cf700e075881",
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "summary_original": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-10-02T17:56:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "398e0e7a6913",
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "summary_original": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-10-02T17:48:16+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "572d71e25752",
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "summary_original": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-02T17:08:37-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d8bea22f6536",
+    "title": "A model guide for the GPT-6 family",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "summary_original": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "thumbnail": "",
+    "published": "2026-10-02T16:15:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f9df9058658b",
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "summary_original": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-02T16:08:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ed9dd57bde82",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "summary_original": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Report-2026-UPDATE-cover.png",
+    "published": "2026-10-02T15:49:04+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "68c838988c47",
+    "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
+    "url": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
+    "summary_original": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit.\nThe post Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/www.marktechpost.com/99aa44e4-f441-4863-9646-3503c6879aac",
+    "published": "2026-10-02T15:23:35+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e5ba9a829e20",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-02T15:19:50+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "edef5e5d6249",
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "summary_original": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-02T14:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0b9a6f90fd4c",
+    "title": "Breaking up (with Elon Musk) is hard to do",
+    "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+    "summary_original": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-02T13:37:36-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "28ae6bbf9250",
+    "title": "Three firings and a fourth departure shake up OpenAI's safety team",
+    "url": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+    "summary_original": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal.\nThe article Three firings and a fourth departure shake up OpenAI&#039;s safety team appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+    "published": "2026-10-02T12:51:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "722fa63e09d1",
+    "title": "「Gemini 4 Argon」とは　性能評価にみるAstra／Fable／Opusとの違い　一般提供は年内？",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
+    "summary_original": "Googleが新AIモデル「Gemini 4 Argon」を発表。自社評価ではAstraやFable 5.1、Opus 5.5を多くの項目で上回るとうたう。当面はサイバー防御組織などに限定提供し、一般提供は「できるだけ早く」とする。",
+    "thumbnail": "",
+    "published": "2026-10-02T12:17:21+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "afc401940c18",
+    "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/SR-1_Freedom_Mars_flyby.jpg?fit=2128,1196",
+    "published": "2026-10-02T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "39e139e9aaf7",
+    "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
+    "url": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
+    "summary_original": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchmark, though, no model fully completes all the tasks. Without human oversight, AI still can't close the books on its own.\nThe article AI beats licensed accountants on speed and accuracy, but still can&#039;t close the books without supervision appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/mercor_accountants.png",
+    "published": "2026-10-02T11:15:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "134d91b140c0",
+    "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開　音声合成「MAI-Voice-2.1」と高速版も",
+    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
+    "summary_original": "Microsoft AIは、ストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」と音声合成モデル群を発表した。低遅延な逐次認識や声のトーンを保った多言語合成に対応し、音声エージェント構築を想定する。Microsoft Foundryでプレビュー提供を始め、複合デモも公開した。",
+    "thumbnail": "",
+    "published": "2026-10-02T10:47:09+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c8078b8002ff",
+    "title": "A new contest pits competitors against each other in a race to biological youth",
+    "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+    "summary_original": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-02T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6d59488a948e",
+    "title": "SIE、PS5向けAI採用画質向上技術「QSSR」発表　AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応",
+    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001946/",
+    "summary_original": "ソニー・インタラクティブエンタテインメントは、PS5向けのAIアップスケーリング技術「QSSR」を発表した。PS5 Pro向けのPSSRをAMDと共同で軽量化し、無印のPS5でもAIによる画質向上を実現する。「Marvel's Wolverine」などに先行導入され、今後全開発者へ提供を拡大する。",
+    "thumbnail": "",
+    "published": "2026-10-02T08:45:52+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1f69f98b0809",
+    "title": "AI hallucinations are making entitled customers even worse",
+    "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "summary_original": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-02T08:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6714225038a5",
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "summary_original": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-02T08:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e34747424b79",
+    "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
+    "url": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
+    "summary_original": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents.\nThe post AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Opt...",
+    "thumbnail": "",
+    "published": "2026-10-02T06:35:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "87e5762e9583",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-02T04:01:31+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "044319bc6eb4",
+    "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+    "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+    "summary_original": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency.\nThe post Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-02T01:00:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a7032382ee6c",
+    "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+    "url": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+    "summary_original": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments into plain dictionaries, kontext wires components via string paths, and ktyping enforces runtime shape checks.\nThe post A Coding Guide to Google Research&#8217;s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-02T00:32:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f5331f1181a0",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "summary_original": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "thumbnail": "",
+    "published": "2026-10-02T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "666ab6cbe8a4",
+    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "summary_original": "It has been a bad month for federal government cybersecurity.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg",
+    "published": "2026-10-01T20:28:45+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c2e023928fc0",
+    "title": "Memory executives expect RAM shortage to continue through 2028",
+    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "summary_original": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
+    "published": "2026-10-01T17:49:56+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  }
+]
