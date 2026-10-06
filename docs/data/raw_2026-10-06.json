@@ -1,0 +1,382 @@
+[
+  {
+    "id": "c9cf2e094955",
+    "title": "サロゲートAIの予測を金型設計に活用、国産3D CAD／CAM／CAEの最新版",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news005.html",
+    "summary_original": "UELは、国産3D CAD／CAM／CAEシステム「CADmeister 2026」の販売を開始した。サロゲートAIの予測結果をCADデータに反映する連携機能を追加。CAM自動化や3D検図、類似形状検索も強化し、金型の設計／製作における業務効率化と設計品質の向上を支援する。",
+    "thumbnail": "",
+    "published": "2026-10-06T09:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ea19bcf2e515",
+    "title": "自作PCユーザーの「重視するパーツ」「買い換えたいパーツ」「使っている最古のパーツ」などを調査してみた",
+    "url": "https://gigazine.net/news/20261006-gigazine-homebuild-pc/",
+    "summary_original": "GIGAZINEでは毎年3回実施しているプレゼントアンケートで、読者が使っているPCのブランド・CPU・マザーボード・グラフィックボード・メモリ・ストレージなどについて調査しています。この調査で、読者が使っているPCのブランドとして最も多いのが「自作」だったため、今回は読者がどんな自作PCを使っているのかをいつもより深堀りしてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-06T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "34c0c1a8f644",
+    "title": "“ツダケンAI裁判”の論点　「声優そっくりAI音声は合法」……にはならない？　弁護士が解説",
+    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002010/",
+    "summary_original": "9月30日、声優の津田健次郎さんが、自身の声に類似するAI音声を使った動画の削除を求めた訴訟について、東京地方裁判所の判決が言い渡された。結論として、津田さんの請求は棄却された。ただ、この判決は「声優の声と似たAI音声を使っても問題ないと裁判所が判断した」というものではない。",
+    "thumbnail": "",
+    "published": "2026-10-06T08:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c6e3a3ab2226",
+    "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
+    "url": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
+    "summary_original": "ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCPと並行して導入できるとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-06T08:05:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "310c3e0aa426",
+    "title": "【レベル16】3D CADモデルを魅力的に見せよ！",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news003.html",
+    "summary_original": "設計スキルのレベルアップを目指す設計者の皆さんを“冒険者”に見立て、さまざまな“問（モン）スター”に挑む「テルえもんクエストII」の世界へようこそ。【レベル16】では、前回作成した椅子の3Dモデルを題材に、レンダリング機能と生成AIを活用して魅力的に見せる方法を紹介する。",
+    "thumbnail": "",
+    "published": "2026-10-06T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "198287c4e64c",
+    "title": "現場データだけあってもダメ　フィジカルAIにありがちな“10の誤解”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news026.html",
+    "summary_original": "ロボットを導入し、現場データを集め、AIを載せればいい。フィジカルAIを巡って、企業にはそんな「分かったつもり」が広がっている。しかしそれは本当だろうか。ガートナーはフィジカルAIにおいて企業が持ちがちな“10の誤解”を公開した。",
+    "thumbnail": "",
+    "published": "2026-10-06T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4a115758bde5",
+    "title": "無料で国のミッションクリティカル作業のために構築された主権AIモデル「Kolibri」、公共行政・産業・航空宇宙などの規制分野での使用が前提でオープンソースなだけでなく構築過程も透明化",
+    "url": "https://gigazine.net/news/20261006-kolibri/",
+    "summary_original": "ドイツのAIスタートアップ企業Aleph Alphaは、ドイツ統一の日にあたる2026年10月3日に新たな言語モデル「Kolibri」を発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-06T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ac688973b921",
+    "title": "「トークン単価は8割下がった。なのに請求額は増えた」――その“見えないAI浪費”の正体",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html",
+    "summary_original": "AIのトークン単価が下がり続けてきたにもかかわらず、企業が支払うAIの請求額は増えている――。気付かないうちに膨らむ「トークン浪費」がなぜ起きるのかを考えます。",
+    "thumbnail": "",
+    "published": "2026-10-06T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5a127df958b5",
+    "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+    "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+    "summary_original": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%.\nThe post Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-05T22:51:05+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fb0b068eb35b",
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "summary_original": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+    "published": "2026-10-05T22:26:35+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "51506f78d0de",
+    "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+    "url": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+    "summary_original": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling.\nThe post Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-05T21:41:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "76614408d53d",
+    "title": "125Bの「Qwen3.8-Flash-Next」の量子化版をゲーミングPCで高速ローカル実行可能にするAI実行アプリ「Strata」",
+    "url": "https://gigazine.net/news/20261005-strata-local-ai/",
+    "summary_original": "最先端AIモデルがオープンモデルとして公開される例が増えていますが、最先端モデルは規模が大きすぎてローカルで実行するにはデータセンター級のAI実行インフラが必要となります。「Strata」は1250億パラメーターのQwen3.8-Flash-Nextの量子化版を比較的入手しやすいハイエンドゲーミングPCで実行可能にするアプリです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-05T21:08:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "36404cf3f8a5",
+    "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+    "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+    "summary_original": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026.\nThe post Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-05T21:04:20+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "da900962cd4b",
+    "title": "世界各地の灯台を示したマップ「Every lighthouse in the world」",
+    "url": "https://gigazine.net/news/20261005-lighthouse-world-map/",
+    "summary_original": "灯台は岬の先端や港に設置される建造物であり、外観や発する光によって航行する船舶の目印となります。世界各地に存在する灯台を示し、さらに光の周期まで同期させたというオンラインマップが「Every lighthouse in the world」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-05T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "212da1d35ed9",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "summary_original": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "thumbnail": "",
+    "published": "2026-10-05T20:36:48+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "13557b75794f",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "summary_original": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "thumbnail": "",
+    "published": "2026-10-05T19:33:53+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a2b98cad80f6",
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "summary_original": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-05T19:09:55-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ad1829c4f700",
+    "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+    "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+    "summary_original": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000. Both companies are pushing their own AI tools instead. For Anthropic, that reliance on a few major clients is turning into a strategic risk.\nThe article Meta and Microsoft pull back from Claude as Anthropic transforms from partner into compe...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+    "published": "2026-10-05T18:59:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a8ac03afa12d",
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "summary_original": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "thumbnail": "",
+    "published": "2026-10-05T18:54:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1278561c2128",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "summary_original": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "thumbnail": "",
+    "published": "2026-10-05T18:29:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a0bf75200ce3",
+    "title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
+    "url": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+    "summary_original": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute today's top models need. Instead of routing tasks to specialized systems, Rho-1 runs all modalities as tokens in one shared context window.\nThe article Reka AI&#039;s omni-model Rho-1 handles text, images, video, and robot control in a single model appeared fir...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/rho1_images.png",
+    "published": "2026-10-05T18:26:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "73d310a0d76f",
+    "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+    "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
+    "summary_original": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced.\nThe article OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2.png",
+    "published": "2026-10-05T17:32:42+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d31c63ac3bf4",
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "summary_original": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+    "thumbnail": "",
+    "published": "2026-10-05T17:29:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7284d51ec07e",
+    "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
+    "url": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
+    "summary_original": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent safety standards, and 74 percent have little or no trust in AI company leaders. \"[…] the public wants safeguards that do not depend simply on taking company leaders at their word,\" said researcher Chetan Jaiswal.\nThe article Most Americans want AI development to slow down or stop entirely, new poll finds appeared first on T...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
+    "published": "2026-10-05T16:37:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5b8c439bb621",
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "summary_original": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-05T16:14:57-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1df448fe3c85",
+    "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
+    "url": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
+    "summary_original": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock donation with extra shares and triples contributions from early employees.\nThe article Anthropic is quietly becoming America&#039;s biggest corporate donor ahead of its mega IPO appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+    "published": "2026-10-05T16:00:12+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "16ad415e0c7f",
+    "title": "Connecting AI agents to enterprise knowledge",
+    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "summary_original": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Report-2026-cover.png",
+    "published": "2026-10-05T15:47:52+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a2264bd4ba73",
+    "title": "All the drama around AI&#8217;s takeover of mathematics",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "summary_original": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-05T15:28:59-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "aea90afb465b",
+    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "summary_original": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-05T15:05:19-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f9545c4ec00f",
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "summary_original": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "thumbnail": "",
+    "published": "2026-10-05T15:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "97af931021b6",
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "summary_original": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-05T14:08:39-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "10d6f4f6fd7b",
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "summary_original": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MIT_TP_CoverPredictiveAnalyticsV9_9926.png?w=840",
+    "published": "2026-10-05T13:29:32+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a9f048f810e1",
+    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?fit=2128,1196",
+    "published": "2026-10-05T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b0c4983426b3",
+    "title": "Building advertising for the way people use AI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "summary_original": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "thumbnail": "",
+    "published": "2026-10-05T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "9033eec27783",
+    "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+    "url": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+    "summary_original": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%.\nThe post Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-5-scaled.png",
+    "published": "2026-10-05T08:10:37+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "cc4fbf263535",
+    "title": "People really hate AI, so why can’t they get enough?",
+    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "summary_original": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-05T08:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d09db4d8a0ea",
+    "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+    "url": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+    "summary_original": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source.\nThe post The Story of Qwen: Alibaba&#8217;s AI Models From 7B to 2.4T appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-4-scaled.png",
+    "published": "2026-10-05T04:10:34+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c8d1f5dc3656",
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+    "summary_original": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
+    "published": "2026-10-05T04:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
