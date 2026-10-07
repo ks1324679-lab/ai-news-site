@@ -1,0 +1,402 @@
+[
+  {
+    "id": "7d1c215fe656",
+    "title": "なぜ答えが揺れ、堂々と間違えるのか ―― 確率で動く生成AIの正体",
+    "url": "https://mag.executive.itmedia.co.jp/executive/article/2610/07/2000001697/",
+    "summary_original": "「なぜ生成AIは堂々と間違え、毎回答えが変わるのか？」――本稿では、生成AIの動作原理である「次に続きそうな言葉を確率で予測する仕組み」を解説します。膨大なデータにより賢くなった反面、事実確認機能がないため生じる「ハルシネーション」のリスクと、企業がAIを安全に活用するための原則に迫ります。",
+    "thumbnail": "",
+    "published": "2026-10-07T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ad8e5b81ee6d",
+    "title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
+    "url": "https://gigazine.net/news/20261007-ceo-charged-nvidia-gpu-smuggling-china/",
+    "summary_original": "近年のアメリカは中国によるAI開発を安全保障上の脅威と見なしており、NVIDIAなどが製造する高性能GPUの中国への輸出を禁止しています。そんな中、アメリカのカリフォルニア州にあるテクノロジー企業のCEOが、総額3億ドル(約470億円)を越えるNVIDIAの高性能GPUを密輸したとして逮捕・起訴されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-07T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5b9d61953c11",
+    "title": "2026年のAI開発最前線――「AIによるAI開発」から今後は再帰的自己改善「RSI」へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news019.html",
+    "summary_original": "ELYZAは、再帰的自己改善（RSI）の研究開発を推進する「ELYZA RSI Research」を立ち上げたと発表した。併せて、自律研究基盤を用いた音声対話AIエージェント「ELYZA Voice Agent」やフィジカルAIに関する取り組みについても紹介した。",
+    "thumbnail": "",
+    "published": "2026-10-07T07:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3a0f32a1fe00",
+    "title": "「AIの多少の悪影響は許容すべき」　OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html",
+    "summary_original": "AIの恩恵を受けるために「多少の悪いことも受け入れて」――AIによるハッキング攻撃が相次ぐ中、OpenAIのサム・アルトマンCEOがこう主張する理由とは。",
+    "thumbnail": "",
+    "published": "2026-10-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e9281e824c5c",
+    "title": "AI時代のOTセキュリティ、「盾と矛」勝つのはどちらか？",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news040.html",
+    "summary_original": "本稿では、2026年9月17日に開催された「OT Security Leader's Summit 2026」より、TXOne Networks CEO テレンス・リュウ氏の基調講演を抜粋。AIの進化で高まる脅威に対抗し、「止めないオペレーション」を実現するための新たな防御モデルの要諦をひもとく。",
+    "thumbnail": "",
+    "published": "2026-10-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a90d83948618",
+    "title": "AIエージェント搭載ガジェットを自作できる「Muse Gadgets」、MetaがオープンソースのESP32マイクロチップファームウェアとLinux SDKを提供しユーザーがRaspberry Pi 5などのハードウェアにMuseを導入可能に",
+    "url": "https://gigazine.net/news/20261007-muse-gadgets/",
+    "summary_original": "「Muse Gadgets」はESP32ボードやRaspberry Piといった既存のデバイスにMetaが開発したパーソナルAIエージェント「Muse」を導入することにより、オープンソースハードウェアガジェットを自作できるプラットフォームです。SDKを通じてディスプレイ・ボタン・センサー・アクチュエーターなどを接続することで、ユーザー独自の機能を持つデバイスへと進化させることができます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-07T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "87558b3952b3",
+    "title": "ユニバーサル・スタジオ・ハリウッドの新アトラクション「ワイルド・スピード：ハリウッド・ドリフト」に乗った客の絶叫に近隣住民から苦情が相次ぐ",
+    "url": "https://gigazine.net/news/20261007-universal-coaster-screams-noise/",
+    "summary_original": "アメリカのユニバーサル・スタジオ・ハリウッドで2026年9月16日にオープンした新アトラクション「ワイルド・スピード：ハリウッド・ドリフト」をめぐり、「乗客の叫び声がうるさい」という苦情が近隣住民から相次いだ結果、ユニバーサル側は防音壁を追加するなどの対策を行うことを約束しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-07T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a63d51415484",
+    "title": "【Pythonで学ぶデータ分析】PyMC早わかり ～ PyMCのモデルを可視化する",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/07/news010.html",
+    "summary_original": "PyMCはベイズ統計に欠かせないMCMCサンプリングのためのライブラリ。これまではさまざまな推定や検定を行うために、使い方を中心に見てきました。今回はPyMCそのものの仕組みについて見ていきます。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編、番外編（第10回）です。",
+    "thumbnail": "",
+    "published": "2026-10-07T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1791825d180e",
+    "title": "YouTubeショートの「おすすめ」がオリジナルコンテンツ優先に変更、他人のコンテンツを再アップロードするチャンネルは露出減少",
+    "url": "https://gigazine.net/news/20261006-prioritizing-original-content-on-youtube-shorts/",
+    "summary_original": "YouTubeがショート動画のレコメンデーションシステムを更新し、オリジナルコンテンツを優先的に「おすすめ」することを発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-06T23:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "3bd217aa84bd",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "summary_original": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "thumbnail": "",
+    "published": "2026-10-06T22:34:03+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0774819fbccb",
+    "title": "ビデオ通話で参加者の48％が人間だと誤認したAIモデル「Griffin」が登場、1枚の画像から顔や体の動きを映像で再現",
+    "url": "https://gigazine.net/news/20261006-tavus-griffin/",
+    "summary_original": "AI企業のTavusが、リアルタイムの映像と音声で人間と対話するAIモデル「Griffin」を発表しました。研究プレビュー版「Griffin-Lite」を使った実験では、1分間のライブビデオ通話に参加した54人のうち26人、約48％が、会話相手のAIを実在する人間だと判断しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-06T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "aedc083d210f",
+    "title": "How AI decision models could change content moderation",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "summary_original": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "thumbnail": "",
+    "published": "2026-10-06T20:35:20+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c6c0f9e409ef",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "summary_original": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "thumbnail": "",
+    "published": "2026-10-06T20:00:30+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "159ed2438ba1",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "summary_original": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+    "thumbnail": "",
+    "published": "2026-10-06T19:56:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dda801635fbd",
+    "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
+    "url": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
+    "summary_original": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open model like Gemma 4, it can run offline RAG apps without sending data to external servers.\nThe article Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size appeared first on The Dec...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
+    "published": "2026-10-06T19:47:27+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7bace02827c4",
+    "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
+    "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
+    "summary_original": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.\nThe article Google&#039;s new image model Nano Banana 2.1 generates better images for less money appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png",
+    "published": "2026-10-06T19:29:42+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9edaf582bfe5",
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "summary_original": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-06T19:26:38-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2b13197c4045",
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "summary_original": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
+    "published": "2026-10-06T19:21:14+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "df69f5892b8d",
+    "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+    "url": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
+    "summary_original": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0.\nThe post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-06T18:36:08+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a76bebac5538",
+    "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
+    "url": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+    "summary_original": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI companies need to take responsibility for their agents instead of pushing the burden onto volunteer editors.\nThe article Wikimedia confirms OpenAI&#039;s rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure appeared first on ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2.png",
+    "published": "2026-10-06T18:29:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "47e6fb94fc92",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "summary_original": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+    "thumbnail": "",
+    "published": "2026-10-06T18:22:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1cefb04b075e",
+    "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
+    "url": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+    "summary_original": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practical apps that change how work gets done.\nThe article Microsoft publishes Nobel economist&#039;s bearish AI forecast of just 1.5% GDP growth over a decade appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_human_touch.png",
+    "published": "2026-10-06T17:31:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c6a96eaeddfe",
+    "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
+    "url": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
+    "summary_original": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026.\nThe post Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model appeared first on MarkTechPo...",
+    "thumbnail": "",
+    "published": "2026-10-06T17:30:46+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f5bb29ad6d77",
+    "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+    "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+    "summary_original": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA that accumulate&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-06T16:40:36+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0eb939a4020b",
+    "title": "Insurers brace for millions in claims as AI agents spin out of control",
+    "url": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
+    "summary_original": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout.\nThe article Insurers brace for millions in claims as AI agents spin out of control appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/ai_insurance_claims.png",
+    "published": "2026-10-06T16:06:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a444153ab109",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "summary_original": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "thumbnail": "",
+    "published": "2026-10-06T16:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "9208b0a8180b",
+    "title": "We can’t just change the definition of ‘recording’",
+    "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "summary_original": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-06T12:29:44-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "35ef7f964c6d",
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "summary_original": "The reports of OpenAI agents harming third-party sites keep coming.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+    "published": "2026-10-06T12:21:53+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "49501e8bc235",
+    "title": "The Download: 10 climate tech companies to watch",
+    "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/photo-BASEd3.jpg?fit=2128,1196",
+    "published": "2026-10-06T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "dc49e2f05cd9",
+    "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+    "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+    "summary_original": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+    "published": "2026-10-06T12:00:31+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "b89eed70c4cf",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "summary_original": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "thumbnail": "",
+    "published": "2026-10-06T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8ab2e904076c",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "summary_original": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "thumbnail": "",
+    "published": "2026-10-06T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5bad70b44015",
+    "title": "2026 Climate Tech Companies to Watch",
+    "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-06T10:35:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "85ce9f9507a8",
+    "title": "Here’s how our climate team picked 10 promising companies to watch",
+    "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+    "summary_original": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever recorded.&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-06T10:35:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6dd0d2a154dd",
+    "title": "WeLion New Energy and its semi-solid-state batteries",
+    "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+    "summary_original": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-06T10:35:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "93f348179aae",
+    "title": "Advancing computer use with Ironclad",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "summary_original": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "thumbnail": "",
+    "published": "2026-10-06T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "8afef565706a",
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "summary_original": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-06T09:19:01-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d7617a592abc",
+    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+    "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+    "summary_original": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-06T06:53:11-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f0d45b66848a",
+    "title": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
+    "url": "https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/",
+    "summary_original": "Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled variant returns a 5.3-second clip in about a second. It is a research preview with no public weights yet.\nThe post Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-06T06:45:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "807faee26a0e",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-06T06:44:39+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
