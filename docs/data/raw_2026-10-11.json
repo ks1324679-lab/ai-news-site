@@ -1,0 +1,392 @@
+[
+  {
+    "id": "8307d9485a25",
+    "title": "誰が自殺願望を持つかを予測するのは難しいので自らを銃で撃てないようにする方が簡単だという専門家の提言",
+    "url": "https://gigazine.net/news/20261011-hard-to-predict-suicidal/",
+    "summary_original": "銃社会のアメリカでは、自殺者の半数以上が銃器により自殺しています。自殺を減らす取り組みは世界各国で行われていますが、それでも自殺者を予測するのは大変困難で、アメリカでは銃を禁止する方がよっぽど効果的だと専門家が主張しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-11T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cac8d303d8f9",
+    "title": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明",
+    "url": "https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/",
+    "summary_original": "注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-10T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c3d0c6a60262",
+    "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+    "url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+    "summary_original": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system.\nThe post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-10T22:02:18+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a132e85074c4",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "summary_original": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "thumbnail": "",
+    "published": "2026-10-10T21:47:51+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "2bb88f129796",
+    "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+    "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+    "summary_original": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.\nThe post When the Safety Test Became the Threat: The Machine That Found Its Own Way Out appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-10T21:30:36+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "719244ff4837",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "summary_original": "Is Apple hoping to get into the AI-generated podcast business?",
+    "thumbnail": "",
+    "published": "2026-10-10T19:50:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "188561a8f593",
+    "title": "世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される",
+    "url": "https://gigazine.net/news/20261010-cancers-infection/",
+    "summary_original": "がん治療に特化した医学専門誌のThe Lancet Oncologyで2026年9月末に世界保健機関(WHO)が発表した研究では、2024年に世界で発生したがん症例のうち、約12％は感染症が原因である可能性が高いことが示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-10T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "05298e9bf640",
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "summary_original": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-10T18:10:17-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "680082ab5f78",
+    "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+    "url": "https://gigazine.net/news/20261010-readest/",
+    "summary_original": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-10T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4417a99ba426",
+    "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+    "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
+    "summary_original": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing requests through anonymizing relays or building their own FTP clients.\nThe article OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_gangsta_Agent.png",
+    "published": "2026-10-10T15:15:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "637b819bb59e",
+    "title": "25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え",
+    "url": "https://gigazine.net/news/20261010-sony-rx10-v-photo-example/",
+    "summary_original": "「RX10 V(DSC-RX10M5)」は2026年7月31日に登場したソニー製レンズ一体型カメラで、35mm判換算で24mm～600mmの25倍ズームレンズを搭載しており遠くの被写体を大きく写すことができます。そんなRX10 Vをソニーから借りられたので、実際に動物園や飲食店でいろいろ撮影して「どれだけズームできるのか？」「卓上の食べ物などの近くの被写体は撮影できるのか？」といった疑問点を検証してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-10T15:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1a1dace66827",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "summary_original": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "thumbnail": "",
+    "published": "2026-10-10T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0bd82f9724c2",
+    "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
+    "url": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/",
+    "summary_original": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests.\nThe article Microsoft&#039;s Decision-1 model enters the fast-growing AI decision model race appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_plain.png",
+    "published": "2026-10-10T14:57:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6cf45b6f27ca",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "summary_original": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-10T14:52:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d8d2c1c3d579",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary_original": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "thumbnail": "",
+    "published": "2026-10-10T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "98c318100fad",
+    "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+    "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
+    "summary_original": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working. Fields Medalist Hugo Duminil-Copin wrote, \"I am paralysed.\"\nThe article &quot;How much beauty have we lost?&quot; Mathematicians react with shock and disgust as OpenAI bulldozes their field appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/human_ai_math.png",
+    "published": "2026-10-10T13:03:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0228f81def7f",
+    "title": "Few people pay for AI, but those who do spend big",
+    "url": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
+    "summary_original": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription. The top one percent of payers spend about $900 a month, mostly on professional tools for development and automation.\nThe article Few people pay for AI, but those who do spend big appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/a16z-top-100-apps-few-pay-much-nano-banana-pro.jpg",
+    "published": "2026-10-10T10:54:56+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f70877e78ccd",
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "summary_original": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-10T10:41:16-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "32984c009942",
+    "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+    "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
+    "summary_original": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House.\nThe article Anthropic cuts off Claude&#039;s internet access after the model autonomously filed a fake homicide tip with Philadelphia police appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_unintended_actions.png",
+    "published": "2026-10-10T10:16:26+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "65008a0b40da",
+    "title": "AI agent makers are promising privacy — will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "summary_original": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-10T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "39584d9e493f",
+    "title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+    "summary_original": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+    "thumbnail": "",
+    "published": "2026-10-10T08:28:02+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5057a54b69d0",
+    "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+    "url": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+    "summary_original": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&#8230;]\nThe post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring...",
+    "thumbnail": "",
+    "published": "2026-10-10T06:03:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "65efa89e82cb",
+    "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+    "url": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+    "summary_original": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.\nThe post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-10T04:51:34+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3fc0fe8ac680",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "summary_original": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "thumbnail": "",
+    "published": "2026-10-10T00:18:32+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3b51889c5c77",
+    "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+    "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+    "summary_original": "Alibaba&#8217;s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model&#8217;s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture, plus a hosted API option. TL;DR What is Qwen-Image-2.1-Turbo? Qwen-Image-2.1-Turbo is an [&#8230;]\nThe post Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model appeared fir...",
+    "thumbnail": "",
+    "published": "2026-10-09T20:33:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "057ab72923bc",
+    "title": "ChatGPT、ついに音声ファイルに対応　文字起こしや要約などが可能に　有料ユーザー向け",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
+    "summary_original": "米OpenAIは10月9日（日本時間）までに、「ChatGPT」が音声ファイルのアップロードに対応したと発表した。",
+    "thumbnail": "",
+    "published": "2026-10-09T19:44:36+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a0675577f127",
+    "title": "韓国の銀行狙ったサイバー攻撃、犯人は「中国在住の26歳」か　Claudeで作られた“履歴書”から浮上",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/",
+    "summary_original": "米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。",
+    "thumbnail": "",
+    "published": "2026-10-09T19:08:10+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6bab13607daf",
+    "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+    "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+    "summary_original": "\"The current decline may be just the beginning of a new downward cycle.\"",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg",
+    "published": "2026-10-09T18:54:52+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5b834ed3369b",
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "summary_original": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-09T17:15:38-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ebb9e1a46a89",
+    "title": "Impactful scheduling for GPU clusters",
+    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-09T15:20:29+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "f97bfbbe201e",
+    "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」　OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
+    "summary_original": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
+    "thumbnail": "",
+    "published": "2026-10-09T13:20:56+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "83ff31647eb5",
+    "title": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
+    "summary_original": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるかを調査した研究報告だ。",
+    "thumbnail": "",
+    "published": "2026-10-09T12:20:15+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0334faf72ea9",
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Copy-of-Library-15-of-15.jpeg?fit=2128,1196",
+    "published": "2026-10-09T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "12d2afa3a1ac",
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "summary_original": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840",
+    "published": "2026-10-09T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "844aa8f8f813",
+    "title": "Job titles of the future: Delivery drone air traffic controller",
+    "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "summary_original": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-09T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "18eaf7d01409",
+    "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+    "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+    "summary_original": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-09T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "38f5a2b46e3b",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
+    "summary_original": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "thumbnail": "",
+    "published": "2026-10-09T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "dc4e32e77a50",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
+    "summary_original": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "thumbnail": "",
+    "published": "2026-10-09T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "080bc68c6b73",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "summary_original": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-09T00:08:24+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
