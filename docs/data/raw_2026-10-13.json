@@ -1,0 +1,322 @@
+[
+  {
+    "id": "62667ed5be0a",
+    "title": "モバイルバッテリーが機内で爆発、乗客と乗務員が消火する様子を収めた動画が公開される",
+    "url": "https://gigazine.net/news/20261013-indigo-flight-power-bank-fire/",
+    "summary_original": "インドの格安航空会社であるIndiGoで、乗客の持ち込んだモバイルバッテリーが発火し、緊急着陸する事態が発生しました。乗客によって撮影された機内の様子がSNSで公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-13T11:17:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7f8bf658fd80",
+    "title": "Googleが税込2万6800円の画面付きフィットネストラッカー「Google Fitbit Edge」を発表、バッテリーは充電1回で最大1週間持続",
+    "url": "https://gigazine.net/news/20261013-google-fitbit-edge/",
+    "summary_original": "Googleが新型スマートウォッチ「Google Fitbit Edge」を発表しました。多機能なスマートウォッチであるGoogle Pixel Watchと、シンプルで画面を持たないFitbit Airのちょうど中間にあたるスマートウォッチで、1回の充電で1週間持続するバッテリーの持ちが売りとなっています。価格は2万6800円で、発売日は10月27日です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-13T11:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "372a75b696f6",
+    "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
+    "summary_original": "Microsoftは、自社設計AIアクセラレータ「Maia 300」を発表した。TSMCの2nmプロセスを採用し、HBM4を288GB搭載。推論処理に特化し、GPU基盤比で電力効率を向上させて前世代比最大7倍の処理能力を実現した。数ギガワット規模で展開し、自社サービスの中核に据える。",
+    "thumbnail": "",
+    "published": "2026-10-13T09:24:59+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6c047353e4e8",
+    "title": "スマート家電を「使いたい」「もう使っている」人が半数超えのGIGAZINE読者にスマートホームの理想と現実を聞いてみた",
+    "url": "https://gigazine.net/news/20261013-gigazine-user-smart-home/",
+    "summary_original": "エアコンの電源を入れたり照明の明るさを変えたりとさまざまな家電を手元のスマートフォンやPCで操作できる「スマート家電」について、GIGAZINEが2026年夏に実施した読者アンケートで利用状況や今後の希望を調べてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-13T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5c25487700c4",
+    "title": "新サービス「Gemini Agent」は企業向け、「Gemini Enterprise」加入者は追加料金なし　日本提供時期は未定",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-13T08:51:44+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "60eada1b5a5d",
+    "title": "OpenAI幹部が明かす“AI暴走事故”の教訓　“安全運転”のカギは",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002180/",
+    "summary_original": "OpenAIのAIが起こした「Hugging Face」への侵入事案から約3カ月、OpenAI幹部のクリス・レヘイン氏にAI開発の安全対策の考え方などを聞いた。",
+    "thumbnail": "",
+    "published": "2026-10-13T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "96deb3fadd43",
+    "title": "Meta、同社最大のAIモデル「Muse Wonder」発表　記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/",
+    "summary_original": "Metaは、最大かつ最強と位置付ける新AIモデル「Muse Wonder」と上位モデル「Muse Wonde Full」を発表した。会話をまたいで記憶を保持する機能や粘り強くタスクを遂行する機能を備え、エージェント用途に最適化した。APIやコーディングツールで提供を始めたほか、個人向けAIエージェント「Muse」にも順次搭載していく。",
+    "thumbnail": "",
+    "published": "2026-10-13T07:06:29+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "987c427e96d9",
+    "title": "企業向けAIは「大規模LLM」一択ではない　Zohoが重視するコストとデータ保護",
+    "url": "https://kn.itmedia.co.jp/kn/article/2610/13/2000002172/",
+    "summary_original": "AI選択は、性能だけでなく、運用コストやデータ保護をどう両立するかが課題となる。用途に応じてAIモデルを使い分け、自社データの管理や判断根拠の説明にも配慮することが重要だ。",
+    "thumbnail": "",
+    "published": "2026-10-13T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b96c1fcd585f",
+    "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
+    "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
+    "summary_original": "現代の工作機械は非常に精密でほとんど誤差がない部品を作ることができますが、初めから現代のような精度があったわけではありません。18世紀中頃～19世紀の産業革命の時代に、どのようにして精度の高い「ねじ」を生み出したのかについて、エンジニアで起業家のゲイリー・リンスコット氏が解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-13T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "21316c2e6634",
+    "title": "各社のAIがリリース後にどれだけ性能変化したかがグラフでわかるベンチマーク「Nerf Bench」",
+    "url": "https://gigazine.net/news/20261013-nerf-bench/",
+    "summary_original": "「Nerf Bench」はAIモデルがローンチデー(サービス開始日)からどれだけ性能を維持しているかを評価するベンチマークです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-13T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d177a199d494",
+    "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+    "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+    "summary_original": "Alibaba&#8217;s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning system from Alibaba that trains coding agents through unmodified, black-box harnesses. It targets rollouts that run for hours and process close to 1M tokens. The QwenGyre elastic RL framework was used on Qwen&#8217;s [&#8230;]\nThe post Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Ho...",
+    "thumbnail": "",
+    "published": "2026-10-12T21:41:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "f27493e4ee2c",
+    "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
+    "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+    "summary_original": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled.\nThe article Meta&#039;s new frontier model Muse Wonder Full breaks into the AI top tier appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/muse_wonder.png",
+    "published": "2026-10-12T18:48:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "41b01c40c062",
+    "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
+    "url": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/",
+    "summary_original": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds. But when the model misses the same errors across all three roles, it can mistake them for progress and reinforce them during training.\nThe article Sakana AI&#039;s self-improving model gets better at solving and judging, but can&#039;t catch its own blind spots appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/mass-recursive-self-improvement-optimization-nano-banana-pro.jpg",
+    "published": "2026-10-12T17:58:54+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "15f0749a6da1",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "summary_original": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "thumbnail": "",
+    "published": "2026-10-12T17:56:56+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7b6bf13f385b",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "summary_original": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "thumbnail": "",
+    "published": "2026-10-12T17:19:14+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7b31c9999d17",
+    "title": "Clearing chat history helps AI agents find better solutions",
+    "url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
+    "summary_original": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the chat history but keeps the workspace, achieving up to 66 percent better results on the same compute budget.\nThe article Clearing chat history helps AI agents find better solutions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/fork_flush.png",
+    "published": "2026-10-12T16:10:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3167f1c8b10b",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "summary_original": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "thumbnail": "",
+    "published": "2026-10-12T15:45:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e9c9ac8e21ac",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "summary_original": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "thumbnail": "",
+    "published": "2026-10-12T15:31:19+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b32e4e442964",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "summary_original": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "thumbnail": "",
+    "published": "2026-10-12T15:27:59+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "692bb86f72f2",
+    "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
+    "url": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+    "summary_original": "Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300 should deliver 40 percent more tokens per megawatt than leading GPU systems. CEO Satya Nadella calls it \"our biggest bet yet on our own silicon.\"\nThe article Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_mai_300.png",
+    "published": "2026-10-12T15:24:03+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e25956cff138",
+    "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+    "url": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+    "summary_original": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency. Diplomatic pressure from AI Minister Kanishka Narayan led to the reversal.\nThe article White House reverses course and restores UK AI Safety Institute&#039;s access to frontier models appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/aisi_us_access.png",
+    "published": "2026-10-12T13:14:54+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e41af6ba2638",
+    "title": "Meta has some Wonder Full new AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "summary_original": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-12T13:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2d02358b9788",
+    "title": "The Download: moon city problems and drone traffic controllers",
+    "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515040-thumb.jpeg?w=840",
+    "published": "2026-10-12T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "754aa7508f06",
+    "title": "Mars may be a hellhole, but the moon is not far behind",
+    "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+    "summary_original": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Selman-MIT-MoonBase-LavaCaves.png?w=840",
+    "published": "2026-10-12T09:37:02+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d4b50bc6b2e0",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "summary_original": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-12T09:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c83e0702d087",
+    "title": "The ecologist revealing the invisible networks that revive rainforests",
+    "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "summary_original": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-12T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b5dbd031c03c",
+    "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+    "url": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+    "summary_original": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing.\nThe post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-12T08:20:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "45e1ebb38a5c",
+    "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
+    "url": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
+    "summary_original": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available.\nThe post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-12T03:16:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "12b37f59212e",
+    "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+    "url": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+    "summary_original": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038.\nThe post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-11T23:15:52+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7597cf9db398",
+    "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+    "url": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
+    "summary_original": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text.\nThe post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-11T21:43:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5e9f78f70319",
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "summary_original": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-11T14:33:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "90bfa0449fc8",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "summary_original": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-11T07:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
