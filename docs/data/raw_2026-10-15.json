@@ -1,0 +1,402 @@
+[
+  {
+    "id": "6f5e935c15b8",
+    "title": "Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮",
+    "url": "https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/",
+    "summary_original": "「WordCraft」はオープンソースで開発されている文書作成アプリです。日本時間の2026年10月8日バージョン0.1.0がリリースされ、高頻度でアップデートが実施されて14日時点ではバージョン0.6.1に達しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-15T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d767f6ad8117",
+    "title": "石器時代のロープや糸を作る「見えない技術」を考古学者が復元",
+    "url": "https://gigazine.net/news/20261015-stone-age-invisible-fiber-technology/",
+    "summary_original": "石器時代の人々は植物の繊維でロープや糸を作っていました。テュービンゲン大学などの研究者は、出土した道具を調べ、複製した道具でロープ作りを再現して当時の技術や暮らしを探っています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-15T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1f80744f197b",
+    "title": "IFS最大イベントで新産業用AI発表　対話と自律実行で「眠る40％」を解き放つ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/15/news017.html",
+    "summary_original": "IFSのフラグシップカンファレンス「IFS Unleashed 2026」が、米国オーランドで開幕した。同イベントに合わせて、産業用AIプラットフォームの新製品「IFS Intelligence」を発表。対話型機能、自律型エージェント、開発支援の3機能を通じて、企業内に眠る未活用データを引き出し、自律型AIで具体的なアクションへと導く。",
+    "thumbnail": "",
+    "published": "2026-10-15T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "45c8538a2e7e",
+    "title": "実はCodex CLIはデフォルトで永続的かつ自己更新型のバックグラウンドデーモンをインストールしていることが判明、無効にする公式の方法は無し",
+    "url": "https://gigazine.net/news/20261015-codex-cli-background-daemon/",
+    "summary_original": "Codex CLIのバージョン0.157.0からdaemon_auto_start機能がデフォルトで有効化されましたが、daemon_auto_start機能に関連してユーザーから予期せぬバックグラウンドプロセスの起動・リソース消費・セッションへの影響・環境の不整合といった問題が報告される事態となっています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-15T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ad357c748659",
+    "title": "1976年に「コンピューターを使った数学定理の証明」が発表された際に数学者らはどう反応したのか？",
+    "url": "https://gigazine.net/news/20261014-1st-time-machines-mathematical-proof/",
+    "summary_original": "2026年10月にOpenAIが社内AIを用いて得られた700点以上の「数学的成果」を発表した件は、数学者らの間で物議を醸しています。数学問題の証明にコンピューターが使われた事例は今回が初ではないとして、テクノロジー系ライターのルイス・ランスロー氏が、1976年に初めて「コンピューターによる数学定理の証明」が発表された際の数学者の反応についてまとめています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-14T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d0bdec9df55d",
+    "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
+    "url": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
+    "summary_original": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license.\nThe post Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-14T22:52:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c1693f7b1955",
+    "title": "GoogleのEmbeddingGemma 2を音声認識モデルに変換した「Embedding Gemma Transcribe」、オフライン環境のMacなら15分の音声をわずか約3秒で爆速文字起こし可能",
+    "url": "https://gigazine.net/news/20261014-embetting-gemma-transcribe/",
+    "summary_original": "音声をテキストに変換する文字起こしには一般的に音声認識専用のAIモデルが使われます。しかし、文章の意味を数値で表現する埋め込みモデルのEmbeddingGemma 2を利用して音声を文字起こしするという一風変わったアプローチを採用した「Embedding Gemma Transcribe」が登場しました。Embedding Gemma TranscribeはApple Silicon搭載Macで動作し、インターネット接続なしで音声を処理できるとのことなので、実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-14T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b212bc9f8ea1",
+    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "summary_original": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+    "thumbnail": "",
+    "published": "2026-10-14T21:30:33+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8d8014a405fe",
+    "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
+    "summary_original": "デジタルハリウッド大学は10月14日、米Anthropicの生成AI「Claude」を全学に導入し、11月から全学生・全教職員に提供すると発表した。Claudeの全学導入は国内の大学で初という。",
+    "thumbnail": "",
+    "published": "2026-10-14T19:43:31+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2e58de1d2aab",
+    "title": "Google says self-improving AI isn't anywhere close",
+    "url": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/",
+    "summary_original": "Google engineer Haydn Belfield says there's no measurable acceleration of AI research driven by AI at Deepmind. AI now writes more than 75 percent of production code, but 88 percent of changes still need human oversight. The company's in-house General Capability Index shows steady growth with no sudden speedup. Self-improving AI isn't anywhere close, Belfield says.\nThe article Google says self-improving AI isn&#039;t anywhere close appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_logo-2.png",
+    "published": "2026-10-14T19:18:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b771f398aeda",
+    "title": "McKinsey is making job applicants spar with a fake AI client",
+    "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+    "summary_original": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-14T18:53:31-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5a63753fd6b2",
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "summary_original": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+    "thumbnail": "",
+    "published": "2026-10-14T18:23:46+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cc49c0ad3dc3",
+    "title": "Anthropic共同創業者「サイバー攻撃、オープンモデル悪用の可能性」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002272/",
+    "summary_original": "米Anthropicの共同創業者であるジャック・クラーク氏は、相次ぐ日本企業へのサイバー攻撃について、AIが使われている可能性もあるとの見方を示した。",
+    "thumbnail": "",
+    "published": "2026-10-14T18:20:35+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6b06080a48a4",
+    "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
+    "summary_original": "For the first time, researchers have tracked down an uncontrolled fleet of Chinese AI agents in the wild and communicated with them via a web mailbox. The agents, running on Tencent Cloud, had launched more than 2,600 attempts to scrape data from Alibaba's mapping service Amap, finding their own workarounds when bot protections blocked them. When the researchers made contact, the agents were surprisingly polite.\nThe article Researchers tracked down a rogue fleet of Chinese AI agents in the wild ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/chinese_agent_swarms.png",
+    "published": "2026-10-14T18:07:37+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ea05e081087d",
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "summary_original": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+    "thumbnail": "",
+    "published": "2026-10-14T18:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "769e2f02e423",
+    "title": "日立が「木造データセンター」展開　“鉄とコンクリ”から木材へ、“見た目がオシャレ”以外の価値は？",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/14/news069.html",
+    "summary_original": "日立製作所が「木造データセンター」を販売する。あえて木造を使うことで、“見た目がオシャレ”以外の価値をどう引き出せるのか。",
+    "thumbnail": "",
+    "published": "2026-10-14T17:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b72f25cbab4b",
+    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "summary_original": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-14T17:11:28-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3522f1d455a0",
+    "title": "「AIがAIを作れるようになる確率は2027年に50%超」　Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符\"」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
+    "summary_original": "米Anthropic共同創業者のジャック・クラーク氏が東大で講演。AIが自らの後継を訓練できる確率を「2027年に50％超」と年初予測から前倒し。ただしRSIの実行は「片道切符」で、許すかは社会の選択だと強調した。",
+    "thumbnail": "",
+    "published": "2026-10-14T16:53:35+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "53c7918683e3",
+    "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
+    "url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
+    "summary_original": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works on a public page. Whether or not the flagship is ready in time, employees say one or two new models will likely ship by year's end.\nThe article OpenAI will reportedly ship at least one model this year but its flagship sti...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+    "published": "2026-10-14T16:14:16+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9d6590d692b3",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-14T16:12:42+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "eee648a48220",
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "summary_original": "Deezer said that the new toggle will be rolled out by the end of the year.",
+    "thumbnail": "",
+    "published": "2026-10-14T15:16:04+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ea060bd653f7",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "summary_original": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "thumbnail": "",
+    "published": "2026-10-14T15:13:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bcd6e2061a07",
+    "title": "The AI race is back on",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "summary_original": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-14T15:06:03-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9bdb5eeae001",
+    "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+    "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "summary_original": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-14T14:47:54-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "abcf62d56276",
+    "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+    "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
+    "summary_original": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap.\nThe article Nvidia&#039;s Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+    "published": "2026-10-14T14:24:34+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9ba5013167fe",
+    "title": "YouTube sticks new labels on AI-generated songs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+    "summary_original": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-14T14:22:56-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2eb1b05a9435",
+    "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
+    "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
+    "summary_original": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process.\nThe article AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_illu-1.png",
+    "published": "2026-10-14T13:24:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7968b9678bd4",
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "summary_original": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+    "published": "2026-10-14T12:55:06+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "014689cd7917",
+    "title": "The Download: faking blood and the future of batteries",
+    "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/crawl-data2.jpg?fit=2128,1196",
+    "published": "2026-10-14T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "11f72270101b",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "summary_original": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "thumbnail": "",
+    "published": "2026-10-14T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5eaa76710716",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "summary_original": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "thumbnail": "",
+    "published": "2026-10-14T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "600356bf2fda",
+    "title": "The US military’s race to make fake blood",
+    "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+    "summary_original": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight. Typically, helicopters would be in a spot like&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/240611-KaloCyte-synthetic-blood-181.jpg",
+    "published": "2026-10-14T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8a5725125113",
+    "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+    "url": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+    "summary_original": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment.\nThe post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-14T08:57:28+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4e994ebdd53f",
+    "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
+    "url": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+    "summary_original": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max.\nThe post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-14T07:50:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ad206bf6c91e",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "summary_original": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "thumbnail": "",
+    "published": "2026-10-14T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f0e5b7f5bea8",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "summary_original": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "thumbnail": "",
+    "published": "2026-10-14T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "9fa82886f38e",
+    "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
+    "url": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+    "summary_original": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%.\nThe post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-10-14T05:03:34+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1ea8ff42a798",
+    "title": "The EU’s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "summary_original": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "thumbnail": "",
+    "published": "2026-10-14T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "b8ac32cf4e0e",
+    "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+    "url": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+    "summary_original": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads DeepSWE and SWE-Marathon.\nThe post Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/10/step1-dev-meta-ai.jpg",
+    "published": "2026-10-13T22:53:44+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "788c96b63d8d",
+    "title": "Topgolf saved over $11.3 million after leaving VMware",
+    "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+    "summary_original": "Topgolf and VMware \"ran deep\" before the migration.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
+    "published": "2026-10-13T21:33:43+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  }
+]
