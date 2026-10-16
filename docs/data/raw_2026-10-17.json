@@ -1,0 +1,402 @@
+[
+  {
+    "id": "f1564a3a21ce",
+    "title": "エンジニアが勤務先の管理者アカウントをロックして約1億円相当の身代金を要求したとして有罪判決を受ける",
+    "url": "https://gigazine.net/news/20261017-cyberattack-engineer-sentenced/",
+    "summary_original": "インフラエンジニアとして働いていたアメリカ人が、勤務先の企業が管理するアカウントのパスワードをリセットするなどして他の社員を閉め出し、復旧の条件として多額の身代金を要求していたことが分かりました。このエンジニアは匿名で脅迫していましたが、監視カメラの映像などから身元が割り出されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-17T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0a5c01479eb1",
+    "title": "マチ★アソビ Vol.31前夜祭は3時間超でトークありクイズありの大祭りに",
+    "url": "https://gigazine.net/news/20261016-pre-event-machiasobi31/",
+    "summary_original": "総合エンタメイベント「マチ★アソビ vol.31」が2026年10月17日(土)・18日(日)に徳島市で開催されるのに先駆けて、16日(金)16時から「前夜祭」が開催されました。前年10月に開催されたvol.29の前夜祭はおよそ1時間のイベントでしたが、今回は3時間超と、マチ★アソビの中のイベントとしても特に長丁場のものとなりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-16T22:35:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "24b56165e1b3",
+    "title": "Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化",
+    "url": "https://gigazine.net/news/20261016-perplexity-space/",
+    "summary_original": "パーソナルエージェント分野の先駆者を標榜するPerplexityが、開発者がより安全なエージェントシステムを構築するための基盤を提供し、業界全体で保護体制を強化していくため、サンドボックスプラットフォーム「SPACE」をオープンソース化すると発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-16T21:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "13131774e811",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "summary_original": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "thumbnail": "",
+    "published": "2026-10-16T21:22:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3813289f4d22",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "summary_original": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+    "published": "2026-10-16T20:59:01+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5e6948e51ec0",
+    "title": "Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功",
+    "url": "https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/",
+    "summary_original": "Googleの量子コンピューター研究チームであるGoogle Quantum AIが、量子コンピューターの実用化に向けた重要な技術「魔法状態の培養(Magic State Cultivation)」を実証したと発表しました。Googleの量子プロセッサ「Willow」を用いた実験では、従来の方法と比べてエラーを約40分の1に減らすことに成功したとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-16T20:50:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f66d1c5efdf7",
+    "title": "「マチ★アソビ vol.31」イベントスケジュール一覧まとめ",
+    "url": "https://gigazine.net/news/20261016-event-schedule-machiasobi31/",
+    "summary_original": "徳島市まるごとがアニメ・ゲーム・マンガなどに染まる一大イベント「マチ★アソビ vol.31」が2026年10月17日(土)・18日(日)に開催されます。イベント情報はフライヤーにまとめられていますが、観覧計画を立てる参考となるように、日付・場所別のスケジュール表を作成しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-16T20:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0fa52202712e",
+    "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+    "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+    "summary_original": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans.\nThe article ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_chatgpt-2.png",
+    "published": "2026-10-16T18:10:27+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "57c41972947e",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "summary_original": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-16T18:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4466435dcf8e",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "summary_original": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "thumbnail": "",
+    "published": "2026-10-16T17:52:24+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f65f79b84bc4",
+    "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+    "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+    "summary_original": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight models over Chinese alternatives.\nThe article China plans to tighten export controls on open-weight models and 23 key AI technologies appeared first on The...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+    "published": "2026-10-16T17:42:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0ee63cc50f71",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "summary_original": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-10-16T16:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c43b789ab800",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "summary_original": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-10-16T16:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "33eae345cea5",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "summary_original": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "thumbnail": "",
+    "published": "2026-10-16T16:01:37+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "52fdcae9e631",
+    "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
+    "url": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
+    "summary_original": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon also trails rivals in math and software engineering.\nThe article Google&#039;s Gemini 4 Argon is closer to the AI frontier than any Google model in months appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png",
+    "published": "2026-10-16T15:03:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5aea7ad7e446",
+    "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
+    "summary_original": "不正アクセスが相次ぐ中、日本企業が講じるべき対策とは。人間が数日から数週間かけていた攻撃の作業が、AIやエージェントの悪用によって、条件によっては数分に短縮される可能性がある中で、Gartnerが早急な実施を推奨する「7つのアクション」を紹介する。",
+    "thumbnail": "",
+    "published": "2026-10-16T14:20:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d1048d66d270",
+    "title": "Meta、「米国製で最高性能」のオープンモデル「Muse Spark Open」発表　Apple Siliconに最適化、Mac Studio×2でローカル動作",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/",
+    "summary_original": "Metaがオープンウェイトモデル「Muse Spark Open」を発表し、重みを公開。「米国製で過去最高性能」とうたい、M5 Ultra搭載のMac Studio 2台で動作するという。独自ライセンスで商用利用は条件付き。",
+    "thumbnail": "",
+    "published": "2026-10-16T14:14:11+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ae3eebc2b2cf",
+    "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
+    "url": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/",
+    "summary_original": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are still debating whether the thesis holds up.\nThe article Is AI interpretability close to a breakthrough? A new essay has researchers divided appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/Neural-Networks-Goodfire-Clean.png",
+    "published": "2026-10-16T13:48:08+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "5432dbc703fa",
+    "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
+    "url": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
+    "summary_original": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract.\nThe article OpenAI&#039;s new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+    "published": "2026-10-16T13:15:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "482e4b85ac53",
+    "title": "The Download: failed social media bans, and extending pets’ lives",
+    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg",
+    "published": "2026-10-16T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d52f735ac73c",
+    "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる",
+    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+    "summary_original": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコーディングツール（Anthropicの「Claude Code」やGitHubの「Copilot CLI」）の利用状況と、それが生産性に与える影響について調査した研究報告だ。",
+    "thumbnail": "",
+    "published": "2026-10-16T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4252ce9f5816",
+    "title": "「今までが簡単すぎた」――声のAI利用に新指針、日俳連　事業者に求める対応は",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002320/",
+    "summary_original": "声優・俳優の権利保護活動などを行う日本俳優連合は、「音声に関する生成AI利用ガイドライン」を発表した。",
+    "thumbnail": "",
+    "published": "2026-10-16T11:26:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ff1bad63817f",
+    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "summary_original": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-16T11:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "507664b7e8a8",
+    "title": "AIエージェントに「何を指示するか」より「何をさせないか」――NVIDIAが示す設計の原則",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
+    "summary_original": "AIエージェントが社内システムやデータを自律的に操作するようになるとき、どのようなセキュリティ対策が必要なのか。NVIDIAは、AIへの指示だけに頼らず、実行環境でのアクセス制御や権限管理、継続的な検証を組み合わせることの重要性を指摘する。",
+    "thumbnail": "",
+    "published": "2026-10-16T11:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a1282aae0bec",
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "summary_original": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-16T10:02:40-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c9d6e5886da0",
+    "title": "This implant can restore sight for patients with macular degeneration",
+    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+    "summary_original": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ND26-dl_mapped.png?w=840",
+    "published": "2026-10-16T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2aaa2b1efe1d",
+    "title": "Love is infrastructure",
+    "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+    "summary_original": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-16T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "6ae330c33fcd",
+    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+    "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+    "summary_original": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-16T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "daa093ad283d",
+    "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
+    "url": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
+    "summary_original": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens.\nThe post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-16T06:26:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "85f57c7a3d42",
+    "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
+    "url": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
+    "summary_original": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios.\nThe post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-16T02:26:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "bf51e8166946",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-16T01:44:47+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "0f8250f16796",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "summary_original": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "thumbnail": "",
+    "published": "2026-10-16T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "752ec58d0f63",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-16T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "fe5649d96d8a",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-15T20:34:01+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c75fa512dfb3",
+    "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+    "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+    "summary_original": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
+    "published": "2026-10-15T20:32:41+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "63780be02c1c",
+    "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+    "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+    "summary_original": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models.\nThe post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-10-15T19:53:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0d2e925aac0b",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "summary_original": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "thumbnail": "",
+    "published": "2026-10-15T19:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "953a262ff105",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "summary_original": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-15T18:43:23-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "179bf541be96",
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "summary_original": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-15T18:35:55-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "37d075d48fef",
+    "title": "The tech backlash is now in theaters",
+    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "summary_original": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-15T17:39:52-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  }
+]
