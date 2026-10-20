@@ -1,0 +1,402 @@
+[
+  {
+    "id": "818a06cd8c48",
+    "title": "ヒッタイト王国の粘土板文書131枚がトルコで発掘される、3400年前の流行病や当時の兵站などが明らかに",
+    "url": "https://gigazine.net/news/20261021-hittite-royal-archive-tablets-turkiye/",
+    "summary_original": "トルコ文化観光省が、紀元前17～13世紀に栄えたヒッタイト王国の遺跡で行われた2026年の発掘調査で、王室の粘土板文書および断片が131枚も発掘されたと報告しました。これらの粘土板文書には3400年前に発生した熱病の流行を記したものや、当時の兵站(へいたん)に関わる文書などが含まれています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-21T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "56d14e5fd90a",
+    "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news034.html",
+    "summary_original": "DMG森精機は、ユーザー専用のポータルサイト「my DMG MORI」において、生成AI（人工知能）を活用した新機能「サービスエージェント」の提供を開始したと発表した。",
+    "thumbnail": "",
+    "published": "2026-10-21T07:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bec06f9fba9a",
+    "title": "「PC市場の成長ストップ」で苦戦のインテル　「半導体の崖」突破できるか、社長が語る変革への道筋",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/21/news013.html",
+    "summary_original": "かつて“半導体の巨人”と呼ばれていたIntelは、PC市場の成長鈍化などを受け不調の中にある。AI時代で半導体需要が高まる中、“最大の経営課題”を解決して変革を起こせるか。",
+    "thumbnail": "",
+    "published": "2026-10-21T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "425bfe6d542d",
+    "title": "PFNとTenstorrentがタッグ、生成AI特化プロセッサ開発へ　超高メモリ帯域幅、光電融合技術を実装",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002438/",
+    "summary_original": "Preferred Networks（以下、PFN）と米Tenstorrentが、AIの学習・推論を高性能・高効率に実行可能な生成AI向けプロセッサを含むシステム開発を共同で始めた。CPUの開発は米Tenstorrentが担い、米NVIDIAのGPUがデファクトスタンダードとなっている「AIプロセッサ」の開発はPFNが担う。光電融合技術と最先端パッケージング技術を活用し、AIプロセッサのシステム化技術の開発を2社で行う。",
+    "thumbnail": "",
+    "published": "2026-10-21T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "cd25ad0ad843",
+    "title": "「6億台のコネクテッドカー」動かす光技術　IOWNは欧州のデータセンター危機を救うか？",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/21/news044.html",
+    "summary_original": "生成AIの需要爆発で欧州データセンターの空き容量が逼迫する中、NTTが提唱する次世代光技術「IOWN」が脚光を浴びている。電力危機を打破する切り札として期待が高まる光通信革命の最前線を、オランダ現地取材から追う。",
+    "thumbnail": "",
+    "published": "2026-10-21T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6f7287ab75e8",
+    "title": "Rapidusで製造できるか、推論特化2nm世代半導体で医用画像処理システムを開発",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news045.html",
+    "summary_original": "LSTCと北海道大学、富士フイルム、GEヘルスケア・ジャパン、imecが、推論に特化した2nm世代半導体を活用する医用画像処理システムの開発プロジェクトについて説明。現行GPUと比較して画像処理速度5倍以上、画像処理のエネルギー効率10倍以上の達成を目指す中で、2nm世代半導体の製造はRapidusが望ましいものの現時点では未定とした。",
+    "thumbnail": "",
+    "published": "2026-10-21T06:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2e1bb1723965",
+    "title": "WineがOpenBSDに移植される",
+    "url": "https://gigazine.net/news/20261021-openbsd-ports-wine/",
+    "summary_original": "Windows互換レイヤーのWineについて、OpenBSD Portsで新たなポート提案が行われました。これはWineがOpenBSDに導入されることになったことを意味し、ひいてはOpenBSDで64ビットWindowsアプリケーションを実行できる可能性を示唆しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-21T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d1819ab5c66e",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "summary_original": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "thumbnail": "",
+    "published": "2026-10-20T23:01:23+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b42c96bf63df",
+    "title": "同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場",
+    "url": "https://gigazine.net/news/20261020-parsimony/",
+    "summary_original": "AIがプログラムを修正する際に追加したコードと削除したコードの差を測定するオープンソースのベンチマーク「Parsimony」が公開されました。従来のベンチマークで重視されてきた問題の解決率やコストに加えて、コードの増加量からAIモデルを比較できるのが特徴です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-20T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "df88e4093e3a",
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "summary_original": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "thumbnail": "",
+    "published": "2026-10-20T22:24:02+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0a10e423810b",
+    "title": "なんと23の主要なオープンソースプロジェクトのうち11は1人または2人で運営されている実態が明らかに",
+    "url": "https://gigazine.net/news/20261020-open-source-projects/",
+    "summary_original": "Redditユーザーが、スマートフォン・ブラウザ・サーバーが依存している23の主要なオープンソースプロジェクトの履歴から、プロジェクトのメンテナーについて記録する調査を行いました。その結果、23のプロジェクトのうち11では、過去1年間に定期的に変更を加えた開発者が1人または2人しかいなかったことが判明しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-20T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b14d2c98d7d9",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "summary_original": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "thumbnail": "",
+    "published": "2026-10-20T21:25:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d6e23f2dfc88",
+    "title": "現代の映画は平均して何カット使われているのか？過去100年間の映画8770本におけるカット数をカウントして分析",
+    "url": "https://gigazine.net/news/20261020-how-many-shots-average-movie/",
+    "summary_original": "映画産業のデータ分析やリサーチなどを行うアナリストのスティーブン・フォローズ氏が、1930年から2025年までに公開された長編映画8770本におけるカット数をカウントし、現代の映画ではどのくらいのカットが使われているのかを分析しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-20T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "934b437e77a5",
+    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+    "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "summary_original": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-20T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e7d303116f69",
+    "title": "Here’s the tea",
+    "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+    "summary_original": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/label.jpg?w=294",
+    "published": "2026-10-20T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "533cd4579491",
+    "title": "Melt it, spin it, use it again",
+    "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+    "summary_original": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-20T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4ed4914002ba",
+    "title": "A reason to eat carbs",
+    "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+    "summary_original": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty acids instead&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-20T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d7b3b7815bd6",
+    "title": "Robotic therapy for stroke patients",
+    "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+    "summary_original": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes Lachner, a former MIT postdoc who is now an assistant professor&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-20T21:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d0ed25b4adb5",
+    "title": "SpaceX’s AI business is beating expectations",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "summary_original": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "thumbnail": "",
+    "published": "2026-10-20T20:40:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b275807812b7",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "summary_original": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "thumbnail": "",
+    "published": "2026-10-20T20:35:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ec3f480ec6f3",
+    "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+    "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+    "summary_original": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+    "published": "2026-10-20T19:47:35+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "28f03607775f",
+    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "summary_original": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the last year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-20T19:04:19-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "042ec4518ea9",
+    "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+    "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
+    "summary_original": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is both faster and more accurate.\nThe article Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/elevenlabs.png",
+    "published": "2026-10-20T19:03:15+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d06a1c5546a9",
+    "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+    "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+    "summary_original": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic.\nThe article Deepseek open-sources the inference engine that powers its fastest and cheapest AI model appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/deepseek_deepseek_logo.png",
+    "published": "2026-10-20T18:56:15+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bafbb5974fa1",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-20T18:17:47+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "c1e957c841e9",
+    "title": "Google’s more personalized Gemini AI is heading to your car",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "summary_original": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-20T18:11:34-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7a32cc8e3673",
+    "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+    "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
+    "summary_original": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your own infrastructure or through EU-hosted APIs to keep data under your control.\nThe article Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time appeared first on ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg",
+    "published": "2026-10-20T17:17:55+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "21d6879bf1b1",
+    "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
+    "url": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
+    "summary_original": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option \"terrible.\"\nThe article Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else&#039;s GPUs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_Altman.png",
+    "published": "2026-10-20T17:00:59+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8fcae7d44930",
+    "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
+    "url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
+    "summary_original": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modernizing critical financial infrastructure.\nThe article OpenAI says GPT-6 is much better with legacy programming languages such as ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
+    "published": "2026-10-20T16:40:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f40f87a51b41",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-20T16:09:19+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "fab24fd4e22c",
+    "title": "Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs",
+    "url": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
+    "summary_original": "Google and Meta open-sourced TorchTPU, a native PyTorch backend for Cloud TPUs. It runs eager by default, compiles through torch.compile and XLA, and replaces PyTorch/XLA for new workloads.\nThe post Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-20T15:22:03+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8f295aae143e",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-20T15:19:48+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "403019ab9578",
+    "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+    "url": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+    "summary_original": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only.\nThe post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-20T14:31:59+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8d536d0f896d",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "summary_original": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-20T14:07:34-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c33d864d12a6",
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "summary_original": "Meta is suspending the sharing feature while it investigates its privacy.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
+    "published": "2026-10-20T12:33:13+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "b04f2928d457",
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "summary_original": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-20T10:18:37-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "afe39255e323",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "summary_original": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "thumbnail": "",
+    "published": "2026-10-20T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "07b0468a8512",
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "summary_original": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-20T09:06:44-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4206e4d31029",
+    "title": "Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks",
+    "url": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
+    "summary_original": "Exa 3.0 is a search API upgrade from Exa. It adds a larger embedding model, Exa Lite at $4 per 1,000 requests, and Dynamic Highlights, and leads 8 benchmarks Exa ran itself.\nThe post Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-20T08:12:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "cfae9e885987",
+    "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
+    "url": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
+    "summary_original": "Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million input tokens and charges nothing for output.\nThe post Cloudflare Releases Clairic, a System One Extraction Model on Workers AI appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-20T07:45:41+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
