@@ -1,0 +1,372 @@
+[
+  {
+    "id": "077fd059e0fe",
+    "title": "人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」",
+    "url": "https://gigazine.net/news/20261024-zvec-grep/",
+    "summary_original": "zg(zvec-grep)はAlibaba製のベクトルデータベース「zvec」を基盤とする、ripgrep・BM25・ベクトル検索を統合したローカルファーストな検索レイヤーです。ターミナルから直接使うことも、AIエージェントから利用することも可能です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-24T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6741e668a13a",
+    "title": "折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる",
+    "url": "https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/",
+    "summary_original": "Samsungから歴代最薄となった折りたたみ式スマートフォン「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」の3機種が発売されたので、それぞれ、どういった写真が撮影可能なのか、持ち出してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-24T21:35:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0770743faf2b",
+    "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
+    "url": "https://gigazine.net/news/20261024-kimi-k3-1-pro/",
+    "summary_original": "中国企業のMoonshot AIがAIモデル「Kimi K3.1 Pro」を日本時間の2026年10月24日に発表しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-24T20:50:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ae5bb1677cdd",
+    "title": "薄く軽く進化した「Kindle」2026年最新モデル開封の儀",
+    "url": "https://gigazine.net/news/20261024-kindle-2026/",
+    "summary_original": "Amazonが2026年10月1日に電子書籍リーダー「Kindle」の最新モデル「Kindle(16GB)」「Kindle(32GB)」の2種を発売しました。より薄く・軽くなり、使用感も改善したという新型Kindleが編集部に届いたので、実際に開封してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-24T19:40:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "41208e707565",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary_original": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "thumbnail": "",
+    "published": "2026-10-24T19:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dc6a24720e4a",
+    "title": "無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20261024-tymeslot/",
+    "summary_original": "予約管理システムではカレンダーとの同期やオンライン会議サービスとの連携・メール通知など必要とする機能に応じて利用条件が変わることがあります。そこで、予約ページの作成・複数カレンダーを使った重複予約の防止・ビデオ会議室の自動生成・確認メールの送信・Webサイトへの埋め込みなどの機能をまとめて搭載し、セルフホスト版なら予約件数の制限もなく無料で使えるオープンソースのスケジュール管理システムが「Tymeslot」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-24T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b1787c28a150",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "summary_original": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-24T17:29:12-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "07faf6f38097",
+    "title": "Block’s new voice model sounds eerily human",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "summary_original": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "thumbnail": "",
+    "published": "2026-10-24T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "16723b08ef73",
+    "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+    "url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+    "summary_original": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They deny sharing confidential information and see a connection to their advocacy for AI systems that are easier to scrutinize. The researchers say OpenAI never told them in writing which information they allegedly mishandled.\nThe article Three fired OpenAI safety researchers say they were never told what they actually leake...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_fired_researchers.png",
+    "published": "2026-10-24T15:19:33+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b8554dad591a",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "summary_original": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "thumbnail": "",
+    "published": "2026-10-24T15:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3944d61c7fed",
+    "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+    "url": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
+    "summary_original": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is taken away, only senior attorneys retain the benefits, suggesting that baseline expertise is a prerequisite for turning AI-assisted practice into lasting skill.\nThe article AI makes junior patent attorneys instantly better but may quietly stunt their professional growth appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/patent-lawyers-nber-nano-banana-pro.jpg",
+    "published": "2026-10-24T14:34:05+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0c58159611d9",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "summary_original": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-24T14:32:21-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "aa876d8e1aaa",
+    "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+    "url": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
+    "summary_original": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time. The model runs locally on a MacBook Pro M4 Max but isn't publicly available yet.\nThe article Block&#039;s new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/dessa_block.png",
+    "published": "2026-10-24T14:09:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b2f0cf19fa7c",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary_original": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "thumbnail": "",
+    "published": "2026-10-24T14:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4bcd41c9cc83",
+    "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "summary_original": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman's warning: the more powerful the model, the harder it is to contain.\nThe article OpenAI&#039;s isolated AI agents found ways to talk to each other through CPU cache appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+    "published": "2026-10-24T11:12:36+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "198d764f01f6",
+    "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+    "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+    "summary_original": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed.\nThe post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+    "published": "2026-10-24T11:12:27+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b41971c74e8b",
+    "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+    "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+    "summary_original": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows.\nThe post Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+    "published": "2026-10-24T10:29:31+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "65db17523fb7",
+    "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
+    "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
+    "summary_original": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step.\nThe article Fancy harnesses make coding agents more expensive but not better, study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/harness-buys-tokens-nano-banana-pro.jpg",
+    "published": "2026-10-24T09:21:39+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "58d92f6cb0a4",
+    "title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+    "summary_original": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
+    "thumbnail": "",
+    "published": "2026-10-24T08:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fe2bd147f109",
+    "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+    "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+    "summary_original": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
+    "thumbnail": "",
+    "published": "2026-10-24T07:28:08+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "1948134b67e4",
+    "title": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
+    "url": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
+    "summary_original": "NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson.\nThe post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-10-24T03:56:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fd28d6560441",
+    "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
+    "url": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
+    "summary_original": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.\nThe post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-23T23:26:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "7384891d7abd",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "summary_original": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "thumbnail": "",
+    "published": "2026-10-23T23:05:49+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ee302599d246",
+    "title": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出　「AIにはAIを」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
+    "summary_original": "チームみらいの安野貴博党首らは、AI活用による防御力強化や攻撃の実態把握、情報漏えい被害発生後の措置などをまとめた緊急提言をデジタル庁に提出した。",
+    "thumbnail": "",
+    "published": "2026-10-23T22:56:59+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c9ce6bf72da7",
+    "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+    "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+    "summary_original": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026.\nThe post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-23T22:52:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "49970d9be446",
+    "title": "サイバー攻撃AIツール「ARTEX」とは　中国政府と連携する攻撃者も使用、各国で悪用確認",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
+    "summary_original": "中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。",
+    "thumbnail": "",
+    "published": "2026-10-23T17:37:57+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "78c968c71207",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "summary_original": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-23T17:11:07-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5a60bcdb05ed",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "summary_original": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "thumbnail": "",
+    "published": "2026-10-23T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c8f212640f72",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-23T16:15:50+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "9266223ed6f4",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "summary_original": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-23T15:32:39-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0f560173c239",
+    "title": "「エージェント向け1Password」発表　AIにパスワード渡さずアクセス権限付与可能に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
+    "summary_original": "1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。",
+    "thumbnail": "",
+    "published": "2026-10-23T15:24:45+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c263f42066e8",
+    "title": "The iPhone Duo should have been an iPad",
+    "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "summary_original": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-23T13:00:18-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6b37d84f817a",
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/SoundofDataFinal1f-thumb.jpeg?w=840",
+    "published": "2026-10-23T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "759fe46ed90d",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "summary_original": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "thumbnail": "",
+    "published": "2026-10-23T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "466b49f0e46f",
+    "title": "In the biotech world, you can’t see everything",
+    "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "summary_original": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-23T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "39c8c1e08705",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "summary_original": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "thumbnail": "",
+    "published": "2026-10-23T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f138b0509d7b",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-23T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
