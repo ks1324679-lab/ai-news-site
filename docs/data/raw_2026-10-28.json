@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ee7fdf96526e",
+    "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
+    "url": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
+    "summary_original": "GIGAZINEではガジェットやAI、ゲーム、アニメ、食などさまざまな分野の記事を掲載しています。そんなGIGAZINE読者がどんな分野に深く関心を持っているのかを調べるため、2026年夏に実施した読者アンケートで「あなたは何オタクですか？(複数選択可)」と質問。年代やゲーム・マンガとの関わりによる違いも分析してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-28T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b3d94e6db7eb",
+    "title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
+    "url": "https://gigazine.net/news/20261028-colorfigures/",
+    "summary_original": "「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動作させたりできるClaude Codeのスキルです。Claude Codeのターミナルからスキルを追加できるほか、ブラウザからライブデモを確認することもできます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-28T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6fe105144b02",
+    "title": "「AIデータセンター」どこに作る？　工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
+    "summary_original": "国内で「AIデータセンター」の建設が相次いでいる。その立地は、工場跡地、廃校、洋上などさまざまだ。ユニークな立地戦略の狙いを考察する。",
+    "thumbnail": "",
+    "published": "2026-10-28T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "aa2845264049",
+    "title": "「AI開発、“外注”しても大丈夫？」──丸投げで失敗するケースも　絶対に「手放してはいけないもの」とは",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/28/news011.html",
+    "summary_original": "AI開発を外注したら、委託先の試験では90点なのに社内では使い物にならない――こんな悩みをどう解決すればよいのか。そもそも、外注してもよいのか。失敗しないAI導入のコツを整理する。",
+    "thumbnail": "",
+    "published": "2026-10-28T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "27858f9bc81c",
+    "title": "日本取引所、金融市場の取引システム運用監視にAIを導入　精度97％を実現した方法",
+    "url": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
+    "summary_original": "システムの複雑化に伴い、障害対応の属人化が深刻化している。そうした中、JPXと日立は金融市場における取引システムの運用監視業務にAIの本格適用を開始した。ミッションクリティカルなシステム運用にAIを組み込む上で最大の障壁となるハルシネーションのリスクにどのように向き合っているのか。",
+    "thumbnail": "",
+    "published": "2026-10-28T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0e5cdb8f1909",
+    "title": "AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」",
+    "url": "https://gigazine.net/news/20261028-cve-tracker/",
+    "summary_original": "AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-28T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f4267ca84bab",
+    "title": "Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携",
+    "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+    "summary_original": "Google DeepMindは、対話型の仮想世界をリアルタイム生成するAI「Genie 4」を発表した。映像品質や物理演算が向上し、環境音や会話音声の同時生成に対応。人物の自然な動作やテキストによる環境操作が可能となった。まずは研究プレビューとして提供し、順次「Google AI Ultra」加入者等へ展開する。",
+    "thumbnail": "",
+    "published": "2026-10-28T06:53:37+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "14b57eff5186",
+    "title": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説",
+    "url": "https://gigazine.net/news/20261028-kv-cache-exposure-remediation/",
+    "summary_original": "2026年9月8日、Cloudflare Workers AIでホストされているGLM-5.3モデル(@cf/zai-org/glm-5.3)においていわゆる「テナント分離問題」が発生していることがセキュリティ研究者のガディ・エヴロン氏により報告されました。Cloudflareはこのインシデントを修正し、モデルは9月9日に復旧されました。インシデント情報開示の一環としてCloudflareによる解説が10月26日に公開されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-28T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e774e8904f91",
+    "title": "【Pythonで学ぶデータ分析】ベイズ統計で重回帰分析 ～ 株価のファンダメンタルズ分析を行う",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/28/news006.html",
+    "summary_original": "株価の分析手法には、収益力や成長性など、企業の財務指標などを基に分析するファンダメンタルズ分析と、上昇や下降の傾向などの値動きを基に分析するテクニカル分析があります。今回は、重回帰分析の適用例として、ファンダメンタルズ分析のごく簡単な例を取り上げます。『社会人1年生から学ぶやさしいデータ分析』ベイズ統計編（第11回）です。",
+    "thumbnail": "",
+    "published": "2026-10-28T05:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "092cb86201fb",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "summary_original": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "thumbnail": "",
+    "published": "2026-10-27T23:34:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5ac9e6d4ee78",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "summary_original": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "thumbnail": "",
+    "published": "2026-10-27T22:55:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "91bd37211dcd",
+    "title": "広瀬章人九段が王座を獲得、伊藤匠二冠は叡王の一冠に後退",
+    "url": "https://gigazine.net/news/20261027-hirose-akihito-ouza/",
+    "summary_original": "広瀬章人九段が伊藤匠王座に挑戦した第74期王座戦5番勝負は、両者2勝で迎えた第5局が山梨県甲府市の常磐ホテルで行われ、121手で広瀬九段が勝利を収めました。広瀬九段は初の王座獲得。伊藤匠王座は失冠により、保持するタイトルが叡王のみとなりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-10-27T22:47:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "403f8d35d239",
+    "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+    "url": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+    "summary_original": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search.\nThe post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-27T21:54:37+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e36bd78a13d6",
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "summary_original": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "thumbnail": "",
+    "published": "2026-10-27T21:44:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0ec9dae75184",
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "summary_original": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+    "thumbnail": "",
+    "published": "2026-10-27T21:38:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8cf9f617f58d",
+    "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+    "url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+    "summary_original": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit.\nThe post Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-27T21:08:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "0a2e50643e4f",
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "summary_original": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+    "published": "2026-10-27T20:25:55+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "2f4562df2310",
+    "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+    "url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+    "summary_original": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected. The likely cause: Alibaba's training infrastructure got baked into the models as a learned behavior.\nThe article Alibaba&#039;s latest Qwen models routed some requests through company servers, researchers find appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/alibaba_cohere.png",
+    "published": "2026-10-27T19:45:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "fc5f9bdbfc14",
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "summary_original": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "thumbnail": "",
+    "published": "2026-10-27T18:55:35+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "005f6acb22d5",
+    "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+    "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+    "summary_original": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual inconsistencies.\nThe article Google Deepmind&#039;s Genie 4 puts a modern spin on agent designs that predate LLMs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/Genie-4-Google-title.png",
+    "published": "2026-10-27T17:25:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8a86ff04276d",
+    "title": "Build specialized multimodal models with LFM3",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-27T17:16:52+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "922fe676a6fb",
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "summary_original": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-27T16:48:58-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "91bb99f4b7e5",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-10-27T16:12:42+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "8c368ae02674",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "summary_original": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "thumbnail": "",
+    "published": "2026-10-27T15:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0636ecaa49fd",
+    "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+    "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+    "summary_original": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there's no working system and no benchmarks.\nThe article Former Deepmind researcher thinks AlphaGo&#039;s playbook can cure AI hallucinations appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/metis-reasoning-07-reasoning-illustration.jpg",
+    "published": "2026-10-27T13:55:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e7cd6c73c633",
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "summary_original": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-27T13:30:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "727b2caf20cc",
+    "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
+    "url": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
+    "summary_original": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&#038;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding.\nThe post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-27T12:57:46+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "34fc514719d0",
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "summary_original": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-27T12:51:22-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1d5d2a13c53c",
+    "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+    "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+    "summary_original": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the proofs hold up. If the computer science proof holds on its own, hundreds of research papers lose their foundation.\nThe article OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI prod...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_navier.png",
+    "published": "2026-10-27T12:37:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e046e2cf55c1",
+    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "summary_original": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-27T12:14:18-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "109acab68249",
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Neanderthals_finals-top.jpg?w=840",
+    "published": "2026-10-27T12:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "8fedc19d5b57",
+    "title": "Google’s next Genie AI model generates more realistic experiences",
+    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+    "summary_original": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-10-27T12:00:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "ed01884b8531",
+    "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+    "url": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+    "summary_original": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web.\nThe article OpenAI&#039;s partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/01/openai_chatgpt_journalists_newsroom.png",
+    "published": "2026-10-27T11:39:24+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e3353615c610",
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "summary_original": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?w=840",
+    "published": "2026-10-27T11:19:18+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e3684c2635c4",
+    "title": "How solid-state transformers could help power the AI boom",
+    "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "summary_original": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;",
+    "thumbnail": "",
+    "published": "2026-10-27T09:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "866a8680f78e",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "summary_original": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "thumbnail": "",
+    "published": "2026-10-27T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6f7d9970db5b",
+    "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+    "url": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+    "summary_original": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test.\nThe post vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-27T05:50:57+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "38d89621d238",
+    "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+    "url": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+    "summary_original": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat, scoring 77.1 on MarathonDocBench\nThe post Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-10-27T05:26:36+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "150f1b29aeaf",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "summary_original": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "thumbnail": "",
+    "published": "2026-10-27T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "011555b6960e",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "summary_original": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "thumbnail": "",
+    "published": "2026-10-26T22:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
