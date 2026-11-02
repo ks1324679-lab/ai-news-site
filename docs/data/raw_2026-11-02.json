@@ -1,0 +1,252 @@
+[
+  {
+    "id": "b0cc3528c3b3",
+    "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+    "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+    "summary_original": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
+    "thumbnail": "",
+    "published": "2026-11-02T07:00:23+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9344e570a2af",
+    "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
+    "summary_original": "4月に開業したフランクフルト空港の第3ターミナル。IT技術やAIを導入し、顧客体験の向上や業務効率化を行っている。どのような技術を導入し、「止まらない空港」を実現しようとしているのか？",
+    "thumbnail": "",
+    "published": "2026-11-02T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8e463bc5bf0d",
+    "title": "キオクシア「設備投資を急がねば……」　2027年分は完売、メモリ供給追い付くか",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
+    "summary_original": "半導体メモリ大手のキオクシアは、2027年の生産能力が全て“完売”だと明かした。AIブームによる旺盛なメモリ需要に答えるため、年5000億円弱を投じて新工場を建設する。",
+    "thumbnail": "",
+    "published": "2026-11-02T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5bc4b987419a",
+    "title": "その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
+    "summary_original": "AIツールの利用率100％を達成したメルカリ。しかし「AIエージェント構築に時間を割きたい部下と、それを止めたい上司」など一筋縄ではいかなかった。試行錯誤の裏側をCAIOが語る。",
+    "thumbnail": "",
+    "published": "2026-11-02T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7a484625cf3a",
+    "title": "オラクルの機能がChatGPTで利用可能に　複数システムをまたぐ業務をAIで自動化",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
+    "summary_original": "オラクルがOpenAIとの協業を拡大し、ChatGPTやCodex、AI技術を活用し、業務の効率化・実行からソフトウェアの脆弱性の検出、アプリケーション開発まで幅広く支援する。小規模企業には年間1万2000ドル分のクラウド利用枠を含むプランを提供する。",
+    "thumbnail": "",
+    "published": "2026-11-02T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4f12c40f6e10",
+    "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
+    "url": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
+    "summary_original": "Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています。トランスクリプト送信によりトークンの約15～20％が消費されている計算になります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-02T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "aa1d2d161cca",
+    "title": "アニメ『ぼっち・ざ・ろっく！』前日譚を描く『映画ぼっち・ざ・ろっく！ 星のあしあと』2027年公開決定で特報映像登場",
+    "url": "https://gigazine.net/news/20261101-bocchi-the-rock-hoshi-no-ashiato/",
+    "summary_original": "2022年放送のTVアニメが大ヒットし、2024年には劇場版総集編が前後編構成で公開された『ぼっち・ざ・ろっく！』の新展開として、原作コミックス5巻に掲載された物語の前日譚が映画化されることになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-01T22:32:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "62ec75e3b608",
+    "title": "無料ストレージベンチマークアプリ「ATTO Disk Benchmark」の使い方まとめ、「小さいサイズのファイルでも高速に読み書きできるか？」といった観点でSSDの性能を分析して適切な用途を見極め可能",
+    "url": "https://gigazine.net/news/20261101-atto-disk-benchmark/",
+    "summary_original": "SSDは「1MBのファイルを1000個移動する」という操作より「1GBのファイルを1個移動する」という操作の方が短時間で処理できます。このため購入するSSDを選択する際は単純な読み込み・書き込み速度だけでなく「どれくらいの大きさのファイルを高速に読み書きできるか」という観点も重要です。「ATTO Disk Benchmark」はファイルサイズことの読み込み・書き込み速度を測定できる無料のベンチマークアプリで、SSDの性能検証や購入検討時の指標として役に立ちます。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-01T22:32:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "cf5e1b5d84c4",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "summary_original": "Data centers are deeply unpopular. But what if we called them something else?",
+    "thumbnail": "",
+    "published": "2026-11-01T21:55:23+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b3a6357c7fdd",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "summary_original": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "thumbnail": "",
+    "published": "2026-11-01T20:57:58+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7187fecc703d",
+    "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？",
+    "url": "https://gigazine.net/news/20261101-wikipedia-ai-content/",
+    "summary_original": "あらゆるプラットフォームにAI生成テキストがあふれている中で、WikipediaではAIに記事本文を生成させたり書き換えさせたりすることを原則禁じるガイドラインが設定されています。そのガイドラインに違反するコンテンツを見つけて削除することを目的としたボランティア活動「WikiProject AI Cleanup」の創設メンバーが、活動について語っています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-01T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "e7a3f6eda296",
+    "title": "近未来的な外観のワイヤレスヘッドホン「Headphone (1) Pro」レビュー、3個のドライバー搭載＆10個のマイクでノイズリダクション",
+    "url": "https://gigazine.net/news/20261101-nothing-headphone-1-pro/",
+    "summary_original": "Nothingは内部構造がスケスケなスマートフォンやイヤホンなど特徴的な外見のデバイスを開発する企業です。Nothingが2026年9月に発売したワイヤレスヘッドホン「Headphone (1) Pro」は、アルミニウム削り出しボディとチタン合金アームで近未来的な外見に仕上がっており、「3個のドライバーでサウンド再生」「10個のマイクでノイズキャンセリング」といったようにサウンドへのこだわりも充実しています。そんなHeadphone (1) Proを借りることができたので、実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-01T18:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "aa803659e97c",
+    "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+    "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+    "summary_original": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the best result based on measured image data. The approach works, but it needs about ten times the compute.\nThe article Adobe is testing how well AI agents can use editing tools like a Photoshop professional would appeared firs...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/adobe_logo-2.png",
+    "published": "2026-11-01T14:56:44+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "681492213f7f",
+    "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+    "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+    "summary_original": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk. Anthropic's Claude, the model its makers anthropomorphize the most, was the only one that consistently refused to play along.\nThe article E...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/llms_couch.png",
+    "published": "2026-11-01T14:36:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b0a64bb80747",
+    "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+    "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+    "summary_original": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too. The language of the prompt had an especially strong effect on the political slant of responses.\nThe article Chinese AI models are politically complex, not just government mouthpieces, study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/KI-Bias-Propaganda.png",
+    "published": "2026-11-01T12:33:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d6edc5dab5ff",
+    "title": "OpenAI is steering ChatGPT users toward more paid usage",
+    "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+    "summary_original": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits.\nThe article OpenAI is steering ChatGPT users toward more paid usage appeared first on The D...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+    "published": "2026-11-01T12:05:04+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ecd00e639ce0",
+    "title": "Google wants video AI to understand what people need as they work",
+    "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+    "summary_original": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer videos, as errors compound and response quality drops sharply.\nThe article Google wants video AI to understand what people need as they work appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/02-streamvibe-kochassistent-1920x1080-1.jpg",
+    "published": "2026-11-01T11:25:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "b1e3d9240643",
+    "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+    "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+    "summary_original": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon.\nThe post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-01T08:10:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "21aaf37583f3",
+    "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+    "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+    "summary_original": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes.\nThe post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-01T07:47:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8462b9fc7109",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "summary_original": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "thumbnail": "",
+    "published": "2026-10-31T21:41:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "ec476f3f219d",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "summary_original": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "thumbnail": "",
+    "published": "2026-10-31T21:36:07+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9a46afb49d1d",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "summary_original": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "thumbnail": "",
+    "published": "2026-10-31T21:17:03+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0289b26f177b",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "summary_original": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&#038;strip=all&#038;crop=4,0,96,94.899920311255",
+    "published": "2026-10-31T12:05:00-04:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "5d1b06fdf7dd",
+    "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+    "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+    "summary_original": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task.\nThe post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-10-31T10:38:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "ef99f5546e3d",
+    "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+    "url": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+    "summary_original": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels.\nThe post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-10-31T10:10:28+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
