@@ -1,0 +1,402 @@
+[
+  {
+    "id": "2df2605908b3",
+    "title": "「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002853/",
+    "summary_original": "チームみらいの安野貴博党首は、海外オープンウェイトモデルが国内で稼働する際、意図的に自身の性能を低下させたり、データを漏えいさせたりする可能性があると指摘し、国産モデルの必要性を強調した。",
+    "thumbnail": "",
+    "published": "2026-11-04T09:22:21+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "255b1c30e42d",
+    "title": "TVアニメ放送から2年を経て劇場版新作『ガールズバンドクライ THE MOVIE』特報映像公開、「怒りも喜びも哀しさも全部ぶちこめ。」",
+    "url": "https://gigazine.net/news/20261104-girls-band-cry-the-movie/",
+    "summary_original": "2024年春に放送されたTVアニメ『ガールズバンドクライ』の劇場版新作『ガールズバンドクライ THE MOVIE』が2027年5月21日に公開されることになり、ティザービジュアルと特報映像が公開されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-04T09:15:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9b5234af57f0",
+    "title": "3D CADデータ×AIで造船設計を支援、設計情報の確認作業を効率化へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news020.html",
+    "summary_original": "Noahlogyは、AVEVAとパートナー契約を締結した。AVEVAの3Dモデルデータを対象に、AIを活用して設計者の確認作業を支援する技術の開発／検証を進め、造船設計業務での実用化を目指す。",
+    "thumbnail": "",
+    "published": "2026-11-04T09:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "045994411d8b",
+    "title": "スマホの容量足りてる？クラウドは利用してる？どんなサービスを利用してる？",
+    "url": "https://gigazine.net/news/20261104-gigazine-smartphone-cloud-storage/",
+    "summary_original": "長年スマートフォンを利用していると、溜まりに溜まった写真のデータや大容量アプリがストレージを圧迫してしまい、泣く泣くしばらく使っていないアプリや写真を削除せざるを得なくなってしまった、という人も少なくないはず。そんなスマートフォンの容量問題について、GIGAZINEで年に3回実施しているプレゼントアンケートで読者に聞いてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-04T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c8061521adcc",
+    "title": "Hacker Newsのコメント3万9834件から収集した6454本の動画をYouTube風のUIで表示する「HackerTube」",
+    "url": "https://gigazine.net/news/20261104-hacker-tube/",
+    "summary_original": "「HackerTube」はソーシャルニュースサイトのHacker Newsで推奨された動画のみを集め、YouTube風のUIで表示することができるサイトです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-04T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "289030ea2521",
+    "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+    "summary_original": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
+    "thumbnail": "",
+    "published": "2026-11-04T07:31:04+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "d9869ff978e0",
+    "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
+    "summary_original": "生成AIを使えば資料作成を効率化できるが、手直しや体裁の統一には手間がかかることもある。こうした課題に対応するため、GoogleはGeminiの2つの新機能を発表した。",
+    "thumbnail": "",
+    "published": "2026-11-04T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8ae85c659b8c",
+    "title": "AIモデルのコモディティ化で富は開発企業から流通・決済システムへ移るという予測「The Commanding Heights」",
+    "url": "https://gigazine.net/news/20261104-the-commanding-heights/",
+    "summary_original": "AIモデルの性能向上と低価格化が進むにつれて、AIが生み出す富はモデルを開発する企業ではなく、AIを社会に普及させる流通網や決済システムなどを支配する企業に集中するという予測をまとめた論考「The Commanding Heights」が、2026年10月29日に公開されました。マニディス氏とロバーツ氏は過去の技術革新を例に挙げ、AI開発競争や米中関係、世界経済の今後の変化を分析しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-04T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "12d8fc6f62f6",
+    "title": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
+    "summary_original": "東北大学とアイシンは、不揮発性メモリであるSTT-MRAMを搭載するAIチップを開発したと発表した。「近メモリコンピューティング（NMC」型のAIチップであり、従来比で電源投入からOS起動までの時間を約39倍高速化するとともに、物体検出などのAI処理時間を約10分の1に短縮し、AI処理のエネルギー消費量も50分の1に抑えたという。",
+    "thumbnail": "",
+    "published": "2026-11-04T06:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bf81805a5ae8",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "summary_original": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "thumbnail": "",
+    "published": "2026-11-03T22:41:03+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4970a06a586c",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "summary_original": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "thumbnail": "",
+    "published": "2026-11-03T22:19:53+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "39cd2cb0e62f",
+    "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+    "url": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+    "summary_original": "Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs.\nThe post Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-03T22:08:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c3331ef85b90",
+    "title": "歩くのと同じくらいゆっくりなランニングでも気分が良くなって認知機能が向上する",
+    "url": "https://gigazine.net/news/20261103-very-slow-running-benefit-brain/",
+    "summary_original": "ランニングは手軽に取り入れやすい運動のひとつですが、「すぐに疲れてしまうのでゆっくりでしか走れない」という悩みを抱えている人もいるはず。ところが、筑波大学などの研究チームが行った実験では、歩くのと同じくらいゆっくりなランニングであっても、メンタルヘルスや脳に良い影響が生じるとの結果が報告されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-03T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0835e4c1adb3",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "summary_original": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+    "thumbnail": "",
+    "published": "2026-11-03T21:43:08+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "656673d20b5c",
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "summary_original": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+    "thumbnail": "",
+    "published": "2026-11-03T21:05:55+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "3e1f2bb1c8ca",
+    "title": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
+    "url": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
+    "summary_original": "NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change.\nThe post NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5% appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-03T20:28:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c53b43721023",
+    "title": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents",
+    "url": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
+    "summary_original": "Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent&#8217;s own voice. The release ships as stt-rt-v6 for streaming and stt-async-v6 [&#8230;]\nThe post Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-03T20:18:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "02d1fe47937d",
+    "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+    "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+    "summary_original": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for manufacturing tolerances. A newer internal model scores significantly higher on OpenAI's engineering benchmark, though the company isn't sharing details.\nThe article OpenAI says GPT-6 Astra designed a hardware device from ...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_ai_hardware.png",
+    "published": "2026-11-03T20:15:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1fb454b48361",
+    "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+    "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+    "summary_original": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 months. Claims about what models can't do expire fastest.\nThe article Rapid LLM development is outrunning the research meant to explain it, study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/ai_goalpost_moving.png",
+    "published": "2026-11-03T19:41:43+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "0018ea6e4618",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "summary_original": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+    "thumbnail": "",
+    "published": "2026-11-03T19:34:43+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8850f344fac2",
+    "title": "Please stop asking me when the AI bubble will pop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "summary_original": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-03T18:37:45-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a328083f20b9",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-03T17:15:21+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "fba94efb372d",
+    "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
+    "url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+    "summary_original": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula in real time for the first time.\nThe article AI agents take over at SETI&#039;s Allen Telescope Array, scanning for extraterrestrial intelligence appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-1536x1024-1.jpg",
+    "published": "2026-11-03T16:51:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c501698baa94",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-03T16:35:36+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "158871a550ee",
+    "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+    "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+    "summary_original": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+    "published": "2026-11-03T16:03:13+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "b0c31bffb9e6",
+    "title": "Those Jeff Bezos hair transplant photos are very fake",
+    "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+    "summary_original": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-03T16:01:07-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4cb12b423b57",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+    "summary_original": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-03T15:16:17-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "cbefc08910eb",
+    "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
+    "url": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
+    "summary_original": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies. Driscoll drove AI projects inside the Army, is a close ally of Vice President JD Vance, and yet maintains good relationships with both parties in Congress - which could prove valuable as midterms approach.\nThe article OpenAI hires ex-Army Secretary, gaining bipartisan r...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_driscoll.png",
+    "published": "2026-11-03T15:03:02+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "277becc3225e",
+    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+    "summary_original": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-03T13:31:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "eaa88cee498c",
+    "title": "OpenAI says ChatGPT is catching up to Google in search",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+    "summary_original": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-03T13:30:42-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "245ee58e8a60",
+    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/GettyImages-546444524.jpg?w=2667",
+    "published": "2026-11-03T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3a0266277de9",
+    "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+    "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
+    "summary_original": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent.\nThe article Anthropic&#039;s Message Threads cut time to first token by 35 percent for long conversations appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
+    "published": "2026-11-03T12:35:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f98ffa6f91b4",
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "summary_original": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "thumbnail": "",
+    "published": "2026-11-03T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5a465e187c01",
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "summary_original": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-03T10:43:41+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "c350bb879816",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "summary_original": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "thumbnail": "",
+    "published": "2026-11-03T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "250b236eb589",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "summary_original": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "thumbnail": "",
+    "published": "2026-11-03T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "a77302e323f7",
+    "title": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
+    "url": "https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/",
+    "summary_original": "OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%, and now delivers nearly a petabyte of Git data per day.\nThe post OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80% appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-03T05:51:06+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "72788a4d358f",
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-03T04:18:47+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "bcd73fa57de7",
+    "title": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+    "url": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+    "summary_original": "Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and 256K retrieval benchmarks.\nThe post Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+    "published": "2026-11-03T01:09:49+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "158693e545d7",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "summary_original": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "thumbnail": "",
+    "published": "2026-11-03T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
