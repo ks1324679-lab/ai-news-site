@@ -1,0 +1,402 @@
+[
+  {
+    "id": "3e74a369fee7",
+    "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
+    "url": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
+    "summary_original": "Appleが2026年10月末に発表した「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光ります。この光るAppleロゴは消灯可能であることが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-07T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fdda0f62af18",
+    "title": "歌詞の「感情表現」が時間の経過とともに減少し非道徳的な歌詞が増えていることが判明",
+    "url": "https://gigazine.net/news/20261107-lyrics-less-emotion/",
+    "summary_original": "人気の曲を調べた研究で、曲に使われる歌詞が時代と共に変化していることが分かりました。表現の幅が狭まった上で、非道徳的思想に関連する歌詞が増加するなどの傾向が見られています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-07T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bf1184f90663",
+    "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+    "summary_original": "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。",
+    "thumbnail": "",
+    "published": "2026-11-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "038f40fae4d4",
+    "title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+    "summary_original": "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ。だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない。",
+    "thumbnail": "",
+    "published": "2026-11-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "639c3dda2cb2",
+    "title": "AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
+    "summary_original": "AIで提案書の作成や情報収集は効率化できても、それだけで営業成績は上がるのか。AIを導入した営業現場で今、問われているのは、ツールを使いこなす力だけではない。",
+    "thumbnail": "",
+    "published": "2026-11-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c9fa002c7d57",
+    "title": "無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能",
+    "url": "https://gigazine.net/news/20261106-hob/",
+    "summary_original": "自分のPCでAIを動かすには、PCの性能に合ったAIモデルを選んだり実行環境を構築したりする必要があり、AIとのチャットだけでなく手元のファイルを読み取らせたり加工したりするには追加の設定が必要になる場合もあります。こうした作業を自動化する無料のオープンソースアプリ「Hob」は、PCに適したAIモデルを選んで実行環境を構築し、文書や表計算ファイルの解析・編集・グラフ作成などをチャットから実行できるツールです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-06T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "41cd6da548e0",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "summary_original": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "thumbnail": "",
+    "published": "2026-11-06T22:53:46+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9678fc2a3d37",
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "summary_original": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
+    "published": "2026-11-06T20:56:41+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "7fa2e16c7e24",
+    "title": "AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？",
+    "url": "https://gigazine.net/news/20261106-open-closed-weight/",
+    "summary_original": "AIモデルの提供プラットフォームであるOpenRouterの調査によると、2026年9月末時点で、OpenRouter上の上位50モデルのトークンのうちオープンウェイトモデルが処理した割合は72％と、前年の27％から大幅に増加したとのこと。AIのオープンウェイトモデルとクローズドウェイトモデルの違いについて、OpenRouterが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-06T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "30570cea20fc",
+    "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+    "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+    "summary_original": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&#038;D cost of $32 million. On other benchmarks, however, Ripple falls behind the likewise newly released western open model Inkling 2 Small.\nThe article Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model appeared first o...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/ricurisve_intelligence.png",
+    "published": "2026-11-06T19:47:04+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3c47b71b8069",
+    "title": "なぜかWindowsの「ペイント」にリモートコード実行の脆弱性",
+    "url": "https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/",
+    "summary_original": "Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-06T19:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "53c8a40c524c",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "summary_original": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-06T18:46:18-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "37d75a0fa379",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "summary_original": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "thumbnail": "",
+    "published": "2026-11-06T18:44:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dcfedcc7440b",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "summary_original": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "thumbnail": "",
+    "published": "2026-11-06T18:44:20+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "421fa7063f06",
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "summary_original": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-06T18:00:44-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "39eb6389cd50",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "summary_original": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-11-06T18:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d465e39b2bc9",
+    "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+    "url": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+    "summary_original": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128.\nThe post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-06T17:28:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8f51c7b390aa",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "summary_original": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-11-06T17:23:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8ee4d0441092",
+    "title": "Perplexity now has its own always-on AI agent",
+    "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+    "summary_original": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded.\nThe article Perplexity now has its own always-on AI agent appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/perplexity.png",
+    "published": "2026-11-06T16:47:28+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "269b2908608f",
+    "title": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
+    "summary_original": "WOGOは、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始した。大規模言語モデルと独自の図面／3D形状処理技術を組み合わせ、2D図面からの3Dモデル生成や、履歴のないCADデータからのフィーチャー再構築などを支援する。",
+    "thumbnail": "",
+    "published": "2026-11-06T16:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4ee880aad62c",
+    "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+    "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+    "summary_original": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI they're trying to overcome, looked at what's already visible from their work, and explain why Nvidi...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/Frontier-Radar-5-Neolabs.png",
+    "published": "2026-11-06T15:55:23+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3bc01457309b",
+    "title": "All the latest updates on AI data centers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "summary_original": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-06T15:02:22-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "27984b16f9bc",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-06T14:00:48+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "5c97845dd96a",
+    "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+    "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+    "summary_original": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which means the public has to rely on METR's judgment \"much more than would be ideal.\" There are also skeptical voices inside the company.\nThe article METR finds Anthropic may have crossed its own AI acceleration warning thre...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/METR-Anthropic-Report.png",
+    "published": "2026-11-06T13:40:07+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9a97dcad395f",
+    "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+    "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+    "summary_original": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage rising sharply.\nThe article Thinking Machines&#039; Inkling 2 Small claims top spot among western open-weight models appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+    "published": "2026-11-06T13:25:09+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "837feb0db08a",
+    "title": "国内GPUサーバでオープンモデルを利用可能に　フィックスターズが新サービス　まずは「DeepSeek-V4.1-Flash-1017」から",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
+    "summary_original": "ソフトウェア開発企業のフィックスターズは、国内のGPUサーバでオープンウェイトモデルを利用できるサービスを始めたと発表した。",
+    "thumbnail": "",
+    "published": "2026-11-06T13:21:45+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "4d25f5d785f0",
+    "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "summary_original": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186",
+    "published": "2026-11-06T13:10:10-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "51dda1debcfd",
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/2026_BA_Reno_15.jpg?w=840",
+    "published": "2026-11-06T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "aeb37577bdc7",
+    "title": "AI is the new dating dealbreaker",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+    "summary_original": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-06T12:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9552db008db1",
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "summary_original": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-06T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4650983e6e64",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "summary_original": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "thumbnail": "",
+    "published": "2026-11-06T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "dea179e2d685",
+    "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
+    "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+    "summary_original": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned.\nThe post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-06T04:25:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d1cb05298078",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "summary_original": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "thumbnail": "",
+    "published": "2026-11-06T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "0626389f477c",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-06T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "de2ac0271472",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "summary_original": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+    "published": "2026-11-05T23:09:36+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f5b465adac7c",
+    "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+    "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+    "summary_original": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.\nThe post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-05T22:58:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "59eabea63fd4",
+    "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
+    "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+    "summary_original": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training.\nThe post Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-05T21:33:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "a001352201c8",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "summary_original": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "thumbnail": "",
+    "published": "2026-11-05T20:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "84bace4b67d1",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-05T19:35:16+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "3303d6ac09af",
+    "title": "Australian universities are creating AI-native graduates",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "summary_original": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "thumbnail": "",
+    "published": "2026-11-05T17:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
