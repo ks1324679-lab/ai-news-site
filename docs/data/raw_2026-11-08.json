@@ -1,0 +1,342 @@
+[
+  {
+    "id": "a20ac963bf28",
+    "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+    "summary_original": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+    "thumbnail": "",
+    "published": "2026-11-08T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "87ffc73c6d53",
+    "title": "人が驚くと瞳孔が拡大するのはなぜか？研究者が解説",
+    "url": "https://gigazine.net/news/20261108-pupils-dilation-surprise/",
+    "summary_original": "周囲が暗かったり、感情が高ぶったりすると人の瞳孔は開きます。なぜこのような動きが見られるのかについて、ブラウン大学の研究者らが新しい研究と共に紹介しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-08T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "be545ac37e7a",
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "summary_original": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "thumbnail": "",
+    "published": "2026-11-07T22:07:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "f4f061dd3e2b",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "summary_original": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "thumbnail": "",
+    "published": "2026-11-07T21:17:08+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "10ed00c1a099",
+    "title": "手厚い社会福祉制度は国民の寿命を延ばすのか？",
+    "url": "https://gigazine.net/news/20261107-social-safety-nets-longer-lives/",
+    "summary_original": "「政府は国民生活を支援するためにどれほど介入するべきなのか」「福祉制度は国民生活にどれほど影響するのか」といった疑問は、近年の政治における重要な論点となっています。学術誌のSocial Indicators Researchに掲載された論文では、さまざまな発展段階にある国々を比較して、福祉制度と国民の寿命との関連性が調査されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-07T20:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "2fd23b5ff2de",
+    "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+    "url": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+    "summary_original": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.\nThe post How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-07T19:22:44+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1f86914c8f44",
+    "title": "「Kindle」2026年最新モデルをじっくり使ってみたレビュー、進化した使い心地はどのようなものか？",
+    "url": "https://gigazine.net/news/20261107-kindle-2026-review/",
+    "summary_original": "Amazonが2026年10月1日に発売した電子書籍リーダー「Kindle」の最新モデル「Kindle(16GB)」と「Kindle(32GB)」は、より薄く・軽くなり、操作感なども前モデルから向上したとされています。編集部に届いた新型Kindleを、普段からKindle端末を使用しているユーザーが実際に2週間ほどじっくり使用してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-07T18:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c11f05fb120b",
+    "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20261107-harmony/",
+    "summary_original": "友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「Harmony」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-07T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "75c7aa6cda50",
+    "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+    "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+    "summary_original": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation.\nThe article Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+    "published": "2026-11-07T17:37:25+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "015acf558c96",
+    "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+    "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+    "summary_original": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for reliable safety checks.\nThe article AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/ai_auditing_reliability.png",
+    "published": "2026-11-07T16:56:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f15ce16e4457",
+    "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+    "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+    "summary_original": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn't work as a warning signal: 96 percent of failed runs contained no cursing at all.\nThe article Thinking Machines&#039; Inkling 2 Small drops 316 F-bombs across benchmark runs appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/neural_network_black.png",
+    "published": "2026-11-07T16:31:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "365ec29b1b76",
+    "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+    "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+    "summary_original": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast.\nThe article The gap between open and closed AI models in cyber capabilities keeps shrinking appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/cyber_kraken.png",
+    "published": "2026-11-07T15:35:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a9ea9d6ed43c",
+    "title": "映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破",
+    "url": "https://gigazine.net/news/20261107-godzilla-1million-domestic-audience/",
+    "summary_original": "2026年11月3日(火・祝)に公開された映画『ゴジラ-0.0(マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-07T15:10:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4eb59aead6c9",
+    "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+    "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+    "summary_original": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is \"applied late, it is applied thin,\" the team writes.\nThe article State propaganda in some Chinese AI models is only &quot;a thin layer&quot; that fine-tuning can strip away appe...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/arete-27b-01-hero.jpg",
+    "published": "2026-11-07T12:32:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d581352d6e44",
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "summary_original": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-07T10:50:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6f25ac927811",
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "summary_original": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-07T10:43:45-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c350b1638a53",
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "summary_original": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-07T10:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f65033de0f65",
+    "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+    "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+    "summary_original": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark.\nThe post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-07T08:16:33+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "d36485a6e1db",
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "summary_original": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-07T07:30:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "bf1184f90663",
+    "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+    "summary_original": "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。",
+    "thumbnail": "",
+    "published": "2026-11-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "038f40fae4d4",
+    "title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+    "summary_original": "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ。だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない。",
+    "thumbnail": "",
+    "published": "2026-11-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "639c3dda2cb2",
+    "title": "AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
+    "summary_original": "AIで提案書の作成や情報収集は効率化できても、それだけで営業成績は上がるのか。AIを導入した営業現場で今、問われているのは、ツールを使いこなす力だけではない。",
+    "thumbnail": "",
+    "published": "2026-11-07T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "bfdaf195a235",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "summary_original": "The deal highlights the challenges of developing massive AI data centers.",
+    "thumbnail": "",
+    "published": "2026-11-07T01:40:28+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "41cd6da548e0",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "summary_original": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "thumbnail": "",
+    "published": "2026-11-06T22:53:46+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "9678fc2a3d37",
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "summary_original": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
+    "published": "2026-11-06T20:56:41+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "53c8a40c524c",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "summary_original": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-06T18:46:18-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "37d75a0fa379",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "summary_original": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "thumbnail": "",
+    "published": "2026-11-06T18:44:38+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "d465e39b2bc9",
+    "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+    "url": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+    "summary_original": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128.\nThe post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-06T17:28:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "269b2908608f",
+    "title": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
+    "summary_original": "WOGOは、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始した。大規模言語モデルと独自の図面／3D形状処理技術を組み合わせ、2D図面からの3Dモデル生成や、履歴のないCADデータからのフィーチャー再構築などを支援する。",
+    "thumbnail": "",
+    "published": "2026-11-06T16:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "27984b16f9bc",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-06T14:00:48+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "51dda1debcfd",
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/2026_BA_Reno_15.jpg?w=840",
+    "published": "2026-11-06T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "9552db008db1",
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "summary_original": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-06T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "4650983e6e64",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "summary_original": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "thumbnail": "",
+    "published": "2026-11-06T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "dea179e2d685",
+    "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
+    "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+    "summary_original": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned.\nThe post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-06T04:25:07+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
