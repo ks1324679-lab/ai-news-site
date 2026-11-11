@@ -1,0 +1,402 @@
+[
+  {
+    "id": "49cf590dc337",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "summary_original": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "thumbnail": "",
+    "published": "2026-11-12T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "061bb22ca256",
+    "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
+    "summary_original": "Sceneは、3D手順書作成ソリューション「3D Docs」において、過去の組立順序（M-BOM）をAIに学習させる新機能の提供を開始した。自社の組立ノウハウを反映したM-BOMを生成することで、新製品の組立検討や生産準備の前倒し、技術継承を支援する。",
+    "thumbnail": "",
+    "published": "2026-11-11T09:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "73cab60bcda8",
+    "title": "GIGAZINE読者は記事広告で何をレビューしてほしいのか？",
+    "url": "https://gigazine.net/news/20261111-gigazine-review-survey/",
+    "summary_original": "ゲームを長時間プレイしたときにスマートフォンがどれくらい熱くなるのかや、冷凍食品を調理するとどんな仕上がりになるのかなど、実際に製品を買う前にレビューを読んで確かめておきたいことはいろいろあります。GIGAZINEでは編集部が製品やサービスを実際に試してレビューする記事広告をこれまでに多数掲載していますが、そんな記事広告でどういう製品やサービスを取り上げてほしいのかを2026年夏に実施した読者アンケートで聞いてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-11T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9a4147c4f0c7",
+    "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html",
+    "summary_original": "スタディストは、新プロダクト「Teachme Knowledge」と、Teachmeシリーズの新構想「Connect」の発表会を開催した。現場の動画や文書を事前の仕分けなしに投入することででAIが要約／構造化を行う仕組みを提供し、熟練者の暗黙知の形式知化を支援する。",
+    "thumbnail": "",
+    "published": "2026-11-11T08:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b47dda9e3cb7",
+    "title": "「“できる人”ばかり質問されがち」から脱却し、年4400時間削減――紀陽銀行の「社内知識」集約術とは",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news029.html",
+    "summary_original": "マニュアルがあっても、必要な情報が見つからなければ社内の問い合わせは減らない。従業員が自力で疑問を解消できるようにするために、情報を見つける仕組みをどう見直せばよいのか。紀陽銀行の取り組みに学ぶ。",
+    "thumbnail": "",
+    "published": "2026-11-11T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "a90255b35e48",
+    "title": "「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？",
+    "url": "https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/",
+    "summary_original": "AIの市場規模は急速に拡大しつつあり、2030年には4兆2000億ドル(約660兆円)に達するとの予測もありますが、一方で「AIブームはバブルに過ぎない」と冷ややかな見方もあります。そんな中でエンジニアのMatteo Raso氏が、「AIはバブルではなく、まだAI企業が成長する余地はある」と主張しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-11T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0e4a2360dba0",
+    "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
+    "summary_original": "o9ソリューションズ・ジャパンは、AI時代の新たなサプライチェーン像を提示する「o9 Connect Japan 2026」を開催した。講演ではTDKが取り組んだ、現場主導でレガシー脱却の壁を越える実践的なプロセスも紹介された。",
+    "thumbnail": "",
+    "published": "2026-11-11T07:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "3cac10345a0d",
+    "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+    "summary_original": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
+    "thumbnail": "",
+    "published": "2026-11-11T07:03:30+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6ae82eddf35f",
+    "title": "無料で使える「SketchUp」代替の3Dモデリングツール「BenchUp」が登場、ブラウザ上で家具の設計が可能",
+    "url": "https://gigazine.net/news/20261111-benchup/",
+    "summary_original": "3Dモデリングソフト「SketchUp」の代替を目指す無料のオープンソースツール「BenchUp」が公開されました。プログラミング言語のRustとグラフィックス技術のWebGPUを採用しており、ブラウザ上で立体的な図形を作成できるほか、Windows・macOS・Linux向けのデスクトップアプリも用意されています。なお、BenchUpは当初「KetchUp」という名称で公開されていましたが、記事作成時点では名称が変更されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-11T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "feedb8305a89",
+    "title": "11年間にわたるリバースエンジニアリングでDOS版「ウイングコマンダー」の2人同時協力プレイ実現に成功",
+    "url": "https://gigazine.net/news/20261111-wing-commander-together/",
+    "summary_original": "子どもの頃にDOS版「ウイングコマンダー」の協力プレイを楽しんでいた兄弟が、11年もの間リバースエンジニアリングを続け、ついに夢に見た「僚機との協力プレイ」を実現しました。単一のコックピットを共有するのではなくそれぞれの機体を駆って協力プレイしたいという子どもの頃の夢から始まり、ゲームのメモリ・コード・ネットワークプロトコルの深淵を探求するなど、数年間に及ぶ複雑な技術的努力へとプロジェクトは発展しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-11T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c3a687641993",
+    "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+    "url": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+    "summary_original": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters.\nThe post Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-10T23:20:19+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b6860624f314",
+    "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+    "url": "https://gigazine.net/news/20261110-leantime/",
+    "summary_original": "仕事や個人のプロジェクトを進める際はタスクの整理・スケジュールの確認・作業時間の記録などに複数のアプリを使い分けることがあります。そんな作業を1カ所にまとめて管理できるのが無料のオープンソースツール「Leantime」です。カンバン・一覧表・ガントビュー・カレンダー・タイムシートを備えるほか、ADHD・失読症・自閉スペクトラム症などを念頭に置いた設計も特徴とのことで実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-10T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "4514984ec2dd",
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "summary_original": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+    "published": "2026-11-10T21:12:59+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "24b56e0e82fb",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "summary_original": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "thumbnail": "",
+    "published": "2026-11-10T21:08:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "eb94be6281ea",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "summary_original": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "thumbnail": "",
+    "published": "2026-11-10T20:52:13+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "456af176a3cc",
+    "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+    "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+    "summary_original": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers talk to customers directly inside ChatGPT.\nThe article OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_cart_logo.png",
+    "published": "2026-11-10T20:17:00+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6fc8f319c68f",
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "summary_original": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "thumbnail": "",
+    "published": "2026-11-10T19:57:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "38c66e542ed3",
+    "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+    "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+    "summary_original": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a central work platform for teams that brings many other apps together in one place.\nThe article Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting n...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/claude_code_logo.png",
+    "published": "2026-11-10T19:48:40+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d29090d0b774",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "summary_original": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "thumbnail": "",
+    "published": "2026-11-10T19:23:34+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a032a0b0222a",
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "summary_original": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "thumbnail": "",
+    "published": "2026-11-10T19:03:52+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "294e40d48c10",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "summary_original": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task.\nThe article Nvidia&#039;s model GR00T 2 watches humans on video, then imagines itself as the robot appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/GR00T-2-Nvidia.png",
+    "published": "2026-11-10T18:41:52+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6661a4ef58c5",
+    "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+    "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+    "summary_original": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" feature, which split up complex tasks in real time.\nThe article Gemini 4 Carbon arrives just in time to feel like yesterday&#039;s news in the fastest model cycle yet appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
+    "published": "2026-11-10T18:19:13+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2c24f62bd19b",
+    "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+    "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+    "summary_original": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent.\nThe article Google DeepMind&#039;s Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/Google-Deepmind-Gemini-Robotics-2-5.webp",
+    "published": "2026-11-10T17:11:10+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "963de94032a5",
+    "title": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
+    "url": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
+    "summary_original": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in the browser\nThe post Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-11-10T15:42:55+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1523d7cb53bd",
+    "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
+    "url": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
+    "summary_original": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.\nThe post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-10T14:59:09+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "13a445521080",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "summary_original": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-10T14:04:05-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c31928bbebfd",
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/12/GettyImages-1252251768-SA.jpg?fit=1920,1280",
+    "published": "2026-11-10T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "97a11b3b9df5",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "summary_original": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-10T13:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2d5bc13d49d0",
+    "title": "Evolving metal extraction processes",
+    "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+    "summary_original": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/mittr_article_social_4_1200x627-1.jpg",
+    "published": "2026-11-10T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "efee8cc48ed1",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "summary_original": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-10T12:32:47-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "804eba17b1ea",
+    "title": "Anthropic has its own AI-powered office suite now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "summary_original": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-10T12:30:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "c0bcf16e8fea",
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "summary_original": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "thumbnail": "",
+    "published": "2026-11-10T12:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "c77128a201b8",
+    "title": "eBay appears to have shut the door on third-party AI agents",
+    "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+    "summary_original": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-10T11:20:30-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "bde62bed0d83",
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "summary_original": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "thumbnail": "",
+    "published": "2026-11-10T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "7f83c7f8edca",
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "summary_original": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "thumbnail": "",
+    "published": "2026-11-10T09:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "db3d3bbb0683",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "summary_original": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "thumbnail": "",
+    "published": "2026-11-10T07:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "e5ef7013e757",
+    "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
+    "url": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
+    "summary_original": "Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task.\nThe post Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-10T06:36:10+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "992e8c410947",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-10T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "de10773c0146",
+    "title": "Decision Models in Hugging Face",
+    "url": "https://huggingface.co/blog/decision",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-10T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "192335266dc0",
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+    "summary_original": "\"*sshole\" poses a serious threat to Internet security.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "published": "2026-11-09T19:41:34+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  }
+]
