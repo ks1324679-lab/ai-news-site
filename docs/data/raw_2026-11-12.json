@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1602ae6f62f4",
+    "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+    "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+    "summary_original": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
+    "thumbnail": "",
+    "published": "2026-11-12T09:56:17+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6969ca6514be",
+    "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
+    "url": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
+    "summary_original": "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルスクラッチで開発された国産生成AI基盤モデルで、日本語に特化しているのが特徴。このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い翻訳が可能で、テキスト翻訳だけでなくFirefoxやChromeの拡張機能でも提供されています。2026年10月にはPLaMo 3 NICTをベースにしたplamo-3-translateも登場し、翻訳の精度は随一のレベルに到達しています。そんなPLaMo翻訳がいったいどのように開発されたのかを、Firefoxアドオンが出た最初からず～っと使い続けているGIGAZINE編集長がPFNのPLaMo開発メンバーに根掘り葉掘り聞いてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-12T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "17eae6d1c4eb",
+    "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
+    "summary_original": "会社員の仕事に「Claude Fable 5.2」は必要か。白書の要約と資料作成、取材前の調査で「Opus 5.5」「Sonnet 5.5」と出力のクオリティや利用コストを比較した。",
+    "thumbnail": "",
+    "published": "2026-11-12T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0257fa44e410",
+    "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
+    "summary_original": "Googleは、ツールの選択や条件判定など選択肢から答えを選ぶ用途に特化した「Gemini Decisions API」を発表した。専用モデルを用い、テキストや画像などのマルチモーダル入力を1回の推論で評価し、確率と信頼度スコアを返す。従来のモデルより高速かつ安価に動作し、他社が先行する判断特化型AI市場への本格参入となる。",
+    "thumbnail": "",
+    "published": "2026-11-12T07:03:58+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "68957bc2f2f2",
+    "title": "AWSで「ChatGPT Enterprise」を購入可能に　AWSアカウントで一括管理するメリットは",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003080/",
+    "summary_original": "OpenAIは「ChatGPT Enterprise」をAWS Marketplaceで提供開始した。企業は既存のAWSアカウントや契約枠でChatGPT Enterpriseを購入・管理できる。企業のAI調達はどう変わるのか。",
+    "thumbnail": "",
+    "published": "2026-11-12T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6770d0a0bb3e",
+    "title": "「非言語系AI」はLLMの弱点を補えるか？　Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news089.html",
+    "summary_original": "AIの議論は「何ができるか」から「どう統制するか」へ――。Gartnerは2027年のトップ・トレンド10項目の大半を、自律型エージェントの統制と変化に耐える基盤の設計に充てた。一方で同社が「まだ不足している」とする、AIの頭脳に当たる3つの技術とは。",
+    "thumbnail": "",
+    "published": "2026-11-12T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "7e3882416a16",
+    "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
+    "url": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
+    "summary_original": "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-12T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9f7695bb0063",
+    "title": "iPhone DuoはiPhone 18 Proと同じチップでもGPU性能に差、発熱や電池持ちなどのベンチマーク結果が公開される",
+    "url": "https://gigazine.net/news/20261112-iphone-duo-benchmark-battery/",
+    "summary_original": "ハードウェアの検証を行うLTT Labsが、Appleの折りたたみスマートフォン「iPhone Duo」をiPhone 18 ProやSamsung製スマートフォンと比較した結果を公開しました。CPUやGPUの処理性能に加えて高負荷時の発熱と性能低下、使用する画面によるバッテリー持続時間の違いも調べています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-12T06:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "49cf590dc337",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "summary_original": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "thumbnail": "",
+    "published": "2026-11-12T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "4d80da40d446",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary_original": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "thumbnail": "",
+    "published": "2026-11-11T23:50:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "bf9a8df53a7f",
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "summary_original": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+    "thumbnail": "",
+    "published": "2026-11-11T23:28:45+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "514b502da5e2",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "summary_original": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "thumbnail": "",
+    "published": "2026-11-11T23:17:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c66586d481aa",
+    "title": "無料でWebサイト・DNS・AWS認証情報・クレカ・機密文書などにおとりを設置して不審な操作を検知できる「Canarytokens」、インストール不要でセルフホストにも対応",
+    "url": "https://gigazine.net/news/20261111-canarytokens/",
+    "summary_original": "自分が管理するWebページやDNS・AWSなどへの不審なアクセスを把握するには、それぞれのサービスでログを調査するなどの方法がありますが、攻撃者が触れそうな場所へ特殊なおとりを用意することでアクセスされた際に通知を受け取る方法もあります。そこで、Webページ・DNS・AWS・クレジットカード・QRコードなどに対応したおとりを無料で生成し、その利用をメールで通知するサービスが「Canarytokens」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-11T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0e3d014e5d1a",
+    "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+    "url": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+    "summary_original": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens.\nThe post Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-11T21:21:42+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b1f8f5f4eb5d",
+    "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
+    "url": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
+    "summary_original": "AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-11T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7c1a5b5968bc",
+    "title": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects",
+    "url": "https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/",
+    "summary_original": "Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research.\nThe post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-11T20:51:56+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b749a8436203",
+    "title": "Why the data center you dread might never even be built",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "summary_original": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
+    "thumbnail": "",
+    "published": "2026-11-11T20:15:15+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "176fa564bcef",
+    "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+    "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+    "summary_original": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google.\nThe article Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall.png",
+    "published": "2026-11-11T20:12:46+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4b8a3ddcbba9",
+    "title": "Meta is losing its longtime head of  infrastructure",
+    "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+    "summary_original": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+    "thumbnail": "",
+    "published": "2026-11-11T20:12:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "746a854205c5",
+    "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+    "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+    "summary_original": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business that has fueled spending so far.\nThe article US corporate AI spending hits a new high in October, but growth slows to 1.65 percent appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_anthropic_logos-1.jpeg",
+    "published": "2026-11-11T19:35:11+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "eb8ebb1c8ea1",
+    "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
+    "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+    "summary_original": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to extend the method to critical infrastructure like power grids and medical devices.\nThe article Google Deepmind&#039;s AlphaProof Code verified Signal&#039;s cryptographic core in four weeks instead of y...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/deepmind_alphaproof.png",
+    "published": "2026-11-11T18:18:25+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f269105f8f6e",
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "summary_original": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-11T17:44:36-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "4e20a5f0cdfe",
+    "title": "What to know about this year’s UN climate talks",
+    "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+    "summary_original": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-11T17:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a3a0c9996cbe",
+    "title": "United won’t let your AI agent book your flight",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "summary_original": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-11T16:54:21-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "74190c6bf25a",
+    "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
+    "url": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
+    "summary_original": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension\nThe post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-11T15:51:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "9f8335df5741",
+    "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+    "url": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+    "summary_original": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation and data fusion create risks that are hard to contain.\nThe article Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name appeared first on The Decod...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/Helsing-Clarity.webp",
+    "published": "2026-11-11T15:12:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "2f0f1e5ed445",
+    "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+    "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+    "summary_original": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies.\nThe article Anthropic says AI is eroding Nvidia&#039;s CUDA lead, cutting an AMD chip switch from months to three days appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_moat.png",
+    "published": "2026-11-11T14:25:20+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "63c379e63905",
+    "title": "The Download: preserving minds and weighing open AI risks",
+    "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/10/GettyImages-82110531_1.jpg?fit=2880,1920",
+    "published": "2026-11-11T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "fd7c9361a612",
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "summary_original": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-11T11:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "872573b4c15b",
+    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+    "summary_original": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-11T10:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "24878850a24a",
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+    "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "summary_original": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-11T09:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "55a31f644627",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "summary_original": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "thumbnail": "",
+    "published": "2026-11-11T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "e4ed675d7360",
+    "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+    "url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+    "summary_original": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video.\nThe post MBZUAI&#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+    "published": "2026-11-11T07:38:57+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4c5ef8a2d9ea",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-11T05:01:16+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "08bd0b1af5bf",
+    "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
+    "url": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
+    "summary_original": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch\nThe post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-11T04:43:53+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "cc75dd113e1a",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "summary_original": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "thumbnail": "",
+    "published": "2026-11-11T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "542cd5af268e",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-11T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "4514984ec2dd",
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "summary_original": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+    "published": "2026-11-10T21:12:59+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "c31928bbebfd",
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/12/GettyImages-1252251768-SA.jpg?fit=1920,1280",
+    "published": "2026-11-10T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2d5bc13d49d0",
+    "title": "Evolving metal extraction processes",
+    "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+    "summary_original": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/mittr_article_social_4_1200x627-1.jpg",
+    "published": "2026-11-10T13:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  }
+]
