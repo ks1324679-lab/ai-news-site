@@ -1,0 +1,392 @@
+[
+  {
+    "id": "c48a2b41ca9f",
+    "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+    "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
+    "summary_original": "近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を処理するようになったら、実際に重要な5%の対応能力は低下するのか？」という疑問について考察しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-15T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8dfaab3601ed",
+    "title": "ナルシシストはSNSの登場で増加しているのか？",
+    "url": "https://gigazine.net/news/20261115-narcissists-sns/",
+    "summary_original": "承認欲求を簡単に満たすことができるSNSの登場で、強い自己愛を持つナルシシストが増えているのではないかと考えた研究者らが、ナルシシストとSNSの関係について調査しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-15T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "0cbac1debe31",
+    "title": "Where was Nvidia’s security team?",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "summary_original": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+    "thumbnail": "",
+    "published": "2026-11-15T00:08:07+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "e4777a357e51",
+    "title": "摂取量が多い人ほど認知機能が速く低下する傾向が見られた6種の甘味料とは？",
+    "url": "https://gigazine.net/news/20261114-sugar-substitutes-cognitive-decline/",
+    "summary_original": "ゼロカロリーの炭酸飲料や砂糖不使用のガムには砂糖に代わるさまざまな甘味料が使われています。ブラジルのサンパウロ大学などの研究チームは、成人を約8年間追跡した観察研究のデータを基に甘味料の摂取量と認知機能の変化との関係を調べました。7種類の甘味料を種類ごとに分析したところ、6種類の甘味料で、摂取量が多い人ほど認知機能テストの総合成績が速く低下する傾向が見られたとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-14T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "7502b262d99d",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "summary_original": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "thumbnail": "",
+    "published": "2026-11-14T21:41:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "76116c3a45d7",
+    "title": "高速回転するホイールが発する火花を超スローモーションで捉えたムービー",
+    "url": "https://gigazine.net/news/20261114-10-billion-sparks/",
+    "summary_original": "ハイスピードカメラを使ってさまざまな瞬間を超スローモーションで撮影するYouTubeチャンネルのThe Slow Mo Guysが、高速回転するホイールから円状に放出される火花をスローモーションで撮影することを試みたムービーを公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-14T21:30:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "501218dd1344",
+    "title": "無料で時間管理用のカレンダーとタスク管理用のToDoアプリの両方を1つのタイムラインにまとめる「Mitra」、CalDAV・Googleカレンダー・Appleカレンダー・Notion・Todoist・Tempoと双方向同期可能",
+    "url": "https://gigazine.net/news/20261114-mitra/",
+    "summary_original": "仕事や日常生活の予定をカレンダーで管理し作業内容をToDoアプリに登録していると、予定とタスクをそれぞれ確認する必要があります。この2つの機能を1つのタイムラインに統合し、空き時間へタスクを割り当てたりGoogleカレンダー・Notion・Todoistなどと双方向同期したりできる無料のオープンソースアプリ「Mitra」を実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-14T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "920d2e90cbf6",
+    "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+    "summary_original": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
+    "thumbnail": "",
+    "published": "2026-11-14T20:35:45+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0bd3a4134090",
+    "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+    "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+    "summary_original": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty.\nThe article Anthropic CEO Amodei admits &quot;there&#039;s a huge uncertainty in what&#039;s going to happen next year&quot...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_logos-5.png",
+    "published": "2026-11-14T19:05:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "17dd6d164624",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary_original": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "thumbnail": "",
+    "published": "2026-11-14T17:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "dbcf31264988",
+    "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+    "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+    "summary_original": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task.\nThe article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
+    "published": "2026-11-14T16:48:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6e07345b4f8e",
+    "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+    "url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+    "summary_original": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.\nThe post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-11-14T16:45:48+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "c02be07849cb",
+    "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+    "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+    "summary_original": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort.\nThe article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+    "published": "2026-11-14T16:42:56+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "4392222fa3b0",
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "summary_original": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "thumbnail": "",
+    "published": "2026-11-14T16:34:15+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a8c9e2f57499",
+    "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+    "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+    "summary_original": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts.\nThe article OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary appeared fir...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_robot_arms.png",
+    "published": "2026-11-14T11:40:51+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d21fee09ae84",
+    "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+    "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+    "summary_original": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity.\nThe article Anthropic can already retrain Mythos with &quot;a fraction of the compute originally needed,&quot; says former researcher Coxon ap...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/claude_laser.png",
+    "published": "2026-11-14T11:21:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "be4dd81ca11e",
+    "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+    "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+    "summary_original": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context.\nThe post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-14T10:21:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e906ce588cf4",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "summary_original": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-14T10:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "018ad8fc405c",
+    "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+    "summary_original": "ダイナーの一角から、AI時代の主役「NVIDIA」を生み出したジェンスン・フアン氏。“皿洗い”から億万長者へと至った半生を振り返る。",
+    "thumbnail": "",
+    "published": "2026-11-14T07:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "300cf280a342",
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "summary_original": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-14T07:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e0e819ae9ff7",
+    "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+    "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+    "summary_original": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.\nThe post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-14T06:38:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "8d23e88a0f9b",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "summary_original": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "thumbnail": "",
+    "published": "2026-11-13T22:43:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4f9a42ba49f5",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "summary_original": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-13T18:49:11-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9c47793813e0",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-13T18:00:39+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "314941ebd59f",
+    "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+    "url": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+    "summary_original": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API [&#8230;]\nThe post Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-13T17:23:51+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e9d93e607b69",
+    "title": "XYBench: Helping with the problem behind the question",
+    "url": "https://huggingface.co/blog/allenai/xybench",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-13T17:02:35+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "cc5bf82c102a",
+    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+    "summary_original": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+    "published": "2026-11-13T16:26:32+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "5df0c5384c7f",
+    "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+    "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+    "summary_original": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks.\nThe post Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-13T16:10:02+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b5d8e3ece75e",
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "summary_original": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-13T15:45:10-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "79d13e040f6e",
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "summary_original": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "thumbnail": "",
+    "published": "2026-11-13T15:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "1f76189be1ea",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-13T14:05:22+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "2f156a26578b",
+    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/mars2026-kvitsoy4.jpg?w=840",
+    "published": "2026-11-13T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "f9e04c55fef8",
+    "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+    "summary_original": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
+    "thumbnail": "",
+    "published": "2026-11-13T12:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "86ed050cd256",
+    "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+    "summary_original": "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた。なぜ今なのか。背景や狙いを聞いた。",
+    "thumbnail": "",
+    "published": "2026-11-13T10:44:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "ce3e5f92ee5c",
+    "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+    "summary_original": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした。",
+    "thumbnail": "",
+    "published": "2026-11-13T10:22:05+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "27c20cf959b0",
+    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "summary_original": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-13T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3d12bf3f82e2",
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "summary_original": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-13T10:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "3ca895f2a51c",
+    "title": "What&#8217;s really at stake in the Jensen Huang saga",
+    "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "summary_original": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-13T09:47:16-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "db3076ba786e",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "summary_original": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "thumbnail": "",
+    "published": "2026-11-13T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
