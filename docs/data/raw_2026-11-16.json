@@ -1,0 +1,312 @@
+[
+  {
+    "id": "8e54948b95fe",
+    "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
+    "summary_original": "ダッソー・システムズは、3D設計開発ソリューション「SOLIDWORKS」の最新バージョン「SOLIDWORKS 2027」を発表した。製品バリエーションの検討やボルト締結解析、データ管理に関する機能強化に加え、AIによるアセンブリのパフォーマンス分析やモデルの軽量化、設計変更に伴う影響範囲の確認など、設計業務を支援する機能を拡充した。",
+    "thumbnail": "",
+    "published": "2026-11-16T08:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "6f428f46ffae",
+    "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+    "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+    "summary_original": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。",
+    "thumbnail": "",
+    "published": "2026-11-16T08:00:07+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9081c17dd8d1",
+    "title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/",
+    "summary_original": "東京都足立区は2025年にグーグル・クラウド・ジャパンと包括連携協定を結び、議会答弁や区民の声への対応でAIエージェントの実証実験を進めてきた。同社イベントに登壇した担当者が、その仕組みと運用のコツを紹介した。",
+    "thumbnail": "",
+    "published": "2026-11-16T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0d4f41c9dfaa",
+    "title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html",
+    "summary_original": "製造業でも多くの業務でAIが活用される中、注目を集めるフィジカルAIだが、製造業での使用状況はどうなっているのだろうか。フィジカルAIの現在地と共にAI時代の人の役割について、ガートナージャパン アナリストの鹿内健太郎氏に話を聞いた。",
+    "thumbnail": "",
+    "published": "2026-11-16T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "228f584f28fb",
+    "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news012.html",
+    "summary_original": "DMG森精機は、東京グローバルヘッドクォータにおいて自社イベント「東京テクノロジーウィーク」を開催した。国内初披露を含む最新の5軸加工機や複合加工機、金属積層造形機など17台の機械に加え、DXソリューションなどを展示した。",
+    "thumbnail": "",
+    "published": "2026-11-16T07:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8fc127239b94",
+    "title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
+    "url": "https://gigazine.net/news/20261116-billion-wats-in-speaker/",
+    "summary_original": "映画「バック・トゥ・ザ・フューチャー」では、タイムマシンを動かすために1.21GW(12億1000万W)もの電力を必要とする設定となっています。そんな途方もない電力を家庭用電源から生み出して市販のスピーカーに瞬間的に流し込むとどうなるのかを検証した実験動画を、電気工作系YouTuberのPhotonicinductionが公開しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-16T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "a3402c8bde68",
+    "title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
+    "url": "https://gigazine.net/news/20261116-guerrilla-bike-lanes/",
+    "summary_original": "サンフランシスコで2人のサイクリストがひき逃げ事故で亡くなった後、都市活動家グループが、自転車レーンを守るための交通コーンを非公式で設置しました。通常はこのようにゲリラ的に設置されたものは市当局に撤去されますが、同じ活動家グループが設置した物を市が公式なものとして認めるという対応をした事例があります。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-16T02:07:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "22756b577313",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "summary_original": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "thumbnail": "",
+    "published": "2026-11-15T23:30:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1d51061e7de1",
+    "title": "大量のMacBook Proでデータセンターを構築した企業が「なぜMacなのか」を解説",
+    "url": "https://gigazine.net/news/20261115-mac-datacenter-namespace/",
+    "summary_original": "NamespaceはWindowsやmacOSの仮想環境をオンラインで提供している企業です。NamespaceはmacOS関連サービスを展開するために大量のMacBook Proを導入しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-15T23:20:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f6a3791edf78",
+    "title": "無料でSQLiteデータベース（.sqlite・.db）・.sqlダンプファイル・CSVファイルなどを編集・変換できる「editsqlite」",
+    "url": "https://gigazine.net/news/20261115-editsqlite/",
+    "summary_original": "データベースの中身を調べたいとき、サーバーへのアップロードや専用ソフトのインストールが必要になる場面があります。そうした手間を省き、ブラウザ上でSQLiteデータベース(.sqlite・.db)・SQLダンプファイル・CSVファイルを開いて編集と形式変換ができる無料のWebアプリが「editsqlite」です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-15T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "df3e44b99410",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "summary_original": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "thumbnail": "",
+    "published": "2026-11-15T22:00:01+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "e1f75517207a",
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "summary_original": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "thumbnail": "",
+    "published": "2026-11-15T22:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "b95b24505d9f",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "summary_original": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "thumbnail": "",
+    "published": "2026-11-15T21:56:35+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a63866f99390",
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "summary_original": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "thumbnail": "",
+    "published": "2026-11-15T20:20:57+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "872a4f152d58",
+    "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
+    "url": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
+    "summary_original": "動画撮影で意外と難しいのが、周囲の雑音を抑えながらクリアな音声を録音することです。Insta360のワイヤレスマイク「Insta360 Mic Pro」は好きな画像やロゴを表示できるカラーE-Inkディスプレイが送信機に搭載されているのが特徴で、AIによるノイズキャンセリングや最大400mのワイヤレス伝送に対応し、32bit float内部録音によって大きな声や音を収録した際の音割れにも対処できるとのこと。実際にInsta360 Mic Proを屋内や屋外で使ってみて、その性能を実際に検証してみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-15T18:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5243c0b686f8",
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "summary_original": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-15T15:43:49-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7f6e12ee511e",
+    "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+    "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+    "summary_original": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton.\nThe article Anthropic&#039;s Claude Fable 5.2 doesn&#039;t generate images, it paints them appeared...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+    "published": "2026-11-15T15:42:03+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "c34529261e24",
+    "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+    "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+    "summary_original": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent, far above the officially reported 7 percent.\nThe article Firm linked to Jensen Huang&#039;s ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China appeared first on The Decode...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+    "published": "2026-11-15T14:45:12+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "bc766627e4a1",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "summary_original": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-15T14:15:43-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "dbcf3663ec02",
+    "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+    "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+    "summary_original": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers. Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends could also explain the numbers.\nThe article Australia&#039;s central ba...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/ai_impact_australian_jobs.png",
+    "published": "2026-11-15T10:45:58+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "64acc21befdc",
+    "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+    "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+    "summary_original": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet.\nThe post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-15T10:06:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "5f1fd1ef9f0f",
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "summary_original": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs.\nThe article Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg",
+    "published": "2026-11-15T10:06:06+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "8466bfa20f2d",
+    "title": "An overview of Jensen Huang’s messy days",
+    "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-15T08:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0cbac1debe31",
+    "title": "Where was Nvidia’s security team?",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "summary_original": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+    "thumbnail": "",
+    "published": "2026-11-15T00:08:07+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "7502b262d99d",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "summary_original": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "thumbnail": "",
+    "published": "2026-11-14T21:41:22+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0bd3a4134090",
+    "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+    "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+    "summary_original": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty.\nThe article Anthropic CEO Amodei admits &quot;there&#039;s a huge uncertainty in what&#039;s going to happen next year&quot...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_logos-5.png",
+    "published": "2026-11-14T19:05:17+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6e07345b4f8e",
+    "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+    "url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+    "summary_original": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.\nThe post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-11-14T16:45:48+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "be4dd81ca11e",
+    "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+    "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+    "summary_original": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context.\nThe post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-14T10:21:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e906ce588cf4",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "summary_original": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-14T10:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "300cf280a342",
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "summary_original": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-14T07:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "e0e819ae9ff7",
+    "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+    "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+    "summary_original": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.\nThe post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-14T06:38:14+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  }
+]
