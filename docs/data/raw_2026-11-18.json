@@ -1,0 +1,402 @@
+[
+  {
+    "id": "476851311c06",
+    "title": "「Google Chrome 158」安定版リリース、ウェブアプリのインストール機能やAndroid版でのWebHID対応などが追加",
+    "url": "https://gigazine.net/news/20261118-google-chrome-158/",
+    "summary_original": "ウェブブラウザ「Google Chrome」の最新安定版であるバージョン158がリリースされました。ウェブサイトからウェブアプリのインストールを要求できる「Web Install API」や「install要素」が追加されたほか、動画や音声の再生状態に応じてCSSを適用する機能、Android版ChromeでのWebHID API対応などが行われています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-18T11:25:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "aa940db5c345",
+    "title": "ジェンスン・フアンがCEO復帰への意欲を公表するもNVIDIA会長は「復帰させる予定なし」と明言",
+    "url": "https://gigazine.net/news/20261118-nvidia-not-plan-reappoint-jensen-huang-ceo/",
+    "summary_original": "NVIDIAのハーベイ・C・ジョーンズ会長が、同社の決算説明会の中で中国の女スパイとの不倫問題を受けてCEOを辞任したジェンスン・フアン氏のCEO復帰について、「予定はない」と言及したことが明らかになりました。フアン氏はCEO辞任後初めてXへの投稿を行い、CEO復帰への意欲を見せていましたが、会社側が一蹴した形です。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-18T10:55:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "44cb279ecd48",
+    "title": "韓国が大学入試のAIカンニング対策を大幅強化、メガネの全数検査や衣服のボタンの封印を実施し受験資格停止期間を10年に延長へ",
+    "url": "https://gigazine.net/news/20261118-korean-anti-ai-cheating/",
+    "summary_original": "韓国政府が2026年11月17日、大学入試におけるAIや小型電子機器を悪用したカンニングへの対策を発表しました。受験生が着用するメガネの全数検査や衣服のボタンをシールで覆うといった対策を実施するほか、不正行為をした受験生の受験資格停止期間を1年から10年に延長する方針を示しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-18T10:48:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "8ef8f74bb7a1",
+    "title": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+    "summary_original": "ChatGPTがユーザーに向けて、自社をどのように紹介しているのかを把握したいと考える企業は多いだろう。OpenAIは、その把握に役立つ機能を企業向けにβ版で公開した。米国の対象企業であれば、自社のAIエージェントをChatGPT広告のリンク先に設定することもできる。",
+    "thumbnail": "",
+    "published": "2026-11-18T10:40:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "cf586f5acee0",
+    "title": "iCloudやApp Storeなど複数のAppleサービスで障害が発生",
+    "url": "https://gigazine.net/news/20261118-apple-down/",
+    "summary_original": "2026年11月18日、一部地域でiCloudをはじめとするAppleのサービスに障害が発生しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-18T10:33:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "1788b04ccda9",
+    "title": "「GPT-6.2 Astra／Sol」登場　前世代超える性能を「コスト1/3で実現」　Ultrafast提供も拡大",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/",
+    "summary_original": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」を発表。Astraは一部の性能評価で、前世代を上回るスコアを3分の1以下のコストで実現したとうたう。第三者機関の総合指標ではClaude Fable 5.2次ぐ2位。",
+    "thumbnail": "",
+    "published": "2026-11-18T10:32:09+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "8a06885b6799",
+    "title": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
+    "summary_original": "日立製作所は、AIによる業務が人間の承認に基づくことを証明する技術「PoHD」を開発。生体認証を応用し、署名用の秘密鍵を保存せず生体情報から都度復元する。先進技術紹介のイベント「Hitachi R&amp;D Innovation Day 2026」でデモンストレーションも披露した。",
+    "thumbnail": "",
+    "published": "2026-11-18T08:30:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "f421602877ee",
+    "title": "AI時代に必要なエンジニアのスキルとは？　開発現場の“品質問題”から読み解く",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/",
+    "summary_original": "ソフトウェア品質に関する調査から見えてきた、AI時代に必要なエンジニアのスキルを解説する。",
+    "thumbnail": "",
+    "published": "2026-11-18T08:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b364e9e3a91e",
+    "title": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる",
+    "url": "https://gigazine.net/news/20261118-sheep-grazing-solar-fields-gains/",
+    "summary_original": "一部の太陽光発電施設では、雑草がソーラーパネルに日陰を作らないようにするため、「羊」を放牧して雑草を処理させています。そんなソーラーパネル周辺で羊を放牧することの、生態学的・経済的メリットについて調べた2つの研究が発表されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-18T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "ed14f2593574",
+    "title": "GAS×Geminiが一般提供開始　IT管理者が確認すべき権限設定は？",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/",
+    "summary_original": "GASとGeminiの連携によってコーディング不要でスクリプト作成やデバッグが可能になった。コーディング知識がないユーザーでも自然言語の指示でスクリプトの作成や編集、エラー修正ができるようになる。",
+    "thumbnail": "",
+    "published": "2026-11-18T07:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0b08a5d2f5b9",
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "summary_original": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+    "thumbnail": "",
+    "published": "2026-11-18T01:44:21+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "1bbe22dae05f",
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "summary_original": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "thumbnail": "",
+    "published": "2026-11-18T00:16:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a91e4c81d566",
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "summary_original": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "thumbnail": "",
+    "published": "2026-11-17T23:37:48+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "74fa1f5e6e2f",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "summary_original": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "thumbnail": "",
+    "published": "2026-11-17T23:04:35+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b35cc7f83384",
+    "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+    "url": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+    "summary_original": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work.\nThe post Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-17T22:52:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fcd1652eaf88",
+    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+    "summary_original": "The former CEO offered to return to his top role at the company after his resignation last week.",
+    "thumbnail": "",
+    "published": "2026-11-17T22:42:27+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "5ea469280783",
+    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+    "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+    "summary_original": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
+    "published": "2026-11-17T22:32:16+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "af10d4e113e5",
+    "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+    "url": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
+    "summary_original": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index.\nThe post OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-17T22:07:30+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "eafd0752e915",
+    "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+    "url": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+    "summary_original": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers.\nThe post Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained appeared first on MarkTechPost.",
+    "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10019-scaled.png",
+    "published": "2026-11-17T20:49:45+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "396c63a1500e",
+    "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+    "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+    "summary_original": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk.\nThe article OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png",
+    "published": "2026-11-17T20:30:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e2b5d624abf8",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "summary_original": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-17T18:46:47+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "a5b2e1c3e893",
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "summary_original": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-17T18:41:18-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "77b806b8d18e",
+    "title": "Hydropower hit record lows in the US Southwest this summer",
+    "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+    "summary_original": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-17T17:52:10+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "b02ac3a3fe5a",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "summary_original": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "thumbnail": "",
+    "published": "2026-11-17T17:45:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "483d376595ef",
+    "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+    "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+    "summary_original": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including CVS Health and Cigna Healthcare are already deploying the technology.\nThe article AI agents are starting to fill out medical forms and file insurance requests in place of human staff appeared first on The Dec...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_healthcare_agents.png",
+    "published": "2026-11-17T16:55:47+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "9297906cd2d5",
+    "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+    "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
+    "summary_original": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardware shortage through industrial-scale distillation of US AI models.\nThe article The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output appear...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Datacenter-Remote.png",
+    "published": "2026-11-17T16:47:21+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1755d378df15",
+    "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+    "summary_original": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-17T16:40:59-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "a1592a2be395",
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "summary_original": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-17T16:00:55-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "f6d81e65dbee",
+    "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+    "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+    "summary_original": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's already making heavy use of the underlying models.\nThe article OpenAI opens its cybersecurity tool Daybreak to NATO and European governments appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/russian_influence_campaigns.png",
+    "published": "2026-11-17T15:02:03+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7d6ed26806f1",
+    "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+    "url": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+    "summary_original": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail. Childlight CEO Paul Stanfield wants governments to classify the problem as a preventable public health emergency.\nThe article Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years appeared first on The D...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/ai_generated_abuse.png",
+    "published": "2026-11-17T14:59:50+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "a7033a8f14fc",
+    "title": "Research Reports",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "summary_original": "To access a report, click on the corresponding image below.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png",
+    "published": "2026-11-17T14:39:46+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7d6b1aee59d2",
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "summary_original": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+    "published": "2026-11-17T14:00:29+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "a5971d54dbf7",
+    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+    "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+    "summary_original": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-17T13:58:01-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7e0475dea8c7",
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/martincic-greatcarbonvalley-top.jpg?fit=2880,1920",
+    "published": "2026-11-17T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7b7140165142",
+    "title": "The DOJ says it’s investigating Megaspeed",
+    "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+    "summary_original": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-17T11:19:03-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1d7d28d9ac22",
+    "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
+    "url": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
+    "summary_original": "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview.\nThe post NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-17T10:37:11+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "035802440434",
+    "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+    "url": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
+    "summary_original": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API.\nThe post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-11-17T09:51:18+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "1632816037b3",
+    "title": "Introducing ChatGPT for Sales",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "summary_original": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "thumbnail": "",
+    "published": "2026-11-17T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "3dacc3cb13a7",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "summary_original": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "thumbnail": "",
+    "published": "2026-11-17T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "f2812a4ba9a1",
+    "title": "Astra for Law leads in legal intelligence",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "summary_original": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "thumbnail": "",
+    "published": "2026-11-17T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
