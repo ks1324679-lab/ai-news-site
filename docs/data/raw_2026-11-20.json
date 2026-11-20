@@ -1,0 +1,402 @@
+[
+  {
+    "id": "6ae919c7fe1c",
+    "title": "ValveのゲーミングPC「Steam Machine」が値上げの可能性",
+    "url": "https://gigazine.net/news/20261120-valve-warns-steam-machine-price-hike/",
+    "summary_original": "2026年11月20日、ValveがゲーミングPC「Steam Machine」のハードウェア部品の供給制約が引き続き発生していると報告しました。特に2TBモデルは供給が大幅に制限される見込みで、値上げの可能性もあると示唆しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-20T10:34:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "fe5a07ceab1e",
+    "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁　「Business Standard」全ユーザーにも",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
+    "summary_original": "OpenAIは「ChatGPT」の「Plus」プランユーザーの一部向けに、同社の常時稼働型エージェント「dots」の提供を開始する。",
+    "thumbnail": "",
+    "published": "2026-11-20T09:46:58+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "31a030427687",
+    "title": "ベテランPMが辞めても失いたくない「暗黙知」を“生成AI面談”で残す　東京ガス系が実践したノウハウ継承術",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news021.html",
+    "summary_original": "熟練者が退職した後も、プロジェクト管理の経験や判断基準を組織に残すにはどうすればよいのか。東京ガスｉネットが実践した、暗黙知を組織の資産に変える実践手法と、具体的なシステム構成を整理する。",
+    "thumbnail": "",
+    "published": "2026-11-20T09:45:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e8420bfe0c70",
+    "title": "ヒューマノイドからAIビジョンまで、三菱電機「Serendie Automation」の具体像",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news045.html",
+    "summary_original": "三菱電機は、FA向けの新たな統合ソリューションブランドとして「Serendie Automation」を展開することを発表した。後編では「Serendie Automation」を体現する技術展示の内容を紹介する。",
+    "thumbnail": "",
+    "published": "2026-11-20T09:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9d0f3ba5443a",
+    "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
+    "summary_original": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手順の業務を代行できる。まずは米国の有料プラン加入者向けに英語版から提供を始める。",
+    "thumbnail": "",
+    "published": "2026-11-20T08:41:04+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5c5c00cdcabe",
+    "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+    "summary_original": "「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。",
+    "thumbnail": "",
+    "published": "2026-11-20T08:15:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "db8715de9d94",
+    "title": "iPhoneやAndroidスマホの強制ロック解除を防ぐ方法",
+    "url": "https://gigazine.net/news/20261120-phone-unlocking/",
+    "summary_original": "iPhoneやAndroidスマートフォンはロックを解除しない限り内部のファイルを閲覧できないように設計されていますが、特殊な手法やツールを用いてロックを強制解除されてしまう場合もあります。そんな強制ロック解除を防ぐための方法を非営利団体のOsservatorio Nessunoが解説しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-20T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "178d9f49bc07",
+    "title": "好きな時にAmazonの商品を受け取れる「Amazonロッカー」のセキュリティをあらゆる手段を駆使して突破する試み～ハードウェア編",
+    "url": "https://gigazine.net/news/20261120-breaking-amazon-lockers-hardware/",
+    "summary_original": "DEF CON 34カンファレンスにおいてセキュリティエンジニアのマーティン・ヴィゴ氏が発表したAmazonロッカーのセキュリティに関する調査結果の後半は、ハードウェア部分に焦点を当てています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-20T07:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "15417601d21a",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "summary_original": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "thumbnail": "",
+    "published": "2026-11-20T00:56:01+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "cc5563ff1b11",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "summary_original": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "thumbnail": "",
+    "published": "2026-11-20T00:43:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "25dd3e674e5e",
+    "title": "録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能",
+    "url": "https://gigazine.net/news/20261119-speech-cpp/",
+    "summary_original": "日本語特化型の音声認識AI「Haas-ja-v1.0」や音声合成AI「Irodori-TTS」などを1つの実行環境にまとめた無料のオープンソースツールが「speech.cpp」です。GPUが不要でブラウザから文字起こしや音声読み上げが可能とのことなので実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-19T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "d5831a190131",
+    "title": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる",
+    "url": "https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/",
+    "summary_original": "半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。これについて、経済メディアのFinancial Timesやウォール・ストリート・ジャーナルが報じています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-19T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "6b24f4e22080",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "summary_original": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "thumbnail": "",
+    "published": "2026-11-19T21:58:06+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "df81da3e695d",
+    "title": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+    "url": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+    "summary_original": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench.\nThe post Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-19T21:46:22+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "74e8068d1097",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "summary_original": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "thumbnail": "",
+    "published": "2026-11-19T21:42:31+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "478ef27c1961",
+    "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+    "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+    "summary_original": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause.\nThe article An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool appeared...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/agent_mail_compromise.png",
+    "published": "2026-11-19T21:15:01+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3c5e491e5472",
+    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+    "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "summary_original": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg",
+    "published": "2026-11-19T20:29:46+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "1761ecaf8c5d",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary_original": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "thumbnail": "",
+    "published": "2026-11-19T20:18:49+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8c2946cda809",
+    "title": "AI industry growth remains strong, but the pace is slowing",
+    "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+    "summary_original": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but revenue momentum is cooling.\nThe article AI industry growth remains strong, but the pace is slowing appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
+    "published": "2026-11-19T19:28:19+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d052c901accf",
+    "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+    "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
+    "summary_original": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.\nThe post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-19T18:13:21+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2c17a9b3bac9",
+    "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+    "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+    "summary_original": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.\nThe post Perplexity Launches Orchestrator API for Failover and Model Routing appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-19T17:47:00+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "21b44fd34fd3",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "summary_original": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-19T17:31:41-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "9449e0229f73",
+    "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+    "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+    "summary_original": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers. A New York Times investigation found that Alibaba had routed Nvidia chips to Chinese military researchers through a web of front companies.\nThe article Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models.png",
+    "published": "2026-11-19T17:02:41+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7d707173f41f",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "summary_original": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-19T16:59:35-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "3d11d7e98bca",
+    "title": "Meta’s Muse Charm might cost $300",
+    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "summary_original": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-19T15:22:17-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "84a5dc6d5cb4",
+    "title": "Google is putting AI chats right on the homepage",
+    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "summary_original": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-19T15:05:06-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "6836e138ab80",
+    "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
+    "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
+    "summary_original": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his early funding may have been an act \"that ended the world.\"\nThe article Anthropic&#039;s $81.3 billion IPO shatters SpaceX&#039;s record as rising rates and political headwinds shake the sector appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+    "published": "2026-11-19T14:02:22+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "f5c860210425",
+    "title": "Gemini on Mac can now use your computer",
+    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+    "summary_original": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-19T13:21:13-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "511c0dc52d7f",
+    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/china-bci.jpg?fit=2128,1196",
+    "published": "2026-11-19T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "7ee0b27e6945",
+    "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
+    "url": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
+    "summary_original": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of \"AI slop\" beyond routine tasks.\nThe article OpenAI&#039;s own researchers now say they value their AI tools more than nearly half their colleagues appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_numbers.png",
+    "published": "2026-11-19T13:08:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "d16b37db16c0",
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "summary_original": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-19T12:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "04c516451275",
+    "title": "How to tell a cyberattack from a plain old outage",
+    "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+    "summary_original": "When everything goes down, don’t assume it’s a cyberattack.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg",
+    "published": "2026-11-19T11:13:01+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "f4380befbe67",
+    "title": "What a billion-dollar deal says about the US battery market",
+    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "summary_original": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-19T11:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "0025e2c9bbf3",
+    "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
+    "url": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
+    "summary_original": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.\nThe post Not If, But How: Responding to Security Incidents in the Age of AI Attackers appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-19T10:45:57+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "6ea811258a46",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "summary_original": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "thumbnail": "",
+    "published": "2026-11-19T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "13a068e44c52",
+    "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+    "url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+    "summary_original": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index.\nThe post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-19T06:52:26+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "556aee5cf74a",
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "summary_original": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "thumbnail": "",
+    "published": "2026-11-19T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "787cd7543718",
+    "title": "See PR scans in action",
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "summary_original": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "thumbnail": "",
+    "published": "2026-11-19T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6ed6090c0942",
+    "title": "Explore the Codex Security Plugin",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "summary_original": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "thumbnail": "",
+    "published": "2026-11-19T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "2e76d5b4b679",
+    "title": "Get started with Daybreak Blue",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "summary_original": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "thumbnail": "",
+    "published": "2026-11-19T00:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
