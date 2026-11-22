@@ -1,0 +1,342 @@
+[
+  {
+    "id": "8c86c03fd2e0",
+    "title": "多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果",
+    "url": "https://gigazine.net/news/20261122-happiness-emotional-lever-openness-diversity/",
+    "summary_original": "さまざまな背景を持つ人々がともに生活している現代社会では、多様性や公平性についての取り組みが重要となっていますが、一部の人は多様性を推進する取り組みに反対しています。新たな研究では、多様性を受け入れて社会的不平等に疑問を持つには、「幸福感」を覚えることが重要かもしれないとの結果が示されました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-22T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9c1dcf4d9b13",
+    "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+    "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+    "summary_original": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+    "thumbnail": "",
+    "published": "2026-11-22T08:21:31+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "5096fe337809",
+    "title": "出社してオフィスで働く頻度の最適解とは？",
+    "url": "https://gigazine.net/news/20261122-work-at-office/",
+    "summary_original": "2019年から発生した新型コロナウイルス感染症によるパンデミックで、多くの企業が従業員に自宅で仕事をさせるリモートワークを実施しました。あれから数年が経過し、リモートワークを取りやめる企業も出てきていますが、出勤に伴うストレスが減ることからリモートワークの継続を願う人も少なくありません。新たな研究で、週5日勤務の場合何日出社すればバランスがいいのかが明らかになりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-22T08:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "bc597453aa2c",
+    "title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+    "summary_original": "管理職を対象とした勤務先でのAI活用に関する調査では、半数以上が利用されなくなったAIツールや用途があると回答した。背景には、企業独自の判断基準に関わる課題があるようだ。",
+    "thumbnail": "",
+    "published": "2026-11-22T06:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "0e17b5f55246",
+    "title": "無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能",
+    "url": "https://gigazine.net/news/20261121-wyrmrss/",
+    "summary_original": "ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-21T23:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "abb0e2feea58",
+    "title": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる",
+    "url": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen/",
+    "summary_original": "人間の脳に酸素が届かなくなると一部の脳細胞は数分で死に始めます。ところが、アメリカのウェイクフォレスト大学の研究チームがヒヨコの脳組織を調べたところ、酸素が極めて少ない状態でも2時間以上にわたって電気信号を出し続ける神経細胞が見つかりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-21T22:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f8ce89f0a31b",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "summary_original": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "thumbnail": "",
+    "published": "2026-11-21T21:37:10+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6572e082b901",
+    "title": "A tale of two Nvidias",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "summary_original": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "thumbnail": "",
+    "published": "2026-11-21T21:07:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "8db3de6eb8d7",
+    "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果",
+    "url": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/",
+    "summary_original": "AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-21T21:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "f9419135fce5",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary_original": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "thumbnail": "",
+    "published": "2026-11-21T17:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "c92d19a9f697",
+    "title": "Nvidia researchers argue huge AI context windows are a dead end",
+    "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+    "summary_original": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the cost. The team even proposes a new class of models that works with short notes instead of long context.\nThe article Nvidia researchers argue huge AI context windows are a dead end appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/you-dont-need-long-context-nano-banana-pro.jpg",
+    "published": "2026-11-21T16:23:45+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "7f1be8f15220",
+    "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+    "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+    "summary_original": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members take to train an AI in his image. Former members report manipulation and psychological breakdowns.\nThe article Silicon Valley&#039;s growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/buddhist_ai_sect.png",
+    "published": "2026-11-21T16:04:29+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "6b65b8b30d40",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "summary_original": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "thumbnail": "",
+    "published": "2026-11-21T16:00:00+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "0a2e9e2641fc",
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "summary_original": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-21T15:03:37-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "2da6e23a9bfb",
+    "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+    "summary_original": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
+    "thumbnail": "",
+    "published": "2026-11-21T14:22:15+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "9fc01e06dfb4",
+    "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+    "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+    "summary_original": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality.\nThe article OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+    "published": "2026-11-21T13:32:35+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "fda4dbda22da",
+    "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+    "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+    "summary_original": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified.\nThe post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-21T12:13:50+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "e8fbcb422f10",
+    "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+    "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+    "summary_original": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.\nThe post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-11-21T11:46:17+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "aca516d4c1dd",
+    "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+    "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+    "summary_original": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up.\nThe article Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft appeare...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_riemann.png",
+    "published": "2026-11-21T11:19:49+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "99208e6521c9",
+    "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+    "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+    "summary_original": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost.\nThe article New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/09/thinking_machines_ca_illustration.png",
+    "published": "2026-11-21T10:33:02+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "3f8dc1fbea0d",
+    "title": "Can Anthropic afford to put safety first?",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "summary_original": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-21T10:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "233360398ca6",
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "summary_original": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-21T09:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "18997a164e19",
+    "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+    "summary_original": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
+    "thumbnail": "",
+    "published": "2026-11-21T09:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b695048f471c",
+    "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+    "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+    "summary_original": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input.\nThe post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-11-21T04:01:04+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "718dc2db66a1",
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "summary_original": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+    "published": "2026-11-20T20:59:08+00:00",
+    "source": "Ars Technica AI",
+    "language": "en"
+  },
+  {
+    "id": "cc0a4dad659b",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "summary_original": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "thumbnail": "",
+    "published": "2026-11-20T19:53:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "66cdc98f8cf0",
+    "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
+    "summary_original": "京都大学の学生相談部門は「AIに悩みを相談する際に気をつけて欲しいこと」と題した文書を公開した。",
+    "thumbnail": "",
+    "published": "2026-11-20T19:13:44+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "b86580389642",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "summary_original": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-20T18:15:15+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e098cf805cd5",
+    "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+    "url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+    "summary_original": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU.\nThe post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "published": "2026-11-20T17:42:29+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3978a8961b77",
+    "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+    "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+    "summary_original": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.\nThe post NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B appeared first on MarkTechPost.",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+    "published": "2026-11-20T14:44:52+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "b44ab066f64c",
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "summary_original": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-20T13:50:19-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "258a045520db",
+    "title": "The Download: inside the quest to make our minds immortal",
+    "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260524_TechnologyReview_EnhancedGames_276.jpg?fit=2560,1706",
+    "published": "2026-11-20T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "e7bc21e40b78",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "summary_original": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-20T11:34:13-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7121ba7c9173",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "summary_original": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "thumbnail": "",
+    "published": "2026-11-20T10:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  }
+]
