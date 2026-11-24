@@ -1,0 +1,382 @@
+[
+  {
+    "id": "144a42a6cfbf",
+    "title": "独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場",
+    "url": "https://gigazine.net/news/20261124-ladybird-now-alpha/",
+    "summary_original": "Google ChromeやMicrosoft Edge、Opera、Braveといったウェブブラウザは、Googleが開発とメンテナンスを主導するChromiumをベースとしています。こういったGoogleのエコシステムから離れた、独自開発のウェブブラウザが「Ladybird」です。そんなLadybirdのアルファ版がついに登場しました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-24T14:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "5ccb3b7995f7",
+    "title": "GTA6のXBOX版実行ファイルが第三者により公開される",
+    "url": "https://gigazine.net/news/20261124-gta6-xbox-build-leaked/",
+    "summary_original": "2026年11月19日に「グランド・セフト・オートVI(GTA6)」のPlayStation 5(PS5)およびXBOX Series X|S版が発売されて以降、このゲームを公式より先にPCへ移植しようとする試みが進められています。新たにXBOX版の実行ファイルがリリースされ、以前にリリースされたXBOX版ビルドが完成したことが分かりました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-24T13:38:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "b486730ce915",
+    "title": "AIがプルリクエストのレビューや修正を行い自動承認までしてくれる「Claude Ship」が登場",
+    "url": "https://gigazine.net/news/20261124-claude-ship/",
+    "summary_original": "AI企業のAnthropicが日本時間の2026年11月24日に、プルリクエストのレビューや問題の修正、承認をAIに任せられる「Claude Ship」のベータ版を発表しました。開発チームがあらかじめ定めたルールに従ってAIが変更内容を承認することも可能で、コードを記述してから変更内容が取り込まれるまでの時間を短縮できるとのことです。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-24T13:15:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "c0e4e4b902e5",
+    "title": "OpenAIがAIの進化を測る内部指標「パープレキシティ」を公開、2027年の技術革新ラッシュを見据え開発制限を提唱",
+    "url": "https://gigazine.net/news/20261124-openai-perplexity/",
+    "summary_original": "OpenAIが、AIモデルがデータをどれだけ正確に予測できるかを示す指標「パープレキシティ」の内部測定結果を2026年11月22日付けで公開しました。OpenAIのチーフサイエンティストを務めるヤクブ・パチョッキ氏は「2027年にもAIの事前学習に関する技術革新が雪崩のように起こる可能性がある」と指摘し、安全性を確保するためにAI業界全体で共通の開発制限を設けることを提唱しています。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-24T12:40:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "93374e93b3ea",
+    "title": "DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/",
+    "summary_original": "DeNAは、AIエージェントを企業の一員として配属・育成できるとうたうサービス「AI社員 by DeNA」の提供を決定したと発表した。",
+    "thumbnail": "",
+    "published": "2026-11-24T12:26:08+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "e91c19912c74",
+    "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/",
+    "summary_original": "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Steward」「Claude Approvals」を組み合わせ、Team／Enterpriseプラン向けに提供する。",
+    "thumbnail": "",
+    "published": "2026-11-24T10:21:04+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "c83a90b29afc",
+    "title": "国内で採れないAI人材、インドで確保　“日本に呼ばない”開発ラボをZenkenが始めた理由",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396/",
+    "summary_original": "生成AIの普及で、企業が求めるエンジニア像は変わった。国内で採れない人材をどう確保するか。Zenkenは、インドのベテランエンジニアが現地に住んだまま開発に加わるサービスを始めた。",
+    "thumbnail": "",
+    "published": "2026-11-24T10:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "fb12c10b3574",
+    "title": "ジェンスン・フアン氏、NVIDIAのCEOに復帰　マスク氏「誤りは正された」　AI企業代表のコメントまとめ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003402/",
+    "summary_original": "NVIDIAは、中国のスパイと疑われている女性を含む複数人との不倫行為が取り沙汰されたことを受けCEOを辞任したジェンスン・フアン氏が同職に復帰したと発表した。",
+    "thumbnail": "",
+    "published": "2026-11-24T09:50:21+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "2f789608478a",
+    "title": "パナソニックHDが描くフィジカルAIの未来、研究開発と現場実装を両輪に",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news040.html",
+    "summary_original": "パナソニックHDは、技術未来ビジョンの進捗状況や、フィジカルAI（人工知能）への取り組み方針を説明した。",
+    "thumbnail": "",
+    "published": "2026-11-24T09:00:00+09:00",
+    "source": "ITmedia AI+",
+    "language": "ja"
+  },
+  {
+    "id": "019a2455beb9",
+    "title": "【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど",
+    "url": "https://gigazine.net/news/20261124-udemy/",
+    "summary_original": "AIにコードを書いてもらったり面倒な仕事をAIエージェントに任せたりと、生成AIを活用することで効率的に仕事を進められるようになってきました。しかし、うまくAIに働いてもらうにはAIに適切な指示を出したりAIが生成したプログラムを動かすインフラを用意したり、安全に運用するためのセキュリティを確保したりするためのスキルが必要です。そんなAI時代に役立つスキルを効率的に学べるのが、動画形式の講座を受講できるオンライン学習プラットフォームの「Udemy(ユーデミー)」です。Udemyでは2026年12月1日(火)まで対象講座を1講座1500円から購入できる「ブラックフライデーセール」が開催されているので、「Claude Codeを使ったAI駆動開発」「AIエージェントへの仕事の任せ方」「生成AIを活用した要件定義」といったAIの活用方法から「Linux」「AWS」「AIセキュリティ」といった開発・運用に欠かせない基礎知識まで幅広い分野のおすすめ講座をピックアップしてみました。続きを読む...",
+    "thumbnail": "",
+    "published": "2026-11-24T09:00:00+09:00",
+    "source": "GIGAZINE",
+    "language": "ja"
+  },
+  {
+    "id": "9bc4721c0569",
+    "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+    "url": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+    "summary_original": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise.\nThe post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-24T00:02:39+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "fc410e023e94",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "summary_original": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "thumbnail": "",
+    "published": "2026-11-23T22:05:50+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "a42ef673b6ac",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "summary_original": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "thumbnail": "",
+    "published": "2026-11-23T22:02:05+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b23fe2325ee9",
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "summary_original": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+    "thumbnail": "",
+    "published": "2026-11-23T21:47:41+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "b22bb97b417e",
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "summary_original": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+    "thumbnail": "",
+    "published": "2026-11-23T21:25:42+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "4dc6c6490d75",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "summary_original": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "thumbnail": "",
+    "published": "2026-11-23T21:20:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "5439f2cf295d",
+    "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+    "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+    "summary_original": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently.\nThe article OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_chatgpt_pattern.png",
+    "published": "2026-11-23T20:39:18+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "1f8997ce74a9",
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+    "summary_original": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+    "thumbnail": "",
+    "published": "2026-11-23T20:38:53+00:00",
+    "source": "TechCrunch AI",
+    "language": "en"
+  },
+  {
+    "id": "6b8c419f9b25",
+    "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+    "url": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+    "summary_original": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work.\nThe post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-23T19:11:40+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "477cc9a19ab0",
+    "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+    "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+    "summary_original": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among other cuts.\nThe article Anthropic&#039;s appetite for compute is pushing xAI toward a rent-over-build strategy appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
+    "published": "2026-11-23T18:47:53+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "98b64aa39b49",
+    "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+    "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+    "summary_original": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds. Pachocki is pushing to make perplexity an industry-wide progress metric and establish shared limits before control over AI behavior erodes.\nThe article OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals t...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
+    "published": "2026-11-23T18:42:38+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "e3357160a21f",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-23T17:36:08+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "2e683bac1a79",
+    "title": "Trump engineered a risky comeback for Jensen Huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+    "summary_original": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-23T17:25:12-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "20bf59765e93",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-23T17:20:37+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  },
+  {
+    "id": "48e6dc76dc7f",
+    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "summary_original": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-23T17:10:32-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "7687025f61ad",
+    "title": "Welcome to elite impunity, Jensen Huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "summary_original": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-23T17:09:26-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "1fb8ee564e2e",
+    "title": "AI data centers throw another wrench into chaotic UN climate talks",
+    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "summary_original": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-23T16:09:37-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "d61a651e8b31",
+    "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+    "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+    "summary_original": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models.\nThe article Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model ap...",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
+    "published": "2026-11-23T15:13:03+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "ef51e937b5b8",
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "summary_original": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was [&#8230;]",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "published": "2026-11-23T15:00:00-05:00",
+    "source": "The Verge AI",
+    "language": "en"
+  },
+  {
+    "id": "0a6db5491a83",
+    "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+    "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+    "summary_original": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power.\nThe article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decoder.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Carrier-Iran-small.png",
+    "published": "2026-11-23T14:43:23+00:00",
+    "source": "The Decoder",
+    "language": "en"
+  },
+  {
+    "id": "dd1199899b51",
+    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/starlink-grid-gradient.jpg?fit=1920,1280",
+    "published": "2026-11-23T13:10:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "855fe82a9449",
+    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "summary_original": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models&#8230;",
+    "thumbnail": "",
+    "published": "2026-11-23T11:00:00+00:00",
+    "source": "MIT Technology Review",
+    "language": "en"
+  },
+  {
+    "id": "d59030ed14de",
+    "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
+    "url": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
+    "summary_original": "AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM&#8217;s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 million global [&#8230;]\nThe post 27 Cybersecurity Terms to Prepare You for the Age of AI appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-23T10:40:16+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "2aa68aa0978a",
+    "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
+    "url": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
+    "summary_original": "Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core.\nThe post Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-23T10:05:47+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "3877947acaac",
+    "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+    "url": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
+    "summary_original": "Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs.\nThe post Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD appeared first on MarkTechPost.",
+    "thumbnail": "",
+    "published": "2026-11-23T08:24:57+00:00",
+    "source": "MarkTechPost",
+    "language": "en"
+  },
+  {
+    "id": "4201990503e1",
+    "title": "Connected intelligence for in-house legal",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "summary_original": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "thumbnail": "",
+    "published": "2026-11-23T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "a082949f03d8",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "summary_original": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "thumbnail": "",
+    "published": "2026-11-23T08:00:00+00:00",
+    "source": "OpenAI Blog",
+    "language": "en"
+  },
+  {
+    "id": "6c63040381af",
+    "title": "How to build and maintain an agentic evaluation",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "summary_original": "",
+    "thumbnail": "",
+    "published": "2026-11-23T00:00:00+00:00",
+    "source": "Hugging Face Blog",
+    "language": "en"
+  }
+]
